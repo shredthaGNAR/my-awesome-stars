@@ -511,6 +511,7 @@
 
 ## JavaScript 
 
+- [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm) - Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
@@ -1157,6 +1158,7 @@
 
 ## Others 
 
+- [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
 - [manesspl/janus-for-alfred](https://github.com/manesspl/janus-for-alfred) - Create random usernames in Alfred
 - [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow) - Launch a URL in 3 different browsers at once to speed up website testing
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
