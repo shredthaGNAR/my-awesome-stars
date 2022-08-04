@@ -1556,6 +1556,7 @@
 
 ## others 
 
+- [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
