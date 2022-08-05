@@ -1625,7 +1625,7 @@
 ## Swift 
 
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
-- [iina-plus/iina](https://github.com/iina-plus/iina) - The modern video player for macOS with HDR support.
+- [iina-plus/iina](https://github.com/iina-plus/iina) - The modern video player for macOS with additional features and bug fixes.
 - [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer) - A small macOS app that lets you customize the number of rows and columns in launchpad
 - [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader) - CLI for downloading iCloud file
 - [net-ref/launchd-package-creator](https://github.com/net-ref/launchd-package-creator) - A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
