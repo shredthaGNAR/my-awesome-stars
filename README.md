@@ -303,6 +303,7 @@
 - [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs) - Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) - Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 - [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc) - Arc inspired theme for Thunderbird
 - [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style) - put to default:profiles root dir
@@ -931,7 +932,6 @@
 - [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search) - Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 - [bijij/ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [cerpow/catapult](https://github.com/cerpow/catapult) - Access your workspace on the fly.
-- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews) - Shopify Product Previews that work with Theme Previews
 - [jobisoft/quicktext](https://github.com/jobisoft/quicktext) - An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
@@ -1035,8 +1035,6 @@
 - [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course) - 
 - [halfhelix/shopify-guide](https://github.com/halfhelix/shopify-guide) - A mostly reasonable approach to Shopify theme development
 - [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets) - collection of useful code snippets
-- [mariia-nam/reviews-collage](https://github.com/mariia-nam/reviews-collage) - Shopify Section with customers reviews.
-- [mariia-nam/collection-tabs](https://github.com/mariia-nam/collection-tabs) - Shopify Section for Home Page
 - [mitchuman/danshari](https://github.com/mitchuman/danshari) - A blank slate theme for Shopify 2.0
 - [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart) - Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
