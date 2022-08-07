@@ -224,6 +224,7 @@
 
 ## automation 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [finia2NA/getter](https://github.com/finia2NA/getter) - A multi-workflow YouTube downloader
@@ -1080,6 +1081,7 @@
 
 ## ios 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
@@ -1267,6 +1269,8 @@
 
 ## macos 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
+- [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader) - CLI for downloading iCloud file
 - [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI
@@ -1556,6 +1560,13 @@
 
 ## others 
 
+- [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [p9n/userchrome](https://github.com/p9n/userchrome) - userchrome.css/.js for firefox &gt;= 57
+- [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool) - All of my personal better-touch-tool config files
+- [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js) - 
+- [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js) - 
+- [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead) - Thunderbird Addon to automatically mark folders (like junk) as read.
+- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
@@ -2809,6 +2820,7 @@
 
 ## swift 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator) - A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [cweirup/JoplinSafariWebClipper](https://github.com/cweirup/JoplinSafariWebClipper) - Safari App Extension for Joplin Web Clipper
@@ -2848,6 +2860,7 @@
 
 ## swiftui 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
