@@ -512,6 +512,11 @@
 
 ## JavaScript 
 
+- [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [p9n/userchrome](https://github.com/p9n/userchrome) - userchrome.css/.js for firefox &gt;= 57
+- [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js) - 
+- [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js) - 
+- [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead) - Thunderbird Addon to automatically mark folders (like junk) as read.
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -1154,6 +1159,8 @@
 
 ## Others 
 
+- [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool) - All of my personal better-touch-tool config files
+- [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 - [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
 - [manesspl/janus-for-alfred](https://github.com/manesspl/janus-for-alfred) - Create random usernames in Alfred
 - [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow) - Launch a URL in 3 different browsers at once to speed up website testing
@@ -1622,6 +1629,7 @@
 
 ## Swift 
 
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
 - [iina-plus/iina](https://github.com/iina-plus/iina) - The modern video player for macOS with additional features and bug fixes.
 - [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer) - A small macOS app that lets you customize the number of rows and columns in launchpad
@@ -1715,6 +1723,7 @@
 
 ## TypeScript 
 
+- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
