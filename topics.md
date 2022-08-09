@@ -887,6 +887,7 @@
 
 ## github 
 
+- [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
 - [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos) - Alfred workflow to easily open Github repositories
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -1571,6 +1572,10 @@
 
 ## others 
 
+- [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite) - SingleFile Companion Lite
+- [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click) - A browser extension to release right-click context menu blockage
+- [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion) - 
+- [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse
 - [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner) - This is Automator app built in Mac
 - [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app) - Automator scripts that allow to start scrcpy tool on mac
 - [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService) - Simple adb install APK Automator Service for Mac with Notification
