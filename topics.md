@@ -240,7 +240,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
-- [slow-but-steady/yt_videos_list](https://github.com/slow-but-steady/yt_videos_list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
+- [slow-but-steady/yt-videos-list](https://github.com/slow-but-steady/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
 
 ## awesome 
 
@@ -1830,7 +1830,7 @@
 - [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy) - List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters) - uBlock Origin Filters
-- [OsborneSystems/Columbia](https://github.com/OsborneSystems/Columbia) - Columbia by Osborne —  Privacy at the Forefront · Over 50K rules for your content blocker · Block ads and more
+- [OsborneSystems/Columbia](https://github.com/OsborneSystems/Columbia) - Columbia by Osborne — Privacy Foward · Over 55k rules for your content blocker: block ads, scams, and more
 - [Snilda/Font-Library](https://github.com/Snilda/Font-Library) - Check Readme
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 - [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
