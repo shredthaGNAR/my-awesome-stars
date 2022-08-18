@@ -2401,7 +2401,6 @@
 - [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 - [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins) - Official Shopify Theme Lab Plugins
 - [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis) - Shopify os 2.0 first theme of mine
-- [JasnaJovic/jjs-first-dawn-shop](https://github.com/JasnaJovic/jjs-first-dawn-shop) - My first Shopify store using new Online store 2.0 and Dawn theme. :D
 - [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css) - Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.cs
 - [enokmadrid/deafink](https://github.com/enokmadrid/deafink) - Custom Shopify Theme for Deafink
 - [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder) - Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
