@@ -1089,7 +1089,6 @@
 - [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template) - 
 - [blanklob/skeleton](https://github.com/blanklob/skeleton) - Skeleton is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind..
 - [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis) - Shopify os 2.0 first theme of mine
-- [JasnaJovic/jjs-first-dawn-shop](https://github.com/JasnaJovic/jjs-first-dawn-shop) - My first Shopify store using new Online store 2.0 and Dawn theme. :D
 - [enokmadrid/deafink](https://github.com/enokmadrid/deafink) - Custom Shopify Theme for Deafink
 - [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder) - Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
 - [sunil209/shopify_themekit](https://github.com/sunil209/shopify_themekit) - WDMDev
