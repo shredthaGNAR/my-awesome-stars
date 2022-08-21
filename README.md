@@ -24,6 +24,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -1036,6 +1037,10 @@
 - [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
 - [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock) - A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 - [feracommerce/shopify_app_detector](https://github.com/feracommerce/shopify_app_detector) - Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using.
+
+## Jsonnet 
+
+- [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 
 ## Jupyter Notebook 
 
