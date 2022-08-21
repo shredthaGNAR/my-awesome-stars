@@ -1601,6 +1601,7 @@
 
 ## others 
 
+- [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 - [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero
 - [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ) - MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
 - [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core) - 
