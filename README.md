@@ -94,6 +94,7 @@
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 - [david-hoicka/OneTab-backup](https://github.com/david-hoicka/OneTab-backup) - backup OneTab datafile using robocopy
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more!
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 
 ## C 
 
@@ -388,6 +389,7 @@
 
 ## Dart 
 
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## Dockerfile 
@@ -910,7 +912,6 @@
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files) - Provides ability to save selected tabs to local files for Firefox 63 and later.
 - [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy) - A handy tool to manipulate plist files. Useful for iOS development.
-- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS) - Re-implementation of the userChromeJS add-on for Thunderbird 60+
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3) - Convert YouTube videos to mp3 files via the command-line
@@ -1052,7 +1053,6 @@
 
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [phosphor-icons/phosphor-android](https://github.com/phosphor-icons/phosphor-android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
