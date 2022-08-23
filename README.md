@@ -501,6 +501,7 @@
 
 ## Java 
 
+- [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
@@ -1200,6 +1201,8 @@
 
 ## Others 
 
+- [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
+- [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
 - [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking.
 - [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner) - This is Automator app built in Mac
 - [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService) - Simple adb install APK Automator Service for Mac with Notification
@@ -1619,7 +1622,7 @@
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons) - 📁 Generates custom folder icons using images or SF Symbols.
+- [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons) - 📁 Generate custom folder icons using images or SF Symbols.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action) - A GitHub action for rapid deployment of Shopify themes.
 - [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action) - A GitHub action that pulls changes from Shopify Theme Kit themes.
