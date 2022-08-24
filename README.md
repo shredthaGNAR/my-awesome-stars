@@ -389,7 +389,6 @@
 
 ## Dart 
 
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## Dockerfile 
@@ -543,7 +542,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Browser Addon that skips intros, credits, recaps etc on Netflix and Prime video
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Browser Addon that skips Ads, intros, credits, recaps etc on Netflix and Prime video
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
 - [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search) - Search extension for the chrome web browser
 - [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite) - SingleFile Companion Lite
@@ -626,7 +625,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
@@ -1054,6 +1053,7 @@
 
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [phosphor-icons/phosphor-android](https://github.com/phosphor-icons/phosphor-android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
@@ -1085,7 +1085,7 @@
 - [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev) - Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 - [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit) - Starter theme and environment for the largest Shopify stores.
 - [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
-- [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
+- [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
 - [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse) - SWBH Theme Export Impluse Theme
 - [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify) - 
 - [realoatesman/Dawn](https://github.com/realoatesman/Dawn) - Shopify Dawn Dev Theme
@@ -1201,6 +1201,8 @@
 
 ## Others 
 
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
+- [ookangzheng/dbl-oisd-nl](https://github.com/ookangzheng/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
 - [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking.
@@ -1595,6 +1597,8 @@
 
 ## Shell 
 
+- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+- [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
 - [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app) - Automator scripts that allow to start scrcpy tool on mac
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
