@@ -507,7 +507,7 @@
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox) - a clean firefox userchrome
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Pseudo-fullscreen Firefox and YouTube
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available!
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -1603,6 +1603,10 @@
 
 ## others 
 
+- [freMea/docker-py-revanced](https://github.com/freMea/docker-py-revanced) - Python util to build Revanced apps
+- [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
+- [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
+- [ookangzheng/dbl-oisd-nl](https://github.com/ookangzheng/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
 - [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
@@ -1620,7 +1624,7 @@
 - [thundernest/autoconfig](https://github.com/thundernest/autoconfig) - The ISPDB, Thunderbird's database of mail configuration files.
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Browser Addon that skips intros, credits, recaps etc on Netflix and Prime video
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Browser Addon that skips Ads, intros, credits, recaps etc on Netflix and Prime video
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [lhaeger/AutoRaise](https://github.com/lhaeger/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse as a menubar app.
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
@@ -2294,7 +2298,7 @@
 - [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 - [amym321/am-studio-site](https://github.com/amym321/am-studio-site) - AM Studio website
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
-- [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
+- [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
 - [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse) - SWBH Theme Export Impluse Theme
 - [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport) - A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 - [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme) - A light theme for Joplin
@@ -2750,7 +2754,7 @@
 ## react 
 
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix) - 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
