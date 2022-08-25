@@ -53,7 +53,7 @@
 - [Tcl](#tcl)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## AppleScript 
@@ -492,6 +492,7 @@
 - [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS) - Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 - [solodev/email-signature](https://github.com/solodev/email-signature) - Creating a custom signature is one of those details that can add professionalism to your emails and reinforce your brand. There are, however, complications that can arise when attempting to create a s
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Customize YouTube
 - [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX) - A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 - [littledata/shopify-tracker](https://github.com/littledata/shopify-tracker) - Littledata's tracking script for Shopify stores
 - [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance) - A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far 
@@ -997,7 +998,6 @@
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Customize YouTube
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [victor-savinov/todo](https://github.com/victor-savinov/todo) - ToDo - Chrome Extension. Make checklists and more.
 - [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux) - Not Gecko, application to allow creating and editing saved passwords
@@ -1384,6 +1384,7 @@
 
 ## Python 
 
+- [freMea/docker-py-revanced](https://github.com/freMea/docker-py-revanced) - Python util to build Revanced apps
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
@@ -1692,6 +1693,7 @@
 
 ## Swift 
 
+- [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
 - [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac) - Simple app that tracks your work hours from the status bar.
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
 - [mattDavo/Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
@@ -1901,7 +1903,7 @@
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 
-## Vim script 
+## Vim Script 
 
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 
