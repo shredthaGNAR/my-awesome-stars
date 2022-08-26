@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow) - 🎉 Generate/Scan QR Code on the fly
 - [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
@@ -430,6 +431,7 @@
 
 ## HTML 
 
+- [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
@@ -600,7 +602,7 @@
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
 - [harv/userChromeJS](https://github.com/harv/userChromeJS) - My userChromeJS scripts!
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Assisting in switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. 高效搜索引擎輔助增強腳本，一键切换搜索引擎，支持拖拽搜索，划词搜索，快捷键跳
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Assisting in switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. 高效搜索引擎輔助增強腳本，一键切换搜尋引擎，支持拖拽搜索，划词搜索，快捷键跳
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - 
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
@@ -1201,6 +1203,7 @@
 
 ## Others 
 
+- [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [ookangzheng/dbl-oisd-nl](https://github.com/ookangzheng/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
