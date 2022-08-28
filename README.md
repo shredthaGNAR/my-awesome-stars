@@ -158,6 +158,7 @@
 
 ## CSS 
 
+- [tortious/2019Firefox](https://github.com/tortious/2019Firefox) - 
 - [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme) - Clean, transparent firefox theme
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
 - [catppuccin/joplin](https://github.com/catppuccin/joplin) - 📔️ Soothing pastel theme for Joplin
@@ -219,7 +220,7 @@
 - [Azexios/firefox-photon](https://github.com/Azexios/firefox-photon) - 
 - [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - A curation of fonts from all over the world.
 - [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design) - Learn to create a glass morphism UI card using HTML and CSS easily
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates) - A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
@@ -532,6 +533,7 @@
 
 ## JavaScript 
 
+- [thlorenz/phe](https://github.com/thlorenz/phe) - Poker hand evaluator
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [snlned/sci-hub-scholar](https://github.com/snlned/sci-hub-scholar) - Add a Sci-Hub link in Google Scholar results.
 - [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
@@ -548,7 +550,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Browser Addon that skips Ads, intros, credits, recaps etc on Netflix and Prime video
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, intros, Credits, etc. on Netflix and Prime video
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
 - [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search) - Search extension for the chrome web browser
 - [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite) - SingleFile Companion Lite
@@ -1604,6 +1606,7 @@
 
 ## Shell 
 
+- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
@@ -1801,6 +1804,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
