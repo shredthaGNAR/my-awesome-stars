@@ -355,6 +355,7 @@
 ## chrome 
 
 - [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite) - Feel the power of the Manifest V3. The future, right now!
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, intros, Credits, etc. on Netflix and Prime video
 - [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater) - This is a google chrome extension for saving links for later reading.
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -389,6 +390,7 @@
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite) - Feel the power of the Manifest V3. The future, right now!
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, intros, Credits, etc. on Netflix and Prime video
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater) - This is a google chrome extension for saving links for later reading.
 - [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE) - Read Later Chrome Extension
@@ -510,7 +512,7 @@
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox) - a clean firefox userchrome
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Pseudo-fullscreen Firefox and YouTube
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available!
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -708,6 +710,7 @@
 - [vord1080/clipboard2file](https://github.com/vord1080/clipboard2file) - WebExtension for using images on the clipboard as files
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, intros, Credits, etc. on Netflix and Prime video
 - [YS-Wong/Adaptive-Tab-Bar-Color](https://github.com/YS-Wong/Adaptive-Tab-Bar-Color) - Change the color of Firefox tab bar to match the website theme
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [Godiesc/opera-gx](https://github.com/Godiesc/opera-gx) - Firefox Theme CSS to Opera GX Lovers
@@ -1643,7 +1646,6 @@
 - [thundernest/autoconfig](https://github.com/thundernest/autoconfig) - The ISPDB, Thunderbird's database of mail configuration files.
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, intros, Credits, etc. on Netflix and Prime video
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [lhaeger/AutoRaise](https://github.com/lhaeger/AutoRaise) - AutoRaise (and focus) a window when hovering over it with the mouse as a menubar app.
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
@@ -2773,7 +2775,7 @@
 ## react 
 
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix) - 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
