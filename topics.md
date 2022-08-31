@@ -1615,6 +1615,7 @@
 
 ## others 
 
+- [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
 - [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations) - 
 - [benbasson/contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which se
 - [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab) - Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
@@ -3067,6 +3068,7 @@
 ## visual-studio-code 
 
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
+- [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - Sweet Dracula + Monokai syntax highlighting for VSCode
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
 - [alexanderbast/vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy) - VS Code theme based on hyper-snazzy with bright colors
