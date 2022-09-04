@@ -1254,7 +1254,7 @@
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 - [uBlock-user/uBO-Personal-Filters](https://github.com/uBlock-user/uBO-Personal-Filters) - A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
-- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · Block ads, annoyances, pop-ups, malware, scams and more with 55,000+ rules for your content blocker
+- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · Block ads, annoyances, pop-ups, malware, mlms, scams and more with 55,000+ rules for your content blocker
 - [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
@@ -1616,6 +1616,9 @@
 
 ## Shell 
 
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+- [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
