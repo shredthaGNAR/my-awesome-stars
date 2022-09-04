@@ -1061,6 +1061,7 @@
 
 ## homebrew 
 
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [TheKevJames/homebrew-youtube-viewer](https://github.com/TheKevJames/homebrew-youtube-viewer) - youtube-viewer Formula for Homebrew
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
@@ -1316,6 +1317,8 @@
 
 ## macos 
 
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac) - Simple app that tracks your work hours from the status bar.
@@ -1622,6 +1625,7 @@
 
 ## others 
 
+- [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
 - [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations) - 
 - [benbasson/contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which se
@@ -1882,7 +1886,7 @@
 - [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy) - List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters) - uBlock Origin Filters
-- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · Block ads, annoyances, pop-ups, malware, scams and more with 55,000+ rules for your content blocker
+- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · Block ads, annoyances, pop-ups, malware, mlms, scams and more with 55,000+ rules for your content blocker
 - [Snilda/Font-Library](https://github.com/Snilda/Font-Library) - Check Readme
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 - [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
@@ -2888,6 +2892,7 @@
 
 ## shell 
 
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
