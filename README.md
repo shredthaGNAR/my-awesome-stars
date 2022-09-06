@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
@@ -56,6 +57,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Adblock Filter List 
+
+- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
 ## AppleScript 
 
@@ -159,6 +164,7 @@
 
 ## CSS 
 
+- [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin) - This is a custom CSS theme for the opensource note-taking app Joplin.
 - [tortious/2019Firefox](https://github.com/tortious/2019Firefox) - 
 - [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme) - Clean, transparent firefox theme
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
@@ -511,7 +517,7 @@
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
-- [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam) - Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver.
+- [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam) - Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver. Best for devices on really old Android versions: 4.0.4 etc.
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred) - Raspberry pi webcam and motion sensor project
 - [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial) - remove commercial and detect logo in video
@@ -536,6 +542,8 @@
 
 ## JavaScript 
 
+- [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
+- [yinthewind/GPHud](https://github.com/yinthewind/GPHud) - 
 - [benbasson/contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which se
 - [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab) - Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
 - [thlorenz/phe](https://github.com/thlorenz/phe) - Poker hand evaluator
@@ -1400,7 +1408,8 @@
 
 ## Python 
 
-- [freMea/docker-py-revanced](https://github.com/freMea/docker-py-revanced) - Python util to build Revanced apps
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
@@ -1558,7 +1567,6 @@
 - [johntelforduk/shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook) - Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator) - It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
-- [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
@@ -1616,6 +1624,8 @@
 
 ## Shell 
 
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
@@ -1638,7 +1648,7 @@
 - [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker) - Quick script to gather stats on incoming credentials and IPs for a honey listener.
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-- [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions
+- [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 - [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader) - Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
 - [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER) - Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
 - [Goxore/ytmp3](https://github.com/Goxore/ytmp3) - A simple shell script that downloads a song with youtube-dl/yt-dlp, renames it and adds artist and album names with id3tool.
@@ -1817,6 +1827,7 @@
 
 ## TypeScript 
 
+- [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
