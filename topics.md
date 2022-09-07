@@ -317,6 +317,7 @@
 
 ## bash 
 
+- [withfig/config](https://github.com/withfig/config) - Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when y
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [ahmadawais/dotfiles](https://github.com/ahmadawais/dotfiles) - A non-exhaustive collection of my dotfiles.
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
@@ -458,6 +459,7 @@
 
 ## cli 
 
+- [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader) - CLI for downloading iCloud file
 - [ildella/pocket-cli](https://github.com/ildella/pocket-cli) - Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
 - [bltavares/pickpocket](https://github.com/bltavares/pickpocket) - Pocket CLI management tools
@@ -632,6 +634,7 @@
 
 ## documentation 
 
+- [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [tillig/mediacenter](https://github.com/tillig/mediacenter) - Documentation/info on my media center setup.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
@@ -697,6 +700,7 @@
 
 ## eslint 
 
+- [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension) - 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
@@ -709,6 +713,7 @@
 
 ## firefox 
 
+- [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search) - A Firefox WebExtension that displays a context menu, that searches for the selected text.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [vord1080/clipboard2file](https://github.com/vord1080/clipboard2file) - WebExtension for using images on the clipboard as files
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
@@ -1630,6 +1635,11 @@
 
 ## others 
 
+- [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search) - An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be us
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
 - [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin) - This is a custom CSS theme for the opensource note-taking app Joplin.
 - [yinthewind/GPHud](https://github.com/yinthewind/GPHud) - 
