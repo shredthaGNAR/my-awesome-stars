@@ -164,6 +164,7 @@
 
 ## CSS 
 
+- [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
 - [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin) - This is a custom CSS theme for the opensource note-taking app Joplin.
 - [tortious/2019Firefox](https://github.com/tortious/2019Firefox) - 
 - [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme) - Clean, transparent firefox theme
@@ -542,6 +543,9 @@
 
 ## JavaScript 
 
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search) - A Firefox WebExtension that displays a context menu, that searches for the selected text.
+- [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search) - An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be us
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [yinthewind/GPHud](https://github.com/yinthewind/GPHud) - 
 - [benbasson/contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which se
@@ -1222,6 +1226,8 @@
 
 ## Others 
 
+- [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
 - [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations) - 
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
@@ -1408,6 +1414,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
@@ -1624,6 +1631,7 @@
 
 ## Shell 
 
+- [withfig/config](https://github.com/withfig/config) - Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when y
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -1827,6 +1835,7 @@
 
 ## TypeScript 
 
+- [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
