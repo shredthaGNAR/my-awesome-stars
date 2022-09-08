@@ -60,6 +60,7 @@
 
 ## Adblock Filter List 
 
+- [Yuki2718/adblock](https://github.com/Yuki2718/adblock) - Personal filters and rules for AdGuard/uBlock Origin
 - [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 
 ## AppleScript 
@@ -407,6 +408,7 @@
 
 ## Go 
 
+- [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [L11R/go-autoconfig](https://github.com/L11R/go-autoconfig) - IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 - [tardisx/gropple](https://github.com/tardisx/gropple) - Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community yt-dlp archival manager
@@ -543,6 +545,7 @@
 
 ## JavaScript 
 
+- [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks) - Official Alfred Automation Tasks
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search) - A Firefox WebExtension that displays a context menu, that searches for the selected text.
 - [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search) - An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be us
@@ -650,7 +653,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
@@ -1041,7 +1044,7 @@
 - [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) - Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
 - [gocom/pinceau](https://github.com/gocom/pinceau) - Personal Firefox userChrome and preference customizations
 - [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts) - User Scripts for bingeing
-- [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable) - Automatically skip recaps, intros, credits, and ads, and clicks "next episode" prompts on Netflix, Amazon, and potentially other sites if anyone has suggestions
+- [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable) - Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
@@ -1226,6 +1229,9 @@
 
 ## Others 
 
+- [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow) - Update Automation Tasks During Alfred 5 Early Access
+- [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders) - Manages reminders in Reminders.app
+- [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation) - 
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
@@ -1316,7 +1322,6 @@
 - [alexanderbast/vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy) - VS Code theme based on hyper-snazzy with bright colors
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
-- [Yuki2718/adblock](https://github.com/Yuki2718/adblock) - Personal filters and rules for AdGuard/uBlock Origin
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [TheAmalLalgi/KenKai-Theme](https://github.com/TheAmalLalgi/KenKai-Theme) - KenKai Theme for Visual Studio Code
 - [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus) - VS Code color theme
@@ -1379,6 +1384,7 @@
 
 ## PHP 
 
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [knowfox/pocket](https://github.com/knowfox/pocket) - Knowfox: Retrieve bookmarks from getpocket.com
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels) - Thunderbird Labels Plugin for Roundcube Webmail
@@ -1414,6 +1420,11 @@
 
 ## Python 
 
+- [sunshinev/markdown-image-upload-github](https://github.com/sunshinev/markdown-image-upload-github) - 将图片通过Alfred-workflow上传到github，并且返回markdown格式的图片语法
+- [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow) - An Alfred workflow for controlling Philips Hue lights.
+- [tilmanginzel/alfred-bluetooth-workflow](https://github.com/tilmanginzel/alfred-bluetooth-workflow) - Yet another Alfred workflow to connect / disconnect Bluetooth devices
+- [trietsch/alfred-bluetooth-connector](https://github.com/trietsch/alfred-bluetooth-connector) - Alfred workflow for listing known Bluetooth devices and (dis)connecting to them -&gt; NOT MAINTAINED ANYMORE, work is merged into https://github.com/tilmanginzel/alfred-bluetooth-workflow
+- [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow) - 
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
@@ -1631,6 +1642,8 @@
 
 ## Shell 
 
+- [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
+- [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [withfig/config](https://github.com/withfig/config) - Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when y
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
