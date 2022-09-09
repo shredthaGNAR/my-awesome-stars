@@ -516,7 +516,7 @@
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox) - a clean firefox userchrome
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Pseudo-fullscreen Firefox and YouTube
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available!
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -1723,7 +1723,7 @@
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [iina-plus/iina](https://github.com/iina-plus/iina) - The modern video player for macOS with additional features and bug fixes.
 - [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer) - A small macOS app that lets you customize the number of rows and columns in launchpad
-- [manesspl/janus-for-alfred](https://github.com/manesspl/janus-for-alfred) - Create random usernames in Alfred
+- [thsyk/janus-for-alfred](https://github.com/thsyk/janus-for-alfred) - Create random usernames in Alfred
 - [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow) - Launch a URL in 3 different browsers at once to speed up website testing
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
 - [stefnotch/downline](https://github.com/stefnotch/downline) - Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
@@ -2825,7 +2825,7 @@
 ## react 
 
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix) - 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
