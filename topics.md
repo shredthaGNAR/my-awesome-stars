@@ -838,6 +838,7 @@
 - [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [gocom/pinceau](https://github.com/gocom/pinceau) - Personal Firefox userChrome and preference customizations
 - [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks) - Firefox about:config useful tweaks.
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
@@ -969,7 +970,7 @@
 ## google 
 
 - [jmlntw/google-search-sidebar](https://github.com/jmlntw/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Assisting in switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. 高效搜索引擎輔助增強腳本，一键切换搜尋引擎，支持拖拽搜索，划词搜索，快捷键等
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 高效搜索引擎輔助增強瀏覽器插件，一键
 - [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab) - Google Keep for Thunderbird
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync) - This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
@@ -2614,7 +2615,6 @@
 - [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme) - A Firefox theme with Pywal and macOS in mind.
 - [maccman/macgap-rb](https://github.com/maccman/macgap-rb) - Generator for MacGap
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable.
 - [Shopify/shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
 - [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify) - Monogram functionality using custom options
@@ -2856,7 +2856,7 @@
 ## reactjs 
 
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community yt-dlp archival manager
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Assisting in switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. 高效搜索引擎輔助增強腳本，一键切换搜尋引擎，支持拖拽搜索，划词搜索，快捷键等
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 高效搜索引擎輔助增強瀏覽器插件，一键
 - [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper) - A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. W
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
