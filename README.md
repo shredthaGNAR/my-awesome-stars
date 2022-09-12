@@ -626,7 +626,7 @@
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
 - [harv/userChromeJS](https://github.com/harv/userChromeJS) - My userChromeJS scripts!
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Assisting in switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. 高效搜索引擎輔助增強腳本，一键切换搜尋引擎，支持拖拽搜索，划词搜索，快捷键等
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 高效搜索引擎輔助增強瀏覽器插件，一键
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - 
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
