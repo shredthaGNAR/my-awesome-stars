@@ -779,7 +779,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [jayesh-bhoot/pin-unpin-tab](https://github.com/jayesh-bhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [jayeshbhoot/pin-unpin-tab](https://github.com/jayeshbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style) - Firefox CSS theme inspired by Safari
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
@@ -1646,6 +1646,8 @@
 
 ## others 
 
+- [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
+- [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts
 - [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow) - Update Automation Tasks During Alfred 5 Early Access
 - [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks) - Official Alfred Automation Tasks
 - [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
@@ -2736,6 +2738,7 @@
 
 ## python 
 
+- [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
