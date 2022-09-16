@@ -1649,6 +1649,8 @@
 
 ## Shell 
 
+- [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
+- [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
 - [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
