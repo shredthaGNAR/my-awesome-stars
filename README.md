@@ -106,6 +106,7 @@
 
 ## C 
 
+- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio) - The free, open source video downloader!
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
@@ -136,7 +137,7 @@
 
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) - Bypasses the checksum at login to allow modified files in official servers.
+- [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) - MelonLoader mod that bypasses the checksum at login to allow modified files in official servers.
 - [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople) - Search images in your phone based in three photo of a person
 - [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) - CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
 - [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui) - Download/Convert videos from websites without needing to learn command line
@@ -252,7 +253,7 @@
 - [vipintom/stealthFox](https://github.com/vipintom/stealthFox) - Clean and minimal set of changes to get Vertical Tabs in Firefox
 - [MorganJay/TheBox](https://github.com/MorganJay/TheBox) - A responsive, asymmetrical design with HTML & CSS - Firefox!
 - [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI) - Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
-- [Dini108/firefox_compact_style](https://github.com/Dini108/firefox_compact_style) - Make Firefox compact!
+- [berta-denes/firefox_compact_style](https://github.com/berta-denes/firefox_compact_style) - Make Firefox compact!
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style) - 
 - [tomatopickle/Glox](https://github.com/tomatopickle/Glox) - A glassmorphistic Firefox skin, also has round elements
@@ -1649,6 +1650,9 @@
 
 ## Shell 
 
+- [caius/zshrc](https://github.com/caius/zshrc) - My ZSH configs and dotfiles
+- [Innei/zshrc](https://github.com/Innei/zshrc) - one-key to configure zsh.
+- [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU) - macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -1719,7 +1723,7 @@
 - [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) - The setup I run on every computer
 - [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k) - fast install powerlevel10k theme
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch) - DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, pr
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport) - Toggle Airport power based on presence of wired ethernet
