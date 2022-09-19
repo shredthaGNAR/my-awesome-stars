@@ -426,7 +426,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows. iOS version available!
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, macOS, Windows. iOS version available.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [lobre/pocket2notion](https://github.com/lobre/pocket2notion) - Tool for migrating Pocket items to Notion
@@ -1650,6 +1650,7 @@
 
 ## Shell 
 
+- [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [caius/zshrc](https://github.com/caius/zshrc) - My ZSH configs and dotfiles
 - [Innei/zshrc](https://github.com/Innei/zshrc) - one-key to configure zsh.
 - [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU) - macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
@@ -1756,6 +1757,7 @@
 
 ## Swift 
 
+- [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 - [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
 - [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac) - Simple app that tracks your work hours from the status bar.
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
