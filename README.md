@@ -254,7 +254,7 @@
 - [vipintom/stealthFox](https://github.com/vipintom/stealthFox) - Clean and minimal set of changes to get Vertical Tabs in Firefox
 - [MorganJay/TheBox](https://github.com/MorganJay/TheBox) - A responsive, asymmetrical design with HTML & CSS - Firefox!
 - [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI) - Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
-- [berta-denes/firefox_compact_style](https://github.com/berta-denes/firefox_compact_style) - Make Firefox compact!
+- [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style) - Make Firefox compact!
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style) - 
 - [tomatopickle/Glox](https://github.com/tomatopickle/Glox) - A glassmorphistic Firefox skin, also has round elements
@@ -549,6 +549,8 @@
 
 ## JavaScript 
 
+- [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn) - OneTab Reborn is a remake of the original OneTab extension to be more modern, responsive, and brings native dark mode support
