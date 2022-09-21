@@ -224,12 +224,14 @@
 
 ## atom 
 
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## automation 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
@@ -319,6 +321,8 @@
 
 ## bash 
 
+- [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [withfig/config](https://github.com/withfig/config) - Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when y
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -392,6 +396,7 @@
 
 ## chrome-extension 
 
+- [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs) - Browser extension to search and navigate browser tabs, local bookmarks and history.
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite) - Feel the power of the Manifest V3. The future, right now!
@@ -461,6 +466,8 @@
 
 ## cli 
 
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -505,6 +512,8 @@
 
 ## config 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles) - All my handy configuration files, including for stuff like Skyrim. ⚔️
@@ -622,6 +631,7 @@
 
 ## docker 
 
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [dnomd343/alltube_docker](https://github.com/dnomd343/alltube_docker) - Docker of AllTube Download
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
 - [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl) - Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
@@ -717,6 +727,7 @@
 
 ## firefox 
 
+- [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 - [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search) - A Firefox WebExtension that displays a context menu, that searches for the selected text.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [vord1080/clipboard2file](https://github.com/vord1080/clipboard2file) - WebExtension for using images on the clipboard as files
@@ -913,6 +924,8 @@
 
 ## git 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [eclipsesource/megit](https://github.com/eclipsesource/megit) - Standalone Git GUI based on EGit
@@ -926,6 +939,7 @@
 
 ## github 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
@@ -1080,6 +1094,8 @@
 
 ## homebrew 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -1287,6 +1303,7 @@
 
 ## linux 
 
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
@@ -1345,6 +1362,13 @@
 
 ## macos 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
+- [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
@@ -1572,6 +1596,8 @@
 
 ## neovim 
 
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles) - My personal (.)dotfiles and configurations for various programs and environments.
 
 ## nextjs 
@@ -1580,6 +1606,7 @@
 
 ## node 
 
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
@@ -1589,6 +1616,7 @@
 
 ## nodejs 
 
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
 - [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher) - Alfred workflow for finding a Cacher snippet.
@@ -1640,6 +1668,7 @@
 
 ## open-source 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
@@ -1682,6 +1711,10 @@
 
 ## others 
 
+- [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
+- [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
+- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
+- [knilling/pocket2csv](https://github.com/knilling/pocket2csv) - 
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -2736,6 +2769,7 @@
 
 ## perl 
 
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter) - Split large mbox files (from hunderbird) into smaller one, class by year of the message
 
@@ -2778,6 +2812,8 @@
 
 ## python 
 
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
@@ -2978,6 +3014,12 @@
 
 ## shell 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+- [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -3022,6 +3064,7 @@
 
 ## sublime-text 
 
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
@@ -3101,6 +3144,11 @@
 
 ## terminal 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [ildella/pocket-cli](https://github.com/ildella/pocket-cli) - Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
@@ -3162,6 +3210,9 @@
 
 ## vim 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -3173,6 +3224,8 @@
 
 ## visual-studio-code 
 
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - Sweet Dracula + Monokai syntax highlighting for VSCode
