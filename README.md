@@ -42,6 +42,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -168,6 +169,7 @@
 
 ## CSS 
 
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
 - [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin) - This is a custom CSS theme for the opensource note-taking app Joplin.
 - [tortious/2019Firefox](https://github.com/tortious/2019Firefox) - 
@@ -549,6 +551,7 @@
 
 ## JavaScript 
 
+- [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs) - Browser extension to search and navigate browser tabs, local bookmarks and history.
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
@@ -1416,9 +1419,14 @@
 
 ## Perl 
 
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter) - Split large mbox files (from hunderbird) into smaller one, class by year of the message
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
+
+## PostScript 
+
+- [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
 
 ## PowerShell 
 
@@ -1429,6 +1437,9 @@
 
 ## Python 
 
+- [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
+- [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
 - [sunshinev/markdown-image-upload-github](https://github.com/sunshinev/markdown-image-upload-github) - 将图片通过Alfred-workflow上传到github，并且返回markdown格式的图片语法
 - [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow) - An Alfred workflow for controlling Philips Hue lights.
@@ -1652,6 +1663,17 @@
 
 ## Shell 
 
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
+- [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
+- [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
+- [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
+- [knilling/pocket2csv](https://github.com/knilling/pocket2csv) - 
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [caius/zshrc](https://github.com/caius/zshrc) - My ZSH configs and dotfiles
 - [Innei/zshrc](https://github.com/Innei/zshrc) - one-key to configure zsh.
@@ -1862,6 +1884,7 @@
 
 ## TypeScript 
 
+- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
