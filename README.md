@@ -551,6 +551,7 @@
 
 ## JavaScript 
 
+- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
 - [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs) - Browser extension to search and navigate browser tabs, local bookmarks and history.
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -667,7 +668,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
@@ -1663,6 +1664,9 @@
 
 ## Shell 
 
+- [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
