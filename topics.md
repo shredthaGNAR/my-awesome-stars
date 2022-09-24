@@ -928,6 +928,7 @@
 
 ## git 
 
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
@@ -943,6 +944,7 @@
 
 ## github 
 
+- [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 12 (Monterey).
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
@@ -1042,6 +1044,7 @@
 
 ## hacktoberfest 
 
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -1308,6 +1311,7 @@
 
 ## linux 
 
+- [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -1367,6 +1371,14 @@
 
 ## macos 
 
+- [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
+- [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite) - Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+- [eth-p/mac-icons](https://github.com/eth-p/mac-icons) - An assortment of custom MacOS folder icons, editable without Adobe products.
+- [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 12 (Monterey).
+- [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [Pilaton/MacSync](https://github.com/Pilaton/MacSync) - Easy sync for macOS. Dotfiles, folders, configurations, etc.
+- [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
@@ -1719,6 +1731,20 @@
 
 ## others 
 
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+- [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
+- [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
+- [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
+- [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped) - Add-on actions for Dropzone 4
+- [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
+- [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
+- [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure) - macOS Automator workflow to scaffold my project directory structure.
+- [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
+- [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles) - macOS dotfiles
+- [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [tcellerier/automator](https://github.com/tcellerier/automator) - Mac OS Automator quick actions
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
 - [A9T9/Copyfish](https://github.com/A9T9/Copyfish) - Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
@@ -2325,7 +2351,6 @@
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
 - [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [WynStaXxx/list-of-my-starred-repos](https://github.com/WynStaXxx/list-of-my-starred-repos) - 
-- [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
 - [WynStaXxx/awesome-stars](https://github.com/WynStaXxx/awesome-stars) - 
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
@@ -2826,6 +2851,8 @@
 
 ## python 
 
+- [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite) - Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+- [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
@@ -3000,6 +3027,7 @@
 
 ## security 
 
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -3091,6 +3119,7 @@
 
 ## swift 
 
+- [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 - [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac) - Simple app that tracks your work hours from the status bar.
@@ -3137,6 +3166,7 @@
 
 ## swiftui 
 
+- [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -3242,6 +3272,7 @@
 
 ## visual-studio-code 
 
+- [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
