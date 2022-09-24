@@ -450,6 +450,7 @@
 
 ## HTML 
 
+- [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -524,6 +525,7 @@
 
 ## Java 
 
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
@@ -1183,6 +1185,7 @@
 
 ## Makefile 
 
+- [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 12 (Monterey).
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 
@@ -1249,6 +1252,12 @@
 
 ## Others 
 
+- [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
+- [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped) - Add-on actions for Dropzone 4
+- [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
+- [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure) - macOS Automator workflow to scaffold my project directory structure.
+- [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+- [tcellerier/automator](https://github.com/tcellerier/automator) - Mac OS Automator quick actions
 - [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow) - Update Automation Tasks During Alfred 5 Early Access
 - [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders) - Manages reminders in Reminders.app
 - [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation) - 
@@ -1426,6 +1435,7 @@
 
 ## Perl 
 
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter) - Split large mbox files (from hunderbird) into smaller one, class by year of the message
@@ -1444,6 +1454,10 @@
 
 ## Python 
 
+- [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
+- [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite) - Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
 - [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -1563,7 +1577,6 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [WynStaXxx/list-of-my-starred-repos](https://github.com/WynStaXxx/list-of-my-starred-repos) - 
 - [Ramalingasamy012/SocialRecon](https://github.com/Ramalingasamy012/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
-- [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [ccat3z/stars](https://github.com/ccat3z/stars) - A simple tool for creating your own awesome list
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -1618,6 +1631,7 @@
 
 ## Ruby 
 
+- [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [TheKevJames/homebrew-youtube-viewer](https://github.com/TheKevJames/homebrew-youtube-viewer) - youtube-viewer Formula for Homebrew
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
@@ -1670,6 +1684,10 @@
 
 ## Shell 
 
+- [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
+- [eth-p/mac-icons](https://github.com/eth-p/mac-icons) - An assortment of custom MacOS folder icons, editable without Adobe products.
+- [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles) - macOS dotfiles
+- [Pilaton/MacSync](https://github.com/Pilaton/MacSync) - Easy sync for macOS. Dotfiles, folders, configurations, etc.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -1791,6 +1809,9 @@
 
 ## Swift 
 
+- [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
+- [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
+- [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 - [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
@@ -1895,6 +1916,7 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
@@ -2012,6 +2034,7 @@
 
 ## Vim Script 
 
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 
 ## Vue 
