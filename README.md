@@ -1258,6 +1258,7 @@
 
 ## Others 
 
+- [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages) - static-marks automatically deployed to github-pages
 - [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
 - [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped) - Add-on actions for Dropzone 4
 - [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
@@ -1460,6 +1461,7 @@
 
 ## Python 
 
+- [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [trmckay/article-export](https://github.com/trmckay/article-export) - Export Pocket list as CSV!
 - [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket) - A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
 - [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse) - Script to parse the html export from Pocket and write out a csv
