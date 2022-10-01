@@ -479,7 +479,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension🎧[80+Features🧰](Please⭐document/wiki!)📌📌Lean&Longest-standing(©️2012)[Users👨‍👩‍👧‍👧485 000+] ⚙️⋮[🎞️☕🎛️🎬🔴⏯️🔊🧩📈 🎨🧪] [Player: Repeat Screenshot Rotate; Hide related video distraction. Alw
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧][Guide/wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -590,7 +590,7 @@
 - [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 - [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme) - The Ultimate Dark Theme for Google.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension🎧[80+Features🧰](Please⭐document/wiki!)📌📌Lean&Longest-standing(©️2012)[Users👨‍👩‍👧‍👧485 000+] ⚙️⋮[🎞️☕🎛️🎬🔴⏯️🔊🧩📈 🎨🧪] [Player: Repeat Screenshot Rotate; Hide related video distraction. Alw
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧][Guide/wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
@@ -879,7 +879,7 @@
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff102) 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [yokoffing/BetterFox](https://github.com/yokoffing/BetterFox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
@@ -2166,7 +2166,7 @@
 - [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
-- [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
+- [uso-archive/uso-archive](https://github.com/uso-archive/uso-archive) - Full mirror of UserStyles.org
 - [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - 
 - [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons) - 
 - [vandergit/product-comparison](https://github.com/vandergit/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
@@ -3154,7 +3154,7 @@
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [yokoffing/BetterFox](https://github.com/yokoffing/BetterFox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
