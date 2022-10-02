@@ -1351,7 +1351,7 @@
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · Block ads, annoyances, pop-ups, malware, mlms, scams and more with 55,000+ rules for your content blocker
-- [uso-archive/uso-archive](https://github.com/uso-archive/uso-archive) - Full mirror of UserStyles.org
+- [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 - [fastaddons/Darko](https://github.com/fastaddons/Darko) - 
