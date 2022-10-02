@@ -1128,6 +1128,7 @@
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -2166,7 +2167,7 @@
 - [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
-- [uso-archive/uso-archive](https://github.com/uso-archive/uso-archive) - Full mirror of UserStyles.org
+- [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - 
 - [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons) - 
 - [vandergit/product-comparison](https://github.com/vandergit/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
@@ -3011,6 +3012,7 @@
 - [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
