@@ -375,6 +375,7 @@
 
 ## chrome 
 
+- [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
@@ -509,6 +510,7 @@
 
 ## cli 
 
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
@@ -661,6 +663,7 @@
 
 ## design 
 
+- [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
@@ -777,6 +780,7 @@
 
 ## firefox 
 
+- [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions and stuff
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1064,7 +1068,7 @@
 ## google 
 
 - [jmlntw/google-search-sidebar](https://github.com/jmlntw/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 高效搜索引擎輔助增強瀏覽器插件，一键
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also search anything (selected text / image / link) on any engine with a simple right click or a variety of menus and shortcuts. Build with Reac
 - [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab) - Google Keep for Thunderbird
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync) - This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
@@ -1114,13 +1118,19 @@
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
+- [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [catppuccin/joplin](https://github.com/catppuccin/joplin) - 📔️ Soothing pastel theme for Joplin
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
@@ -1136,6 +1146,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats
 - [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron) - A cross-platform electron Amazon Cloud Drive app.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [arthurdecloedt/BTT-scripts](https://github.com/arthurdecloedt/BTT-scripts) - scripts used in my BTT config, some of these are adapted from other ones on the folivora community
@@ -1143,6 +1154,7 @@
 - [yiisoft/app](https://github.com/yiisoft/app) - Yii 3 application template
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment) - A free, open source tool to lookup user identities by email address
+- [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) - Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 - [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window) - Aggregate new tabs to a window which has most many tabs and largest size.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -1691,6 +1703,7 @@
 
 ## music 
 
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [CortexVacua/Youtube-MP3-Playlist-Downloader](https://github.com/CortexVacua/Youtube-MP3-Playlist-Downloader) - Let's you download entire YT-playlists.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [EragonJ/Kaku](https://github.com/EragonJ/Kaku) - 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
@@ -1827,6 +1840,10 @@
 
 ## others 
 
+- [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
+- [gomita/firegestures](https://github.com/gomita/firegestures) - FireGestures, a Firefox extension.
+- [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
+- [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code) - Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
 - [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon) - Firefox addon for queueing videos to MeTube instance.
 - [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon) - Snapdrop for Firefox (Addon)
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
@@ -1911,7 +1928,6 @@
 - [ookangzheng/dbl-oisd-nl](https://github.com/ookangzheng/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
-- [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 - [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero
 - [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ) - MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
@@ -1975,7 +1991,6 @@
 - [AbinavJ-FamilyZone/launchd-package-creator](https://github.com/AbinavJ-FamilyZone/launchd-package-creator) - A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 - [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
-- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions) - Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
@@ -1991,8 +2006,6 @@
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav) - A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
-- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 - [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -2412,7 +2425,6 @@
 - [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper) - Mac dynamic wallpaper program
 - [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac) - Mac version of pokerbot project by Dick Neutral
 - [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine) - 
-- [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) - Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 - [WynStaXxx/poker](https://github.com/WynStaXxx/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [alexyz/poker](https://github.com/alexyz/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
@@ -3097,7 +3109,7 @@
 
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community yt-dlp archival manager
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also jump to search selected text, image, link using a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 高效搜索引擎輔助增強瀏覽器插件，一键
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also search anything (selected text / image / link) on any engine with a simple right click or a variety of menus and shortcuts. Build with Reac
 - [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper) - A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. W
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
