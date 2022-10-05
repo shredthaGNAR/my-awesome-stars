@@ -1507,6 +1507,7 @@
 
 ## Python 
 
+- [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [trmckay/article-export](https://github.com/trmckay/article-export) - Export Pocket list as CSV!
