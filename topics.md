@@ -241,7 +241,7 @@
 
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
@@ -515,7 +515,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur) - A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
@@ -563,7 +563,7 @@
 
 ## config 
 
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
@@ -995,7 +995,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
@@ -1015,7 +1015,7 @@
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 12 (Monterey).
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
@@ -1194,7 +1194,7 @@
 ## homebrew 
 
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Simple & efficient dotfiles for macOS & Ubuntu
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
@@ -1484,7 +1484,7 @@
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
@@ -1644,7 +1644,7 @@
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 - [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager) - 🔑👨‍💻macOS Password Manager
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline Password Manager
 - [lodestone/macpaste](https://github.com/lodestone/macpaste) - Global middle-mouse-click copy/paste for Mac OSX (C).
@@ -1795,12 +1795,12 @@
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
-- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 
 ## open-source 
 
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
@@ -1843,6 +1843,7 @@
 
 ## others 
 
+- [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
 - [gomita/firegestures](https://github.com/gomita/firegestures) - FireGestures, a Firefox extension.
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
@@ -3194,7 +3195,7 @@
 ## shell 
 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
@@ -3401,7 +3402,7 @@
 ## vim 
 
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - My configuration files to setup mac(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
