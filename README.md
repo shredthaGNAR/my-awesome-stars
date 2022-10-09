@@ -2079,7 +2079,6 @@
 - [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode) - Visual Studio Code Extension: CSS suggestions for Properties and Values.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [vuestorefront/shopify](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify
-- [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 - [harttle/liquidjs](https://github.com/harttle/liquidjs) - A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 - [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard) - 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
@@ -2123,6 +2122,7 @@
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
+- [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 
