@@ -489,7 +489,6 @@
 - [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io) - Facebook search engine that works after the Graph API has been shut down
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
 - [w0lfschild/cDock](https://github.com/w0lfschild/cDock) - :lollipop: Basic dock customization for macOS
-- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - BetterTouchTool Window Manager Preset
 - [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window) - 👻 Firefox extension to open a copy of the current page in a new Private Window
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview) - This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
@@ -2040,6 +2039,7 @@
 - [lbragile/TabMerger](https://github.com/lbragile/TabMerger) - TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 - [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine) - 
 - [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
+- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - BetterTouchTool Window Manager Preset
 - [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail) - React web application to manage ProtonMail
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside) - A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
