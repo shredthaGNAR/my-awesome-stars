@@ -1173,6 +1173,7 @@
 - [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files) - Provides ability to save selected tabs to local files for Firefox 63 and later.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
