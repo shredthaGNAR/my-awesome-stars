@@ -579,6 +579,7 @@
 
 ## css 
 
+- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [Godiesc/opera-gx](https://github.com/Godiesc/opera-gx) - Firefox Theme CSS to Opera GX Lovers
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
@@ -1685,6 +1686,7 @@
 
 ## markdown 
 
+- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
@@ -1847,7 +1849,7 @@
 - [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite) - Feel the power of the Manifest V3. The future, right now!
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
-- [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback) - Automate downloading archived deleted Tweets.
+- [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
@@ -3040,7 +3042,7 @@
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader) - Python script to download and save your favorite Facebook videos.
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback) - Automate downloading archived deleted Tweets.
+- [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 - [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch) - Gets info from truepeoplesearch.com and adds it to Maltego
@@ -3392,7 +3394,7 @@
 ## twitter 
 
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
-- [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback) - Automate downloading archived deleted Tweets.
+- [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 - [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs) - :card_index: Extract social media profiles and more with regular expressions
