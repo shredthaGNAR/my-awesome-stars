@@ -178,6 +178,7 @@
 
 ## CSS 
 
+- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [YS-Wong/WhiteSurFirefoxThemeMacOS](https://github.com/YS-Wong/WhiteSurFirefoxThemeMacOS) - (ATBC-compatible) MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
@@ -1606,7 +1607,7 @@
 - [mmagnus/PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) - PocketX-Calibre-Plugin is an experimental version of Pocket-Plus-Calibre-Plugin (send articles from Pocket to your e-reader)
 - [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader) - Python script to download and save your favorite Facebook videos.
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
-- [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback) - Automate downloading archived deleted Tweets.
+- [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [google/python-laurel](https://github.com/google/python-laurel) - Python control of C by GE Bluetooth lightbulbs
 - [cbrooker/home-assistant-cync](https://github.com/cbrooker/home-assistant-cync) - Home Assistant Custom Integration for GE Cync (wifi) IoT Devices
