@@ -567,6 +567,8 @@
 
 ## JavaScript 
 
+- [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+- [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search) - A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 - [dawiidio/o-menu](https://github.com/dawiidio/o-menu) - Simple circular svg menu
 - [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu) - VanillaJS fully configurable curved menu (circular navigation)
 - [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons) - Google Search Extra Buttons
@@ -1589,7 +1591,7 @@
 - [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor) - Compress your entire photo & video library and take it with you everywhere.
 - [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy) - List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
-- [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - 
+- [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 - [diegov/searchbox](https://github.com/diegov/searchbox) - Personal crawling and indexing
 - [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks) - Bookmarks content section for the Academic theme (Hugo framework).
 - [Danamir/imap-attachment-extractor](https://github.com/Danamir/imap-attachment-extractor) - IMAP attachment exporter, with optional Thunderbird detach mode
@@ -1892,6 +1894,7 @@
 
 ## Swift 
 
+- [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS App for updating local hosts
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
 - [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
