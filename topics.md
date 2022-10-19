@@ -2232,7 +2232,7 @@
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
-- [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - 
+- [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 - [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons) - 
 - [vandergit/product-comparison](https://github.com/vandergit/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
