@@ -2556,7 +2556,6 @@
 - [code0312/VSCode-Theme-Snazzy](https://github.com/code0312/VSCode-Theme-Snazzy) - 
 - [benman604/userChrome.css](https://github.com/benman604/userChrome.css) - 
 - [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono) - Operator Mono Font
-- [Minibus93/my-firefox-setup](https://github.com/Minibus93/my-firefox-setup) - My firefox setup - this is sewn on me, so YMMV
 - [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) - The setup I run on every computer
 - [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k) - fast install powerlevel10k theme
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
