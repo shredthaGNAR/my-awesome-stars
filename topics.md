@@ -2092,7 +2092,6 @@
 - [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management) - 
 - [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new) - 
 - [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme) - firefox userchrome css theme
-- [feren-OS/Firefox-Ice-Prototyping](https://github.com/feren-OS/Firefox-Ice-Prototyping) - Just ignore this for now.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api) - Full-stack App - user generated map of visited places. Where have you been to?
 - [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps) - Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
@@ -3005,7 +3004,7 @@
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more!
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 
 ## programming 
 
@@ -3541,6 +3540,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop) - Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
 - [EragonJ/Kaku](https://github.com/EragonJ/Kaku) - 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
