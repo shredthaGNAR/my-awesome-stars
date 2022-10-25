@@ -54,6 +54,7 @@
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
+- [game](#game)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -221,6 +222,7 @@
 
 ## api 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -579,6 +581,7 @@
 
 ## css 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [Godiesc/opera-gx](https://github.com/Godiesc/opera-gx) - Firefox Theme CSS to Opera GX Lovers
@@ -992,6 +995,10 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
+## game 
+
+- [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
+
 ## games 
 
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
@@ -1396,6 +1403,7 @@
 
 ## json 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
@@ -1810,6 +1818,7 @@
 
 ## npm 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment) - A free, open source tool to lookup user identities by email address
 - [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
@@ -1875,6 +1884,7 @@
 
 ## others 
 
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search) - A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [dan-and/KeepToText](https://github.com/dan-and/KeepToText) - Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
