@@ -420,6 +420,7 @@
 
 ## chrome-extension 
 
+- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google) - A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1129,6 +1130,7 @@
 
 ## hacktoberfest 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
@@ -1884,6 +1886,8 @@
 
 ## others 
 
+- [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
+- [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - A simple tool to scrape all your links into a list from a oneTab collection.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search) - A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
@@ -2358,7 +2362,6 @@
 - [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo) - Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 - [velvia/links](https://github.com/velvia/links) - Just a bunch of useful links
 - [google/python-laurel](https://github.com/google/python-laurel) - Python control of C by GE Bluetooth lightbulbs
-- [cbrooker/home-assistant-cync](https://github.com/cbrooker/home-assistant-cync) - Home Assistant Custom Integration for GE Cync (wifi) IoT Devices
 - [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup) - Mac OS X Application like a menu bar popup message
 - [fireworkx/Shopify-Penta](https://github.com/fireworkx/Shopify-Penta) - Shopify 2.0 theme for Penta Motor Group based off Dawn
 - [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products) - 
@@ -3197,6 +3200,7 @@
 
 ## rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
