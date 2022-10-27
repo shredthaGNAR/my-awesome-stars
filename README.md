@@ -499,7 +499,7 @@
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates) - Customize free Shopify Order Printer templates.
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
-- [amym321/am-studio-site](https://github.com/amym321/am-studio-site) - AM Studio website
+- [amym321/am-studio-site](https://github.com/amym321/am-studio-site) - LIVE AM Studio site
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature) - A gmail signature I made
