@@ -1886,6 +1886,7 @@
 
 ## others 
 
+- [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 - [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
 - [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - A simple tool to scrape all your links into a list from a oneTab collection.
@@ -2170,7 +2171,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow) - An Alfred 4 workflow that allows you to quickly generate strong passwords.
 - [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut) - A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
-- [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio) - The free, open source video downloader!
+- [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio) - The free, open source video downloader! Mirror of https://gitea.leonetienne.de/leonetienne/Tubio
 - [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV) - website userscript: redirect embedded videos from "tubitv.com" to an external player
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme) - I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
@@ -3384,6 +3385,7 @@
 
 ## terminal 
 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
