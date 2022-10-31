@@ -413,7 +413,7 @@
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
-- [code-for-charity/todo](https://github.com/code-for-charity/todo) - ToDo - Chrome Extension. Make checklists and more.
+- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
@@ -507,8 +507,8 @@
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Customize YouTube — remove suggestions, shorts, and more
-- [code-for-charity/todo](https://github.com/code-for-charity/todo) - ToDo - Chrome Extension. Make checklists and more.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, shorts, and more
+- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
@@ -924,9 +924,9 @@
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff102) 🖱️
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Customize YouTube — remove suggestions, shorts, and more
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, shorts, and more
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
-- [code-for-charity/todo](https://github.com/code-for-charity/todo) - ToDo - Chrome Extension. Make checklists and more.
+- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
 - [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
@@ -1205,6 +1205,7 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -2734,7 +2735,7 @@
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 - [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter) - Markdown table format plugin for Joplin
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
-- [llacb47/miscfilters](https://github.com/llacb47/miscfilters) - 
+- [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
 - [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
 - [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script) - BettertouchTool Used User for AppleScript
 - [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets) - 
