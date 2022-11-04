@@ -509,7 +509,7 @@
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, shorts, and more
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, comments, shorts, and more
 - [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
@@ -897,7 +897,7 @@
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff102) 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file for hardening Firefox and optimizing privacy, security, and speed
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
@@ -926,7 +926,7 @@
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff102) 🖱️
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, shorts, and more
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - RYS — Customize YouTube — Remove suggestions, comments, shorts, and more
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
 - [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
@@ -1133,6 +1133,7 @@
 
 ## hacktoberfest 
 
+- [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1316,6 +1317,7 @@
 
 ## javascript 
 
+- [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
@@ -1891,6 +1893,8 @@
 
 ## others 
 
+- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
+- [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
 - [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter) - A command line utility to export Google Keep notes to markdown.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
@@ -2782,7 +2786,7 @@
 - [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections) - Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 - [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme) - Shopify theme for Low Coast Coffee
 - [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template) - 
-- [blanklob/skeleton](https://github.com/blanklob/skeleton) - Skeleton is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind..
+- [blanklob/helium](https://github.com/blanklob/helium) - Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind..
 - [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 - [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins) - Official Shopify Theme Lab Plugins
 - [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis) - Shopify os 2.0 first theme of mine
@@ -3238,7 +3242,7 @@
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file for hardening Firefox and optimizing privacy, security, and speed
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
