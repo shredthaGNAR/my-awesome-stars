@@ -3119,6 +3119,7 @@
 
 ## python3 
 
+- [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI
 - [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader) - Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
