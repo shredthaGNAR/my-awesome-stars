@@ -31,6 +31,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Liquid](#liquid)
+- [Logos](#logos)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -1242,6 +1243,10 @@
 - [NathanPJF/shopify-json-responses](https://github.com/NathanPJF/shopify-json-responses) - How to create your own custom JSON responses
 - [loveshopify/orium](https://github.com/loveshopify/orium) - 
 - [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit) - Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
+
+## Logos 
+
+- [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 
 ## Lua 
 
