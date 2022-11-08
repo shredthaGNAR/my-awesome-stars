@@ -206,7 +206,7 @@
 - [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox) - a clean firefox userchrome
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
-- [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Pseudo-fullscreen Firefox and YouTube
+- [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides the UI giving maximum space for content and aiding concentration. Unifies UI style, reduces contrast and padding. YouTube is always full screen.
 - [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood) - Hand picked SVG icon packs with at least 200 icons
 - [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls) - Save all the open tabs as a list of URLs to go back to!
 - [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme) - I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
@@ -762,7 +762,7 @@
 - [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [piroor/textlink](https://github.com/piroor/textlink) - Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 - [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers) - Web scraper for california lottery scratchers
-- [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
+- [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV) - website userscript: redirect embedded videos from "tubitv.com" to an external player
 - [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch) - Search your Youtube™ playlists
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -1049,7 +1049,7 @@
 - [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources) - Tools and documentation for building Creative Cloud app extensions with CEP
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file for hardening Firefox and optimizing privacy, security, and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
