@@ -1859,7 +1859,7 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1932,7 +1932,7 @@
 - [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon) - Firefox addon for queueing videos to MeTube instance.
 - [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon) - Snapdrop for Firefox (Addon)
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
-- [hoothin/snapdrop](https://github.com/hoothin/snapdrop) - Modify for ipv6 and WAN. 自用改版，兼容ipv6与广域网
+- [hoothin/snapdrop](https://github.com/hoothin/snapdrop) - Modify for ipv6 and WAN. 自用改版，兼容 ipv6 与广域网
 - [d3ward/floatly](https://github.com/d3ward/floatly) - An extension that adds a floating button for browser quick actions
 - [derickfay/tag-services](https://github.com/derickfay/tag-services) - Automator workflows to add tagging services to Mavericks
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
