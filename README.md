@@ -225,7 +225,6 @@
 - [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor) - Relive the monochrome screens of yesterday.
 - [GreezXII/BlackList](https://github.com/GreezXII/BlackList) - Black list for Thunderbird
 - [justreportit/thunderbird](https://github.com/justreportit/thunderbird) - Thunderbird plugin.
-- [jballmann/safelink](https://github.com/jballmann/safelink) - Thunderbird extension that allows to investigate links contained in emails.
 - [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) - Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox) - A wide screen friendly browser
 - [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui) - Dark theme for Joplin's desktop application.
