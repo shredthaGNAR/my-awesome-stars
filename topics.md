@@ -1177,7 +1177,6 @@
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [piroor/textlink](https://github.com/piroor/textlink) - Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -2337,7 +2336,6 @@
 - [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep) - Export all your Apple iCloud Notes to your Google Keep.
 - [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar) - Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
 - [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer) - A simple powerful extension to adjust layout size of the current browser window
-- [jballmann/safelink](https://github.com/jballmann/safelink) - Thunderbird extension that allows to investigate links contained in emails.
 - [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons) - Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
