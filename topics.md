@@ -270,6 +270,8 @@
 
 ## awesome 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
@@ -299,6 +301,7 @@
 
 ## awesome-list 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -341,6 +344,7 @@
 
 ## bash 
 
+- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
@@ -590,6 +594,7 @@
 
 ## css 
 
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [zachjmurphy/PaperProton-Redux](https://github.com/zachjmurphy/PaperProton-Redux) - Google Chrome theme for Firefox Proton!
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
@@ -802,6 +807,7 @@
 
 ## firefox 
 
+- [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window) - Firefox extension for opening links in other window.
 - [zachjmurphy/PaperProton-Redux](https://github.com/zachjmurphy/PaperProton-Redux) - Google Chrome theme for Firefox Proton!
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [YS-Wong/WhiteSurFirefoxThemeMacOS](https://github.com/YS-Wong/WhiteSurFirefoxThemeMacOS) - (ATBC-compatible) MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
@@ -1021,6 +1027,7 @@
 
 ## git 
 
+- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -1041,6 +1048,7 @@
 
 ## github 
 
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -1146,6 +1154,7 @@
 
 ## hacktoberfest 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1906,6 +1915,8 @@
 
 ## others 
 
+- [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque) - A Firefox extension for better tab handling.
+- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
@@ -3276,6 +3287,8 @@
 
 ## shell 
 
+- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
@@ -3412,6 +3425,7 @@
 
 ## terminal 
 
+- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
