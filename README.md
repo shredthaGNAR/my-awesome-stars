@@ -127,6 +127,7 @@
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
 - [gphoto/gphoto2](https://github.com/gphoto/gphoto2) - The gphoto2 commandline tool for accessing and controlling digital cameras.
 - [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera) - Change your android phone to surveillance camera
+- [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) - Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 - [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -301,7 +302,7 @@
 - [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme) - My Joplin App userstyle and userchrome theme style.
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [intrnl/firefox-revert-proton](https://github.com/intrnl/firefox-revert-proton) - Revert Firefox Proton to Photon Compact
+- [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon Compact
 - [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme) - 
 - [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks) - Chonky Firefox tabs for square developers
 - [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css) - 
@@ -752,7 +753,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
@@ -1875,7 +1876,6 @@
 - [mirka/keyboard-maestro-plugin-actions](https://github.com/mirka/keyboard-maestro-plugin-actions) - Plugin actions for Keyboard Maestro
 - [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls) - Replicating macOS Mojave's dynamic wallpaper feature
 - [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones) - DIY hack for a complete CCTV solution using open source software and smartphones.
-- [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [SeanCAdams/MacDupFinder](https://github.com/SeanCAdams/MacDupFinder) - A utility fo find and list duplicate files on a Mac.  Implemented in various languages as an exercise.
@@ -1928,6 +1928,7 @@
 
 ## Swift 
 
+- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS App for updating local hosts
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
