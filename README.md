@@ -45,6 +45,7 @@
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -460,6 +461,7 @@
 
 ## HTML 
 
+- [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop) - Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or busine
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - A simple tool to scrape all your links into a list from a oneTab collection.
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
@@ -572,6 +574,8 @@
 
 ## JavaScript 
 
+- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [lauriro/json-lite](https://github.com/lauriro/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
 - [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome) - My UserChrome Css and Script
 - [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window) - Firefox extension for opening links in other window.
@@ -1730,6 +1734,10 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
+## Roff 
+
+- [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
+
 ## Ruby 
 
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
@@ -2034,6 +2042,9 @@
 
 ## TypeScript 
 
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
+- [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
+- [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
