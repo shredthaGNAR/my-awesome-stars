@@ -1336,6 +1336,8 @@
 
 ## Others 
 
+- [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
+- [Samyak-Bumb/Samyak-Bumb-Theme](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme) - 
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode) - Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
