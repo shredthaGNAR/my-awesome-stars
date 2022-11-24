@@ -179,6 +179,7 @@
 
 ## CSS 
 
+- [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS) - Add icons to Firefox menus using userChrome/userContent.css
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -302,7 +303,7 @@
 - [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme) - My Joplin App userstyle and userchrome theme style.
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon Compact
+- [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
 - [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme) - 
 - [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks) - Chonky Firefox tabs for square developers
 - [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css) - 
@@ -574,6 +575,9 @@
 
 ## JavaScript 
 
+- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
+- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
+- [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [lauriro/json-lite](https://github.com/lauriro/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
@@ -1285,6 +1289,7 @@
 
 ## Objective-C 
 
+- [aaronkollasch/jitouch](https://github.com/aaronkollasch/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
@@ -1549,6 +1554,7 @@
 
 ## Python 
 
+- [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
 - [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter) - A command line utility to export Google Keep notes to markdown.
@@ -1773,6 +1779,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [bltavares/pickpocket](https://github.com/bltavares/pickpocket) - Pocket CLI management tools
@@ -1798,6 +1805,12 @@
 
 ## Shell 
 
+- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+- [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+- [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
+- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
+- [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Z Colors uses your $LS_COLORS to generate a coherent theme for Git and your Zsh prompt, command line and completions.
 - [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -1937,7 +1950,7 @@
 
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
-- [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS App for updating local hosts
+- [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
 - [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
