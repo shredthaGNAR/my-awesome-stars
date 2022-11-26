@@ -62,6 +62,7 @@
 
 ## Adblock Filter List 
 
+- [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv) - 
 - [uBlock-user/uBO-Personal-Filters](https://github.com/uBlock-user/uBO-Personal-Filters) - A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 - [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001) - My filter lists - feel free to add these lists to uBlock Origin
 - [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters) - uBlock Origin Filters
@@ -179,15 +180,16 @@
 
 ## CSS 
 
+- [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS) - Add icons to Firefox menus using userChrome/userContent.css
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [zachjmurphy/PaperProton-Redux](https://github.com/zachjmurphy/PaperProton-Redux) - Google Chrome theme for Firefox Proton!
+- [ZachJMurphy/PaperProton-Redux](https://github.com/ZachJMurphy/PaperProton-Redux) - Google Chrome theme for Firefox Proton!
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [YS-Wong/WhiteSurFirefoxThemeMacOS](https://github.com/YS-Wong/WhiteSurFirefoxThemeMacOS) - (ATBC-compatible) MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
@@ -575,6 +577,7 @@
 
 ## JavaScript 
 
+- [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
@@ -1258,6 +1261,8 @@
 
 ## Logos 
 
+- [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+- [philippengani/uYouPlus](https://github.com/philippengani/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 
 ## Lua 
@@ -1805,6 +1810,7 @@
 
 ## Shell 
 
+- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
@@ -2062,6 +2068,7 @@
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
+- [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
