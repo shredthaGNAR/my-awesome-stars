@@ -19,6 +19,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -419,6 +420,7 @@
 
 ## Dart 
 
+- [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
@@ -427,6 +429,10 @@
 
 - [dnomd343/alltube_docker](https://github.com/dnomd343/alltube_docker) - Docker of AllTube Download
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
+
+## Emacs Lisp 
+
+- [andreyvit/env](https://github.com/andreyvit/env) - 
 
 ## Go 
 
@@ -579,6 +585,7 @@
 
 ## JavaScript 
 
+- [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool) - UI for create-web-ext
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 - [mi-g/weh](https://github.com/mi-g/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
@@ -1352,6 +1359,8 @@
 
 ## Others 
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
+- [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup) - List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
 - [Samyak-Bumb/Samyak-Bumb-Theme](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme) - 
@@ -2070,6 +2079,7 @@
 
 ## TypeScript 
 
+- [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
 - [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets) - Adds a section to copy snippet in GitHub repository page.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
 - [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
