@@ -182,6 +182,7 @@
 
 ## CSS 
 
+- [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
