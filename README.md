@@ -1511,7 +1511,6 @@
 - [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack) - This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 - [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset) - BetterTouchTool Preset
 - [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) - A VS Code theme
-- [lixonic/Shopify](https://github.com/lixonic/Shopify) - Shopify resources and code snippets
 - [thundernest/developer-docs](https://github.com/thundernest/developer-docs) - Developer documentation for Thunderbird contributors.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT) - MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
