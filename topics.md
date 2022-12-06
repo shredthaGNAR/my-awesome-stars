@@ -2403,7 +2403,6 @@
 - [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX) - Conversion exercise for Thunderbird MailExtensions
 - [valinet/IMAPNotes](https://github.com/valinet/IMAPNotes) - This is a simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app.
 - [117649/EasyDragToGoPlus-Redux](https://github.com/117649/EasyDragToGoPlus-Redux) - 
-- [GreezXII/BlackList](https://github.com/GreezXII/BlackList) - Black list for Thunderbird
 - [justreportit/thunderbird](https://github.com/justreportit/thunderbird) - Thunderbird plugin.
 - [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness) - Thunderbird add-on for visualizing rspamd spam scores.
 - [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
