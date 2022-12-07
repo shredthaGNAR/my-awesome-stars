@@ -585,6 +585,7 @@
 
 ## JavaScript 
 
+- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool) - UI for create-web-ext
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
@@ -1165,7 +1166,6 @@
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
-- [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces) - This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 - [hoyang/browse-later](https://github.com/hoyang/browse-later) - Browse later, a WebExtensions add-on.
 - [mdreier/savetabs](https://github.com/mdreier/savetabs) - Save current tabs extension for Firefox
 - [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
@@ -2206,6 +2206,7 @@
 - [littledata/shopify-tracker](https://github.com/littledata/shopify-tracker) - Littledata's tracking script for Shopify stores
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+- [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces) - This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 
 ## Vim Script 
