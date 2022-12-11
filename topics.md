@@ -738,6 +738,7 @@
 
 ## django 
 
+- [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 
 ## docker 
@@ -770,6 +771,7 @@
 
 ## electron 
 
+- [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
@@ -841,6 +843,7 @@
 
 ## firefox 
 
+- [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -1154,6 +1157,7 @@
 
 ## google 
 
+- [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [jmlntw/google-search-sidebar](https://github.com/jmlntw/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also search anything (selected text / image / link) on any engine with a simple right click or a variety of menus and shortcuts. Build with Reac
 - [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab) - Google Keep for Thunderbird
@@ -1199,6 +1203,7 @@
 
 ## hacktoberfest 
 
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1383,6 +1388,7 @@
 
 ## javascript 
 
+- [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript
 - [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator) - You can use this web application to more easily generate Box Shadow CSS!
 - [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator) - This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -1580,6 +1586,7 @@
 
 ## macos 
 
+- [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup) - List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -1828,6 +1835,7 @@
 
 ## music 
 
+- [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [CortexVacua/Youtube-MP3-Playlist-Downloader](https://github.com/CortexVacua/Youtube-MP3-Playlist-Downloader) - Let's you download entire YT-playlists.
@@ -1866,6 +1874,7 @@
 
 ## nodejs 
 
+- [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop) - Node.js version of the original Snapdrop
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -1970,6 +1979,10 @@
 
 ## others 
 
+- [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon) - My Versatile Hammerspoon Config
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
@@ -3314,6 +3327,7 @@
 
 ## reverse-engineering 
 
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 
 ## ruby 
@@ -3551,6 +3565,7 @@
 
 ## twitter 
 
+- [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
