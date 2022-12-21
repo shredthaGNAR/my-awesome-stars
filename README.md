@@ -1139,7 +1139,7 @@
 - [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr) - Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
 - [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
-- [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline Password Manager
+- [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List) - 
 - [vufly/dotfiles](https://github.com/vufly/dotfiles) - This is the place where I keep my configuration.
 - [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
@@ -1830,7 +1830,7 @@
 
 ## SCSS 
 
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox find bar by repositioning it, adjusting spacing & re-styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–109) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
