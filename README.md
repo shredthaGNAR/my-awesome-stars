@@ -565,7 +565,7 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
-- [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced - originally maintained by Vanced
+- [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing compileable classes referenced by ReVanced Patches - originally maintained by Vanced
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
@@ -788,7 +788,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
