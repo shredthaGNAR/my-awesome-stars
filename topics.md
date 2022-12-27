@@ -65,6 +65,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [google-cloud](#google-cloud)
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gulp](#gulp)
@@ -278,6 +279,7 @@
 
 ## awesome 
 
+- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -311,6 +313,7 @@
 
 ## awesome-list 
 
+- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -705,6 +708,7 @@
 
 ## data 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [aaronmeder/social-history](https://github.com/aaronmeder/social-history) - A quick look into your history on social media. Drop in the archives you've downloaded from Facebook and Instagram and see some stats about your time on the networks.
 
 ## data-structures 
@@ -746,6 +750,7 @@
 
 ## docker 
 
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [dnomd343/alltube_docker](https://github.com/dnomd343/alltube_docker) - Docker of AllTube Download
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
@@ -1180,12 +1185,17 @@
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 
+## google-cloud 
+
+- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
+
 ## gradle 
 
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 
 ## graphql 
 
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback) - The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 - [Maxvien/shopify-data-faker](https://github.com/Maxvien/shopify-data-faker) - 🛍 A Shopify development tool for generating dummy store data.
@@ -1208,6 +1218,7 @@
 
 ## hacktoberfest 
 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
@@ -1317,6 +1328,7 @@
 
 ## homebridge 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls) - Homebridge plugin for extended Logitech Circle camera controls
 
 ## html 
@@ -1869,6 +1881,7 @@
 
 ## nextjs 
 
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
 ## node 
@@ -1987,6 +2000,7 @@
 
 ## others 
 
+- [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder) - A plugin to Monitor a locale folder and import the files as a new note.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation) - 🗄 Documentation and guides for ReVanced Extended
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -3125,6 +3139,7 @@
 
 ## p2p 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [yjmp14/wulingate](https://github.com/yjmp14/wulingate) - A Cross-Platform Files Transfer Web App.
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 
@@ -3593,6 +3608,7 @@
 
 ## typescript 
 
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
