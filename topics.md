@@ -220,7 +220,7 @@
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink) - Angular CLI Seach All Social Media Profile Using an Email Account
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
@@ -235,7 +235,7 @@
 
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API) - Grabs direct mp4 link from amazon drive with filename and picture.
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
@@ -599,7 +599,7 @@
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme) - A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 
 ## code-quality 
 
@@ -756,7 +756,7 @@
 - [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl) - Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1065,7 +1065,7 @@
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
@@ -1251,7 +1251,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
@@ -1840,13 +1840,13 @@
 
 ## mongodb 
 
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
 ## mongoose 
 
 - [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper) - A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. W
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 
 ## monitoring 
 
@@ -1911,7 +1911,7 @@
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive) - Node SDK and CLI for Amazon's Cloud Drive
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -1999,6 +1999,8 @@
 
 ## others 
 
+- [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
+- [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
 - [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder) - A plugin to Monitor a locale folder and import the files as a new note.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation) - 🗄 Documentation and guides for ReVanced Extended
@@ -2031,7 +2033,7 @@
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
-- [aaronkollasch/jitouch](https://github.com/aaronkollasch/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+- [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
@@ -3354,7 +3356,7 @@
 
 ## rest-api 
 
-- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co (website)
 
 ## reverse-engineering 
 
