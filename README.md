@@ -187,6 +187,8 @@
 
 ## CSS 
 
+- [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
+- [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
 - [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
@@ -1781,7 +1783,7 @@
 - [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine) - Web app to search similar images
 - [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper) - This application is used for scraping images from google image search
 - [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities) - A collection of utility scripts for Notable https://notable.app/
-- [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
+- [excerebrose/image-match](https://github.com/excerebrose/image-match) - 🎇 Quickly search over billions of images
 - [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus) - discovery+ add-on for Kodi
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [slow-but-steady/yt-videos-list](https://github.com/slow-but-steady/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
