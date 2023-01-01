@@ -1328,7 +1328,6 @@
 
 ## homebridge 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
 - [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls) - Homebridge plugin for extended Logitech Circle camera controls
 
 ## html 
@@ -2575,7 +2574,7 @@
 - [bantunagarjuna/Real-time-data-storing-in-google-drive](https://github.com/bantunagarjuna/Real-time-data-storing-in-google-drive) - Storing the real time data to the personal google drive account.
 - [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action) - Github action to upload a file to Google Drive using a service account
 - [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred) - An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
-- [cheems/transfer-between-drives](https://github.com/cheems/transfer-between-drives) - This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
+- [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives) - This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 - [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader) - Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 - [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos) - This project is to build a image search system.
 - [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople) - Search images in your phone based in three photo of a person
