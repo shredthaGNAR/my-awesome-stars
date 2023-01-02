@@ -850,6 +850,7 @@
 
 ## firefox 
 
+- [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–109) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
@@ -1604,6 +1605,8 @@
 
 ## macos 
 
+- [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
+- [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
@@ -1942,6 +1945,7 @@
 
 ## objective-c 
 
+- [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
@@ -2000,6 +2004,8 @@
 
 ## others 
 
+- [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
+- [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
