@@ -306,6 +306,7 @@
 - [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css) - Firefox Proton userChrome.css customizations
 - [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock) - reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 - [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
+- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based peripheral community tool
 - [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
 - [mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) - Joplin Nord Sub-theme
 - [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox 96+ dark theme with a less cluttered UI
@@ -485,6 +486,7 @@
 
 ## HTML 
 
+- [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
 - [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator) - This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
 - [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro) - A free Plist Editor with some optional facilities for Clover UEFI boot loader
 - [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop) - Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or busine
@@ -601,6 +603,8 @@
 
 ## JavaScript 
 
+- [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
 - [gdepourtales/custom-tab-title-favicon](https://github.com/gdepourtales/custom-tab-title-favicon) - Firefox web extension to change the title and favicon of any tab depending on regular expressions applied to the tab address URL or title
 - [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
@@ -1303,6 +1307,7 @@
 
 ## Lua 
 
+- [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 - [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon) - My Versatile Hammerspoon Config
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
@@ -1332,6 +1337,8 @@
 
 ## Objective-C 
 
+- [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+- [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
@@ -1386,6 +1393,10 @@
 
 ## Others 
 
+- [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
+- [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
+- [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [WynStaXxx/my-awesome-starred](https://github.com/WynStaXxx/my-awesome-starred) - 
 - [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
 - [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
@@ -1836,6 +1847,7 @@
 
 ## Rust 
 
+- [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1863,6 +1875,7 @@
 
 ## Shell 
 
+- [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [tj/n](https://github.com/tj/n) - Node version management
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
@@ -2122,6 +2135,9 @@
 
 ## TypeScript 
 
+- [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
+- [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
+- [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder) - A plugin to Monitor a locale folder and import the files as a new note.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [notable/dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
@@ -2213,7 +2229,6 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based peripheral community tool
 - [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) - Allows to open several notes at once in tabs and pin them.
 - [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout) - Save editor layout (editor/split view/viewer/rich text) for each note separately.
 - [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites) - Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
@@ -2265,6 +2280,7 @@
 
 ## Vue 
 
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
