@@ -85,6 +85,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -279,6 +280,7 @@
 
 ## awesome 
 
+- [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -313,6 +315,7 @@
 
 ## awesome-list 
 
+- [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -596,6 +599,7 @@
 
 ## code 
 
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme) - A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
@@ -768,6 +772,7 @@
 
 ## documentation 
 
+- [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [tillig/mediacenter](https://github.com/tillig/mediacenter) - Documentation/info on my media center setup.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
@@ -778,6 +783,8 @@
 
 ## electron 
 
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -1104,6 +1111,8 @@
 
 ## github 
 
+- [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -1196,6 +1205,7 @@
 
 ## graphql 
 
+- [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback) - The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
@@ -1484,9 +1494,14 @@
 
 ## jekyll 
 
+- [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
 - [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net) - Source for devalias.net
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [panoply/vscode-liquid](https://github.com/panoply/vscode-liquid) - 💧Liquid language support for VS Code
+
+## jekyll-theme 
+
+- [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
 
 ## jquery 
 
@@ -1605,6 +1620,7 @@
 
 ## macos 
 
+- [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1808,6 +1824,7 @@
 
 ## markdown 
 
+- [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
 - [notable/dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 - [notable/html2markdown](https://github.com/notable/html2markdown) - A small function for converting HTML to Markdown.
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -1827,6 +1844,7 @@
 
 ## material-design 
 
+- [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus) - A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
@@ -2004,6 +2022,11 @@
 
 ## others 
 
+- [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
+- [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
+- [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
+- [WynStaXxx/my-awesome-starred](https://github.com/WynStaXxx/my-awesome-starred) - 
+- [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
@@ -3313,6 +3336,10 @@
 
 ## react 
 
+- [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
+- [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
+- [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [iposho/boxshadowru](https://github.com/iposho/boxshadowru) - A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -3345,6 +3372,7 @@
 
 ## reactjs 
 
+- [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also search anything (selected text / image / link) on any engine with a simple right click or a variety of menus and shortcuts. Build with Reac
@@ -3360,6 +3388,7 @@
 
 ## redux 
 
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## rest-api 
@@ -3381,6 +3410,7 @@
 
 ## rust 
 
+- [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -3617,6 +3647,7 @@
 
 ## typescript 
 
+- [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
@@ -3687,6 +3718,7 @@
 
 ## vue 
 
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad) - A Scratchpad for Joplin and MacOS and Linux
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
