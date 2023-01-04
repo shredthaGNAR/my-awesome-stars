@@ -75,6 +75,7 @@
 
 ## AppleScript 
 
+- [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool) - BetterTouchTool configuration
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
 - [heartshapedbox/macos-tweaks](https://github.com/heartshapedbox/macos-tweaks) - Useful tweaks via Automator (Folder Action, Workflow, Service) for MacOS.
@@ -159,6 +160,7 @@
 
 ## C++ 
 
+- [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline) - A basic client for Pocketbook to read and modify Pocket items
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman) - Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
@@ -486,6 +488,8 @@
 
 ## HTML 
 
+- [aerobless/bookmarks](https://github.com/aerobless/bookmarks) - Personal browser launch page. Made with static-marks.
+- [ksclarke/static-marks-action](https://github.com/ksclarke/static-marks-action) - A GitHub Action wrapper for the static-marks project
 - [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
 - [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator) - This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
 - [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro) - A free Plist Editor with some optional facilities for Clover UEFI boot loader
@@ -1337,6 +1341,7 @@
 
 ## Objective-C 
 
+- [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 - [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
@@ -1393,6 +1398,7 @@
 
 ## Others 
 
+- [psequel/psequel](https://github.com/psequel/psequel) - Free PostgreSQL GUI tool for macOS.
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
 - [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -1500,7 +1506,6 @@
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts) - this is a custom script repository,
 - [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to) - How to configure Mozilla Thunderbird
-- [WynStaXxx/awesome-stars](https://github.com/WynStaXxx/awesome-stars) - 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -1620,6 +1625,8 @@
 
 ## Python 
 
+- [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
+- [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
@@ -1814,6 +1821,7 @@
 
 ## Ruby 
 
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
@@ -1828,7 +1836,7 @@
 - [raleycs/alfred-ytsuggest](https://github.com/raleycs/alfred-ytsuggest) - Alfred Workflow to get search suggestions from YouTube.
 - [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby) - Ruby wrapper for the Pocket REST and Search APIs
 - [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface) - Sinatra-based web interface for pocket api
-- [vandergit/product-comparison](https://github.com/vandergit/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
+- [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 - [algolia/facebook-search](https://github.com/algolia/facebook-search) - Facebook Feed Search powered by Algolia
 - [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons) - Customize your icons on macOS 🔧
 - [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
@@ -1875,6 +1883,8 @@
 
 ## Shell 
 
+- [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
+- [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [tj/n](https://github.com/tj/n) - Node version management
@@ -2025,6 +2035,8 @@
 
 ## Swift 
 
+- [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
+- [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
@@ -2135,6 +2147,8 @@
 
 ## TypeScript 
 
+- [aerobless/static-marks-raycast](https://github.com/aerobless/static-marks-raycast) - 
+- [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode) - Git History for Visual Studio Code
 - [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
