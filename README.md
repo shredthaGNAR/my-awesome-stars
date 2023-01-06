@@ -112,7 +112,6 @@
 - [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
-- [david-hoicka/OneTab-backup](https://github.com/david-hoicka/OneTab-backup) - backup OneTab datafile using robocopy
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 
 ## C 
@@ -509,7 +508,7 @@
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - Sweet Dracula + Monokai syntax highlighting for VSCode
+- [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VSCode
 - [donspablo/Google-Drive-Direct](https://github.com/donspablo/Google-Drive-Direct) - The Google Drive Direct Bookmarklet is a bookmark that allows you to input a download URL and have it added directly to your Google Drive almost instantly, without using your bandwidth. Its really eas
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [pvpscript/savetabs](https://github.com/pvpscript/savetabs) - A web browser extension that allows the user to save every tab's url to a file
@@ -992,7 +991,6 @@
 - [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons) - Quick Seat/Automated Tiling/Hotkey Tool
 - [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle) - A Firefox extension to allow a user to toggle custom userchrome styles
 - [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab) - Like OneTab, but darker.
-- [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab) - Onetab extension unofuscated with a few keyboard shortcuts added.
 - [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync) - Command line utility for sync and backup OneTab Chrome extension data.
 - [njnmco/odinochka](https://github.com/njnmco/odinochka) - featherweight tab manager
 - [bnpoirier/foxify](https://github.com/bnpoirier/foxify) - Converts Chrome extensions to Firefox
@@ -1386,7 +1384,7 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
-- [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+- [artginzburg/MiddleClick-Ventura](https://github.com/artginzburg/MiddleClick-Ventura) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) - Development of BetterTouchTool Plugins
 - [maccman/macgap-rb](https://github.com/maccman/macgap-rb) - Generator for MacGap
 
@@ -1398,6 +1396,7 @@
 
 ## Others 
 
+- [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket) - Bookmarklet sending OneTab links to Pocket
 - [psequel/psequel](https://github.com/psequel/psequel) - Free PostgreSQL GUI tool for macOS.
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
 - [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
@@ -1625,6 +1624,7 @@
 
 ## Python 
 
+- [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
@@ -1804,7 +1804,7 @@
 - [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine) - Web app to search similar images
 - [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper) - This application is used for scraping images from google image search
 - [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities) - A collection of utility scripts for Notable https://notable.app/
-- [excerebrose/image-match](https://github.com/excerebrose/image-match) - 🎇 Quickly search over billions of images
+- [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus) - discovery+ add-on for Kodi
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [slow-but-steady/yt-videos-list](https://github.com/slow-but-steady/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
@@ -1897,7 +1897,7 @@
 - [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Z Colors uses your $LS_COLORS to generate a coherent theme for Git and your Zsh prompt, command line and completions.
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
