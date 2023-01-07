@@ -116,6 +116,7 @@
 
 ## C 
 
+- [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -449,6 +450,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
 - [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json) - 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
@@ -606,6 +608,7 @@
 
 ## JavaScript 
 
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu) - WebExtension allow to execute bookmarklets as privileged scripts
@@ -1203,7 +1206,7 @@
 - [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig) - Firefox privacy configuration (help + user.js)
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
-- [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 600+ privacy features + userChrome.css file.
+- [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
 - [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations) - An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
@@ -1624,6 +1627,8 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
@@ -1883,6 +1888,7 @@
 
 ## Shell 
 
+- [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
