@@ -609,6 +609,7 @@
 
 ## JavaScript 
 
+- [mdawsondev/github-advanced](https://github.com/mdawsondev/github-advanced) - Adds various enhancements to GitHub.
 - [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView) - Browser extension that hides watched YouTube™ videos.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
@@ -1477,7 +1478,7 @@
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · A comprehensive black hole for ads and analytics
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
-- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
+- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 - [fastaddons/Darko](https://github.com/fastaddons/Darko) - 
 - [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar) - Minimalist Touch Bar setup
