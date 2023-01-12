@@ -783,7 +783,6 @@
 - [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs) - firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
 - [harv/userChromeJS](https://github.com/harv/userChromeJS) - My userChromeJS scripts!
-- [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant for switching search engines, can also search anything (selected text / image / link) on any engine with a simple right click or a variety of menus and shortcuts. Build with Reac
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - 
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
@@ -1803,7 +1802,7 @@
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum) - Removes attachments (resources) that are not referred in Joplin.
-- [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - RTMP/RTSP/LL-HLS bridge for Wyze cams in a docker container
+- [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [Asteezy24/ShopifyCheckout](https://github.com/Asteezy24/ShopifyCheckout) - Bringing automated checkout to your favorite shopify websites
 - [mzama/ShopifyInventoryChecker](https://github.com/mzama/ShopifyInventoryChecker) - A simple python script to check a Shopify store's inventory for a particular product, and send an email notification if the product is available.
 - [jimmyxu/circle](https://github.com/jimmyxu/circle) - Logi Circle video downloader
