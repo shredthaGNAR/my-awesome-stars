@@ -476,7 +476,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [lobre/pocket2notion](https://github.com/lobre/pocket2notion) - Tool for migrating Pocket items to Notion
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss) - A CLI interface to apply and configure FirefoxCSS themes
@@ -1890,6 +1890,7 @@
 
 ## Shell 
 
+- [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) - Custom plugin for Oh My Zsh with youtube-dl aliases
 - [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
