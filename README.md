@@ -454,7 +454,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide
+- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 - [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json) - 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -592,7 +592,6 @@
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred) - Raspberry pi webcam and motion sensor project
 - [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial) - remove commercial and detect logo in video
-- [eclipsesource/megit](https://github.com/eclipsesource/megit) - Standalone Git GUI based on EGit
 - [erickok/transdroid-search](https://github.com/erickok/transdroid-search) - Cross-app torrent search results provider for Android
 - [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur) - Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
 - [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker) - Content blocking extension for Samsung Internet and Yandex Browser
@@ -1046,7 +1045,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[490 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1411,6 +1410,11 @@
 
 ## Others 
 
+- [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
+- [dkarter/alfred-switch-audio](https://github.com/dkarter/alfred-switch-audio) - 🔊 Switch Audio Output/Input with Alfred
+- [lloydi/Keyboard-Maestro-Web-Dev-Macros](https://github.com/lloydi/Keyboard-Maestro-Web-Dev-Macros) - A collection of Keyboard Maestro text expansion macros
+- [craser/KeyboardMaestroMacros](https://github.com/craser/KeyboardMaestroMacros) - Public Keyboard Maestro Macros
+- [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery) - Original macOS Keyboard Maestro actions by Minja.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket) - Bookmarklet sending OneTab links to Pocket
