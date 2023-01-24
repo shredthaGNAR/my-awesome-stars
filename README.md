@@ -150,7 +150,7 @@
 ## C# # 
 
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
-- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -190,6 +190,7 @@
 
 ## CSS 
 
+- [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant) - 
 - [krisu5/userstyles](https://github.com/krisu5/userstyles) - UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
@@ -619,6 +620,7 @@
 
 ## JavaScript 
 
+- [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts) - Collection of all my UserScripts
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [Aholicknight/IMDb-Scout](https://github.com/Aholicknight/IMDb-Scout) - Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds exter
@@ -1052,7 +1054,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) Enrich Your Experience & Content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1653,6 +1655,7 @@
 
 ## Python 
 
+- [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
 - [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync) - 
 - [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger) - 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
 - [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats) - A tool to analyze your Pocket reading list.
