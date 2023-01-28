@@ -462,6 +462,7 @@
 
 ## chrome-extension 
 
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
@@ -1144,6 +1145,7 @@
 
 ## github 
 
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
@@ -1604,7 +1606,6 @@
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
-- [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 
 ## linux 
@@ -2103,6 +2104,8 @@
 
 ## others 
 
+- [numist/Switch](https://github.com/numist/Switch) - A window-based context switcher for the Mac
+- [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
 - [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 - [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript) - Mashup Font of FiraCode and Script12
@@ -2792,7 +2795,7 @@
 - [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar) - Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 - [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs) - thunderbird webextentions
 - [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-) - Light theme on Firefox
-- [marcel-kraatz/alpenglow-thunderbird](https://github.com/marcel-kraatz/alpenglow-thunderbird) - The Firefox "Alpenglow" Theme for Thunderbird.
+- [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird) - The Firefox "Alpenglow" Theme for Thunderbird.
 - [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search) - ⚡ Instantly search for the availability of your username on more than 100 social media sites.
 - [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
@@ -3884,7 +3887,6 @@
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU) - macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
-- [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
