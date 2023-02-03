@@ -469,7 +469,6 @@
 - [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [L11R/go-autoconfig](https://github.com/L11R/go-autoconfig) - IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 - [tardisx/gropple](https://github.com/tardisx/gropple) - Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1664,6 +1663,7 @@
 
 ## Python 
 
+- [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
