@@ -164,6 +164,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -262,6 +263,7 @@
 
 ## automation 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
@@ -324,7 +326,6 @@
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -1199,7 +1200,6 @@
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
 - [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper) - Remove duplicates from your Pocket list.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) - Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, macOS, Windows. iOS version available.
@@ -1426,7 +1426,6 @@
 
 ## http 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
@@ -1901,7 +1900,7 @@
 - [notable/html2markdown](https://github.com/notable/html2markdown) - A small function for converting HTML to Markdown.
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
-- [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. (Please look at the develop branch for contributing!)
+- [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - ReMoods is a multi-purpose theming plugin for the open-source notetaking app Joplin.
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
@@ -2229,9 +2228,9 @@
 - [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons) - Google Search Extra Buttons
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - 
-- [aecreations/clippings](https://github.com/aecreations/clippings) - Clippings: an add-on for Mozilla Firefox
+- [aecreations/clippings](https://github.com/aecreations/clippings) - Clippings: an extension for Mozilla Firefox
 - [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb) - Clippings for Thunderbird
-- [aecreations/readnext](https://github.com/aecreations/readnext) - Read Next: an add-on for Mozilla Firefox
+- [aecreations/readnext](https://github.com/aecreations/readnext) - Read Next: an extension for Mozilla Firefox
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
@@ -3829,6 +3828,10 @@
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+
+## vagrant 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 
 ## vim 
 
