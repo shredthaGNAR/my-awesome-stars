@@ -655,6 +655,7 @@
 
 ## css 
 
+- [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator) - You can use this web application to more easily generate Box Shadow CSS!
 - [iposho/boxshadowru](https://github.com/iposho/boxshadowru) - A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
@@ -891,6 +892,7 @@
 
 ## firefox 
 
+- [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant) - 
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
@@ -1679,6 +1681,7 @@
 
 ## macos 
 
+- [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension) - Source code of SingleFile for Safari
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
@@ -2046,6 +2049,7 @@
 
 ## objective-c 
 
+- [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
@@ -2106,6 +2110,9 @@
 
 ## others 
 
+- [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
+- [steventheworker/applescripts](https://github.com/steventheworker/applescripts) - This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
+- [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home) - website for DockAltTab
 - [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater) - An auto-updater for ShadowFox
 - [numist/Switch](https://github.com/numist/Switch) - A window-based context switcher for the Mac
 - [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
