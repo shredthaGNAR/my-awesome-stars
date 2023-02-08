@@ -701,7 +701,7 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
-- [insin/tweak-new-twitter](https://github.com/insin/tweak-new-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome / Firefox / Opera plugin for wallabag v2.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
@@ -1060,7 +1060,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video d
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing: 10+years][👨‍👩‍👧‍👧Please make Docu./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1551,7 +1551,7 @@
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
-- [code0312/VSCode-Theme-Snazzy](https://github.com/code0312/VSCode-Theme-Snazzy) - 
+- [benhcai/VSCode-Theme-Snazzy](https://github.com/benhcai/VSCode-Theme-Snazzy) - 
 - [xDae/vscode-snazzy-theme](https://github.com/xDae/vscode-snazzy-theme) - 🎨 VS Code theme based on hyper-snazzy with bright colors
 - [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono) - Operator Mono Font
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
