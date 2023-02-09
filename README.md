@@ -1666,6 +1666,7 @@
 
 ## Python 
 
+- [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
@@ -2244,7 +2245,7 @@
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
-- [HuiiBuh/InstagramDownloader](https://github.com/HuiiBuh/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
+- [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
