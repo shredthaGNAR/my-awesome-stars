@@ -624,6 +624,7 @@
 
 ## JavaScript 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension) - Source code of SingleFile for Safari
 - [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons) - Firefox addons for GitZip
@@ -701,7 +702,7 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
-- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome / Firefox / Opera plugin for wallabag v2.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
