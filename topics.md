@@ -489,7 +489,7 @@
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
-- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
@@ -2111,6 +2111,7 @@
 
 ## others 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
 - [steventheworker/applescripts](https://github.com/steventheworker/applescripts) - This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
@@ -3797,7 +3798,7 @@
 
 - [krisu5/userstyles](https://github.com/krisu5/userstyles) - UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
-- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
