@@ -1667,6 +1667,7 @@
 
 ## Python 
 
+- [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools) - Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows.
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
