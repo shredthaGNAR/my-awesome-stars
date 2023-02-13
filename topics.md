@@ -204,7 +204,7 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820) - Unified kernel tree for S10 and Note10 devices
@@ -1088,6 +1088,7 @@
 
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 
@@ -1697,6 +1698,7 @@
 - [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on MacOS.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup) - List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -2182,7 +2184,6 @@
 - [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Emulate Cmd-Tab to switch apps with trackpad on macOS.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
