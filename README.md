@@ -560,7 +560,7 @@
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature) - A gmail signature I made
 - [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature) - 
-- [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature) - Email signature
+- [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature) - Email signature
 - [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature) - a jQuery based email signature generator
 - [ineat/signature](https://github.com/ineat/signature) - How to have a nice signature for emails
 - [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature) - :rabbit: Most elegant looking Gmail Signature in the world :metal:
