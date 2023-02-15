@@ -3054,7 +3054,7 @@
 - [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme) - My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 - [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature) - A gmail signature I made
 - [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature) - 
-- [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature) - Email signature
+- [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature) - Email signature
 - [ineat/signature](https://github.com/ineat/signature) - How to have a nice signature for emails
 - [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature) - :rabbit: Most elegant looking Gmail Signature in the world :metal:
 - [taroontyagi/email-signature](https://github.com/taroontyagi/email-signature) - Retire those uncool email signatures, use the template to customize and create your won cool email signature.
