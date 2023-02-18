@@ -67,6 +67,7 @@
 - [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv) - 
 - [uBlock-user/uBO-Personal-Filters](https://github.com/uBlock-user/uBO-Personal-Filters) - A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 - [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001) - My filter lists - feel free to add these lists to uBlock Origin
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters) - uBlock Origin Filters
 - [Yuki2718/adblock](https://github.com/Yuki2718/adblock) - Personal filters and rules for AdGuard/uBlock Origin
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
@@ -1512,7 +1513,6 @@
 - [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows) - MacOS Automator Workflows for PDFs, images, and more
 - [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader) - Alfred Workflow to download YouTube videos
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · A comprehensive black hole for ads and analytics
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
