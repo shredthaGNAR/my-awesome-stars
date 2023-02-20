@@ -282,7 +282,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
-- [slow-but-steady/yt-videos-list](https://github.com/slow-but-steady/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
+- [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
 
 ## awesome 
 
@@ -1462,7 +1462,6 @@
 
 ## iot 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow) - An Alfred workflow for controlling Philips Hue lights.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -2174,6 +2173,7 @@
 - [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
 - [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder) - A plugin to Monitor a locale folder and import the files as a new note.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [tj/n](https://github.com/tj/n) - Node version management
 - [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation) - 🗄 Documentation and guides for ReVanced Extended
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
