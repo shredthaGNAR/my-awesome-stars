@@ -316,7 +316,7 @@
 - [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
 - [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme) - My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
 - [mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) - Joplin Nord Sub-theme
-- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox 96+ dark theme with a less cluttered UI
+- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome) - userChrome.css to restore the classic Photon look on Firefox 91+
 - [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme) - Clean, transparent firefox theme
 - [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css) - 📝 My custom styles for Joplin, the open source note taking app
@@ -1141,7 +1141,6 @@
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients) - An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
-- [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities) - Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki.
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
@@ -2336,6 +2335,7 @@
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [mjmlio/vscode-mjml](https://github.com/mjmlio/vscode-mjml) - MJML preview, lint, compile for Visual Studio Code.
+- [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities) - Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code
 - [AnCIity/css-smart](https://github.com/AnCIity/css-smart) - a smart css helpers.
