@@ -690,7 +690,7 @@
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
 - [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 - [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock) - reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
-- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox 96+ dark theme with a less cluttered UI
+- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css) - 📝 My custom styles for Joplin, the open source note taking app
 - [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator) - Email Signature Generator - React & Firebase
 - [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator) - html email signature generator
@@ -1008,7 +1008,7 @@
 - [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 - [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock) - reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
-- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox 96+ dark theme with a less cluttered UI
+- [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 - [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff102) 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No server needed) 大术专搜 既专又广 手敲几下 纵横去往
