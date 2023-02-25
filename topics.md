@@ -3090,7 +3090,7 @@
 - [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom) - A modified version of Andreas Grafen's "ag-proton" design for firefox
 - [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities) - Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
-- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki.
+- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss) - A CLI interface to apply and configure FirefoxCSS themes
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
 - [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode) - Little theme for the onetab page to make it less eye raping.
