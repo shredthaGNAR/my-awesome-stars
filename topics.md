@@ -1594,6 +1594,7 @@
 
 ## kotlin 
 
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
 
 ## kubernetes 
