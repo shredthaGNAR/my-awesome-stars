@@ -286,7 +286,7 @@
 - [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style) - Firefox CSS theme inspired by Safari
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css) - 
-- [m3tro1d/firefox-config](https://github.com/m3tro1d/firefox-config) - My Firefox configuration
+- [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
 - [AlfarexGuy2019/GentleFox](https://github.com/AlfarexGuy2019/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
 - [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome) - This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
@@ -1666,6 +1666,7 @@
 
 ## Python 
 
+- [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone) - Toggle and display battery info of apple wireless headphones on the touch bar
 - [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools) - Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows.
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
@@ -1734,7 +1735,6 @@
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
-- [noonchen/BTT_MacUsage](https://github.com/noonchen/BTT_MacUsage) - A BetterTouchTool preset that displays network speed (more to come...) on Touch Bar
 - [gietema/bookmarks](https://github.com/gietema/bookmarks) - Script that syncs pocket to my bookmarks page
 - [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep) - Copy bookmarks from Google Keep into Pocket/Instapaper
 - [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized) - SingleFile docker implementation providing access via CLI and WEB service
@@ -2101,6 +2101,7 @@
 
 ## Swift 
 
+- [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
 - [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
