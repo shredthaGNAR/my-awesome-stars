@@ -118,6 +118,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
@@ -163,6 +164,7 @@
 
 ## C++ 
 
+- [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 - [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline) - A basic client for Pocketbook to read and modify Pocket items
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman) - Vodman lets you download videos (VODs) from the internet to your SailfishOS device
@@ -456,6 +458,7 @@
 
 ## Go 
 
+- [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater) - An auto-updater for ShadowFox
 - [Phantas0s/gocket](https://github.com/Phantas0s/gocket) - 💼 CLI / TUI for Pocket
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
@@ -625,6 +628,10 @@
 
 ## JavaScript 
 
+- [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
+- [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
+- [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
+- [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab) - 
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension) - Source code of SingleFile for Safari
 - [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
@@ -1666,6 +1673,8 @@
 
 ## Python 
 
+- [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
+- [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone) - Toggle and display battery info of apple wireless headphones on the touch bar
 - [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools) - Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows.
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
@@ -2256,7 +2265,7 @@
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
