@@ -381,7 +381,7 @@
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
-- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
+- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
@@ -555,7 +555,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander) - A two-panel bookmarks manager which is similar to the well-known Total Commander.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
-- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No server needed) 大术专搜 既专又广 手敲几下 纵横去往
+- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader) - Chrome manifest loader for webpack
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs) - Export and Import Tabs with Cross-Browser support.
@@ -1018,7 +1018,7 @@
 - [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 - [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff102) 📋🖱️🔗
-- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No server needed) 大术专搜 既专又广 手敲几下 纵横去往
+- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff102) 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
@@ -1140,7 +1140,7 @@
 
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
-- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
+- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -1643,6 +1643,7 @@
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad) - A Scratchpad for Joplin and MacOS and Linux
@@ -3689,7 +3690,7 @@
 
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
-- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
+- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -3844,7 +3845,7 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
-- [deinsoftware/zsh-dev-toolkit](https://github.com/deinsoftware/zsh-dev-toolkit) - ZSH setup and productivity tools for development
+- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
