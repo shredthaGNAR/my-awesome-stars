@@ -1951,7 +1951,6 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
-- [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager) - 🔑👨‍💻macOS Password Manager
@@ -2124,7 +2123,6 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment) - A free, open source tool to lookup user identities by email address
-- [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 
 ## objective-c 
 
@@ -2189,6 +2187,8 @@
 
 ## others 
 
+- [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AidPods battery btt widget for macOS Ventura
+- [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar) -  Spotify touchbar widget for Macbook touchbar
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
 - [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
@@ -3037,7 +3037,7 @@
 - [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark) - From pocket to chrome bookmarks
 - [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features) - 
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
-- [photodiode/panorama-view](https://github.com/photodiode/panorama-view) - Add-on for Firefox letting you organize tabs and tab groups visually in one place
+- [photodiode/panorama-view](https://github.com/photodiode/panorama-view) - Add-on for Firefox letting you organize tabs and tab groups visually
 - [suliveevil/Capslock](https://github.com/suliveevil/Capslock) - ultimate macOS keyboard re-mapping
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [demtario/hes-gallery](https://github.com/demtario/hes-gallery) - Light, dependency free, responsive gallery script
