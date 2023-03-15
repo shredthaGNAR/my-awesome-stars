@@ -76,6 +76,7 @@
 
 ## AppleScript 
 
+- [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar) -  Spotify touchbar widget for Macbook touchbar
 - [steventheworker/applescripts](https://github.com/steventheworker/applescripts) - This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
 - [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool) - BetterTouchTool configuration
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
@@ -1096,7 +1097,7 @@
 - [coolaj86/dropshare](https://github.com/coolaj86/dropshare) - A min.us / ge.tt file share clone.
 - [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark) - From pocket to chrome bookmarks
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [photodiode/panorama-view](https://github.com/photodiode/panorama-view) - Add-on for Firefox letting you organize tabs and tab groups visually in one place
+- [photodiode/panorama-view](https://github.com/photodiode/panorama-view) - Add-on for Firefox letting you organize tabs and tab groups visually
 - [demtario/hes-gallery](https://github.com/demtario/hes-gallery) - Light, dependency free, responsive gallery script
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups) - 
@@ -1189,7 +1190,6 @@
 - [jobisoft/quicktext](https://github.com/jobisoft/quicktext) - An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr) - Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
-- [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard) - Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List) - 
@@ -1953,6 +1953,7 @@
 
 ## Shell 
 
+- [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AidPods battery btt widget for macOS Ventura
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins) - Plugin for oh-my-zsh to automatically update custom-plugins
