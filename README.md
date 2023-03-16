@@ -1012,7 +1012,7 @@
 - [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar) - Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 - [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks) - Public task repository for Mechanic (https://mechanic.dev)
 - [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search) - ⚡ Instantly search for the availability of your username on more than 100 social media sites.
-- [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
+- [robomx/WebIDHunt](https://github.com/robomx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
 - [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment) - A free, open source tool to lookup user identities by email address
 - [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation) - This is a website where user can perform Address Verification.
 - [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus) - A userscript/extension which can linkify almost everything. Based on Linkify Plus.
@@ -1936,7 +1936,7 @@
 
 ## SCSS 
 
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–111) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–112) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
