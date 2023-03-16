@@ -908,7 +908,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–111) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–112) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -2886,7 +2886,7 @@
 - [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-) - Light theme on Firefox
 - [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird) - The Firefox "Alpenglow" Theme for Thunderbird.
 - [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search) - ⚡ Instantly search for the availability of your username on more than 100 social media sites.
-- [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
+- [robomx/WebIDHunt](https://github.com/robomx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester) - Email addresses harvester
 - [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup) - A search tool that can find exposed email addresses and mobile numbers on Internet.
