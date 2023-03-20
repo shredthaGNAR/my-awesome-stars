@@ -1126,7 +1126,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
 ## game 
@@ -1531,7 +1531,7 @@
 - [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB) - Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard) - This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
 - [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive) - 🗄 Access, organize, and manage several Google Drive accounts in one place.
@@ -1634,7 +1634,7 @@
 
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library.
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 
@@ -3272,7 +3272,7 @@
 - [thundernest/developer-docs](https://github.com/thundernest/developer-docs) - Developer documentation for Thunderbird contributors.
 - [jobisoft/quicktext](https://github.com/jobisoft/quicktext) - An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 - [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix) - learning to make safari style for firefox
-- [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr) - Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
+- [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr) - Exif viewer WebExtension for Firefox and compatible webbrowsers
 - [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars) - :star: A curated list of my GitHub stars
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
 - [adi6409/browser-ff](https://github.com/adi6409/browser-ff) - 
@@ -3578,7 +3578,7 @@
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix) - 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive) - 🗄 Access, organize, and manage several Google Drive accounts in one place.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 - [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter) - 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
