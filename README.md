@@ -452,7 +452,7 @@
 ## Dockerfile 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
-- [dnomd343/alltube_docker](https://github.com/dnomd343/alltube_docker) - Docker of AllTube Download
+- [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker) - Docker of AllTube Download
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
 
 ## Emacs Lisp 
@@ -1731,7 +1731,7 @@
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
-- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [pesc101/SortRobot](https://github.com/pesc101/SortRobot) - Python script to sort the mac download dir automatially
 - [Roman2K/youtube-dl-ios](https://github.com/Roman2K/youtube-dl-ios) - youtube-dl for iOS, with Pythonista and Shortcuts
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
