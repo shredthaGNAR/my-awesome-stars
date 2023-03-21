@@ -799,7 +799,7 @@
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
-- [dnomd343/alltube_docker](https://github.com/dnomd343/alltube_docker) - Docker of AllTube Download
+- [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker) - Docker of AllTube Download
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
 - [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl) - Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
@@ -3462,7 +3462,7 @@
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
-- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
 - [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial) - Access parts of your account unavailable through normal YouTube API access.
