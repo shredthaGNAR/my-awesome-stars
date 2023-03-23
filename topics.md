@@ -2737,7 +2737,6 @@
 - [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess) - WebExtension to make your tabs clean
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community) - Bug reports and discussion for the Rectangle Pro app
-- [rxhanson/ModMove](https://github.com/rxhanson/ModMove) - Move/Resize windows using modifiers and the mouse
 - [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader) - Script gets you access to download private videos on Vimeo
 - [TDenisM/widevinedump](https://github.com/TDenisM/widevinedump) - 
 - [newville/pyshortcuts](https://github.com/newville/pyshortcuts) - create desktop shortcuts to python scripts on Windows, Mac, or Linux
