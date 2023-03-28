@@ -465,7 +465,7 @@
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
-- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
+- [code-charity/ToDo](https://github.com/code-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
@@ -550,7 +550,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+Lean Features][📌Longest-standing since 2012][Please👨‍👩‍👧‍👧make Docum./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide 'related vide
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide related video
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -571,7 +571,7 @@
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
-- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
+- [code-charity/ToDo](https://github.com/code-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
@@ -691,7 +691,7 @@
 - [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 - [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme) - The Ultimate Dark Theme for Google.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+Lean Features][📌Longest-standing since 2012][Please👨‍👩‍👧‍👧make Docum./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide 'related vide
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide related video
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
@@ -908,6 +908,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
+- [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–112) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
@@ -1054,7 +1055,7 @@
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
-- [code-for-charity/ToDo](https://github.com/code-for-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
+- [code-charity/ToDo](https://github.com/code-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
 - [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
@@ -2073,7 +2074,7 @@
 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -2252,7 +2253,6 @@
 - [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
-- [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
 - [JackGruber/joplin-plugin-hotfolder](https://github.com/JackGruber/joplin-plugin-hotfolder) - A plugin to Monitor a locale folder and import the files as a new note.
@@ -3686,7 +3686,7 @@
 
 ## server 
 
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 
