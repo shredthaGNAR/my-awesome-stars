@@ -46,6 +46,7 @@
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Pug](#pug)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -158,7 +159,6 @@
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) - MelonLoader mod that bypasses the checksum at login to allow modified files in official servers.
 - [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople) - Search images in your phone based in three photo of a person
 - [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) - CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
 - [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui) - Download/Convert videos from websites without needing to learn command line
@@ -631,6 +631,7 @@
 
 ## JavaScript 
 
+- [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
 - [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
@@ -1628,6 +1629,7 @@
 
 ## PHP 
 
+- [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator) - Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [knowfox/pocket](https://github.com/knowfox/pocket) - Knowfox: Retrieve bookmarks from getpocket.com
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -1671,6 +1673,10 @@
 ## Pug 
 
 - [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator) - You can use this web application to more easily generate Box Shadow CSS!
+
+## PureBasic 
+
+- [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
 
 ## Python 
 
@@ -1955,6 +1961,7 @@
 
 ## Shell 
 
+- [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - An automator utility to manage the sync of your files in iCloud.
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AidPods battery btt widget for macOS Ventura
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
