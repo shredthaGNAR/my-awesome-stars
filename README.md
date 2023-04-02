@@ -593,6 +593,7 @@
 
 ## Haskell 
 
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
@@ -2003,7 +2004,6 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
-- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
