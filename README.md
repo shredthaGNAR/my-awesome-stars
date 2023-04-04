@@ -579,7 +579,6 @@
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients) - Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [marcel-judth/Web_Shopify-Buy-Button-Demo](https://github.com/marcel-judth/Web_Shopify-Buy-Button-Demo) - 
 - [kayspiegel/shopify-notification-templates-l10n](https://github.com/kayspiegel/shopify-notification-templates-l10n) - Sometimes you need the Shopify Notification Templates in a different language than english. Starting this repo to collect some other languages. Starting with german. Want to contribute?
@@ -1154,6 +1153,7 @@
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater) - A webextension tool to update multiple bookmarks at once
@@ -1720,7 +1720,6 @@
 - [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation) - Automated Python Script to backup your OneTab data
 - [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
 - [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite) - Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
-- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber) - Get unencrypted 'Saved Password' from Google Chrome
 - [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
@@ -1937,6 +1936,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [bltavares/pickpocket](https://github.com/bltavares/pickpocket) - Pocket CLI management tools
 - [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d) - Seed project for 2D games
 - [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
