@@ -40,6 +40,7 @@
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [design](#design)
 - [discord](#discord)
 - [django](#django)
@@ -773,6 +774,10 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
+
+## deno 
+
+- [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 
 ## design 
 
