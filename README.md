@@ -638,6 +638,7 @@
 
 ## JavaScript 
 
+- [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme) - Jekyll theme based on Freelancer Start Bootstrap theme
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
 - [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
@@ -1272,6 +1273,7 @@
 
 ## Kotlin 
 
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
@@ -1955,6 +1957,7 @@
 
 ## SCSS 
 
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–113) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
@@ -1972,6 +1975,7 @@
 
 ## Shell 
 
+- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
 - [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - An automator utility to manage the sync of your files in iCloud.
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AidPods battery btt widget for macOS Ventura
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -2410,6 +2414,7 @@
 
 ## Vue 
 
+- [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - One Tab Group | A Chrome extension for reorganizing your open tabs, restoring saved tab sessions, and also restoring tab groups.
