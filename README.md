@@ -493,7 +493,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, macOS, Windows. iOS version available.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. Linux, macOS, Windows. iOS version available.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [lobre/pocket2notion](https://github.com/lobre/pocket2notion) - Tool for migrating Pocket items to Notion
@@ -1824,7 +1824,7 @@
 - [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis) - Visualizations of Facebook messenger history
 - [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser) - An application for parsing chat history from a Facebook data archive.
 - [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker) - Manage & generate prefs.js files
-- [JoshCode94/Firefox-History-Combiner](https://github.com/JoshCode94/Firefox-History-Combiner) - 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
+- [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner) - 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
 - [AussieSeaweed/pokerface](https://github.com/AussieSeaweed/pokerface) - A Python package for various poker tools
 - [visini/timebox](https://github.com/visini/timebox) - A Custom Pomodoro macOS Menubar App with Things 3 integration
@@ -1859,6 +1859,7 @@
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt) - Bridge Cync bluetooth mesh to mqtt
+- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 - [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
@@ -1975,6 +1976,7 @@
 
 ## Shell 
 
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
 - [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - An automator utility to manage the sync of your files in iCloud.
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AidPods battery btt widget for macOS Ventura
@@ -2353,7 +2355,6 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink) - Angular CLI Seach All Social Media Profile Using an Email Account
 - [avindra/fndr](https://github.com/avindra/fndr) - An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 - [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli) - CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
