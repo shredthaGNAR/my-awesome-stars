@@ -23,7 +23,6 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -430,10 +429,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
-
-## chatgpt 
-
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including ChatGPT, WireGuard, Automation, 
 
 ## chrome 
 
@@ -1410,7 +1405,7 @@
 
 ## home-assistant 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including ChatGPT, WireGuard, Automation, 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights) - Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 - [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar) - Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
@@ -1508,6 +1503,7 @@
 
 ## iot 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [benknight/hue-alfred-workflow](https://github.com/benknight/hue-alfred-workflow) - An Alfred workflow for controlling Philips Hue lights.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -3420,7 +3416,7 @@
 ## p2p 
 
 - [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds exter
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including ChatGPT, WireGuard, Automation, 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [yjmp14/wulingate](https://github.com/yjmp14/wulingate) - A Cross-Platform Files Transfer Web App.
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 
