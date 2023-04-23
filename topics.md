@@ -49,6 +49,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
+- [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
@@ -276,7 +277,6 @@
 - [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator) - Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
@@ -883,6 +883,10 @@
 - [steccas/ProtonClient](https://github.com/steccas/ProtonClient) - An unofficial desktop client for ProtonMail done with electron nativefier
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## emacs 
+
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 
 ## emoji 
 
@@ -2068,7 +2072,6 @@
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
-- [CortexVacua/Youtube-MP3-Playlist-Downloader](https://github.com/CortexVacua/Youtube-MP3-Playlist-Downloader) - Let's you download entire YT-playlists.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [EragonJ/Kaku](https://github.com/EragonJ/Kaku) - 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 - [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos
@@ -3705,6 +3708,7 @@
 
 ## security 
 
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
