@@ -497,7 +497,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [lobre/pocket2notion](https://github.com/lobre/pocket2notion) - Tool for migrating Pocket items to Notion
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss) - A CLI interface to apply and configure FirefoxCSS themes
