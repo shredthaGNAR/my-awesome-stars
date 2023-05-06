@@ -123,6 +123,7 @@
 
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+- [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
@@ -168,7 +169,6 @@
 ## C++ 
 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 - [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline) - A basic client for Pocketbook to read and modify Pocket items
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman) - Vodman lets you download videos (VODs) from the internet to your SailfishOS device
