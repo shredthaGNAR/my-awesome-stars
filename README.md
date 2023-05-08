@@ -1276,7 +1276,7 @@
 
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
-- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
+- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 - [phosphor-icons/android](https://github.com/phosphor-icons/android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
