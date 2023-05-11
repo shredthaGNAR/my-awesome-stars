@@ -923,6 +923,7 @@
 
 ## firefox 
 
+- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme)
 - [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
@@ -932,7 +933,7 @@
 - [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–113) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–114) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -1039,7 +1040,7 @@
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 - [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock) - reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
-- [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
+- [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 - [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff102) 📋🖱️🔗
@@ -2233,7 +2234,6 @@
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme)
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
