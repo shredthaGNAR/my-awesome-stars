@@ -2541,7 +2541,7 @@
 - [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod) - 
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages) - Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
-- [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs
+- [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs built on top of WebExtension with cross-browser support
 - [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS) - A mish mash of css files to change Firefox appearance, more of old style
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons) - Desaturate the favicons of all inactive tabs.
@@ -2595,7 +2595,7 @@
 - [knowfox/pocket](https://github.com/knowfox/pocket) - Knowfox: Retrieve bookmarks from getpocket.com
 - [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep) - Copy bookmarks from Google Keep into Pocket/Instapaper
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
-- [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
+- [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [robaston9/cbyge](https://github.com/robaston9/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [CaptainN/cbyge](https://github.com/CaptainN/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
