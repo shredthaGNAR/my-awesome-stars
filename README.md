@@ -1833,7 +1833,7 @@
 - [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker) - Manage & generate prefs.js files
 - [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner) - 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
-- [AussieSeaweed/pokerface](https://github.com/AussieSeaweed/pokerface) - A Python package for various poker tools
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - A Python package for various poker tools
 - [visini/timebox](https://github.com/visini/timebox) - A Custom Pomodoro macOS Menubar App with Things 3 integration
 - [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog) - Keyword Search & Information Gathering Tool
 - [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
