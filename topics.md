@@ -196,6 +196,7 @@
 
 ## ai 
 
+- [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ## analytics 
@@ -206,7 +207,7 @@
 ## android 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial fan-made project
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - Another YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
@@ -300,6 +301,7 @@
 
 ## awesome 
 
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -336,6 +338,7 @@
 
 ## awesome-list 
 
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
@@ -1162,6 +1165,7 @@
 
 ## game 
 
+- [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 
 ## games 
@@ -1241,6 +1245,7 @@
 
 ## go 
 
+- [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
@@ -1254,8 +1259,10 @@
 
 ## golang 
 
+- [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
+- [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
 - [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper) - Remove duplicates from your Pocket list.
@@ -1862,7 +1869,7 @@
 - [mattDavo/Yippy](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
 - [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
-- [heartshapedbox/macos-tweaks](https://github.com/heartshapedbox/macos-tweaks) - Useful tweaks via Automator (Folder Action, Workflow, Service) for MacOS.
+- [heartshapedbox/macOS-shortcuts](https://github.com/heartshapedbox/macOS-shortcuts) - Custom macOS Shortcuts and Quick Actions.
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac) - Cocoa Interface for youtube-dl
@@ -2238,6 +2245,11 @@
 
 ## others 
 
+- [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
+- [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
+- [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator) - simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
+- [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
+- [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 - [manuelernestog/astro-modern-personal-website](https://github.com/manuelernestog/astro-modern-personal-website) - Astro Modern Personal Website Template with Project Section, CV Section, Paginated Blog, RSS Feed, SEO Friendly, Visual themes and Responsive Desing.
@@ -2968,7 +2980,6 @@
 - [alexyz/poker](https://github.com/alexyz/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
 - [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
-- [riddlesio/poker-engine-java](https://github.com/riddlesio/poker-engine-java) - Poker (Texas Hold 'em, Omaha) engine for Riddles.io
 - [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker) - Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 - [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker) - 
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -3408,7 +3419,7 @@
 - [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension) - Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 - [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
 - [iShopifyExpert/shopify-google-location-map-with-api](https://github.com/iShopifyExpert/shopify-google-location-map-with-api) - 
-- [3whitehats/shopify-gtm-ga](https://github.com/3whitehats/shopify-gtm-ga) - Enhances Google Analytics and integrates Google Tag Manager for Shopify.
+- [clarityglobal/shopify-gtm-ga](https://github.com/clarityglobal/shopify-gtm-ga) - Enhances Google Analytics and integrates Google Tag Manager for Shopify.
 - [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts) - Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
 - [kamrynsite/quietfox](https://github.com/kamrynsite/quietfox) - Very Clean Firefox userChrome Mod
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
@@ -4083,6 +4094,7 @@
 
 ## vuejs 
 
+- [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
@@ -4102,6 +4114,7 @@
 
 ## webapp 
 
+- [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
 - [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats) - A tool to analyze your Pocket reading list.
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
