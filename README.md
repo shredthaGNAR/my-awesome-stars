@@ -210,7 +210,6 @@
 ## CSS 
 
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
-- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme)
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
 - [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant) - 
@@ -651,12 +650,14 @@
 
 ## JavaScript 
 
+- [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader) - 
 - [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [darktrojan/openwith](https://github.com/darktrojan/openwith) - Open With add-on for Firefox
 - [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme) - Jekyll theme based on Freelancer Start Bootstrap theme
+- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme)
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
 - [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
@@ -1715,6 +1716,7 @@
 
 ## Python 
 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
