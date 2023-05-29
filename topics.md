@@ -752,6 +752,7 @@
 
 ## cybersecurity 
 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [Ramalingasamy012/SocialRecon](https://github.com/Ramalingasamy012/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
@@ -2221,6 +2222,7 @@
 
 ## osint 
 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
@@ -2245,6 +2247,7 @@
 
 ## others 
 
+- [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader) - 
 - [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator) - simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
@@ -3521,6 +3524,7 @@
 
 ## python 
 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
