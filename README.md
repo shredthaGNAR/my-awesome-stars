@@ -522,6 +522,7 @@
 
 ## HTML 
 
+- [MarufAlAslam/html-email-signature](https://github.com/MarufAlAslam/html-email-signature) - This is a simple demo email signature, if you like my work and want to design your own email signature by me, you can buy my html-clickable-email-signature service on Fiverr. Link is in the below 👇
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
@@ -650,6 +651,7 @@
 
 ## JavaScript 
 
+- [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
 - [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader) - 
 - [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
@@ -738,7 +740,6 @@
 - [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
-- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
@@ -848,7 +849,7 @@
 - [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs) - firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
 - [harv/userChromeJS](https://github.com/harv/userChromeJS) - My userChromeJS scripts!
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus 
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
 - [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js) - 
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
@@ -2173,6 +2174,7 @@
 ## Svelte 
 
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
 
