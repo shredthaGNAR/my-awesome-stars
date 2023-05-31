@@ -207,7 +207,7 @@
 ## android 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - Another YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - Another YouTube Vanced+ & YouTube Music Vanced+ Unofficial project (non-profit)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
@@ -3009,7 +3009,7 @@
 - [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle) - A Firefox extension to allow a user to toggle custom userchrome styles
 - [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab) - Like OneTab, but darker.
 - [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks) - Convert a OneTab bookmark export to the standard HTML bookmark export format
-- [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab) - Back up and restore your OneTab Chrome extension data
+- [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab) - Back up and restore your OneTab Chrome extension data
 - [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension) - Browser Addon/Extension to bring all open tabs into one window
 - [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window) - 👻 Firefox extension to open a copy of the current page in a new Private Window
 - [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger) - Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrappe
