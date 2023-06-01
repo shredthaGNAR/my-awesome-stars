@@ -2539,7 +2539,6 @@
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
-- [Roman2K/youtube-dl-ios](https://github.com/Roman2K/youtube-dl-ios) - youtube-dl for iOS, with Pythonista and Shortcuts
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [CarterLi/iina](https://github.com/CarterLi/iina) - The modern video player for macOS with additional features and bug fixes.
 - [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer) - A small macOS app that lets you customize the number of rows and columns in launchpad
