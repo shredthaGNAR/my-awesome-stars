@@ -1471,7 +1471,7 @@
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - Another YouTube Vanced+ & YouTube Music Vanced+ Unofficial project (non-profit)
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced+ & YouTube Music Vanced+ project (non-profit)
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar) - Use BetterTouchTool to make TouchBar better.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
