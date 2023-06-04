@@ -207,7 +207,7 @@
 ## android 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - Another YouTube Vanced+ & YouTube Music Vanced+ Unofficial project (non-profit)
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced+ & YouTube Music Vanced+ project (non-profit)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
