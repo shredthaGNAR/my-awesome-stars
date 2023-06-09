@@ -638,7 +638,6 @@
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 
@@ -736,7 +735,6 @@
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [gocom/pinceau](https://github.com/gocom/pinceau) - Personal Firefox userChrome and preference customizations
@@ -1485,7 +1483,6 @@
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 
 ## html5 
@@ -1613,7 +1610,6 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX) - A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
@@ -2257,7 +2253,7 @@
 - [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
-- [manuelernestog/astro-modern-personal-website](https://github.com/manuelernestog/astro-modern-personal-website) - Astro Modern Personal Website Template with Project Section, CV Section, Paginated Blog, RSS Feed, SEO Friendly, Visual themes and Responsive Desing.
+- [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 - [darktrojan/openwith](https://github.com/darktrojan/openwith) - Open With add-on for Firefox
 - [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts) - ~/Library/Scripts
 - [tangphillip/Imgur-Uploader](https://github.com/tangphillip/Imgur-Uploader) - A script that uploads an image to imgur and copies the image URL to the clipboard.
@@ -4033,6 +4029,7 @@
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it) - Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 
 ## ubuntu 
 
@@ -4094,6 +4091,7 @@
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) - Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
