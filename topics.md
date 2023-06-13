@@ -2387,7 +2387,7 @@
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 - [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
-- [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - oneTab bookmark collection to plaintext converter
+- [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - oneTab bookmark collection → plaintext
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search) - A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
