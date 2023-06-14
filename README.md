@@ -618,6 +618,7 @@
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
@@ -1471,7 +1472,6 @@
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar) - Use BetterTouchTool to make TouchBar better.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
