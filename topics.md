@@ -1139,7 +1139,7 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER) - Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
-- [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts) - A curation of fonts from all over the world.
+- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
