@@ -2247,6 +2247,7 @@
 
 ## others 
 
+- [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework) - 
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - A custom Revanced Patcher but with TUI
@@ -3346,7 +3347,6 @@
 - [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset) - BetterTouchTool Preset
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
 - [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) - A VS Code theme
-- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc) - Arc inspired theme for Thunderbird
 - [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews) - Shopify Product Previews that work with Theme Previews
 - [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify) - 
@@ -3361,7 +3361,6 @@
 - [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e) - Ctrl+E shortcut for searching open tabs in Firefox
 - [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes) - Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
 - [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List) - 
-- [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars) - A curated list of my GitHub stars!
 - [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup) - userChrome.css and userContent.css files.
 - [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 - [aligo/better-google](https://github.com/aligo/better-google) - Userscript to Better (or Older and Good) Google
@@ -3946,6 +3945,7 @@
 
 ## telegram 
 
+- [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A tool to automatically build latest releases of ReVanced apps
 - [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs) - :card_index: Extract social media profiles and more with regular expressions
 
 ## tensorflow 
@@ -3997,6 +3997,7 @@
 
 ## twitter 
 
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [krisu5/userstyles](https://github.com/krisu5/userstyles) - UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
