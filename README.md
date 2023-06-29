@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds) - A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 - [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -471,6 +472,7 @@
 
 ## Go 
 
+- [Nerdmaster/poker](https://github.com/Nerdmaster/poker) - Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
@@ -655,6 +657,9 @@
 
 ## JavaScript 
 
+- [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
+- [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit) - Sports betting arbitrage algorithm
+- [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer) - Analyze sports betting based on historical statistics and current odds
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
@@ -672,7 +677,6 @@
 - [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab) - 
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension) - Source code of SingleFile for Safari
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons) - Firefox addons for GitZip
 - [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts) - Collection of all my UserScripts
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
@@ -1289,6 +1293,9 @@
 
 ## Jupyter Notebook 
 
+- [ryankrumenacker/sports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project) - statistical-arbitrage-for-sports-betting
+- [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets) - Experiments with web srcaping from sports betting websites
+- [yssefunc/sport_analytics](https://github.com/yssefunc/sport_analytics) - Sports betting analytics
 - [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset) - A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without 
 - [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR) - A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV
 - [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives) - This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
@@ -1718,6 +1725,12 @@
 
 ## Python 
 
+- [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
+- [pretrehr/Sports-betting](https://github.com/pretrehr/Sports-betting) - Sports betting assistant (with interface) which optimizes earnings regarding odds and offers
+- [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting) - Collection of sports betting AI tools.
+- [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain) - A package containing the essential math required for sports betting and gambling.
+- [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds) - Import NHL data from NHL website and merge odds
+- [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling) - NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
@@ -1935,6 +1948,7 @@
 
 ## R 
 
+- [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR) - R package to scrape live sports betting odds
 - [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator) - simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 
 ## Roff 
@@ -2306,6 +2320,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension) - Keep your bookmarks clean & up-to-date 🔄
