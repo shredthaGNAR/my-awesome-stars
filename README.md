@@ -658,6 +658,7 @@
 
 ## JavaScript 
 
+- [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant) - Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
 - [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit) - Sports betting arbitrage algorithm
 - [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer) - Analyze sports betting based on historical statistics and current odds
