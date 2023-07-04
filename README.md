@@ -624,7 +624,6 @@
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
@@ -801,7 +800,7 @@
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - 
 - [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite) - Feel the power of the Manifest V3. The future, right now!
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
-- [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
+- [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 (runs on ff 115)
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
@@ -854,7 +853,7 @@
 - [taminob/shortcuts](https://github.com/taminob/shortcuts) - WebExtension which allows selecting tabs with [CTRL] + [1-9]
 - [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS) - uc.js, uc.xul collections
-- [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!)
+- [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs) - firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 - [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize) - Ryan 收集的 Firefox 个性化相关资源
@@ -1174,10 +1173,10 @@
 - [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker) - vscode extension to check and dedup duplicate lines
 - [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd) - Copy/Paste Detector (jscpd) for Visual Studio Code
 - [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD) - JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
-- [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
-- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff102) 📋🖱️🔗
+- [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
+- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff115) 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! With Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
-- [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff102) 🪟
+- [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator) - Email Signature Generator - React & Firebase
 - [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator) - html email signature generator
@@ -1242,7 +1241,7 @@
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension) - [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 - [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search) - This Firefox extension allows you to use multiple of your installed search engines at once.
-- [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff102) 🖱️
+- [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff115) 🖱️
 - [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click) - Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
@@ -1258,6 +1257,7 @@
 - [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [littledata/shopify-tracker](https://github.com/littledata/shopify-tracker) - Littledata's tracking script for Shopify stores
 - [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify) - A dataLayer integration specific to extracting information from Shopify.
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 - [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync) - SessionSync
@@ -1304,6 +1304,7 @@
 
 ## Kotlin 
 
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -2473,7 +2474,6 @@
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 - [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts) - :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
-- [littledata/shopify-tracker](https://github.com/littledata/shopify-tracker) - Littledata's tracking script for Shopify stores
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 - [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces) - This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
