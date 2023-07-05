@@ -2264,6 +2264,8 @@
 
 ## others 
 
+- [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
+- [PokerDashboard/poker](https://github.com/PokerDashboard/poker) - 
 - [julianandrews/flopferret](https://github.com/julianandrews/flopferret) - Texas Hold'em board texture analyzer.
 - [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot) - OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
 - [pretrehr/Sports-betting](https://github.com/pretrehr/Sports-betting) - Sports betting assistant (with interface) which optimizes earnings regarding odds and offers
@@ -3331,7 +3333,7 @@
 - [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme) - 
 - [timdmackey/vscode-mechanic-liquid](https://github.com/timdmackey/vscode-mechanic-liquid) - Provides unofficial support for syntax highlighting and code snippets for the Mechanic app on the Shopify platform.
 - [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird) - Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
-- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
+- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket) - Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 - [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos) - Simplenote for macOS
 - [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard) - 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
