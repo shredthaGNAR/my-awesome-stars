@@ -370,7 +370,7 @@
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme) - 
 - [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird) - Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
-- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
+- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay) - A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme) - A Safari like them for Firefox 100+
@@ -524,6 +524,7 @@
 
 ## HTML 
 
+- [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -657,6 +658,7 @@
 
 ## JavaScript 
 
+- [PokerDashboard/poker](https://github.com/PokerDashboard/poker) - 
 - [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant) - Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
 - [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit) - Sports betting arbitrage algorithm
