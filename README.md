@@ -1176,7 +1176,7 @@
 - [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd) - Copy/Paste Detector (jscpd) for Visual Studio Code
 - [freakdesign/shopifyFD](https://github.com/freakdesign/shopifyFD) - JavaScript layer to provide additional functionality and fixes to the Shopify dashboard
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
-- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff115) 📋🖱️🔗
+- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! With Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -1985,7 +1985,7 @@
 - [algolia/facebook-search](https://github.com/algolia/facebook-search) - Facebook Feed Search powered by Algolia
 - [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons) - Customize your icons on macOS 🔧
 - [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
-- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and Instagram images and provides a search API across both indexes.
+- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 - [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets) - 
