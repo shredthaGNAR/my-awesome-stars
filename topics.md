@@ -1064,7 +1064,7 @@
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️ (runs on ff 115)
-- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on ff115) 📋🖱️🔗
+- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! With Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
@@ -3112,7 +3112,7 @@
 - [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) - shopify-outofthebox
 - [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates) - A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
 - [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search) - Search social profiles using email address
-- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and Instagram images and provides a search API across both indexes.
+- [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 - [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile) - A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 - [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo) - Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'is
 - [avindra/fndr](https://github.com/avindra/fndr) - An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
