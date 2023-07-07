@@ -1306,7 +1306,7 @@
 
 ## Kotlin 
 
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
+- [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1568,7 +1568,6 @@
 - [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow) - A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
-- [xenosf/youtube-dl-alfred](https://github.com/xenosf/youtube-dl-alfred) - Alfred workflow for quickly downloading YouTube videos using youtube-dl.
 - [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl) - A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
 - [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows) - Automator Services and Workflows
 - [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows) - MacOS Automator Workflows for PDFs, images, and more
