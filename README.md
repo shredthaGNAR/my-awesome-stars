@@ -115,6 +115,7 @@
 
 ## Astro 
 
+- [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 
@@ -525,6 +526,7 @@
 
 ## HTML 
 
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
@@ -659,6 +661,7 @@
 
 ## JavaScript 
 
+- [saadeghi/theme-change](https://github.com/saadeghi/theme-change) - Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 - [PokerDashboard/poker](https://github.com/PokerDashboard/poker) - 
 - [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant) - Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
@@ -923,7 +926,7 @@
 - [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer) - Browser userscript to clean up hyperlink redirections and link shims
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
-- [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
+- [xtract64/tabsaver](https://github.com/xtract64/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension) - Help you operate tabs' url more conveniently
@@ -2214,7 +2217,7 @@
 - [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
 - [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
-- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
+- [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS H
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
