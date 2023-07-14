@@ -302,7 +302,6 @@
 - [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird) - A userChrome.css theme to make thunderbird resemble Firefox 89+
 - [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
-- [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style) - Firefox CSS theme inspired by Safari
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
@@ -560,7 +559,7 @@
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
@@ -947,7 +946,6 @@
 - [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [adblockultimate/AdBlocker-Ultimate-for-Browsers](https://github.com/adblockultimate/AdBlocker-Ultimate-for-Browsers) - AdBlocker Ultimate for Browsers
-- [johnatasjmo/google-sheets-hugo-bookmarks](https://github.com/johnatasjmo/google-sheets-hugo-bookmarks) - 
 - [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool) - Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 - [jobisoft/TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
 - [xnotepp/xnote](https://github.com/xnotepp/xnote) - Sources for the XNote++ Thunderbird add-on.
@@ -1137,6 +1135,7 @@
 - [uBlock-user/uBO-Scriptlets](https://github.com/uBlock-user/uBO-Scriptlets) - A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 - [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts) - Google Ads Bidding scripts
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [coolaj86/dropshare](https://github.com/coolaj86/dropshare) - A min.us / ge.tt file share clone.
 - [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark) - From pocket to chrome bookmarks
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
