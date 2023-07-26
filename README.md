@@ -1265,7 +1265,7 @@
 - [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy) - Enable Acrylic/Glass effect for your VS Code.
 - [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [littledata/shopify-tracker](https://github.com/littledata/shopify-tracker) - Littledata's tracking script for Shopify stores
 - [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify) - A dataLayer integration specific to extracting information from Shopify.
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
