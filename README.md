@@ -279,7 +279,6 @@
 - [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui) - Dark theme for Joplin's desktop application.
 - [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io) - 
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
-- [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme) - The Ultimate Dark Theme for Google.
 - [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-) - Light theme on Firefox
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme) - A dark theme for Google based on YouTube's dark theme
@@ -561,7 +560,7 @@
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
@@ -829,7 +828,7 @@
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm) - Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-- [easonwong-de/Adaptive-Tab-Bar-Color](https://github.com/easonwong-de/Adaptive-Tab-Bar-Color) - Changes the color of Firefox tab bar to match the website theme
+- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox tab bar to match the website theme.
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io) - 
 - [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
@@ -2045,7 +2044,6 @@
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A tool to automatically build latest releases of ReVanced apps
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
-- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - A custom Revanced Patcher but with TUI
 - [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and build apk non-root from revanced/inotia00
 - [to-ie/gitswitch](https://github.com/to-ie/gitswitch) - This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
@@ -2099,7 +2097,7 @@
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
 - [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
