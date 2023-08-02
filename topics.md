@@ -1073,7 +1073,7 @@
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! With Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to optimize Firefox for privacy and speed
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
@@ -1376,7 +1376,7 @@
 - [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
@@ -2273,6 +2273,7 @@
 
 ## others 
 
+- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -3822,7 +3823,7 @@
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -3833,7 +3834,7 @@
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to optimize Firefox for privacy and speed
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
