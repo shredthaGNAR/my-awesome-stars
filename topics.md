@@ -2428,7 +2428,7 @@
 - [andreyvit/env](https://github.com/andreyvit/env) - 
 - [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
 - [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman) - Vodman lets you download videos (VODs) from the internet to your SailfishOS device
-- [mi-g/weh](https://github.com/mi-g/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
+- [aclap-dev/weh](https://github.com/aclap-dev/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 - [dkthehuman/extension-starter-kit](https://github.com/dkthehuman/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets) - Adds a section to copy snippet in GitHub repository page.
 - [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv) - 
@@ -2888,7 +2888,7 @@
 - [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) - A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
 - [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder) - Make Finder a two-pane file manager on Mac OS X
 - [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) - A pure JS in-memory implementation of the IndexedDB API
-- [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter) - a pure JS mp3 encoder for Chrome and Firefox browser
 - [mmagnus/PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin) - PocketX-Calibre-Plugin is an experimental version of Pocket-Plus-Calibre-Plugin (send articles from Pocket to your e-reader)
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
