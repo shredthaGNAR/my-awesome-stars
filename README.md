@@ -712,7 +712,7 @@
 - [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool) - UI for create-web-ext
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
-- [mi-g/weh](https://github.com/mi-g/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
+- [aclap-dev/weh](https://github.com/aclap-dev/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 - [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 - [dkthehuman/extension-starter-kit](https://github.com/dkthehuman/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
@@ -1000,7 +1000,7 @@
 - [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js) - A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
 - [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) - A pure JS in-memory implementation of the IndexedDB API
-- [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter) - a pure JS mp3 encoder for Chrome and Firefox browser
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify) - Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
@@ -1749,6 +1749,7 @@
 - [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain) - A package containing the essential math required for sports betting and gambling.
 - [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds) - Import NHL data from NHL website and merge odds
 - [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling) - NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
+- [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A tool to automatically build latest releases of ReVanced apps
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
@@ -2046,7 +2047,6 @@
 
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
-- [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A tool to automatically build latest releases of ReVanced apps
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and build apk non-root from revanced/inotia00
 - [to-ie/gitswitch](https://github.com/to-ie/gitswitch) - This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.
