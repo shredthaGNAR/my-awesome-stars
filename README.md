@@ -473,6 +473,7 @@
 
 ## Go 
 
+- [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [GameXG/keep2joplin](https://github.com/GameXG/keep2joplin) - 将 google keep 转换为 joplin 文件。Convert google keep to joplin file.
 - [Nerdmaster/poker](https://github.com/Nerdmaster/poker) - Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
