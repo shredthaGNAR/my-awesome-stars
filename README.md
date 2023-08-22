@@ -632,7 +632,7 @@
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - An advanced player for Android-based set-top boxes and tv
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -774,7 +774,6 @@
 - [d3ward/floatly](https://github.com/d3ward/floatly) - An extension that adds a floating button for browser quick actions
 - [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - Yuhan 自用 搜索引擎(百度 必应)优化美化 搜索引擎快速切换 哔哩哔哩(bilibili B站)细节优化 CSDN极简化 CSDN免登录复制 去除部分网站复制小尾巴 持续更新中
 - [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop) - Script to export bookmarks from https://getpocket.com to https://raindrop.io.
-- [dabaisuv/Tampermonkey-Script](https://github.com/dabaisuv/Tampermonkey-Script) - Some useful Tampermonkey scripts.
 - [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer) - OneTab -&gt; googleSheets -&gt; Clustering datasheet
 - [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
 - [vinitshahdeo/Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager) - A chrome extension to manage browser cookies.
@@ -1192,7 +1191,7 @@
 - [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources) - Tools and documentation for building Creative Cloud app extensions with CEP
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox optimized for speed, privacy, and efficiency. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -1312,6 +1311,7 @@
 
 ## Kotlin 
 
+- [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced+ & YouTube Music Vanced+ project [IN DEVELOPMENT]
