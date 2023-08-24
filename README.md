@@ -1976,6 +1976,7 @@
 
 ## Ruby 
 
+- [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
