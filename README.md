@@ -454,6 +454,7 @@
 
 ## Dart 
 
+- [axross/aqua](https://github.com/axross/aqua) - ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -526,6 +527,7 @@
 
 ## HTML 
 
+- [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
@@ -624,6 +626,7 @@
 
 ## Java 
 
+- [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
@@ -660,8 +663,8 @@
 
 ## JavaScript 
 
+- [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc) - Poker Hand Range Calculator
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links) - Scrape OneTab links and produce HTML that can be saved for backup
 - [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer) - 
@@ -771,7 +774,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension) - A sidebar text-editing addon for firefox
 - [d3ward/floatly](https://github.com/d3ward/floatly) - An extension that adds a floating button for browser quick actions
-- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - Yuhan 自用 搜索引擎(百度 必应)优化美化 搜索引擎快速切换 哔哩哔哩(bilibili B站)细节优化 CSDN极简化 CSDN免登录复制 去除部分网站复制小尾巴 持续更新中
+- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
 - [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop) - Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 - [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer) - OneTab -&gt; googleSheets -&gt; Clustering datasheet
 - [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
@@ -1431,6 +1434,8 @@
 
 ## Objective-C 
 
+- [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework) - 
 - [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
@@ -1492,6 +1497,7 @@
 
 ## Others 
 
+- [DebianArch64/DebProvision](https://github.com/DebianArch64/DebProvision) - An alternative to Cydia Impactor and AltServer for ALL computers.
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended) - ReVanced Extended Issues/Request repo
@@ -1741,6 +1747,7 @@
 ## Python 
 
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [julianandrews/flopferret](https://github.com/julianandrews/flopferret) - Texas Hold'em board texture analyzer.
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
@@ -2047,6 +2054,7 @@
 
 ## Shell 
 
+- [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
@@ -2065,7 +2073,7 @@
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins) - Plugin for oh-my-zsh to automatically update custom-plugins
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [changyuheng/zsh-interactive-cd](https://github.com/changyuheng/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
+- [johannchangtw/zsh-interactive-cd](https://github.com/johannchangtw/zsh-interactive-cd) - Fish like interactive tab completion for cd in zsh
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) - Custom plugin for Oh My Zsh with youtube-dl aliases
 - [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
@@ -2079,7 +2087,7 @@
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️ [MIRROR]
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannchangtw/fz.sh](https://github.com/johannchangtw/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
