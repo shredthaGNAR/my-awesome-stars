@@ -501,6 +501,7 @@
 
 ## chrome-extension 
 
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A browser extension to save tabs, sessions, and manage them.
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -952,6 +953,7 @@
 
 ## firefox 
 
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A browser extension to save tabs, sessions, and manage them.
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
 - [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme).
@@ -3030,7 +3032,6 @@
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central) - EXPERIMENTAL - copy of comm-central for forking on github
-- [SeanCAdams/MacDupFinder](https://github.com/SeanCAdams/MacDupFinder) - A utility fo find and list duplicate files on a Mac.  Implemented in various languages as an exercise.
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer) - WebExtension to quickly resize the window to one of your favorite sizes
 - [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
