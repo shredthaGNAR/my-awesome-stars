@@ -2180,7 +2180,6 @@
 - [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones) - DIY hack for a complete CCTV solution using open source software and smartphones.
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
-- [SeanCAdams/MacDupFinder](https://github.com/SeanCAdams/MacDupFinder) - A utility fo find and list duplicate files on a Mac.  Implemented in various languages as an exercise.
 - [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner) - uScanner is a tool to find usernames on various pages throughout the entire internet.
 - [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3) - 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 - [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper) - A simple dynamic wallpaper script on macOS
@@ -2346,6 +2345,7 @@
 
 ## TypeScript 
 
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A browser extension to save tabs, sessions, and manage them.
 - [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf) - Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 - [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg) - Joplin plugin to exports notes to ssg project.
 - [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
