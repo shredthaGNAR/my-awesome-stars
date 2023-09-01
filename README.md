@@ -1652,7 +1652,6 @@
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment) - 
-- [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [metux/thunderbird-2](https://github.com/metux/thunderbird-2) - thunderbird 2nd try ... v68.0
 - [metux/thunderbird](https://github.com/metux/thunderbird) - 
 - [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets) - Shopify Liquid Template Snippets
@@ -1984,6 +1983,7 @@
 
 ## Ruby 
 
+- [kyurishin/homebrew-kleopatra4mac](https://github.com/kyurishin/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
