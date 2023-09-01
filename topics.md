@@ -2288,6 +2288,7 @@
 
 ## others 
 
+- [kyurishin/homebrew-kleopatra4mac](https://github.com/kyurishin/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i'm creating
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -3349,7 +3350,6 @@
 - [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom) - Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment) - 
-- [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 - [metux/thunderbird-2](https://github.com/metux/thunderbird-2) - thunderbird 2nd try ... v68.0
 - [metux/thunderbird](https://github.com/metux/thunderbird) - 
