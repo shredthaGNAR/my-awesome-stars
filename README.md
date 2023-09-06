@@ -2095,7 +2095,7 @@
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
-- [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files) - dot Files: ZSH setup and productivity tools for development
+- [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
