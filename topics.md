@@ -290,6 +290,7 @@
 
 ## automation 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proofs of Concept
 - [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator) - Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -456,6 +457,7 @@
 
 ## chrome 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
@@ -659,7 +661,7 @@
 
 ## code 
 
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme) - A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source IDE for the web, built for the browser.
@@ -811,7 +813,7 @@
 
 ## design 
 
-- [jtlw99/vicefox](https://github.com/jtlw99/vicefox) - ViceFox make your FireFox great and beter! (Outdated)
+- [jtlw99/vicefox](https://github.com/jtlw99/vicefox) - ViceFox make your FireFox great and beter!
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
@@ -877,7 +879,7 @@
 
 - [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant) - Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [tmcinerney/keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
@@ -954,8 +956,9 @@
 
 ## firefox 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab) - Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
-- [jtlw99/vicefox](https://github.com/jtlw99/vicefox) - ViceFox make your FireFox great and beter! (Outdated)
+- [jtlw99/vicefox](https://github.com/jtlw99/vicefox) - ViceFox make your FireFox great and beter!
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A browser extension to save, manage and restore tabs and sessions.
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
@@ -1178,6 +1181,7 @@
 
 ## framework 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -1238,7 +1242,7 @@
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [mdawsondev/github-advanced](https://github.com/mdawsondev/github-advanced) - Adds various enhancements to GitHub.
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -1371,6 +1375,7 @@
 
 ## hacktoberfest 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
@@ -1581,6 +1586,7 @@
 
 ## javascript 
 
+- [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [saadeghi/theme-change](https://github.com/saadeghi/theme-change) - Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
 - [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript
@@ -4185,7 +4191,7 @@
 ## vue 
 
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad) - A Scratchpad for Joplin and MacOS and Linux
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
@@ -4204,7 +4210,7 @@
 ## vuejs 
 
 - [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats
