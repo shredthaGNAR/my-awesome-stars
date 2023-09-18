@@ -178,6 +178,8 @@
 
 ## C++ 
 
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+- [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
 - [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot) - OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
 - [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds) - A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 - [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
@@ -660,6 +662,7 @@
 
 ## JavaScript 
 
+- [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
 - [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab) - Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
 - [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js) - Firefox extension (privileged) to enable userChrome.js support
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i'm creating
@@ -1346,7 +1349,7 @@
 - [halfhelix/shopify-guide](https://github.com/halfhelix/shopify-guide) - A mostly reasonable approach to Shopify theme development
 - [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets) - collection of useful code snippets
 - [mitchuman/danshari](https://github.com/mitchuman/danshari) - A blank slate theme for Shopify 2.0
-- [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart) - Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
+- [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart) - Build a Shopify Ajax-cart without JavaScript coding
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
 - [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev) - Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 - [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit) - Starter theme and environment for the largest Shopify stores.
