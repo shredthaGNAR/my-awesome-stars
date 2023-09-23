@@ -2356,6 +2356,7 @@
 
 ## TypeScript 
 
+- [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui) - XMR&lt;&gt;BTC Atomic Swaps GUI
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A browser extension to save, manage and restore tabs and sessions.
 - [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf) - Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 - [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg) - Joplin plugin to exports notes to ssg project.
