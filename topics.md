@@ -214,6 +214,7 @@
 
 ## android 
 
+- [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
@@ -1253,7 +1254,6 @@
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [mdawsondev/github-advanced](https://github.com/mdawsondev/github-advanced) - Adds various enhancements to GitHub.
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
@@ -1426,6 +1426,7 @@
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [piroor/textlink](https://github.com/piroor/textlink) - Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
