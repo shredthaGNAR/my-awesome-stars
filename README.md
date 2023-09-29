@@ -564,7 +564,7 @@
 - [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts) - 
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
 - [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
@@ -1005,7 +1005,7 @@
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes) - A WebExtension which can display/remove duplicate bookmarks or empty folders
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader) - Script gets you access to download private videos on Vimeo
 - [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js) - A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
@@ -2241,6 +2241,7 @@
 
 ## Swift 
 
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proofs of Concept
