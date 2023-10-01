@@ -602,7 +602,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -749,7 +749,7 @@
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
 - [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
@@ -1458,7 +1458,7 @@
 - [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window) - Aggregate new tabs to a window which has most many tabs and largest size.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3536,7 +3536,7 @@
 - [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js) - 
 - [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager) - A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
 - [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance) - A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far 
-- [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) - Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
+- [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) - Browser extension for opting out from web tracking via GPC
 - [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator) - It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
 - [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts) - User Scripts for bingeing
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
