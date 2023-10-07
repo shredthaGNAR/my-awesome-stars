@@ -264,7 +264,6 @@
 - [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood) - Hand picked SVG icon packs with at least 200 icons
 - [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls) - Save all the open tabs as a list of URLs to go back to!
 - [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme) - I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
-- [rscottyy/Edge-FrFox](https://github.com/rscottyy/Edge-FrFox) - A userChrome.css theme for Firefox that replicates Microsoft Edge
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
@@ -1128,7 +1127,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1188,7 +1187,6 @@
 - [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS) - Re-implementation of the userChromeJS add-on for Thunderbird 60+
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3) - Convert YouTube videos to mp3 files via the command-line
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
 - [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker) - vscode extension to check and dedup duplicate lines
@@ -2051,7 +2049,7 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–117) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–118) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
@@ -2194,6 +2192,7 @@
 - [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls) - Replicating macOS Mojave's dynamic wallpaper feature
 - [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones) - DIY hack for a complete CCTV solution using open source software and smartphones.
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
+- [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner) - uScanner is a tool to find usernames on various pages throughout the entire internet.
 - [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3) - 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 - [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper) - A simple dynamic wallpaper script on macOS
@@ -2472,7 +2471,6 @@
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink) - Angular CLI Seach All Social Media Profile Using an Email Account
 - [avindra/fndr](https://github.com/avindra/fndr) - An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 - [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli) - CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
 - [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features) - 
@@ -2480,6 +2478,7 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based peripheral community tool
 - [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) - Allows to open several notes at once in tabs and pin them.
 - [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout) - Save editor layout (editor/split view/viewer/rich text) for each note separately.
