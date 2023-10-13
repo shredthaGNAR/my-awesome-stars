@@ -1076,7 +1076,7 @@
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [eight04/popup-tab](https://github.com/eight04/popup-tab) - A Firefox addon, easily convert a tab into a popup and vice versa.
 - [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window) - Aggregate new tabs to a window which has most many tabs and largest size.
-- [BPower0036/UserChrome](https://github.com/BPower0036/UserChrome) - userChrome.css for FireFox and Thunderbird
+- [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome) - userChrome.css for FireFox and Thunderbird
 - [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode) - 
 - [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab) - Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another brie
 - [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler) - Label your Firefox windows and profiles by modifying window title
