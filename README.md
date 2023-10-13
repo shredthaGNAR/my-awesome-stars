@@ -285,7 +285,7 @@
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme) - A dark theme for Google based on YouTube's dark theme
 - [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird) - A universal dark theme for Thunderbird
-- [BPower0036/UserChrome](https://github.com/BPower0036/UserChrome) - userChrome.css for FireFox and Thunderbird
+- [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome) - userChrome.css for FireFox and Thunderbird
 - [sagars007/starry-fox](https://github.com/sagars007/starry-fox) - Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
 - [tortious/MintyFox](https://github.com/tortious/MintyFox) - Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated.
 - [tortious/FrozenFox](https://github.com/tortious/FrozenFox) - A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
