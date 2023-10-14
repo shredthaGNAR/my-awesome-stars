@@ -53,6 +53,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
@@ -327,6 +328,7 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -947,6 +949,10 @@
 
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 
+## ember 
+
+- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+
 ## emoji 
 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
@@ -1084,7 +1090,7 @@
 - [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox) - Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [WynStaXxx/AlpenBr0-firefox-theme](https://github.com/WynStaXxx/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
+- [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
 - [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview) - This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
@@ -1620,6 +1626,8 @@
 
 ## javascript 
 
+- [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
+- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
@@ -2347,6 +2355,9 @@
 
 ## others 
 
+- [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+- [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
+- [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp) - Share Via Http - Android
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui) - XMR&lt;&gt;BTC Atomic Swaps GUI
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -2377,7 +2388,7 @@
 - [GameXG/keep2joplin](https://github.com/GameXG/keep2joplin) - 将 google keep 转换为 joplin 文件。Convert google keep to joplin file.
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
-- [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
+- [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks) - 
 - [PokerDashboard/poker](https://github.com/PokerDashboard/poker) - 
 - [julianandrews/flopferret](https://github.com/julianandrews/flopferret) - Texas Hold'em board texture analyzer.
 - [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot) - OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
@@ -2484,7 +2495,7 @@
 - [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets) - 💈 [My TouchBar My rules] Share your preset!
 - [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
 - [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
-- [WynStaXxx/my-awesome-starred](https://github.com/WynStaXxx/my-awesome-starred) - 
+- [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred) - 
 - [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
 - [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
@@ -2682,7 +2693,7 @@
 - [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
-- [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
+- [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars) - my list of github stars fork
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
@@ -2753,8 +2764,8 @@
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
 - [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management) - 
-- [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new) - 
-- [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme) - firefox userchrome css theme
+- [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new) - 
+- [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme) - firefox userchrome css theme
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api) - Full-stack App - user generated map of visited places. Where have you been to?
 - [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps) - Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
@@ -2784,7 +2795,7 @@
 - [robaston9/cbyge](https://github.com/robaston9/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [CaptainN/cbyge](https://github.com/CaptainN/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [ian4hu/Clipy](https://github.com/ian4hu/Clipy) - Clipboard extension app for macOS.
-- [WynStaXxx/OS-Folder-Icons](https://github.com/WynStaXxx/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
+- [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [phosphor-icons/android](https://github.com/phosphor-icons/android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood) - Hand picked SVG icon packs with at least 200 icons
@@ -2818,7 +2829,7 @@
 - [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut) - A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 - [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio) - The free, open source video downloader! Mirror of https://gitea.leonetienne.de/leonetienne/Tubio
 - [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV) - website userscript: redirect embedded videos from "tubitv.com" to an external player
-- [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
+- [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme) - I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 - [pvpscript/savetabs](https://github.com/pvpscript/savetabs) - A web browser extension that allows the user to save every tab's url to a file
 - [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch) - Search your Youtube™ playlists
@@ -3121,9 +3132,9 @@
 - [plumk97/DynamicWallpaper](https://github.com/plumk97/DynamicWallpaper) - Mac dynamic wallpaper program
 - [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac) - Mac version of pokerbot project by Dick Neutral
 - [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine) - 
-- [WynStaXxx/poker](https://github.com/WynStaXxx/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
+- [shredthaGNAR/poker](https://github.com/shredthaGNAR/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [alexyz/poker](https://github.com/alexyz/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
-- [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
+- [shredthaGNAR/poker-handhist](https://github.com/shredthaGNAR/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
 - [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
 - [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker) - Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 - [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker) - 
@@ -3289,7 +3300,7 @@
 - [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 - [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message) - 
 - [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
-- [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse) - SWBH Theme Export Impluse Theme
+- [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse) - SWBH Theme Export Impluse Theme
 - [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport) - A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 - [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme) - A light theme for Joplin
 - [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep) - 
@@ -3307,7 +3318,7 @@
 - [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style) - 
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [tomatopickle/Glox](https://github.com/tomatopickle/Glox) - A glassmorphistic Firefox skin, also has round elements
-- [WynStaXxx/paper-app](https://github.com/WynStaXxx/paper-app) - Unofficial Paper app for Mac
+- [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app) - Unofficial Paper app for Mac
 - [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app) - Unofficial Paper app for Mac
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
@@ -3442,8 +3453,8 @@
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central) - An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 - [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets) - 
-- [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee) - 
-- [WynStaXxx/dawn](https://github.com/WynStaXxx/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+- [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee) - 
+- [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action) - 
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify) - Nx plugin for developing performance-first Shopify themes 🚀
@@ -3547,7 +3558,7 @@
 - [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome) - A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
 - [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON) - Firefox blueish & dark theme
-- [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
+- [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss) - transparancy
 - [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces) - This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
@@ -4373,5 +4384,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [WynStaXxx](https://github.com/WynStaXxx) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [shredthaGNAR](https://github.com/shredthaGNAR) has waived all copyright and related or neighboring rights to this work.
 
