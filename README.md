@@ -152,7 +152,7 @@
 - [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera) - Change your android phone to surveillance camera
 - [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) - Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
-- [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
+- [shredthaGNAR/poker-handhist](https://github.com/shredthaGNAR/poker-handhist) - Hand distributions for Holdem, Omaha and Omaha HiLo/8
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [babldev/camera-cli](https://github.com/babldev/camera-cli) - Configure your webcam via the command line
 - [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo) - Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'is
@@ -255,8 +255,8 @@
 - [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme) - A beautiful Joplin dark theme
 - [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme) - A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 - [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
-- [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new) - 
-- [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme) - firefox userchrome css theme
+- [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new) - 
+- [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme) - firefox userchrome css theme
 - [catnuke/vibrantfox](https://github.com/catnuke/vibrantfox) - a clean firefox userchrome
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -290,7 +290,7 @@
 - [tortious/MintyFox](https://github.com/tortious/MintyFox) - Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated.
 - [tortious/FrozenFox](https://github.com/tortious/FrozenFox) - A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
-- [WynStaXxx/AlpenBr0-firefox-theme](https://github.com/WynStaXxx/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
+- [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [benman604/userChrome.css](https://github.com/benman604/userChrome.css) - 
 - [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin) - A skin for Firefox using custom CSS
@@ -531,7 +531,7 @@
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
-- [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks) - 
+- [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -566,7 +566,7 @@
 - [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
+- [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [pvpscript/savetabs](https://github.com/pvpscript/savetabs) - A web browser extension that allows the user to save every tab's url to a file
 - [Snilda/Font-Library](https://github.com/Snilda/Font-Library) - Check Readme
 - [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html) - Webextension to save the title and URLs of open tabs as an HTML file.
@@ -623,6 +623,7 @@
 
 ## Java 
 
+- [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp) - Share Via Http - Android
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
@@ -652,7 +653,7 @@
 - [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera) - Android Camera that uses Enhanced image processing
 - [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera) - Allows to use your mobile device as an IP camera
 - [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera) - Android Security Camera App
-- [WynStaXxx/poker](https://github.com/WynStaXxx/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
+- [shredthaGNAR/poker](https://github.com/shredthaGNAR/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [alexyz/poker](https://github.com/alexyz/poker) - A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 - [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker) - 
 - [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker) - Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
@@ -662,6 +663,8 @@
 
 ## JavaScript 
 
+- [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
+- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
@@ -1174,7 +1177,7 @@
 - [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app) - A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [WynStaXxx/paper-app](https://github.com/WynStaXxx/paper-app) - Unofficial Paper app for Mac
+- [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app) - Unofficial Paper app for Mac
 - [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app) - Unofficial Paper app for Mac
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
@@ -1285,7 +1288,7 @@
 - [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable) - Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
 - [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages!
 - [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
-- [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
+- [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro) - Firefox addon to automatically skip intros on Amazon Prime Video
 - [hoyang/browse-later](https://github.com/hoyang/browse-later) - Browse later, a WebExtensions add-on.
 - [mdreier/savetabs](https://github.com/mdreier/savetabs) - Save current tabs extension for Firefox
 - [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx) - custom scripts
@@ -1320,6 +1323,7 @@
 
 ## Kotlin 
 
+- [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
@@ -1359,7 +1363,7 @@
 - [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit) - Starter theme and environment for the largest Shopify stores.
 - [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 - [NickBodliev/Color-variants-collection](https://github.com/NickBodliev/Color-variants-collection) - A collection template which will show all the color variations of the product as an individual product on the collection page
-- [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse) - SWBH Theme Export Impluse Theme
+- [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse) - SWBH Theme Export Impluse Theme
 - [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify) - 
 - [realoatesman/Dawn](https://github.com/realoatesman/Dawn) - Shopify Dawn Dev Theme
 - [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
@@ -1379,9 +1383,9 @@
 - [kevinrefvik/shopify-notifications](https://github.com/kevinrefvik/shopify-notifications) - A collection of translated e-mail notification templates for Shopify
 - [leemunroe/shopify-email-templates](https://github.com/leemunroe/shopify-email-templates) - Shopify HTML email notification templates for quick reference
 - [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets) - 
-- [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee) - 
+- [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee) - 
 - [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) - Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
-- [WynStaXxx/dawn](https://github.com/WynStaXxx/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+- [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [krjo/shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow) - 
 - [freyum/shopify-workflow-poc](https://github.com/freyum/shopify-workflow-poc) - PoC of Shopify development workflow using GitHub Actions with multiple environments.
@@ -1529,7 +1533,7 @@
 - [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
 - [abaj8494/bettertouchtools](https://github.com/abaj8494/bettertouchtools) - 
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [WynStaXxx/my-awesome-starred](https://github.com/WynStaXxx/my-awesome-starred) - 
+- [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred) - 
 - [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
 - [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
@@ -1571,7 +1575,7 @@
 - [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator) - 
 - [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool) - All of my personal better-touch-tool config files
 - [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
-- [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars) - my list of github stars fork
+- [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars) - my list of github stars fork
 - [th-schmidt/janus-for-alfred](https://github.com/th-schmidt/janus-for-alfred) - Create random usernames in Alfred
 - [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow) - Launch a URL in 3 different browsers at once to speed up website testing
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
@@ -1579,7 +1583,7 @@
 - [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset) - SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 - [erosman/support](https://github.com/erosman/support) - Support Location for all my extensions
 - [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community) - Issue and feature request tracking for the Multitouch app
-- [WynStaXxx/OS-Folder-Icons](https://github.com/WynStaXxx/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
+- [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai) - 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
@@ -2532,6 +2536,7 @@
 
 ## Vue 
 
+- [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
@@ -2557,5 +2562,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [WynStaXxx](https://github.com/WynStaXxx) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [shredthaGNAR](https://github.com/shredthaGNAR) has waived all copyright and related or neighboring rights to this work.
 
