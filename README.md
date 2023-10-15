@@ -425,7 +425,6 @@
 - [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme) - Dark theme based on Monterail for Thunderbird 78
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [conema/monterail-dark](https://github.com/conema/monterail-dark) - Monterail Dark, a Thunderbird theme inspired by the mockup of Monterail
-- [ChooChooAl/Thunderbird-Chrome](https://github.com/ChooChooAl/Thunderbird-Chrome) - Mozilla Thunderbird Email Client Chrome Folder used for theming the UI.
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom) - A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only.
 - [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) - macOS Native-looking Translucent Tabbar for Firefox
@@ -663,6 +662,7 @@
 
 ## JavaScript 
 
+- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
@@ -676,6 +676,7 @@
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i'm creating
 - [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc) - Poker Hand Range Calculator
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links) - Scrape OneTab links and produce HTML that can be saved for backup
 - [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer) - 
@@ -1761,7 +1762,6 @@
 
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [julianandrews/flopferret](https://github.com/julianandrews/flopferret) - Texas Hold'em board texture analyzer.
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
@@ -2365,6 +2365,7 @@
 
 ## TypeScript 
 
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui) - XMR&lt;&gt;BTC Atomic Swaps GUI
 - [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf) - Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 - [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg) - Joplin plugin to exports notes to ssg project.
