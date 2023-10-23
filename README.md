@@ -80,6 +80,7 @@
 
 ## AppleScript 
 
+- [shreygan/applescripts](https://github.com/shreygan/applescripts) - custom applescripts for btt
 - [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts) - ~/Library/Scripts
 - [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive) - Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
 - [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) - A collection of presets for BetterTouchTool
@@ -530,7 +531,7 @@
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
 - [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates) - Free HTML email templates for Mailchimp and other emails services
@@ -2077,6 +2078,7 @@
 
 ## Shell 
 
+- [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
 - [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
