@@ -531,6 +531,7 @@
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io) - Website for Suffuse
+- [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
@@ -664,6 +665,8 @@
 
 ## JavaScript 
 
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
+- [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -681,7 +684,6 @@
 - [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc) - Poker Hand Range Calculator
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links) - Scrape OneTab links and produce HTML that can be saved for backup
 - [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer) - 
 - [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear) - Quickly clear OneTab tag group.
@@ -1691,7 +1693,7 @@
 - [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset) - BetterTouchTool Preset
 - [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) - A VS Code theme
 - [thundernest/developer-docs](https://github.com/thundernest/developer-docs) - Developer documentation for Thunderbird contributors.
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT) - MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 - [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars) - :star: A curated list of my GitHub stars
 - [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets) - A robust BetterTouchTool preset for developer power users.
