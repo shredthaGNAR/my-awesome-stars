@@ -560,7 +560,7 @@
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video and Disney+ & Hotstar.
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video and Disney+ & Hotstar. Name: Streaming enhanced
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
