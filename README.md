@@ -1337,7 +1337,7 @@
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
-- [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced+ & YouTube Music Vanced+ project [WIP]
+- [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
