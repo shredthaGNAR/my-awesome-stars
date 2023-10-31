@@ -666,6 +666,8 @@
 
 ## JavaScript 
 
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
+- [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
 - [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results
@@ -1520,6 +1522,7 @@
 
 ## Others 
 
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1991,7 +1994,6 @@
 - [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans) - Image Search Web Application
 - [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine) - Web app to search similar images
 - [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper) - This application is used for scraping images from google image search
-- [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities) - A collection of utility scripts for Notable https://notable.app/
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus) - discovery+ add-on for Kodi
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
