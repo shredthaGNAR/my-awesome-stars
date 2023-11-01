@@ -249,7 +249,7 @@
 - [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme) - Clean, transparent firefox theme
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
 - [catppuccin/joplin](https://github.com/catppuccin/joplin) - 📔️ Soothing pastel theme for Joplin
-- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
 - [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod) - 
 - [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS) - A mish mash of css files to change Firefox appearance, more of old style
 - [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus) - A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
@@ -560,7 +560,7 @@
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video and Disney+ & Hotstar. Name: Streaming enhanced
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
 - [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives) - Pages saved with SingleFile
 - [CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) - a Jekyll project to create a basic digital collection exhibit. See Readme below for instructions to get started!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -1117,7 +1117,7 @@
 - [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts) - 
 - [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird) - Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
-- [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments) - WebExtension Experiments for Thunderbird
+- [thunderbird/tb-web-ext-experiments](https://github.com/thunderbird/tb-web-ext-experiments) - WebExtension Experiments for Thunderbird
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
 - [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -1311,7 +1311,7 @@
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
-- [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
+- [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations) - An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
@@ -1704,7 +1704,7 @@
 - [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack) - This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 - [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset) - BetterTouchTool Preset
 - [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda) - A VS Code theme
-- [thundernest/developer-docs](https://github.com/thundernest/developer-docs) - Developer documentation for Thunderbird contributors.
+- [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs) - Developer documentation for Thunderbird contributors.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT) - MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 - [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars) - :star: A curated list of my GitHub stars
@@ -1849,7 +1849,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
-- [thundernest/autoconfig](https://github.com/thundernest/autoconfig) - The ISPDB, Thunderbird's database of mail configuration files.
+- [thunderbird/autoconfig](https://github.com/thunderbird/autoconfig) - The ISPDB, Thunderbird's database of mail configuration files.
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
