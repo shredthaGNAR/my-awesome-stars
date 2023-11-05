@@ -378,7 +378,7 @@
 - [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 - [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme) - A Safari like them for Firefox 100+
 - [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn) - Trying to resurrect a very Clean Firefox userChrome Mod
-- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme for manual customization
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact) - Compact userChrome for Firefox Proton
 - [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome) - My Firefox Userchrome Config
@@ -1963,7 +1963,7 @@
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt) - Bridge Cync bluetooth mesh to mqtt
-- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [karlicoss/pockexport](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights!
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 - [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
