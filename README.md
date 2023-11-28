@@ -136,6 +136,7 @@
 
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
@@ -1159,7 +1160,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~3 YouTube Extension! Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra 
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1484,7 +1485,6 @@
 - [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac) - Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 - [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor) - Process Monitor Library (based on Apple's new Endpoint Security Framework)
 - [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit) - 
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework) - 
 - [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
@@ -1602,7 +1602,7 @@
 - [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped) - Add-on actions for Dropzone 4
 - [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
 - [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure) - macOS Automator workflow to scaffold my project directory structure.
-- [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+- [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 - [tcellerier/automator](https://github.com/tcellerier/automator) - Mac OS Automator quick actions
 - [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow) - Update Automation Tasks During Alfred 5 Early Access
 - [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders) - Manages reminders in Reminders.app
