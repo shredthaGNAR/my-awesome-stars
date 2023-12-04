@@ -244,7 +244,7 @@
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and patch YouTube Revanced
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx) - YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
+- [cuynu/vancedx](https://github.com/cuynu/vancedx) - YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
@@ -271,7 +271,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## angular 
@@ -471,7 +471,7 @@
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS) - ...Just a place for me to share my various YT-DLP & related bash scripts.
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers) - Small controller scripts and utilities designed to work with BetterTouchTool.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
@@ -503,7 +503,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## chatgpt 
 
@@ -566,7 +566,7 @@
 - [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs) - Export and Import Tabs with Cross-Browser support.
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [bijij/ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
@@ -847,7 +847,7 @@
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
 - [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) - Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [vufly/dotfiles](https://github.com/vufly/dotfiles) - This is the place where I keep my configuration.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
@@ -892,7 +892,7 @@
 
 ## data-structures 
 
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## data-visualization 
 
@@ -967,7 +967,7 @@
 - [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation) - 🗄 Documentation and guides for ReVanced
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [tillig/mediacenter](https://github.com/tillig/mediacenter) - Documentation/info on my media center setup.
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## dotnet 
 
@@ -1217,7 +1217,7 @@
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [bijij/ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) - Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox) - 🤭 Translucent UI for Firefox
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode) - A Compact Mode for Firefox Proton
@@ -1463,7 +1463,7 @@
 
 ## gradle 
 
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## graphql 
 
@@ -1647,7 +1647,7 @@
 - [leemunroe/shopify-email-templates](https://github.com/leemunroe/shopify-email-templates) - Shopify HTML email notification templates for quick reference
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 
 ## html5 
@@ -1662,7 +1662,7 @@
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 ## icon-font 
@@ -1693,7 +1693,7 @@
 - [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 - [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 - [pinterest/PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## iot 
 
@@ -1711,7 +1711,7 @@
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## javascript 
 
@@ -1790,7 +1790,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
 - [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Reveal Effect JavaScript library for web
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
@@ -1843,7 +1843,7 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets) - A robust BetterTouchTool preset for developer power users.
 - [ScreenStaring/shopify_id_export](https://github.com/ScreenStaring/shopify_id_export) - Export Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
@@ -1945,7 +1945,7 @@
 
 ## localization 
 
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## lua 
 
@@ -2424,7 +2424,7 @@
 - [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge) - 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 
 ## open-source 
@@ -2525,7 +2525,7 @@
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+- [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
@@ -4087,7 +4087,7 @@
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
@@ -4192,7 +4192,7 @@
 
 ## support 
 
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## svelte 
 
@@ -4541,7 +4541,7 @@
 ## xml 
 
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
-- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+- [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 
 ## License
