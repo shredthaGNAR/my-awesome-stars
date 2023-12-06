@@ -689,7 +689,7 @@
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -1589,7 +1589,7 @@
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
-- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
+- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode) - Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
