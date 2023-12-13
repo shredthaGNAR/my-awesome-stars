@@ -3085,7 +3085,7 @@
 - [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager) - A Firefox extension to save frequently used tabs as Workspaces
 - [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups) - (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 - [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper) - 📝  A library for getting data from Google Sheets API v4
-- [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
+- [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
