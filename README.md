@@ -82,7 +82,7 @@
 ## AppleScript 
 
 - [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin) - Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
-- [shreygan/applescripts](https://github.com/shreygan/applescripts) - custom applescripts for btt
+- [shreygan/Applescripts](https://github.com/shreygan/Applescripts) - custom applescripts for btt
 - [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts) - ~/Library/Scripts
 - [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive) - Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
 - [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) - A collection of presets for BetterTouchTool
@@ -688,6 +688,8 @@
 
 ## JavaScript 
 
+- [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
+- [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app) - Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
