@@ -1221,7 +1221,6 @@
 - [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app) - A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app) - Unofficial Paper app for Mac
 - [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app) - Unofficial Paper app for Mac
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
