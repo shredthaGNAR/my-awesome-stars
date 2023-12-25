@@ -1528,7 +1528,7 @@
 - [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) - A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick) - Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam) - Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac) - TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
@@ -1831,6 +1831,7 @@
 
 ## Python 
 
+- [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger) - Tool for merging firefox bookmarks backups.
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2165,7 +2166,6 @@
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
-- [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and patch some apps from revanced/inotia00 sources
 - [to-ie/gitswitch](https://github.com/to-ie/gitswitch) - This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 - [tangphillip/Imgur-Uploader](https://github.com/tangphillip/Imgur-Uploader) - A script that uploads an image to imgur and copies the image URL to the clipboard.
