@@ -3485,7 +3485,7 @@
 - [mitchuman/danshari](https://github.com/mitchuman/danshari) - A blank slate theme for Shopify 2.0
 - [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates) - Customize free Shopify Order Printer templates.
 - [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui) - Download/Convert videos from websites without needing to learn command line
-- [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to youtube-dl
+- [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [austintraver/merge](https://github.com/austintraver/merge) - Addon to replicate the Safari 'Merge All Windows' menu command
 - [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups) - 
 - [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt) - 
@@ -4139,6 +4139,7 @@
 
 ## rust 
 
+- [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
