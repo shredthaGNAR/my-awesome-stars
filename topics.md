@@ -3494,7 +3494,6 @@
 - [electricmaybe/shopify-trafo](https://github.com/electricmaybe/shopify-trafo) - 🧬 Shopify development environment, ready for Online Store 2.0 and Shopify CLI. Using Tailwind and Webpack.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
-- [theachoem/btt-mac](https://github.com/theachoem/btt-mac) - Better Touch Tool Preset for Touchbar
 - [mkbabb/btt-scripts](https://github.com/mkbabb/btt-scripts) - A collection of utility scripts for Better Touch Tool.
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
 - [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css) - 
