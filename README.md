@@ -1728,7 +1728,6 @@
 - [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource) - uBlock Origin Experimental Scriptlets Resource
 - [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates) - Joplin note taking templates
 - [laurent22/joplin-android](https://github.com/laurent22/joplin-android) - Android releases for Joplin
-- [theachoem/btt-mac](https://github.com/theachoem/btt-mac) - Better Touch Tool Preset for Touchbar
 - [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback) - The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 - [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS) - Youtube Music for macOS (Ads free) & Download Music For Free.
 - [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper) - Mojave-style dynamic wallpapers for macOS.
