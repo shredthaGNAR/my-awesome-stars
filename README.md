@@ -1567,6 +1567,7 @@
 
 ## Others 
 
+- [tg-z/estrellas](https://github.com/tg-z/estrellas) - 
 - [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr) - Take a snapshot and recognize text
 - [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
 - [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto) - Live update crypto prices on the Touch Bar.
@@ -2339,6 +2340,7 @@
 
 ## Swift 
 
+- [xulihang/macOCR](https://github.com/xulihang/macOCR) - Command line OCR tool using macOS's VNRecognizeTextRequest
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - Open-source mac app cleaner
 - [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli) - 
 - [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
