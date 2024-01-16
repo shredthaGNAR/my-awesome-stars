@@ -2531,6 +2531,8 @@
 
 ## others 
 
+- [tg-z/estrellas](https://github.com/tg-z/estrellas) - 
+- [xulihang/macOCR](https://github.com/xulihang/macOCR) - Command line OCR tool using macOS's VNRecognizeTextRequest
 - [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0) - 
 - [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr) - Take a snapshot and recognize text
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
