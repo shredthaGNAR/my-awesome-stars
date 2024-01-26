@@ -310,7 +310,6 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [benman604/userChrome.css](https://github.com/benman604/userChrome.css) - 
 - [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin) - A skin for Firefox using custom CSS
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates) - A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
@@ -610,6 +609,7 @@
 - [w0lfschild/cDock](https://github.com/w0lfschild/cDock) - :lollipop: Basic dock customization for macOS
 - [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window) - 👻 Firefox extension to open a copy of the current page in a new Private Window
 - [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview) - This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
+- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates) - Customize free Shopify Order Printer templates.
@@ -645,6 +645,7 @@
 
 ## Java 
 
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with beautiful UI, features and improvements
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
 - [inotia00/mMicroG](https://github.com/inotia00/mMicroG) - 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
