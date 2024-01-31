@@ -450,6 +450,7 @@
 
 ## Clojure 
 
+- [OneKeePass/desktop](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
@@ -1258,7 +1259,7 @@
 - [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources) - Tools and documentation for building Creative Cloud app extensions with CEP
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -2528,7 +2529,7 @@
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
