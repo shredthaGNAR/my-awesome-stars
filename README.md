@@ -692,6 +692,8 @@
 
 ## JavaScript 
 
+- [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
+- [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [Madis0/firefox-desaturate-favicons](https://github.com/Madis0/firefox-desaturate-favicons) - Desaturate the favicons of all inactive tabs.
 - [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode) - Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 - [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar) - Hackbar Firefox Extension
@@ -1571,6 +1573,7 @@
 
 ## Others 
 
+- [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources) - Resources for MacOS automation languages
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
@@ -1845,6 +1848,9 @@
 
 ## Python 
 
+- [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver) - A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
+- [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup) - Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
+- [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3) - Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger) - Tool for merging firefox bookmarks backups.
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
