@@ -3528,7 +3528,6 @@
 - [halfhelix/shopify-guide](https://github.com/halfhelix/shopify-guide) - A mostly reasonable approach to Shopify theme development
 - [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets) - collection of useful code snippets
 - [coolaj86/dropshare](https://github.com/coolaj86/dropshare) - A min.us / ge.tt file share clone.
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli) - CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
 - [h0se69/Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper) - Scrape Shopify Product with variants | Includes Discord Embed
 - [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation) - Python script that modifies Shopify spreadsheet exports of order details.
