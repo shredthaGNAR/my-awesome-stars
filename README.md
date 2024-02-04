@@ -2128,7 +2128,6 @@
 - [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons) - Customize your icons on macOS 🔧
 - [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
 - [GSA/asis](https://github.com/GSA/asis) - ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets) - 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
