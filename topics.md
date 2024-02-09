@@ -561,6 +561,7 @@
 
 ## chrome 
 
+- [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - Selecton provides popup with actions on text selection in all major browsers
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
@@ -608,6 +609,7 @@
 
 ## chrome-extension 
 
+- [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - Selecton provides popup with actions on text selection in all major browsers
 - [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode) - Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
@@ -2568,6 +2570,8 @@
 
 ## others 
 
+- [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator) - 
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 - [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar) -  Activity monitor toolbar widget for the Macbook Pro
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
