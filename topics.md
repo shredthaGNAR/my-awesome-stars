@@ -2570,6 +2570,11 @@
 
 ## others 
 
+- [mkirchner/pockyll](https://github.com/mkirchner/pockyll) - Create Jekyll linkposts from Pocket bookmarks
+- [kyhau/google-keep-helper](https://github.com/kyhau/google-keep-helper) - Python scripts for importing bookmarks from Pocket getpocket.com to Google Keep.
+- [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter) - Export your pocket data
+- [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format) - 
+- [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter) - Export bookmarks from Pocket and import them into Chrome
 - [An0nUD4Y/evilginx2](https://github.com/An0nUD4Y/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -4509,7 +4514,7 @@
 - [krisu5/userstyles](https://github.com/krisu5/userstyles) - UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
-- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
+- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|GreasyFork脚本页面👇
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
