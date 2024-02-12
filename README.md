@@ -101,7 +101,7 @@
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
 - [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts) - My collection of scripts I've written over the years
-- [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the youtube-dl video downloader
+- [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
 - [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions) - 
 - [sw-uci/cdto](https://github.com/sw-uci/cdto) - Mac script used to open a terminal at the current Finder folder
 - [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts) - AppleScripts for use with OS X / macOS
@@ -701,6 +701,8 @@
 
 ## JavaScript 
 
+- [twolfson/bookmarks](https://github.com/twolfson/bookmarks) - Webpage representing a collection of bookmarks
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - Selecton provides popup with actions on text selection in all major browsers
 - [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator) - 
 - [molebox/gatsby-theme-pocket](https://github.com/molebox/gatsby-theme-pocket) - A Gatsby theme that adds a pocket to your website.
@@ -2205,7 +2207,7 @@
 - [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur) - Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
 - [chris1111/Kext-Droplet-Big-Sur](https://github.com/chris1111/Kext-Droplet-Big-Sur) - 
 - [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
-- [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
+- [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac) - Spotify Ad blocker for MacOS
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
@@ -2501,6 +2503,7 @@
 
 ## TypeScript 
 
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini) - Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or 
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
