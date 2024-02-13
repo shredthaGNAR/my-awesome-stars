@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A free, open-source, robust yet user-friendly, compact and cross-platform tool for OpenPGP encryption. It stands out as an exceptional GUI frontend for the modern GnuPG (gpg).
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -655,6 +656,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with beautiful UI, features and improvements
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
