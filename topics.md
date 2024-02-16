@@ -530,6 +530,7 @@
 
 ## chatgpt 
 
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
@@ -706,7 +707,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰90 clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content disc
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content di
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -2042,6 +2043,7 @@
 
 ## mac 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac) - Spotify Ad blocker for MacOS
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
@@ -2104,6 +2106,7 @@
 
 ## macos 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
@@ -2337,6 +2340,7 @@
 
 ## markdown 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
@@ -4402,6 +4406,7 @@
 
 ## swift 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
@@ -4540,6 +4545,7 @@
 
 ## typescript 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio) - This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the dev
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
