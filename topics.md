@@ -3206,7 +3206,7 @@
 - [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - One button to close any overlay on any website
 - [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
+- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons) - 
 - [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
@@ -4249,6 +4249,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
