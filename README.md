@@ -821,7 +821,7 @@
 - [litejs/json-lite](https://github.com/litejs/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
 - [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome) - My UserChrome Css and Script
 - [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window) - Firefox extension for opening links in other window.
-- [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque) - A Firefox extension for better tab handling.
+- [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque) - A Firefox extension for better tab handling.
 - [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
@@ -1191,7 +1191,7 @@
 - [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird) - Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
 - [thunderbird/tb-web-ext-experiments](https://github.com/thunderbird/tb-web-ext-experiments) - WebExtension Experiments for Thunderbird
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
-- [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+- [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [darkred/Userscripts](https://github.com/darkred/Userscripts) - My userscripts
@@ -1772,7 +1772,7 @@
 - [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback) - The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 - [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS) - Youtube Music for macOS (Ads free) & Download Music For Free.
 - [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper) - Mojave-style dynamic wallpapers for macOS.
-- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
+- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 - [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
 - [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients) - Library of CSS3 Gradients
@@ -1821,6 +1821,7 @@
 
 ## PHP 
 
+- [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
 - [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader) - Display all your bookmarks files on a webpage
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator) - Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
@@ -1905,7 +1906,6 @@
 - [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting) - Collection of sports betting AI tools.
 - [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain) - A package containing the essential math required for sports betting and gambling.
 - [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds) - Import NHL data from NHL website and merge odds
-- [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling) - NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
 - [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A tool to automatically build latest releases of ReVanced apps
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
@@ -2130,6 +2130,8 @@
 
 ## Ruby 
 
+- [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
+- [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 - [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter) - Export your pocket data
 - [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter) - Export bookmarks from Pocket and import them into Chrome
@@ -2521,6 +2523,7 @@
 
 ## TypeScript 
 
+- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
