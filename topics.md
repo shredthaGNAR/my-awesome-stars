@@ -2587,6 +2587,10 @@
 
 ## others 
 
+- [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
+- [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
+- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
+- [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter) - Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
@@ -2726,7 +2730,6 @@
 - [yssefunc/sport_analytics](https://github.com/yssefunc/sport_analytics) - Sports betting analytics
 - [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds) - Import NHL data from NHL website and merge odds
 - [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds) - A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
-- [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling) - NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
 - [Nerdmaster/poker](https://github.com/Nerdmaster/poker) - Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
@@ -2864,7 +2867,7 @@
 - [litejs/json-lite](https://github.com/litejs/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
 - [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS) - Add icons to Firefox menus using userChrome/userContent.css
 - [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome) - My UserChrome Css and Script
-- [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque) - A Firefox extension for better tab handling.
+- [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque) - A Firefox extension for better tab handling.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
@@ -3495,7 +3498,7 @@
 - [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird) - A universal dark theme for Thunderbird
 - [thunderbird/tb-web-ext-experiments](https://github.com/thunderbird/tb-web-ext-experiments) - WebExtension Experiments for Thunderbird
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
-- [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+- [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [darkred/Userscripts](https://github.com/darkred/Userscripts) - My userscripts
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
@@ -3678,7 +3681,7 @@
 - [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine) - You here to make some email signatures
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures) - Custom HTML/CSS e-mail signatures for Gmail
-- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
+- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter) - Markdown table format plugin for Joplin
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
