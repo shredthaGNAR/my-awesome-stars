@@ -3966,7 +3966,7 @@
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [No longer actively maintained] Stops Adobe's pesky background apps and more 😉
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
 
 ## privacy 
 
