@@ -1684,7 +1684,7 @@
 - [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
-- [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking.
+- [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking
 - [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner) - This is Automator app built in Mac
 - [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService) - Simple adb install APK Automator Service for Mac with Notification
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
@@ -2228,7 +2228,7 @@
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and another patches about 5 minutes after patches release
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [to-ie/gitswitch](https://github.com/to-ie/gitswitch) - This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
