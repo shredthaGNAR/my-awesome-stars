@@ -264,7 +264,7 @@
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -586,7 +586,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3. The future, right now!
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ (Hotstar, STAR+) and Crunchyroll
 - [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater) - This is a google chrome extension for saving links for later reading.
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -674,7 +674,7 @@
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3. The future, right now!
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ (Hotstar, STAR+) and Crunchyroll
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater) - This is a google chrome extension for saving links for later reading.
 - [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE) - Read Later Chrome Extension
@@ -828,6 +828,7 @@
 
 ## cryptocurrency 
 
+- [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
 - [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript) - BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
 - [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display) - Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
@@ -1172,7 +1173,7 @@
 - [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file) - WebExtension for using images on the clipboard as files
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 (runs on ff 115)
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ (Hotstar, STAR+) and Crunchyroll
 - [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox tab bar to match the website theme.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
@@ -1788,7 +1789,7 @@
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
@@ -1940,7 +1941,7 @@
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
@@ -2040,6 +2041,7 @@
 
 ## mac 
 
+- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac) - Spotify Ad blocker for MacOS
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
@@ -2102,7 +2104,9 @@
 
 ## macos 
 
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+- [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -2235,7 +2239,7 @@
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
 - [keith/ModMove](https://github.com/keith/ModMove) - Move/Resize windows using modifiers and the mouse
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
-- [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden in the macOS menu bar
+- [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
 - [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator) - macOS utility to add multiple separators to Dock
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
@@ -2516,7 +2520,7 @@
 
 ## objective-c 
 
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
@@ -2584,6 +2588,7 @@
 
 ## others 
 
+- [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
@@ -3969,7 +3974,8 @@
 
 ## privacy 
 
-- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for Apple's default macOS Mail
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of filters to fill in the gaps
@@ -4449,7 +4455,7 @@
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [jslpc/Swift-DL](https://github.com/jslpc/Swift-DL) - A macOS GUI client for yt-dlp written in Swift
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
-- [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden in the macOS menu bar
+- [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
 - [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
@@ -4481,7 +4487,7 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
-- [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden in the macOS menu bar
+- [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
 - [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [hotchemi/Scre](https://github.com/hotchemi/Scre) - A lightweight screen recorder macOS application written in SwiftUI.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
