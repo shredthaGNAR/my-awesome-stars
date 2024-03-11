@@ -329,7 +329,7 @@
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css) - 
 - [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
-- [AlfarexGuy2019/GentleFox](https://github.com/AlfarexGuy2019/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
+- [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
 - [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome) - This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 - [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme) - A light theme for Joplin
@@ -709,6 +709,7 @@
 
 ## JavaScript 
 
+- [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 - [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter) - Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 - [magicdawn/magicdawn](https://github.com/magicdawn/magicdawn) - 个人学习 / 代码 / 总结 / 读书笔记
 - [twolfson/bookmarks](https://github.com/twolfson/bookmarks) - Webpage representing a collection of bookmarks
