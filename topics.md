@@ -335,6 +335,7 @@
 
 ## atom 
 
+- [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
@@ -578,6 +579,7 @@
 
 ## chrome 
 
+- [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 - [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - Selecton provides popup with actions on text selection in all major browsers
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -1129,6 +1131,7 @@
 
 ## firefox 
 
+- [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
@@ -2603,6 +2606,7 @@
 
 ## others 
 
+- [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
