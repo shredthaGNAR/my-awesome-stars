@@ -2182,6 +2182,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
