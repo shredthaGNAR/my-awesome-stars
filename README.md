@@ -83,6 +83,7 @@
 
 ## AppleScript 
 
+- [jakshin/open-in-terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
 - [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools) - Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 - [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar) -  Activity monitor toolbar widget for the Macbook Pro
 - [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut) - this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
@@ -559,6 +560,7 @@
 
 ## HTML 
 
+- [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io) - 
 - [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates) - Find duplicate logins based on domain, from bitwarden export. Open source for your safety.
 - [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format) - 
 - [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -710,6 +712,7 @@
 
 ## JavaScript 
 
+- [snte/odinochka](https://github.com/snte/odinochka) - featherweight tab manager
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 - [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter) - Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 - [magicdawn/magicdawn](https://github.com/magicdawn/magicdawn) - 个人学习 / 代码 / 总结 / 读书笔记
@@ -2138,6 +2141,7 @@
 
 ## Ruby 
 
+- [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew) - A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 - [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
@@ -2182,6 +2186,7 @@
 
 ## Rust 
 
+- [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
@@ -2407,6 +2412,7 @@
 
 ## Swift 
 
+- [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [ppati000/pickpocket](https://github.com/ppati000/pickpocket) - Pickpocket imports Pocket links to Safari reading list.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -2537,6 +2543,7 @@
 
 ## TypeScript 
 
+- [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
