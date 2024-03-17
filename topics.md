@@ -1133,6 +1133,7 @@
 
 ## firefox 
 
+- [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
@@ -2615,6 +2616,10 @@
 
 ## others 
 
+- [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
+- [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant) - 
+- [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
+- [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
 - [snte/odinochka](https://github.com/snte/odinochka) - featherweight tab manager
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
 - [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io) - 
@@ -3296,7 +3301,6 @@
 - [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates) - Thunderbird Add-on: SmartTemplates
 - [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters) - Thunderbird Add-on: quickFilters
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
-- [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT) - Makes YouTube Less trashy by removing distracting features, and trash videos
 - [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB) - Thunderbird Addon Code Knowledge Base
 - [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm) - Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 - [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX) - Conversion exercise for Thunderbird MailExtensions
@@ -4001,7 +4005,7 @@
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
+- [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
 
 ## privacy 
 
