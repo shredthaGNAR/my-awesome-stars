@@ -481,6 +481,7 @@
 
 ## Dart 
 
+- [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
@@ -564,6 +565,7 @@
 
 ## HTML 
 
+- [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet) - Bookmarklet for saving selected text to Apple Notes
 - [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io) - 
 - [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates) - Find duplicate logins based on domain, from bitwarden export. Open source for your safety.
 - [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format) - 
@@ -2159,7 +2161,7 @@
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter) - Minimal Mistakes GitHub Pages site starter.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
-- [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula for https://github.com/sbmpost/AutoRaise
+- [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise) - Formula and cask for https://github.com/sbmpost/AutoRaise
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [TheKevJames/homebrew-youtube-viewer](https://github.com/TheKevJames/homebrew-youtube-viewer) - youtube-viewer Formula for Homebrew
