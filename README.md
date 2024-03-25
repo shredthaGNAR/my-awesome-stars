@@ -232,6 +232,7 @@
 
 ## CSS 
 
+- [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - Safari like minimalistic theme
 - [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant) - 
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -2424,6 +2425,7 @@
 
 ## Swift 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's native message relay server for Mac
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
