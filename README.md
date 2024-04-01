@@ -698,7 +698,6 @@
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
-- [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam) - Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver. Best for devices on really old Android versions: 4.0.4 etc.
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred) - Raspberry pi webcam and motion sensor project
 - [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial) - remove commercial and detect logo in video
