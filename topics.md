@@ -247,6 +247,7 @@
 
 ## android 
 
+- [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches) - BiliRoamingX patches powered by revanced.
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -2627,6 +2628,12 @@
 
 ## others 
 
+- [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
+- [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
+- [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
+- [kazimmt/RVX-Features](https://github.com/kazimmt/RVX-Features) - Organized YouTube ReVanced & ReVanced Extended functionalities along with visual illustrations.
+- [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
+- [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended) - ReVanced eXtended: Enhanced Modules and APKs for YouTube and YouTube Music.
 - [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict) - Double-click any word to view its definition in a pop-up bubble Fork of the "Dictionary Anywhere" addon initally made to make it usable for android but now adds a couple of more features/improvements
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
