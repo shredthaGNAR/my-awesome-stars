@@ -537,7 +537,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
-- [L11R/go-autoconfig](https://github.com/L11R/go-autoconfig) - IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
+- [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig) - IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 - [tardisx/gropple](https://github.com/tardisx/gropple) - Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
