@@ -336,7 +336,7 @@
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 
 ## atom 
 
@@ -975,7 +975,7 @@
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 - [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha) - Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
@@ -1412,11 +1412,11 @@
 
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 
 ## game-development 
 
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 
 ## games 
 
@@ -1603,7 +1603,7 @@
 
 ## hacktoberfest 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -2145,7 +2145,7 @@
 
 ## macos 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS minimalistic theme for firefox
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [jakshin/open-in-terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
@@ -4163,7 +4163,7 @@
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
-- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker simulations and hand evaluations
+- [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
@@ -4507,7 +4507,7 @@
 
 ## swift 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
@@ -4558,7 +4558,7 @@
 
 ## swiftui 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
