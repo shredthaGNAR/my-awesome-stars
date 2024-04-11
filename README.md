@@ -278,7 +278,7 @@
 - [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme) - Clean, transparent firefox theme
 - [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored) - Source for the browser extension to remove all sponsored links in amazon
 - [catppuccin/joplin](https://github.com/catppuccin/joplin) - 📔️ Soothing pastel theme for Joplin
-- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod) - 
 - [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS) - A mish mash of css files to change Firefox appearance, more of old style
 - [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus) - A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
@@ -1906,7 +1906,7 @@
 ## Python 
 
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Updated daily and compatible with AdGuard Home, Pi-Hole, uBlock Origin, AdBlock, AdBlock Plus, AdGuard for Windows/Mac/Android/iOS/Browsers, and hosts files!
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your ad blocking with blocklists from The Firebog! Daily updates shield you from intrusive ads, trackers, and malware. Works with AdGuard Home, Pi-Hole, and adblocking browser extensions f
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2499,7 +2499,6 @@
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - a macOS/OSX app to comfortably browse and search through your Messages.app history.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-- [jslpc/Swift-DL](https://github.com/jslpc/Swift-DL) - A macOS GUI client for yt-dlp written in Swift
 - [keith/ModMove](https://github.com/keith/ModMove) - Move/Resize windows using modifiers and the mouse
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
 - [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
