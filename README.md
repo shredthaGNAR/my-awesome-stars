@@ -233,6 +233,7 @@
 
 ## CSS 
 
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
 - [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - 
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS minimalistic theme for firefox
@@ -1906,7 +1907,7 @@
 ## Python 
 
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your ad blocking with blocklists from The Firebog! Daily updates shield you from intrusive ads, trackers, and malware. Works with AdGuard Home, Pi-Hole, and adblocking browser extensions f
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your ad blocking with DNS blocklists from The Firebog! Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content! Works with AdGuard Home, Pi-Hole, and adblo
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
