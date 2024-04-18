@@ -2643,6 +2643,7 @@
 
 ## others 
 
+- [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 - [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - 
 - [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
@@ -2654,7 +2655,7 @@
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your ad blocking with DNS blocklists from The Firebog! Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content! Works with AdGuard Home, Pi-Hole, and adblo
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your network security with DNS blocklists from The Firebog! Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content! Works with AdGuard Home, Pi-Hole, and 
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [asilvas/circler](https://github.com/asilvas/circler) - (non-official) Logitech Circle utility application (download etc)
 - [robilic/DockHand](https://github.com/robilic/DockHand) - Window preview feature similar to 'Aero Peek' for the Mac OS dock
