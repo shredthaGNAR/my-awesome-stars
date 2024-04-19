@@ -235,7 +235,7 @@
 ## CSS 
 
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
-- [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - 
+- [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - Beautiful design for firefox new tab
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS minimalistic theme for firefox
 - [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant) - 
@@ -491,7 +491,7 @@
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
-- [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - Crossdrop is a partial implementation of Google's Nearby Share in Flutter for macOS, iOS and Linux. Crossdrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
+- [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 - [axross/aqua](https://github.com/axross/aqua) - ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -512,6 +512,7 @@
 
 ## Go 
 
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [An0nUD4Y/evilginx2](https://github.com/An0nUD4Y/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -678,6 +679,7 @@
 
 ## Java 
 
+- [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
@@ -1429,7 +1431,7 @@
 ## Kotlin 
 
 - [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
-- [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches) - BiliRoamingX patches powered by revanced.
+- [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches) - [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
@@ -2258,7 +2260,7 @@
 
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
-- [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended) - ReVanced eXtended: Enhanced Modules and APKs for YouTube and YouTube Music.
+- [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended) - ReVanced eXtended: Enhanced Modules and APKs.
 - [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts) - Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
@@ -2571,6 +2573,7 @@
 
 ## TypeScript 
 
+- [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
