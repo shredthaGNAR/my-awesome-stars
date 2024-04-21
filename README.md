@@ -234,6 +234,7 @@
 
 ## CSS 
 
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css) - 
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
 - [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - Beautiful design for firefox new tab
@@ -1628,9 +1629,10 @@
 
 ## Others 
 
+- [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
-- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
 - [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List) - Bots To be added
