@@ -2742,7 +2742,7 @@
 - [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0) - 
 - [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr) - Take a snapshot and recognize text
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
-- [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - Open-source mac app cleaner
+- [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
 - [OceanicSquirrel/themes-for-ytmdesktop-player](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player) - If you are using the https://github.com/ytmdesktop/ytmdesktop player, you can copy these CSS files to try different color themes. (This is not affiliated with YouTube or the ytmdesktop project)
