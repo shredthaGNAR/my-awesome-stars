@@ -195,6 +195,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A free, open-source, robust yet user-friendly, compact and cross-platform tool for OpenPGP encryption. It stands out as an exceptional GUI frontend for the modern GnuPG (gpg).
@@ -215,7 +216,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow) - 🎉 Generate/Scan QR Code on the fly
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe 2.0 desktop client for Windows, Mac and Linux
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
@@ -235,6 +236,7 @@
 
 ## CSS 
 
+- [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search) - Add a bookmark tag search sidebar to Firefox
 - [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css) - 
@@ -564,7 +566,7 @@
 - [lobre/pocket2notion](https://github.com/lobre/pocket2notion) - Tool for migrating Pocket items to Notion
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss) - A CLI interface to apply and configure FirefoxCSS themes
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [ScreenStaring/shopify_id_export](https://github.com/ScreenStaring/shopify_id_export) - Export Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file
@@ -1865,6 +1867,7 @@
 
 ## PHP 
 
+- [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
 - [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader) - Display all your bookmarks files on a webpage
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -2226,6 +2229,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert) - Malware, advert and tracking blacklist
@@ -2456,6 +2460,8 @@
 
 ## Swift 
 
+- [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
+- [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
