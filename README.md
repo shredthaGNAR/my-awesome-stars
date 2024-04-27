@@ -2277,6 +2277,7 @@
 
 ## Shell 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
 - [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended) - ReVanced eXtended: Enhanced Modules and APKs.
@@ -2720,7 +2721,7 @@
 - [lbragile/TabMerger](https://github.com/lbragile/TabMerger) - TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 - [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine) - 
 - [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc) - Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
-- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - BetterTouchTool Window Manager Preset
+- [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset) - Simple and powerful BetterTouchTool Window Manager Preset
 - [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail) - React web application to manage ProtonMail
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside) - A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
