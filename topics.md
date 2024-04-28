@@ -2679,6 +2679,7 @@
 
 ## others 
 
+- [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions
