@@ -613,7 +613,6 @@
 - [aerobless/bookmarks](https://github.com/aerobless/bookmarks) - Personal browser launch page. Made with static-marks.
 - [ksclarke/static-marks-action](https://github.com/ksclarke/static-marks-action) - A GitHub Action wrapper for the static-marks project
 - [jekyllt/sustain](https://github.com/jekyllt/sustain) - 🎹 Personal blog powered by Jekyll
-- [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator) - This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
 - [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro) - A free Plist Editor with some optional facilities for Clover UEFI boot loader
 - [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop) - Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or busine
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
@@ -735,6 +734,7 @@
 
 ## JavaScript 
 
+- [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website) - My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
 - [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
