@@ -734,6 +734,7 @@
 
 ## JavaScript 
 
+- [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website) - My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
