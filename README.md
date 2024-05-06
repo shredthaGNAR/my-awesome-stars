@@ -255,7 +255,7 @@
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 - [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur) - The simplest possible translucent userchrome theme for firefox (tested on linux only)
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - A faithful(-ish) Firefox Photon theme.
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - A faithful(ish) Firefox Photon theme.
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
@@ -2748,6 +2748,7 @@
 - [austintraver/merge](https://github.com/austintraver/merge) - Addon to replicate the Safari 'Merge All Windows' menu command
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils) - Joplin-based peripheral community tool
