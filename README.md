@@ -469,7 +469,6 @@
 - [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom) - A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only.
 - [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) - macOS Native-looking Translucent Tabbar for Firefox
 - [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar) - Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
-- [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur) - 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 - [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark) - Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail
 - [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird) - User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 
@@ -734,6 +733,7 @@
 
 ## JavaScript 
 
+- [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes) - Browser Add-on: Allow you to write anything in new tab
 - [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
@@ -2269,7 +2269,6 @@
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–125) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
-- [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
