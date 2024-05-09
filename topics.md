@@ -118,6 +118,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -882,7 +883,7 @@
 
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
-- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. FF Ultima.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -2126,6 +2127,17 @@
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
+## llm 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
+- [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4!)
+
 ## lua 
 
 - [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon) - My personal Hammerspoon configuration - mirrored from GitLab
@@ -2739,7 +2751,6 @@
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [kazimmt/RVX-Features](https://github.com/kazimmt/RVX-Features) - Organized YouTube ReVanced & ReVanced Extended functionalities along with visual illustrations.
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
-- [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended) - ReVanced eXtended: Enhanced Modules and APKs.
 - [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict) - Double-click any word to view its definition in a pop-up bubble Fork of the "Dictionary Anywhere" addon initally made to make it usable for android but now adds a couple of more features/improvements
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
