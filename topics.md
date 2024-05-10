@@ -535,7 +535,7 @@
 
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 - [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
 
 ## bot 
@@ -1157,8 +1157,8 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension) - 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
-- [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-- [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 
 ## ethereum 
 
@@ -1616,14 +1616,14 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback) - The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
-- [Maxvien/shopify-data-faker](https://github.com/Maxvien/shopify-data-faker) - 🛍 A Shopify development tool for generating dummy store data.
+- [VienDinhCom/shopify-data-faker](https://github.com/VienDinhCom/shopify-data-faker) - 🛍 A Shopify development tool for generating dummy store data.
 
 ## gulp 
 
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev) - Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 - [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
-- [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+- [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 
 ## hackathon 
 
@@ -1954,7 +1954,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
-- [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+- [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 - [vuestorefront/shopify](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify
 - [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus) - Thesaurus firefox add-on.
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
@@ -4473,8 +4473,8 @@
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-- [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-- [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
@@ -4920,7 +4920,7 @@
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [uicrooks/shopify-mail-notifications](https://github.com/uicrooks/shopify-mail-notifications) - Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig
 - [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader) - Chrome manifest loader for webpack
-- [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 - [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind) - Shopify Themekit with Webpack & Tailwind CSS
 - [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
