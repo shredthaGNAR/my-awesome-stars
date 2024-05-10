@@ -1495,8 +1495,8 @@
 - [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse) - SWBH Theme Export Impluse Theme
 - [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify) - 
 - [realoatesman/Dawn](https://github.com/realoatesman/Dawn) - Shopify Dawn Dev Theme
-- [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-- [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 - [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections) - Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 - [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme) - Shopify theme for Low Coast Coffee
 - [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template) - 
@@ -2783,7 +2783,7 @@
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify) - Nx plugin for developing performance-first Shopify themes 🚀
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [Maxvien/shopify-data-faker](https://github.com/Maxvien/shopify-data-faker) - 🛍 A Shopify development tool for generating dummy store data.
+- [VienDinhCom/shopify-data-faker](https://github.com/VienDinhCom/shopify-data-faker) - 🛍 A Shopify development tool for generating dummy store data.
 - [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it) - Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
 - [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder) - This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactl
 - [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search) - Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
