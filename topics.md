@@ -54,6 +54,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -234,7 +235,7 @@
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4!)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -255,6 +256,7 @@
 
 ## android 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches) - [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
@@ -379,6 +381,8 @@
 
 ## awesome 
 
+- [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
+- [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -554,6 +558,7 @@
 
 ## chatgpt 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
@@ -568,7 +573,7 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4!)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -597,6 +602,10 @@
 
 ## chrome 
 
+- [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
+- [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
@@ -648,6 +657,7 @@
 
 ## chrome-extension 
 
+- [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes) - Browser Add-on: Allow you to write anything in new tab
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -994,6 +1004,7 @@
 
 ## database 
 
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
 
 ## deep-learning 
@@ -1070,6 +1081,36 @@
 - [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation) - 🗄 Collection of all ReVanced documentation
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [tillig/mediacenter](https://github.com/tillig/mediacenter) - Documentation/info on my media center setup.
+
+## dotfiles 
+
+- [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
+- [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [Pilaton/MacSync](https://github.com/Pilaton/MacSync) - Easy sync for macOS. Dotfiles, folders, configurations, etc.
+- [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
+- [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
+- [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
+- [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
+- [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
+- [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+- [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
+- [ahmadawais/dotfiles](https://github.com/ahmadawais/dotfiles) - A non-exhaustive collection of my dotfiles.
+- [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
+- [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
+- [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
+- [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles) - My personal (.)dotfiles and configurations for various programs and environments.
+- [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles) - All my handy configuration files, including for stuff like Skyrim. ⚔️
+- [vufly/dotfiles](https://github.com/vufly/dotfiles) - This is the place where I keep my configuration.
 
 ## dotnet 
 
@@ -1171,6 +1212,25 @@
 
 ## firefox 
 
+- [PaperProton-Redux/PaperProton-Redux](https://github.com/PaperProton-Redux/PaperProton-Redux) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge
+- [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
+- [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
+- [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
+- [xKe00/LinkQR](https://github.com/xKe00/LinkQR) - A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
+- [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
+- [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) - Firefox extension which lets you use your passwords stored on iCloud Keychain®.
+- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
+- [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
+- [igorlogius/select-tabs-extras](https://github.com/igorlogius/select-tabs-extras) - Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
+- [igorlogius/copy-link-extras](https://github.com/igorlogius/copy-link-extras) - Add extra copy functions to links. Works with single or muliple links in a selection.
+- [igorlogius/import-urls](https://github.com/igorlogius/import-urls) - Import URLs from the clipboard or a text file as tabs or bookmarks
+- [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - Limits the number of active tabs by unloading older tabs
+- [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
+- [tim-we/web-ext-inspector](https://github.com/tim-we/web-ext-inspector) - Website for inspecting the contents of web extensions
+- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
+- [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A Firefox addon for generating and scanning QR codes.
 - [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [igorlogius/unlisted](https://github.com/igorlogius/unlisted) - Addons not listed on AMO
 - [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode) - Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the cl
@@ -1462,6 +1522,7 @@
 
 ## git 
 
+- [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
@@ -1578,6 +1639,7 @@
 
 ## google 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4!)
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
@@ -1647,6 +1709,7 @@
 
 ## hacktoberfest 
 
+- [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -1793,6 +1856,7 @@
 
 ## html 
 
+- [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
@@ -2009,6 +2073,7 @@
 
 ## js 
 
+- [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -2071,9 +2136,10 @@
 
 ## linux 
 
+- [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
@@ -2214,6 +2280,7 @@
 
 ## macos 
 
+- [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) - Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
@@ -2226,7 +2293,7 @@
 - [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
@@ -2721,6 +2788,11 @@
 
 ## others 
 
+- [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
+- [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
+- [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles) - UserChromeFiles © Vitaliy V.
+- [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension) - Inspect extensions with web-ext-inspector
+- [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) - 
 - [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor) - 
@@ -2987,7 +3059,6 @@
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) - Custom plugin for Oh My Zsh with youtube-dl aliases
 - [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView) - Browser extension that hides watched YouTube™ videos.
-- [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket) - Bookmarklet sending OneTab links to Pocket
 - [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline) - A basic client for Pocketbook to read and modify Pocket items
@@ -4153,6 +4224,7 @@
 
 ## privacy 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
@@ -4490,6 +4562,7 @@
 
 ## security 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A free, open-source, robust yet user-friendly, compact and cross-platform tool for OpenPGP encryption. It stands out as an exceptional GUI frontend for the modern GnuPG (gpg).
@@ -4756,6 +4829,7 @@
 
 ## twitter 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 - [krisu5/userstyles](https://github.com/krisu5/userstyles) - UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
@@ -4813,7 +4887,7 @@
 ## ubuntu 
 
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -4935,10 +5009,11 @@
 
 ## windows 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
