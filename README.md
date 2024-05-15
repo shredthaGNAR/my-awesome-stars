@@ -212,7 +212,7 @@
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow) - 🎉 Generate/Scan QR Code on the fly
@@ -236,7 +236,6 @@
 
 ## CSS 
 
-- [PaperProton-Redux/PaperProton-Redux](https://github.com/PaperProton-Redux/PaperProton-Redux) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search) - Add a bookmark tag search sidebar to Firefox
@@ -1263,7 +1262,7 @@
 - [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
 - [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move) - Firefox addon that lets you move a tab to the start or the end of the tab bar
-- [l10nelw/winger](https://github.com/l10nelw/winger) - Window Manager: A Firefox web extension for switching windows and moving tabs between windows
+- [l10nelw/winger](https://github.com/l10nelw/winger) - Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 - [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab) - Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another brie
 - [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu) - Firefox webextension to add an undo closed tabs menu to tabs.
 - [joshuacant/move_to_private](https://github.com/joshuacant/move_to_private) - Firefox webextension to add an 'open in private' menu item to tabs.
@@ -2515,7 +2514,7 @@
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-- [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proofs of Concept
+- [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
