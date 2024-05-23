@@ -737,6 +737,7 @@
 
 ## JavaScript 
 
+- [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 - [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles) - UserChromeFiles © Vitaliy V.
@@ -1956,6 +1957,7 @@
 
 ## Python 
 
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
@@ -2180,7 +2182,7 @@
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
 - [h0se69/Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper) - Scrape Shopify Product with variants | Includes Discord Embed
 - [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation) - Python script that modifies Shopify spreadsheet exports of order details.
