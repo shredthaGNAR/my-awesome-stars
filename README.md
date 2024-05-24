@@ -737,6 +737,7 @@
 
 ## JavaScript 
 
+- [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer) - A quick-and-dirty tool of Firefox pref.js survey
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
 - [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs) - Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
@@ -1957,6 +1958,7 @@
 
 ## Python 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -2493,6 +2495,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -2635,6 +2638,8 @@
 
 ## TypeScript 
 
+- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) - Firefox extension which lets you use your passwords stored on iCloud Keychain®.
