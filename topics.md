@@ -886,7 +886,7 @@
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
-- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
+- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
 ## csharp 
@@ -1943,7 +1943,7 @@
 ## java 
 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
-- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
+- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
@@ -2590,7 +2590,7 @@
 ## monero 
 
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
-- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
+- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
 ## mongodb 
@@ -2839,7 +2839,7 @@
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - ⛔ Supercharge your network security with DNS blocklists from The Firebog ⛔ Daily updates shield you from ads, trackers, malware, phishing, crypto, and NSFW content ⛔ Works with DNS applications, hosts
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - ⛔ Supercharge your network security with DNS blocklists from The Firebog ⛔ Daily updates shield you from ads, trackers, malware, and more ⛔ Works with DNS applications, hosts files, and adblock browse
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [asilvas/circler](https://github.com/asilvas/circler) - (non-official) Logitech Circle utility application (download etc)
 - [robilic/DockHand](https://github.com/robilic/DockHand) - Window preview feature similar to 'Aero Peek' for the Mac OS dock
@@ -4171,7 +4171,7 @@
 
 ## p2p 
 
-- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
+- [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds exter
 - [yjmp14/wulingate](https://github.com/yjmp14/wulingate) - A Cross-Platform Files Transfer Web App.
