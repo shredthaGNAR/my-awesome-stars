@@ -300,7 +300,6 @@
 - [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
 - [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new) - 
 - [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme) - firefox userchrome css theme
-- [nuclearcodecat/vibrantfox](https://github.com/nuclearcodecat/vibrantfox) - a clean firefox userchrome
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
