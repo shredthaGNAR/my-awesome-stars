@@ -3478,7 +3478,6 @@
 - [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - One button to close any overlay on any website
 - [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons) - Extend the functionality of Firefox with cool addons
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons) - 
 - [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison) - App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
