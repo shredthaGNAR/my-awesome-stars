@@ -2707,7 +2707,7 @@
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
-- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, processing, exporting, optimizing, and managing SVG content.
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
