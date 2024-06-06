@@ -687,6 +687,7 @@
 
 ## Java 
 
+- [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto) - Decentralized P2P exchange built on Monero and Tor
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
