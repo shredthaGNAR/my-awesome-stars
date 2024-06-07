@@ -787,7 +787,7 @@
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by GPT-4o!)
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Bring the magic of ChatGPT to Google Search (powered by Google Gemma + GPT-4o!)
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
 - [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
@@ -2340,7 +2340,7 @@
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) - The ReVanced APKs
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
-- [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
+- [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AirPods battery btt widget for macOS Ventura
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
