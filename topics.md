@@ -1984,7 +1984,7 @@
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
+- [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets Utility Belt
@@ -4648,7 +4648,7 @@
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
-- [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
+- [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
