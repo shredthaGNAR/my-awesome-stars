@@ -1066,7 +1066,7 @@
 - [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [piroor/textlink](https://github.com/piroor/textlink) - Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 - [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers) - Web scraper for california lottery scratchers
-- [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
+- [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV) - website userscript: redirect embedded videos from "tubitv.com" to an external player
 - [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch) - Search your Youtube™ playlists
 - [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things using Alfred.
