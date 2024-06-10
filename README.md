@@ -21,6 +21,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -515,6 +516,10 @@
 ## Emacs Lisp 
 
 - [andreyvit/env](https://github.com/andreyvit/env) - 
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Go 
 
@@ -1799,6 +1804,7 @@
 - [fastaddons/Darko](https://github.com/fastaddons/Darko) - 
 - [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar) - Minimalist Touch Bar setup
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community) - Bug reports and discussion for the Rectangle Pro app
@@ -1992,7 +1998,6 @@
 - [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper) - Global Poker Hand History Scraper
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
 - [julianandrews/flopferret](https://github.com/julianandrews/flopferret) - Texas Hold'em board texture analyzer.
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
@@ -2110,7 +2115,6 @@
 - [snchong/thunderthings](https://github.com/snchong/thunderthings) - Integration between Thunderbird and Cultured Code's Things on macOS
 - [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation) - Automated Python Script to backup your OneTab data
 - [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep) - Export all your Apple iCloud Notes to your Google Keep.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
