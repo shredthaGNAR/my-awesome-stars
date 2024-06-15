@@ -1965,6 +1965,7 @@
 
 ## Python 
 
+- [zhuozhiyongde/Unlocking-Raycast-With-Surge](https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge) - Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1978,7 +1979,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your network security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, and more • Works with DNS applications, hosts files, and adblock browser 
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, and more • Works with DNS applications, hosts files, and adbl
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2277,6 +2278,7 @@
 
 ## Rust 
 
+- [ZhouXiaolin/raycast-ai-proxy](https://github.com/ZhouXiaolin/raycast-ai-proxy) - a simple raycast ai proxy by rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -2645,6 +2647,7 @@
 
 ## TypeScript 
 
+- [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock) - Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
