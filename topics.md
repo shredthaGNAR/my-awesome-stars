@@ -39,6 +39,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -890,6 +891,12 @@
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+
+## cryptography 
+
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+- [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
+- [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 
 ## csharp 
 
