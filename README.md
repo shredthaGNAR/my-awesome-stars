@@ -1559,7 +1559,7 @@
 
 ## Logos 
 
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
+- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 
