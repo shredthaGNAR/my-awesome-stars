@@ -925,7 +925,7 @@
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
-- [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - Chrome and Firefox extension that improves Bitbucket's user experience
+- [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - [NOT MAINTAINED] Chrome and Firefox extension that improves Bitbucket's user experience
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
@@ -2137,7 +2137,6 @@
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 - [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive) - App to manage google drive accounts
 - [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3) - The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the
-- [bantunagarjuna/Real-time-data-storing-in-google-drive](https://github.com/bantunagarjuna/Real-time-data-storing-in-google-drive) - Storing the real time data to the personal google drive account.
 - [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader) - Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 - [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision) - Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person ap
 - [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give t
@@ -2648,7 +2647,7 @@
 ## TypeScript 
 
 - [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock) - Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
@@ -2755,7 +2754,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Firefox addon that turns every page colors into "light text on dark background"
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
-- [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+- [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets Utility Belt
 - [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups) - (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
