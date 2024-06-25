@@ -2836,7 +2836,7 @@
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
-- [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page
+- [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
 - [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css) - 
