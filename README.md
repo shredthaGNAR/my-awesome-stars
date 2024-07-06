@@ -1978,7 +1978,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, and more • Works with DNS applications, hosts files, and adbl
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - Supercharge your network privacy and security with DNS blocklists from The Firebog • Daily updates shield you from ads, trackers, malware, crypto, adult content, spam and more • Works with DNS applica
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
