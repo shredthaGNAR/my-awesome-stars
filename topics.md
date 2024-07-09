@@ -908,6 +908,7 @@
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. FF Ultima.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
