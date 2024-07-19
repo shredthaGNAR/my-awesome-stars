@@ -136,6 +136,7 @@
 
 ## Batchfile 
 
+- [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
@@ -305,7 +306,6 @@
 - [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme) - A beautiful Joplin dark theme
 - [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme) - A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 - [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
-- [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new) - 
 - [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme) - firefox userchrome css theme
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -747,6 +747,9 @@
 
 ## JavaScript 
 
+- [benzBrake/userChrome.js-Loader](https://github.com/benzBrake/userChrome.js-Loader) - 
+- [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later) - A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [dnnsmnstrr/alfred-btt](https://github.com/dnnsmnstrr/alfred-btt) - Alfred workflow to run named triggers and actions in BetterTouchTool
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -2473,7 +2476,6 @@
 - [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3) - 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 - [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper) - A simple dynamic wallpaper script on macOS
 - [agneevX/home-assistant](https://github.com/agneevX/home-assistant) - Home Assistant lovelace layout and config
-- [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts) - Scripts that I use in my JSS.
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) - A primitive USB patcher for installing macOS Big Sur on unsupported Macs
@@ -2692,7 +2694,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
-- [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui) - XMR&lt;&gt;BTC Atomic Swaps GUI
+- [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR&lt;&gt;BTC Atomic Swaps
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf) - Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 - [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg) - Joplin plugin to exports notes to ssg project.
