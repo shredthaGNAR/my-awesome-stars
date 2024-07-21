@@ -230,6 +230,9 @@
 
 ## ai 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -261,6 +264,7 @@
 
 ## android 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
@@ -328,6 +332,7 @@
 
 ## api 
 
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -345,6 +350,7 @@
 
 ## artificial-intelligence 
 
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -574,6 +580,9 @@
 
 ## chatgpt 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
@@ -921,8 +930,8 @@
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
-- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. FF Ultima.
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
@@ -1276,7 +1285,7 @@
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer) - Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 - [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix) - Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
 - [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
@@ -1300,7 +1309,6 @@
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
 - [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant) - 
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
-- [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–128) find bar by repositioning it, adjusting spacing & styling internal elements.
@@ -1487,6 +1495,7 @@
 
 ## flutter 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share) - Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
@@ -1951,6 +1960,7 @@
 
 ## ios 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
 - [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS)
@@ -2180,6 +2190,8 @@
 
 ## linux 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
@@ -2241,6 +2253,9 @@
 
 ## llm 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
@@ -2329,6 +2344,8 @@
 
 ## macos 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) - Firefox extension which lets you use your passwords stored on iCloud Keychain®.
@@ -2432,7 +2449,6 @@
 - [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview) - Mac OSX app that displays window previews when hovering over app icon on the Dock.
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
 - [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT) - Modos is a BetterTouchTool preset for managing workspaces + windows.
-- [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter) - BetterAndBetter 是一款包含很多功能的 macOS 软件。
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -2607,7 +2623,7 @@
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 - [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -2791,6 +2807,7 @@
 
 ## open-source 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
@@ -2842,6 +2859,10 @@
 
 ## others 
 
+- [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
+- [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
@@ -4999,6 +5020,7 @@
 
 ## visual-studio-code 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode) - Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -5098,6 +5120,8 @@
 
 ## windows 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
