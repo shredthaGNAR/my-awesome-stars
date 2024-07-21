@@ -99,7 +99,6 @@
 - [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool) - BetterTouchTool configuration
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 - [heartshapedbox/macOS-shortcuts](https://github.com/heartshapedbox/macOS-shortcuts) - Custom macOS Shortcuts and Quick Actions.
-- [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter) - BetterAndBetter 是一款包含很多功能的 macOS 软件。
 - [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor) - Basic AppleScript visor mode for the finder. Designed for better touch tool
 - [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider) - A BetterTouchTool widget to control Night Shift strength
 - [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut) - A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
@@ -136,6 +135,7 @@
 
 ## Batchfile 
 
+- [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
@@ -253,7 +253,7 @@
 - [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css) - 
-- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. FF Ultima.
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox) - Beautiful design for firefox new tab
 - [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme) - CV theme for Astro 🚀
 - [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme) - macOS safari style minimalistic theme for firefox
@@ -504,6 +504,7 @@
 
 ## Dart 
 
+- [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
@@ -1693,6 +1694,8 @@
 
 ## Others 
 
+- [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
+- [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [uhub/awesome-css](https://github.com/uhub/awesome-css) - A curated list of awesome CSS frameworks, libraries and software.
 - [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
@@ -1757,7 +1760,6 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred) - 
 - [synappser/AutoFocus](https://github.com/synappser/AutoFocus) - A focus-follows-mouse implementation on steroids!
-- [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme) - A Firefox theme that emulates the Safari 15 interface and new tab page
 - [navchandar/Share-Less](https://github.com/navchandar/Share-Less) - Share Less - URL tracking remover
 - [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation) - 🗄 Documentation and guides for ReVanced Extended
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -1984,6 +1986,8 @@
 
 ## Python 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
@@ -2322,7 +2326,7 @@
 ## SCSS 
 
 - [olivertzeng/chrome](https://github.com/olivertzeng/chrome) - 🦊 I respect proton UI and aim to improve it.
-- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox theme looks similar to Chrome
+- [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - Firefox user CSS theme looks similar to Chrome
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -2669,6 +2673,8 @@
 
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
