@@ -107,6 +107,7 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -1161,6 +1162,7 @@
 
 ## electron 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1751,6 +1753,7 @@
 
 ## hacktoberfest 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
@@ -1988,6 +1991,10 @@
 - [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices
 - [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt) - Bridge Cync bluetooth mesh to mqtt
 
+## ipfs 
+
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+
 ## java 
 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -2190,6 +2197,7 @@
 
 ## linux 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -2276,6 +2284,7 @@
 
 ## mac 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
@@ -2672,6 +2681,7 @@
 
 ## music 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -2718,6 +2728,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search) - Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 
 ## nlp 
 
@@ -2731,6 +2742,7 @@
 
 ## node 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -2859,6 +2871,8 @@
 
 ## others 
 
+- [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
+- [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
 - [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
@@ -2962,7 +2976,7 @@
 - [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools) - Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 - [magicdawn/magicdawn](https://github.com/magicdawn/magicdawn) - 个人学习 / 代码 / 总结 / 读书笔记
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
-- [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates) - Find duplicate logins based on domain, from bitwarden export. Open source for your safety.
+- [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates) - Find duplicate logins based on domain, from Bitwarden export. Open source for your safety.
 - [twolfson/bookmarks](https://github.com/twolfson/bookmarks) - Webpage representing a collection of bookmarks
 - [mkirchner/pockyll](https://github.com/mkirchner/pockyll) - Create Jekyll linkposts from Pocket bookmarks
 - [kyhau/google-keep-helper](https://github.com/kyhau/google-keep-helper) - Python scripts for importing bookmarks from Pocket getpocket.com to Google Keep.
@@ -4139,7 +4153,6 @@
 - [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack) - This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 - [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image) - This is a Image Search Web Application in PHP.
 - [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans) - Image Search Web Application
-- [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search) - Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 - [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine) - Web app to search similar images
 - [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper) - This application is used for scraping images from google image search
 - [cerpow/catapult](https://github.com/cerpow/catapult) - Access your workspace on the fly.
@@ -4255,6 +4268,7 @@
 
 ## p2p 
 
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds exter
@@ -4562,6 +4576,7 @@
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
+- [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search) - Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
@@ -4953,6 +4968,7 @@
 
 ## typescript 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -5120,6 +5136,7 @@
 
 ## windows 
 
+- [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
