@@ -595,6 +595,7 @@
 
 ## HTML 
 
+- [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting) - How to host websites using free cloud storage
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme) - Modern portfolio theme for your Hugo site
@@ -1485,6 +1486,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [ryankrumenacker/sports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project) - statistical-arbitrage-for-sports-betting
@@ -1696,6 +1698,9 @@
 
 ## Others 
 
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting) - A list of free web hosting websites for developers.
+- [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
 - [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
@@ -1988,12 +1993,12 @@
 
 ## Python 
 
+- [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
