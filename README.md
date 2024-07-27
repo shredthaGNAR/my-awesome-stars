@@ -753,6 +753,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
@@ -1700,6 +1701,8 @@
 
 ## Others 
 
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1998,6 +2001,8 @@
 
 ## Python 
 
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
