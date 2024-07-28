@@ -2891,6 +2891,9 @@
 
 ## others 
 
+- [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
+- [leshiy585/L1ghtroom2024](https://github.com/leshiy585/L1ghtroom2024) - adobe lightroom full version download  adobe lightroom-cracked adobe lightroom download adobe lightroom free adobe lightroom activation adobe lightroom license key adobe lightroom scripts adobe lightr
+- [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
