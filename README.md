@@ -1702,6 +1702,8 @@
 
 ## Others 
 
+- [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
+- [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -2003,6 +2005,7 @@
 
 ## Python 
 
+- [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
@@ -2022,6 +2025,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor) - 
+- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
@@ -2372,9 +2376,10 @@
 
 ## Shell 
 
+- [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
+- [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric password manager
-- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT) - 
@@ -2559,6 +2564,7 @@
 
 ## Swift 
 
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [psugihara/FreeChat](https://github.com/psugihara/FreeChat) - llama.cpp based AI chat app for macOS
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
