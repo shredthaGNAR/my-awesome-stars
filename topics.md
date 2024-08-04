@@ -269,7 +269,7 @@
 
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
-- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
+- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
@@ -594,6 +594,7 @@
 
 ## chatgpt 
 
+- [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -635,6 +636,7 @@
 
 ## chatgpt-api 
 
+- [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
@@ -768,7 +770,7 @@
 - [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE) - Read Later Chrome Extension
 - [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later) - A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 - [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks) - A chrome extension that add a read later view for chrome bookmarks
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and short
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -944,7 +946,7 @@
 ## css 
 
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work even if your processor doesn't support BMI2 instruction set  ✨
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
@@ -1273,7 +1275,7 @@
 
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work even if your processor doesn't support BMI2 instruction set  ✨
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
 - [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
@@ -1355,7 +1357,7 @@
 - [NumeriusNegidius/Context-Search](https://github.com/NumeriusNegidius/Context-Search) - A Firefox WebExtension that displays a context menu, that searches for the selected text.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file) - WebExtension for using images on the clipboard as files
-- [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 (runs on ff 115)
+- [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ (Hotstar, STAR+), Crunchyroll and HBO max
 - [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox tab bar to match the website theme.
@@ -1364,7 +1366,7 @@
 - [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select) - Prevents tabs which are opend in the background from loading until they have been manually activated
 - [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus) - A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
 - [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url) - ShortcutKey2URL - Firefox Extension
-- [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
+- [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!)
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs) - firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
@@ -1437,9 +1439,9 @@
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme) - Firefox dark theme with a less cluttered UI
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
-- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
+- [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on Firefox 128) 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
-- [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
+- [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -1469,7 +1471,7 @@
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
-- [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff115) 🖱️
+- [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff128) 🖱️
 - [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
@@ -1771,7 +1773,7 @@
 
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
-- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
+- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2174,7 +2176,7 @@
 
 ## kotlin 
 
-- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
+- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -2649,7 +2651,7 @@
 
 ## material-design 
 
-- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open-source & offline password manager. Store, manage, take control securely.
+- [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
@@ -2847,7 +2849,7 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and short
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2897,6 +2899,9 @@
 
 ## others 
 
+- [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc) - Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
+- [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
+- [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [wibus-wee/activation-script](https://github.com/wibus-wee/activation-script) - A script designed to generate configuration files and activate software for the Surge
@@ -4646,7 +4651,7 @@
 - [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog) - Gatsby starter for advanced blog
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and short
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper) - A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. W
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
