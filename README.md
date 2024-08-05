@@ -535,6 +535,7 @@
 
 ## Go 
 
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -596,6 +597,7 @@
 
 ## HTML 
 
+- [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting) - How to host websites using free cloud storage
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
@@ -967,7 +969,7 @@
 - [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read) - A customizable read mode web extension.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension) - A sidebar text-editing addon for firefox
-- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - CSDN 增强\极简化\沉浸式阅读\免登录复制|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|推特屏蔽过滤器|黄推屏蔽器|GreasyFork脚本页面👇
+- [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript) - CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 - [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop) - Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 - [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer) - OneTab -&gt; googleSheets -&gt; Clustering datasheet
 - [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
@@ -1951,6 +1953,7 @@
 
 ## PHP 
 
+- [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 - [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
 - [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader) - Display all your bookmarks files on a webpage
@@ -2380,6 +2383,7 @@
 
 ## Shell 
 
+- [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export) - https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
