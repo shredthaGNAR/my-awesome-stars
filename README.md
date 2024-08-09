@@ -1729,6 +1729,7 @@
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) - 
 - [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp) - ✨ My BTT(Better Touch Tool) preset.
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
@@ -2732,7 +2733,6 @@
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
 - [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
