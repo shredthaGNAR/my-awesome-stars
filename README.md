@@ -354,7 +354,6 @@
 - [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird) - A userChrome.css theme to make thunderbird resemble Firefox 89+
 - [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
-- [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style) - Firefox CSS theme inspired by Safari
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
@@ -759,6 +758,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync) - Synchronize your browser bookmarks from a GitHub repository
 - [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
@@ -1338,6 +1338,7 @@
 - [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets) - A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 - [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts) - Google Ads Bidding scripts
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [coolaj86/dropshare](https://github.com/coolaj86/dropshare) - A min.us / ge.tt file share clone.
 - [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark) - From pocket to chrome bookmarks
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1709,6 +1710,7 @@
 
 ## Others 
 
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
