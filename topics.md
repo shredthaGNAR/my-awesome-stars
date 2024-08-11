@@ -649,6 +649,7 @@
 
 ## chrome 
 
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
@@ -1757,6 +1758,7 @@
 
 ## hacking 
 
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
@@ -2870,6 +2872,7 @@
 
 ## osint 
 
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
