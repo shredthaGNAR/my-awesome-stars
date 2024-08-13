@@ -245,6 +245,7 @@
 
 ## CSS 
 
+- [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
 - [feilvan/neatly](https://github.com/feilvan/neatly) - 
@@ -481,6 +482,7 @@
 - [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom) - A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only.
 - [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) - macOS Native-looking Translucent Tabbar for Firefox
 - [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar) - Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
+- [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur) - 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 - [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark) - Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail
 - [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird) - User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 
@@ -505,6 +507,7 @@
 
 ## Dart 
 
+- [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -535,6 +538,7 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -803,7 +807,6 @@
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website) - My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
-- [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 - [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
 - [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode) - Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the cl
 - [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image) - Simple addon, to save the full website of one or more tab as a png image either via a click on the toolbar icon or via a custom shotcut
@@ -1316,7 +1319,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1383,7 +1386,7 @@
 - [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) - FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on Firefox 128) 📋🖱️🔗
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch) - Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator) - Email Signature Generator - React & Firebase
 - [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator) - html email signature generator
 - [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources) - Tools and documentation for building Creative Cloud app extensions with CEP
@@ -1734,6 +1737,7 @@
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) - 
 - [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp) - ✨ My BTT(Better Touch Tool) preset.
+- [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
@@ -2372,8 +2376,9 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–128) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–129) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+- [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
