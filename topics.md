@@ -187,6 +187,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
 - [software](#software)
@@ -231,7 +232,9 @@
 
 ## ai 
 
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
+- [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -338,6 +341,7 @@
 
 ## api 
 
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -378,6 +382,7 @@
 
 ## automation 
 
+- [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
@@ -455,6 +460,7 @@
 ## awesome-list 
 
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
+- [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -598,6 +604,7 @@
 
 ## chatgpt 
 
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
@@ -952,6 +959,7 @@
 
 ## css 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
@@ -1063,6 +1071,7 @@
 
 ## data-visualization 
 
+- [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
 - [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats) - A tool to analyze your Pocket reading list.
 
 ## database 
@@ -1187,6 +1196,7 @@
 
 ## electron 
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -1715,6 +1725,7 @@
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -1936,6 +1947,7 @@
 
 ## html 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
@@ -1963,11 +1975,13 @@
 
 ## html-css-javascript 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [MarufAlAslam/html-email-signature](https://github.com/MarufAlAslam/html-email-signature) - This is a simple demo email signature, if you like my work and want to design your own email signature by me, you can buy my html-clickable-email-signature service on Fiverr. Link is in the below 👇
 - [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator) - Générateur de gradient css en ligne
 
 ## html5 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app) - Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome.
 - [MarufAlAslam/html-email-signature](https://github.com/MarufAlAslam/html-email-signature) - This is a simple demo email signature, if you like my work and want to design your own email signature by me, you can buy my html-clickable-email-signature service on Fiverr. Link is in the below 👇
@@ -2039,6 +2053,9 @@
 
 ## javascript 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
@@ -2159,6 +2176,7 @@
 
 ## jquery 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature) - a jQuery based email signature generator
 - [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator) - html email signature generator
@@ -2318,6 +2336,7 @@
 
 ## mac 
 
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -2389,6 +2408,7 @@
 
 ## macos 
 
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
@@ -2779,6 +2799,7 @@
 
 ## node 
 
+- [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
@@ -2856,6 +2877,7 @@
 
 ## open-source 
 
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -2916,6 +2938,24 @@
 
 ## others 
 
+- [Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512](https://github.com/Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512) - Implementation in Java: POWER-TAC global competition advanced Broker implementation (Monte Carlo Tree Search Algorithm), Game Theory exercises and Approximating Game-Theoretic Optimal Strategies for F
+- [szge/globalpokercalc](https://github.com/szge/globalpokercalc) - calculate total playthough for globalpoker.com blackjack
+- [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker) - A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
+- [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer) - Extract helpful statistics about a poker player's tendencies from a hand history
+- [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser) - Parse hand histories from online poker sites
+- [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker) - Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
+- [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi) - Juego de poker Omaha Hi
+- [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset) - A dataset of poker hand strengths
+- [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
+- [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator) - Evaluate the strength of a hand of poker
+- [Twenty20Twenty/Poker-Omaha-JavaFX](https://github.com/Twenty20Twenty/Poker-Omaha-JavaFX) - 
+- [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer) - Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple stre
+- [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand) - Functional exercise in Scala.
+- [dyobi/btt_preset](https://github.com/dyobi/btt_preset) - 
+- [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
+- [VaalaCat/raychat](https://github.com/VaalaCat/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
+- [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free) - 
+- [juyomay21/personal-site](https://github.com/juyomay21/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
 - [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync) - Synchronize your browser bookmarks from a GitHub repository
@@ -2931,7 +2971,6 @@
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
-- [leshiy585/L1ghtroom2024](https://github.com/leshiy585/L1ghtroom2024) - adobe lightroom full version download  adobe lightroom-cracked adobe lightroom download adobe lightroom free adobe lightroom activation adobe lightroom license key adobe lightroom scripts adobe lightr
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -4471,6 +4510,7 @@
 
 ## python 
 
+- [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -4612,6 +4652,8 @@
 
 ## react 
 
+- [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
@@ -4796,6 +4838,8 @@
 
 ## self-hosted 
 
+- [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -4818,8 +4862,13 @@
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 
+## serverless 
+
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
+
 ## shell 
 
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
@@ -4882,6 +4931,7 @@
 
 ## statistics 
 
+- [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
 - [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats) - A tool to analyze your Pocket reading list.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
 - [aaronmeder/social-history](https://github.com/aaronmeder/social-history) - A quick look into your history on social media. Drop in the archives you've downloaded from Facebook and Instagram and see some stats about your time on the networks.
@@ -5048,6 +5098,8 @@
 
 ## typescript 
 
+- [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
+- [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -5138,6 +5190,7 @@
 
 ## vue 
 
+- [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt) - Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -5157,6 +5210,7 @@
 
 ## vuejs 
 
+- [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt) - Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 - [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
@@ -5195,6 +5249,7 @@
 
 ## webpack 
 
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
@@ -5210,6 +5265,7 @@
 
 ## website 
 
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
