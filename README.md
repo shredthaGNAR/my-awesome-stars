@@ -1509,6 +1509,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
 - [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
@@ -2744,6 +2745,7 @@
 
 ## TypeScript 
 
+- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer) - Extract helpful statistics about a poker player's tendencies from a hand history
 - [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser) - Parse hand histories from online poker sites
 - [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
@@ -2866,6 +2868,7 @@
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls) - Homebridge plugin for extended Logitech Circle camera controls
+- [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks) - Freely bookmark export tool. 自由地书签导出工具。
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Firefox addon that turns every page colors into "light text on dark background"
@@ -2981,7 +2984,6 @@
 - [stefnotch/downline](https://github.com/stefnotch/downline) - Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon) - Firefox add-on for rdltr (read-it-later app)
-- [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks) - Freely bookmark export tool. 自由地书签导出工具。
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
 - [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue) - 
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
