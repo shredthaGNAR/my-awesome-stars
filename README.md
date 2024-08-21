@@ -74,7 +74,7 @@
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv) - 
-- [uBlockO/uBO-Personal-Filters](https://github.com/uBlockO/uBO-Personal-Filters) - A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
+- [uBlockO/uBO-Filters](https://github.com/uBlockO/uBO-Filters) - A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters) - uBlock Origin Filters
 - [Yuki2718/adblock](https://github.com/Yuki2718/adblock) - Personal filters and rules for AdGuard/uBlock Origin
@@ -605,6 +605,7 @@
 
 ## HTML 
 
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
 - [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
@@ -2044,7 +2045,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama3, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, c
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
@@ -2800,7 +2801,7 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and even files!
 - [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer) - The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension) - Keep your bookmarks clean & up-to-date 🔄
