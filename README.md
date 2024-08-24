@@ -1495,7 +1495,7 @@
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
-- [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
+- [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples) - Example extensions for Thunderbird WebExtensions APIs
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations) - An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
@@ -2878,7 +2878,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
-- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets Utility Belt
+- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets and Phoenix Code Editor extension
 - [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups) - (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper) - 📝  A library for getting data from Google Sheets API v4
