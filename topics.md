@@ -2113,7 +2113,7 @@
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets Utility Belt
+- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets and Phoenix Code Editor extension
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source Code Editor for the web, built for the browser.
 - [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export) - Easily export your Thunderbird emails to Joplin.
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
@@ -4383,7 +4383,7 @@
 - [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac) - One-line theme
 - [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac) - Update  to manilarome's Blur Fox for mac only
 - [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme) - Dark theme based on Monterail for Thunderbird 78
-- [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
+- [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples) - Example extensions for Thunderbird WebExtensions APIs
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) - macOS Native-looking Translucent Tabbar for Firefox
 - [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar) - Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
@@ -5173,7 +5173,7 @@
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
-- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets Utility Belt
+- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets and Phoenix Code Editor extension
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
