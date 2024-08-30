@@ -417,6 +417,7 @@
 
 ## awesome 
 
+- [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
@@ -1991,6 +1992,7 @@
 
 ## html 
 
+- [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
