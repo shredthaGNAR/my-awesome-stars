@@ -4650,7 +4650,7 @@
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 - [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
-- [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
+- [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
@@ -5180,7 +5180,7 @@
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover) - A Python utility for moving bookmarks/reading lists between services
 - [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs) - :card_index: Extract social media profiles and more with regular expressions
-- [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
+- [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
