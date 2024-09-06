@@ -2993,6 +2993,7 @@
 
 ## others 
 
+- [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless) - A very shy little theme that hides the entire browser interface. Now without borders!
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
 - [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2) - This Firefox extension allows you to toggle css styles on the fly
@@ -3300,7 +3301,7 @@
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
-- [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+- [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
