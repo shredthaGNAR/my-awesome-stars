@@ -2165,7 +2165,7 @@
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
 - [thunderbird/autoconfig](https://github.com/thunderbird/autoconfig) - The ISPDB, Thunderbird's database of mail configuration files.
 - [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App) - Native App for use with Context Search
-- [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin data API
+- [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin client and server API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
@@ -2888,7 +2888,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
-- [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix) - Brackets and Phoenix Code Editor extension
+- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Code Editor Utility Belt
 - [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups) - (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 - [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets) - 📝 A React Hook for getting data from Google Sheets API v4
 - [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper) - 📝  A library for getting data from Google Sheets API v4
