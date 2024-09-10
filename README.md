@@ -2692,7 +2692,6 @@
 - [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 - [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 - [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
 - [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
