@@ -2628,7 +2628,6 @@
 - [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator) - macOS utility to add multiple separators to Dock
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
@@ -5064,7 +5063,6 @@
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
 - [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
 - [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
 - [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
