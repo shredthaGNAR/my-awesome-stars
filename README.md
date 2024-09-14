@@ -248,6 +248,7 @@
 
 ## CSS 
 
+- [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 - [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io) - 🎨 My personal website
 - [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless) - A very shy little theme that hides the entire browser interface. Now without borders!
 - [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config) - Personal Firefox Browser Configuration
@@ -515,6 +516,7 @@
 
 ## Dart 
 
+- [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass) - A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
@@ -546,6 +548,8 @@
 
 ## Go 
 
+- [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter) - Export your Pocket archive to file
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd) - Stores HTML pages as Markdown files in an Obsidian vault
@@ -613,6 +617,7 @@
 
 ## HTML 
 
+- [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv) - Extract Pocket exported saves list to CSV (Python)
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
 - [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web) - Hugo Template for Freelancer Portfolio and Blog
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
@@ -779,6 +784,9 @@
 
 ## JavaScript 
 
+- [neelr/pocket](https://github.com/neelr/pocket) - A pocket for all my links
+- [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown) - Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
+- [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [CryptoTerps/Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac) - This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2) - This Firefox extension allows you to toggle css styles on the fly
@@ -1739,6 +1747,7 @@
 
 ## Others 
 
+- [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3) - Disable Gatekeeper macOS Sequoia beta 3
@@ -1989,6 +1998,8 @@
 
 ## PHP 
 
+- [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
+- [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 - [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
@@ -2047,6 +2058,10 @@
 
 ## Python 
 
+- [Sveder/pocket_skipper](https://github.com/Sveder/pocket_skipper) - A small site that uses Pocket's (formerly "Read it later") API to create a basic "to read" list that links to the URL itself and not into pocket's rendering and thus skips a few mouse clicks.
+- [aleosd/pocket-manager](https://github.com/aleosd/pocket-manager) - Python cli/curses utility to manage getpocket links
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod) - Auramod Skin for Kodi 18
 - [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api) - API container for Local AI Pilot extension
 - [szge/globalpokercalc](https://github.com/szge/globalpokercalc) - calculate total playthough for globalpoker.com blackjack
@@ -2429,6 +2444,7 @@
 
 ## Shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export) - https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
@@ -2601,7 +2617,7 @@
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers) - Small controller scripts and utilities designed to work with BetterTouchTool.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
@@ -2620,6 +2636,7 @@
 
 ## Swift 
 
+- [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
@@ -2759,6 +2776,11 @@
 
 ## TypeScript 
 
+- [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge hacker's notebook
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop) - Memos client built on electron cross-end framework
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend) - A fake Raycast backend that can be deployed to Vercel in just one step.
@@ -2989,6 +3011,7 @@
 
 ## Vue 
 
+- [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop) - [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 - [b-inary/wasm-postflop](https://github.com/b-inary/wasm-postflop) - [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance (web browser version)
