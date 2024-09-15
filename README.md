@@ -10,6 +10,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
+- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -143,6 +144,10 @@
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
+
+## Brainfuck 
+
+- [kosimst/FiraFlott](https://github.com/kosimst/FiraFlott) - Free Operator Mono Alternative based on FiraCode and FlottFlott
 
 ## C 
 
@@ -784,6 +789,7 @@
 
 ## JavaScript 
 
+- [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon) - A Firefox add-on for OSINT investigations
 - [neelr/pocket](https://github.com/neelr/pocket) - A pocket for all my links
 - [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown) - Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
@@ -1747,12 +1753,15 @@
 
 ## Others 
 
+- [kosimst/Firicico](https://github.com/kosimst/Firicico) - Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
+- [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature) - Operator Mono ligatures build file
+- [Anant-mishra1729/Operator-caska-Font](https://github.com/Anant-mishra1729/Operator-caska-Font) - Operator-caska Cursive font with ligature support.
 - [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3) - Disable Gatekeeper macOS Sequoia beta 3
 - [dyobi/btt_preset](https://github.com/dyobi/btt_preset) - 
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book and OSINT tips
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
@@ -1869,6 +1878,7 @@
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator) - 
 - [AnthonyRobertson17/better-touch-tool](https://github.com/AnthonyRobertson17/better-touch-tool) - All of my personal better-touch-tool config files
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder) - LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 - [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars) - my list of github stars fork
 - [tsmdt/janus-for-alfred](https://github.com/tsmdt/janus-for-alfred) - Create random usernames in Alfred
@@ -2681,7 +2691,6 @@
 - [JMARyA/YoutubeDownload](https://github.com/JMARyA/YoutubeDownload) - youtube-dl GUI for MacOS
 - [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download) - macOS menu bar app for youtube-dl GUI
 - [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac) - Cocoa Interface for youtube-dl
-- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [snark/jumpcut](https://github.com/snark/jumpcut) - Minimalist clipboard management for macOS
 - [CarterLi/iina](https://github.com/CarterLi/iina) - The modern video player for macOS with additional features and bug fixes.
 - [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer) - A small macOS app that lets you customize the number of rows and columns in launchpad
