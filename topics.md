@@ -3041,6 +3041,8 @@
 
 ## others 
 
+- [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket) - Pocket integration for Obsidian
+- [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox) - blur overuse lmao
 - [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app) - Desktop app for PlayerFM build with electron.
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [fabriziosalmi/blacklists](https://github.com/fabriziosalmi/blacklists) - Hourly updated domains blacklist 🚫
