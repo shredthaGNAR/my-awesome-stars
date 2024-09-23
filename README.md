@@ -452,6 +452,7 @@
 - [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs) - Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) - Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 - [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc) - Arc inspired theme for Thunderbird
 - [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style) - put to default:profiles root dir
@@ -1470,7 +1471,6 @@
 - [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp) - simple app to search for images by  keyword using unsplash API
 - [bijij/ViewImage](https://github.com/bijij/ViewImage) - Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 - [cerpow/catapult](https://github.com/cerpow/catapult) - Access your workspace on the fly.
-- [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) - Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews) - Shopify Product Previews that work with Theme Previews
 - [jobisoft/quicktext](https://github.com/jobisoft/quicktext) - An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
