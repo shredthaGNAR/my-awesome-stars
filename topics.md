@@ -1016,6 +1016,8 @@
 
 ## css 
 
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
+- [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 - [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config) - Personal Firefox Browser Configuration
 - [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
@@ -1353,6 +1355,8 @@
 
 ## firefox 
 
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
+- [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon) - A Firefox add-on for OSINT investigations
 - [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
@@ -2143,6 +2147,7 @@
 
 ## javascript 
 
+- [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
 - [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io) - 🎨 My personal website
@@ -3368,6 +3373,7 @@
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
