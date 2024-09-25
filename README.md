@@ -764,7 +764,7 @@
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
