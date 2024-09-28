@@ -1225,7 +1225,7 @@
 - [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl) - Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use al
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
 - [structunit/better-onetab](https://github.com/structunit/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 - [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
