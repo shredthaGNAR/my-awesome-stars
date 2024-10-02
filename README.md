@@ -40,7 +40,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
-- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -69,6 +68,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [XSLT](#xslt)
 
 ## Adblock Filter List 
 
@@ -1062,7 +1062,6 @@
 - [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion) - 
 - [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader) - An extremely simple, no frills, GUI-based video downloader
 - [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
-- [p9n/userchrome](https://github.com/p9n/userchrome) - userchrome.css/.js for firefox &gt;= 57
 - [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js) - 
 - [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js) - 
 - [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead) - Thunderbird Addon to automatically mark folders (like junk) as read.
@@ -1440,7 +1439,6 @@
 - [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients) - An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
-- [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -1526,7 +1524,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig) - Firefox privacy configuration (help + user.js)
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
-- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
+- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
 - [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples) - Example extensions for Thunderbird WebExtensions APIs
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
@@ -1684,10 +1682,6 @@
 ## Nim 
 
 - [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket) - Browser extension that adds bookmark to Pocket if rules allow it
-
-## Nunjucks 
-
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 ## OCaml 
 
@@ -2998,6 +2992,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [mjmlio/vscode-mjml](https://github.com/mjmlio/vscode-mjml) - MJML preview, lint, compile for Visual Studio Code.
 - [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities) - Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
+- [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code
 - [lough-city/css-smart](https://github.com/lough-city/css-smart) - a smart css helpers.
@@ -3058,6 +3053,10 @@
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
+
+## XSLT 
+
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 
 ## License
