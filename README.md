@@ -282,7 +282,7 @@
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 - [deciare/firefox-css](https://github.com/deciare/firefox-css) - Customisations to Firefox via userChrome.css
-- [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // transluscent firefoxcss theme
+- [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // Transluscent FirefoxCSS theme for MacOS
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 - [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur) - The simplest possible translucent userchrome theme for firefox (tested on linux only)
@@ -2541,7 +2541,7 @@
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
-- [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
+- [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly setup shell environment by installing zsh, oh-my-zsh with power-level-10k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search and more
 - [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 - [knilling/pocket2csv](https://github.com/knilling/pocket2csv) - 
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
