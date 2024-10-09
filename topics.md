@@ -245,7 +245,6 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama 3, DALL-E, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, agents, code/command 
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
@@ -1421,7 +1420,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–131) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–132) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -1797,6 +1796,7 @@
 
 ## google 
 
+- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
@@ -2193,7 +2193,7 @@
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Common Tasks Extension for multiple Code Editors
+- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Text utilities for multiple code editors
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source Code Editor for the web, built for the browser.
 - [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export) - Easily export your Thunderbird emails to Joplin.
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
@@ -3087,6 +3087,8 @@
 
 ## others 
 
+- [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker) - 
+- [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required.
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) - An awesome paper list of fake news detection (FND) and rumor detection.
@@ -3146,7 +3148,6 @@
 - [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand) - Functional exercise in Scala.
 - [dyobi/btt_preset](https://github.com/dyobi/btt_preset) - 
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-- [VaalaCat/raychat](https://github.com/VaalaCat/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
 - [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free) - 
 - [juyomay21/personal-site](https://github.com/juyomay21/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
@@ -4753,7 +4754,7 @@
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
 - [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders) - Quick access to your Smart Folders (Saved Searches) from Alfred
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Common Tasks Extension for multiple Code Editors
+- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Text utilities for multiple code editors
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation) - Automated Python Script to backup your OneTab data
@@ -4967,7 +4968,6 @@
 
 ## rust 
 
-- [ZhouXiaolin/raycast-ai-proxy](https://github.com/ZhouXiaolin/raycast-ai-proxy) - a simple raycast ai proxy by rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -5355,7 +5355,7 @@
 - [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki) - Alternative User Interface for getpocket.com
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
-- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Common Tasks Extension for multiple Code Editors
+- [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Text utilities for multiple code editors
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
