@@ -421,6 +421,7 @@
 
 ## awesome 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
@@ -473,6 +474,7 @@
 
 ## awesome-list 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
@@ -2149,6 +2151,7 @@
 
 ## javascript 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
