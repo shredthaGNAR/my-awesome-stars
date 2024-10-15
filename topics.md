@@ -693,7 +693,7 @@
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [adamlui/ai-apps](https://github.com/adamlui/ai-apps) - 🤖 Apps that utilize the astounding power of AI or enhance its UX
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
-- [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+- [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results
@@ -2151,6 +2151,7 @@
 
 ## javascript 
 
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
@@ -3045,6 +3046,7 @@
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [adamlui/ai-apps](https://github.com/adamlui/ai-apps) - 🤖 Apps that utilize the astounding power of AI or enhance its UX
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
+- [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
@@ -3091,6 +3093,7 @@
 
 ## others 
 
+- [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker) - 
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required.
@@ -5238,6 +5241,7 @@
 
 ## tailwindcss 
 
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
