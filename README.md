@@ -377,7 +377,6 @@
 - [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 - [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
-- [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style) - Firefox CSS theme inspired by Safari
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
 - [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css) - 
 - [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
@@ -843,7 +842,7 @@
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
 - [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext) - Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
-- [igorlogius/copy-link-extras](https://github.com/igorlogius/copy-link-extras) - Add extra copy functions to links. Works with single or muliple links in a selection.
+- [igorlogius/link-extras](https://github.com/igorlogius/link-extras) - Add extra copy functions to links. Works with single or muliple links in a selection.
 - [igorlogius/import-urls](https://github.com/igorlogius/import-urls) - Import URLs from the clipboard or a text file as tabs or bookmarks
 - [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - Limits the number of active tabs by unloading older tabs
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
@@ -897,7 +896,7 @@
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI userscripts & browser extensions to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -1862,7 +1861,6 @@
 - [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup) - List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
-- [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode) - Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
 - [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - Enhance Your YouTube Experience
@@ -2530,6 +2528,7 @@
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
