@@ -615,6 +615,7 @@
 
 ## bugbounty 
 
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
@@ -643,7 +644,7 @@
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, Bielik, DALL-E, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, agents, command ex
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -673,7 +674,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
@@ -1033,7 +1034,7 @@
 
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
-- [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config) - Personal Firefox Browser Configuration
+- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox (Firefox-ESR) Browser Configuration
 - [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
@@ -1050,7 +1051,6 @@
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
-- [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator) - You can use this web application to more easily generate Box Shadow CSS!
 - [iposho/boxshadowru](https://github.com/iposho/boxshadowru) - A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -1108,7 +1108,7 @@
 - [Andereoo/Cortland](https://github.com/Andereoo/Cortland) - A sleek, modern, macOS-inspired theme for Firefox
 - [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022) - A new look for your Firefox browser.
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [1280px/rainfox](https://github.com/1280px/rainfox) - Photon UI, re-imagined.
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
@@ -1378,7 +1378,7 @@
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 - [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon) - A Firefox add-on for OSINT investigations
 - [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
-- [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config) - Personal Firefox Browser Configuration
+- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox (Firefox-ESR) Browser Configuration
 - [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 - [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css) - My CSS configuration to customise Firefox to my liking.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
@@ -1433,7 +1433,6 @@
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–132) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
-- [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
@@ -1592,7 +1591,7 @@
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig) - Firefox privacy configuration (help + user.js)
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis) - Bringing sexy curves back to Firefox Photon.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -2780,7 +2779,7 @@
 - [lodestone/macpaste](https://github.com/lodestone/macpaste) - Global middle-mouse-click copy/paste for Mac OSX (C).
 - [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -3082,6 +3081,7 @@
 
 ## osint 
 
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon) - A Firefox add-on for OSINT investigations
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book and OSINT tips
@@ -3117,6 +3117,11 @@
 
 ## others 
 
+- [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
+- [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
+- [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
+- [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
+- [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
 - [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps) - A list of apps I use on my MacBook
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons) - A collection of CSS buttons.
@@ -3587,7 +3592,7 @@
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 - [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri) - An App for backing up and better displaying Onetab data Powered by Tauri.
-- [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - oneTab bookmark collection → plaintext
+- [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper) - oneTab bookmark collection → plaintext
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [dan-and/KeepToText](https://github.com/dan-and/KeepToText) - Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
