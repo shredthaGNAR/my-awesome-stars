@@ -124,7 +124,7 @@
 
 ## Astro 
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
@@ -294,7 +294,7 @@
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 - [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur) - The simplest possible translucent userchrome theme for firefox (tested on linux only)
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - A faithful(ish) Firefox Photon theme.
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
@@ -573,7 +573,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -773,6 +773,7 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
+- [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -1205,7 +1206,7 @@
 - [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager) - A Firefox extension to save frequently used tabs as Workspaces
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - Phoenix is a modern open-source Code Editor for the web, built for the browser.
+- [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 - [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [adblockultimate/AdBlocker-Ultimate-for-Browsers](https://github.com/adblockultimate/AdBlocker-Ultimate-for-Browsers) - AdBlocker Ultimate for Browsers
@@ -1587,7 +1588,6 @@
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
-- [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
@@ -1773,7 +1773,6 @@
 
 ## Others 
 
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A quick camprision of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize and TorBox
 - [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps) - A list of apps I use on my MacBook
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required.
@@ -2117,7 +2116,7 @@
 - [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - This is a simple Raycast AI API proxy.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -2139,7 +2138,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offer
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2489,6 +2488,7 @@
 
 ## Shell 
 
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link and TorBox
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -2871,7 +2871,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
