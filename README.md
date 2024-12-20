@@ -642,6 +642,7 @@
 - [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting) - How to host websites using free cloud storage
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme) - Modern portfolio theme for your Hugo site
@@ -721,6 +722,7 @@
 - [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates) - Customize free Shopify Order Printer templates.
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature) - A gmail signature I made
 - [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature) - 
 - [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature) - Email signature
@@ -842,7 +844,6 @@
 - [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later) - A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [dnnsmnstrr/alfred-btt](https://github.com/dnnsmnstrr/alfred-btt) - Alfred workflow to run named triggers and actions in BetterTouchTool
-- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
@@ -1435,7 +1436,6 @@
 - [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files) - Provides ability to save selected tabs to local files for Firefox 63 and later.
 - [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy) - A handy tool to manipulate plist files. Useful for iOS development.
 - [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS) - Re-implementation of the userChromeJS add-on for Thunderbird 60+
-- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3) - Convert YouTube videos to mp3 files via the command-line
 - [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [117649/Tab-Groups](https://github.com/117649/Tab-Groups) - Reimplementation of Firefox Tab Groups as an add-on.
