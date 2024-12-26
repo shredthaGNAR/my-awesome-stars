@@ -280,6 +280,7 @@
 
 ## android 
 
+- [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -605,7 +606,7 @@
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
-- [falcontheme-com/falcon-theme-lite](https://github.com/falcontheme-com/falcon-theme-lite) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
+- [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
 
 ## bot 
 
@@ -1460,7 +1461,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Credits, etc. on Netflix, Prime video, Disney+, Crunchyroll and HBO max
-- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox tab bar to match the website theme.
+- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
@@ -1843,6 +1844,7 @@
 
 ## gradle 
 
+- [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
 ## graphql 
@@ -2158,6 +2160,7 @@
 
 ## java 
 
+- [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -2457,6 +2460,7 @@
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 
 ## login 
 
@@ -2923,7 +2927,7 @@
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
@@ -3121,6 +3125,7 @@
 
 ## others 
 
+- [umbrellaplug/umbrellaplug.github.io](https://github.com/umbrellaplug/umbrellaplug.github.io) - Umbrella Kodi Addon Official
 - [Tikipeter/tikipeter.github.io](https://github.com/Tikipeter/tikipeter.github.io) - 
 - [AdguardTeam/FiltersRegistry](https://github.com/AdguardTeam/FiltersRegistry) - Known filters subscriptions transformed for better compatibility with AdGuard
 - [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link and TorBox
@@ -3430,7 +3435,6 @@
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
-- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
@@ -3454,7 +3458,7 @@
 - [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds) - Import NHL data from NHL website and merge odds
 - [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds) - A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 - [Nerdmaster/poker](https://github.com/Nerdmaster/poker) - Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template) - Github Template for building Revanced
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework) - 
@@ -3609,9 +3613,9 @@
 - [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons) - Google Search Extra Buttons
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Browser Addon that enhances file browsers of version controls with material icons.
-- [aecreations/clippings](https://github.com/aecreations/clippings) - Clippings: an extension for Mozilla Firefox
+- [aecreations/clippings](https://github.com/aecreations/clippings) - Clippings: an extension for Firefox
 - [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb) - Clippings for Thunderbird
-- [aecreations/readnext](https://github.com/aecreations/readnext) - Read Next: an extension for Mozilla Firefox
+- [aecreations/readnext](https://github.com/aecreations/readnext) - Read Next: an extension for Firefox
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
@@ -5109,7 +5113,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
@@ -5140,6 +5144,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
+- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
@@ -5358,6 +5363,7 @@
 
 ## termux 
 
+- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner) - uScanner is a tool to find usernames on various pages throughout the entire internet.
 
@@ -5400,7 +5406,7 @@
 - [aman-d-1-n-only/joplin-exports-to-ssg](https://github.com/aman-d-1-n-only/joplin-exports-to-ssg) - Joplin plugin to exports notes to ssg project.
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [alxshelepenok/lumen](https://github.com/alxshelepenok/lumen) - A constantly evolving and thoughtful architecture for creating static blogs.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
