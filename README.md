@@ -165,7 +165,6 @@
 - [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-- [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo) - MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
@@ -227,6 +226,7 @@
 - [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove) - poker evaluation and enumeration software
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar) - Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 - [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline) - A basic client for Pocketbook to read and modify Pocket items
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman) - Vodman lets you download videos (VODs) from the internet to your SailfishOS device
@@ -257,6 +257,8 @@
 
 ## CSS 
 
+- [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A concise comparison of pricing and supported hosts for popular debrid services including AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, and Mega-Debrid.
 - [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons) - A collection of CSS buttons.
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
@@ -527,6 +529,7 @@
 
 ## Dart 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [madari-media/madari-oss](https://github.com/madari-media/madari-oss) - Open source media manager
 - [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
@@ -572,7 +575,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -803,6 +806,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension) - Browser extension for AnythingLLM Docker & Desktop application
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
@@ -835,6 +839,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
@@ -1155,7 +1160,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
@@ -1192,7 +1197,7 @@
 - [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer) - Browser userscript to clean up hyperlink redirections and link shims
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [trockerapp/trocker](https://github.com/trockerapp/trocker) - This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
-- [xtract64/tabsaver](https://github.com/xtract64/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
+- [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver) - Allows you to easily save all of your tabs for later use, reducing clutter
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 - [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension) - Help you operate tabs' url more conveniently
@@ -1728,7 +1733,6 @@
 - [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
-- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
@@ -1780,6 +1784,7 @@
 
 ## Others 
 
+- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps) - A list of apps I use on my MacBook
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required.
@@ -2500,14 +2505,12 @@
 ## Shell 
 
 - [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List) - Adobe Block Hosts List to block Adobe activation.
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A concise comparison of pricing and supported hosts for popular debrid services including AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, and Mega-Debrid.
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export) - https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Ad Blocking Module for Android (Magisk - KernelSU - APatch)
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
-- [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric password manager
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
@@ -2695,6 +2698,7 @@
 
 ## Swift 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp) - Batch Clipboard is a Mac app let's you copy then paste multiple clipboard items at a time, like magic! (Cleepp was its codename during pre-release, I might rename this repo, might not)
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
@@ -2725,6 +2729,7 @@
 - [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
+- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
@@ -2884,7 +2889,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
