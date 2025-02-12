@@ -345,7 +345,7 @@
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
-- [wizrdsh/FirefoxSidebar](https://github.com/wizrdsh/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
+- [drannex/FirefoxSidebar](https://github.com/drannex/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 - [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS) - A custom Firefox CSS that works well with the current MacOS design
 - [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square) - Makes Firefox Proton UI look and feel like Quantum
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -1510,7 +1510,7 @@
 - [steccas/ProtonClient](https://github.com/steccas/ProtonClient) - An unofficial desktop client for ProtonMail done with electron nativefier
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
 - [ylon/onetab-merge](https://github.com/ylon/onetab-merge) - Merge util for OneTab browser extension
-- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension) - [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 - [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search) - This Firefox extension allows you to use multiple of your installed search engines at once.
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff128) 🖱️
@@ -1582,7 +1582,7 @@
 ## Kotlin 
 
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - the only link utility app you need for Android
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - The only link utility app you need for Android, now available on desktop.
 - [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App) - Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
@@ -1802,7 +1802,7 @@
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -2480,7 +2480,7 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–134) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–135) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
