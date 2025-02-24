@@ -1308,7 +1308,7 @@
 - [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader) - An extremely simple, no frills, GUI-based video downloader
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [andrepolischuk/keep](https://github.com/andrepolischuk/keep) - Desktop app for Google Keep packaged with Electron
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
@@ -2442,7 +2442,7 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
@@ -2692,7 +2692,7 @@
 - [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview) - Mac OSX app that displays window previews when hovering over app icon on the Dock.
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
@@ -3161,6 +3161,7 @@
 
 ## others 
 
+- [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -5503,7 +5504,7 @@
 ## ubuntu 
 
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 
@@ -5670,7 +5671,7 @@
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
+- [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
 - [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor) - Compress your entire photo & video library and take it with you everywhere.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
