@@ -243,15 +243,15 @@
 
 ## ai 
 
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension) - Browser extension for AnythingLLM Docker & Desktop application
 - [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api) - API container for Local AI Pilot extension
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3-mini, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execut
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
@@ -264,7 +264,7 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -297,7 +297,7 @@
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
-- [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Ad Blocking Module for Android (Magisk - KernelSU - APatch)
+- [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
@@ -308,7 +308,7 @@
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
@@ -366,6 +366,7 @@
 ## api 
 
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -384,8 +385,7 @@
 ## artificial-intelligence 
 
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3-mini, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execut
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -481,7 +481,6 @@
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify) - 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 
 ## awesome-list 
@@ -537,7 +536,6 @@
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify) - 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 
 ## aws 
@@ -601,7 +599,7 @@
 ## bitcoin 
 
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 
 ## blockchain 
@@ -613,12 +611,12 @@
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 - [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
 
 ## bot 
 
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
@@ -650,8 +648,7 @@
 
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3-mini, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execut
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
@@ -661,8 +658,8 @@
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
@@ -681,7 +678,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - This is a simple Raycast AI API proxy.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
@@ -701,9 +698,9 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -724,7 +721,6 @@
 
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -862,7 +858,7 @@
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater) - This is a google chrome extension for saving links for later reading.
 - [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE) - Read Later Chrome Extension
-- [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later) - A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
+- [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later) - A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
 - [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks) - A chrome extension that add a read later view for chrome bookmarks
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
@@ -1029,7 +1025,7 @@
 - [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript) - BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
 - [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display) - Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -1298,11 +1294,12 @@
 
 ## electron 
 
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -1319,7 +1316,6 @@
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
 - [timche/meru](https://github.com/timche/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
-- [andrepolischuk/keep](https://github.com/andrepolischuk/keep) - Desktop app for Google Keep packaged with Electron
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
@@ -1378,11 +1374,11 @@
 - [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension) - 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 - [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
 - [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 
 ## ethereum 
 
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 
 ## facebook 
 
@@ -1465,7 +1461,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–135) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–136) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -1557,7 +1553,7 @@
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-- [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox) - Create cards with acrylic effect in Firefox
 - [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton) - :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
@@ -1797,7 +1793,7 @@
 ## go 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
@@ -1814,7 +1810,7 @@
 
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [msoap/pocket2dropbox](https://github.com/msoap/pocket2dropbox) - Backup Pocket articles to Dropbox
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
@@ -1847,7 +1843,7 @@
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
@@ -1932,7 +1928,7 @@
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
+- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -2165,7 +2161,7 @@
 
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS)
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [edwin170/downr1n](https://github.com/edwin170/downr1n) - downgrade tethered checkm8 idevices ios 14, 15.
@@ -2307,7 +2303,6 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX) - A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
@@ -2359,7 +2354,6 @@
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
 - [njnmco/odinochka](https://github.com/njnmco/odinochka) - featherweight tab manager
-- [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript) - Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 
 ## json 
 
@@ -2437,7 +2431,7 @@
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -2490,23 +2484,24 @@
 
 ## llm 
 
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3-mini, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execut
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 
@@ -2575,11 +2570,10 @@
 
 ## machine-learning 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -2625,7 +2619,7 @@
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -2833,7 +2827,7 @@
 - [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager) - 🔑👨‍💻macOS Password Manager
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
 - [lodestone/macpaste](https://github.com/lodestone/macpaste) - Global middle-mouse-click copy/paste for Mac OSX (C).
-- [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+- [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle) - 
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
@@ -2882,7 +2876,6 @@
 
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 - [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter) - A high performance blog starter with Material design in mind for GatsbyJS.
@@ -2912,7 +2905,7 @@
 
 ## monero 
 
-- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
@@ -3077,6 +3070,8 @@
 
 ## open-source 
 
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
+- [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
@@ -3107,10 +3102,9 @@
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api) - API container for Local AI Pilot extension
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3-mini, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execut
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3122,9 +3116,9 @@
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -3181,6 +3175,9 @@
 
 ## others 
 
+- [WeinbM/static-marks](https://github.com/WeinbM/static-marks) - Shareable bookmarks
+- [luxuxl/bookmark](https://github.com/luxuxl/bookmark) - This is my personal Shareable bookmarks
+- [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile) - Personal website built with Astro 4.0 and styled using Tailwind CSS
 - [davidpoblador/pocket-to-bookmarks-html](https://github.com/davidpoblador/pocket-to-bookmarks-html) - A pocket export to bookmarks.html converter
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
@@ -3288,6 +3285,7 @@
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - My personal prompt library for various LLMs + scripts & tools. Suitable for models from Deepseek, OpenAI, Claude, Meta, Mistral, Google, Grok, and others.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
@@ -3298,7 +3296,6 @@
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
 - [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
@@ -3416,8 +3413,8 @@
 - [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator) - 
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 - [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar) -  Activity monitor toolbar widget for the Macbook Pro
-- [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
-- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
+- [oxen-io/session-android](https://github.com/oxen-io/session-android) - Session Android - Onion routing based messenger [DEPRECATED SEE README]
+- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 - [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List) - Bots To be added
 - [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini) - Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or 
@@ -3649,7 +3646,7 @@
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
-- [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
+- [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [BjorneEk/zshrc-cheat-sheet](https://github.com/BjorneEk/zshrc-cheat-sheet) - 
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
 - [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop) - Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or busine
@@ -4759,7 +4756,7 @@
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -4829,7 +4826,6 @@
 - [itsmejayd/filter-duplicate-lines](https://github.com/itsmejayd/filter-duplicate-lines) - A Python tool with a Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally creat
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
@@ -4972,6 +4968,7 @@
 
 ## react 
 
+- [epoch/gistlord](https://github.com/epoch/gistlord) - fast github gist searcher viewer editor manager note taker built with React & Redux
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
 - [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio) - Free and open-source portfolio template for Astro built using Webcore
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
@@ -5056,6 +5053,7 @@
 
 ## redux 
 
+- [epoch/gistlord](https://github.com/epoch/gistlord) - fast github gist searcher viewer editor manager note taker built with React & Redux
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
@@ -5119,7 +5117,7 @@
 - [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
@@ -5144,7 +5142,6 @@
 - [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric password manager
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A free, open-source, robust yet user-friendly, compact and cross-platform tool for OpenPGP encryption. It stands out as an exceptional GUI frontend for the modern GnuPG (gpg).
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -5185,11 +5182,12 @@
 
 ## self-hosted 
 
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -5378,6 +5376,7 @@
 
 ## tailwindcss 
 
+- [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
@@ -5474,6 +5473,7 @@
 
 ## typescript 
 
+- [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio) - Free and open-source portfolio template for Astro built using Webcore
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate) - The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
@@ -5549,7 +5549,7 @@
 ## visual-studio-code 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-- [material-theme/material-theme-support](https://github.com/material-theme/material-theme-support) - Fanny Theme, the new most epic theme for Visual Studio Code
+- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode) - Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
@@ -5650,7 +5650,7 @@
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 - [uicrooks/shopify-mail-notifications](https://github.com/uicrooks/shopify-mail-notifications) - Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig
 - [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader) - Chrome manifest loader for webpack
-- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+- [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 - [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind) - Shopify Themekit with Webpack & Tailwind CSS
 - [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 - [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
