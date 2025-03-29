@@ -1167,7 +1167,6 @@
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
-- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
 - [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc) - Browser addon for FireFox & Chrome to save active tabs as Markdown
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
@@ -1706,6 +1705,7 @@
 
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 15 (Sequoia).
+- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 
@@ -2848,6 +2848,7 @@
 
 ## TypeScript 
 
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner) - Easily remove metadata from your images with our online tool, MetaCleaner. Preserve your privacy by stripping out EXIF data from your photos in seconds.
