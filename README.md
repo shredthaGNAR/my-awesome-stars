@@ -40,6 +40,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -68,7 +69,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [XSLT](#xslt)
 - [templ](#templ)
 
 ## Adblock Filter List 
@@ -88,6 +88,7 @@
 
 ## AppleScript 
 
+- [ErnaneJ/itwg-apple-automator](https://github.com/ErnaneJ/itwg-apple-automator) - AppleScript that uses the Gemini language model API (by Google) to enhance the writing, spelling, and formality of selected text.
 - [rknightuk/TouchBarWidgets](https://github.com/rknightuk/TouchBarWidgets) - Scripts for my BetterTouchTool Touch Bar widgets
 - [remiscarlet/BetterTouchTool-Applescripts](https://github.com/remiscarlet/BetterTouchTool-Applescripts) - Random applescripts for use with BetterTouchTool on Apple's new Touch Bar.
 - [TaylorJadin/applescripts-btt](https://github.com/TaylorJadin/applescripts-btt) - a collection of applescripts that I have use with BetterTouchTool or KeyboardMaestro on my mac
@@ -333,7 +334,6 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
-- [easonwong-de/White-Sur-Firefox-Theme-MacOS](https://github.com/easonwong-de/White-Sur-Firefox-Theme-MacOS) - ATBC-compatible macOS Safari-like CSS theme for Firefox.
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
 - [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
 - [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin) - This is a custom CSS theme for the opensource note-taking app Joplin.
@@ -823,6 +823,7 @@
 
 ## JavaScript 
 
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset) - A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
 - [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark) - Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and orga
@@ -927,7 +928,7 @@
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search powered by the latest LLMs
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
 - [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
@@ -951,7 +952,7 @@
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo powered by the latest LLMs
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing) - UserChrome JS script to remap Firefox's Private Browsing to match everything else
@@ -979,7 +980,7 @@
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 - [darktrojan/openwith](https://github.com/darktrojan/openwith) - Open With add-on for Firefox
 - [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme) - Jekyll theme based on Freelancer Start Bootstrap theme
-- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme).
+- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox before Mozilla does.
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
 - [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab) - A tool to sync data in onetab plugin.
@@ -1735,6 +1736,10 @@
 
 - [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket) - Browser extension that adds bookmark to Pocket if rules allow it
 
+## Nunjucks 
+
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+
 ## OCaml 
 
 - [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
@@ -1804,6 +1809,7 @@
 
 ## Others 
 
+- [zeitlings/ayai-gpt-nexus](https://github.com/zeitlings/ayai-gpt-nexus) - OpenAI, Anthropic, and Gemini integrations with support for local LLMs
 - [xurban42/CryptoTouchBar](https://github.com/xurban42/CryptoTouchBar) - BetterTouchTool preset for CryptoCurrencies.
 - [ciceronianus/Roam---custom-context-menu-in-BTT-macOS](https://github.com/ciceronianus/Roam---custom-context-menu-in-BTT-macOS) - Custom context menu for Roamresearch.com made in BetterTouchTool for MacOS
 - [eduadiez/EthereumTouchBar](https://github.com/eduadiez/EthereumTouchBar) - Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar
@@ -1879,7 +1885,7 @@
 - [shoutcool/bettertouchtool-crypto](https://github.com/shoutcool/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum and Lamden)
 - [glock47/bettertouchtool-crypto](https://github.com/glock47/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 - [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
+- [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac) - This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser.
 - [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources) - My starter pack for people new to the bewildering world of bitcoin.
 - [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS)
@@ -1930,7 +1936,6 @@
 - [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages) - static-marks automatically deployed to github-pages
 - [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
 - [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
-- [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure) - macOS Automator workflow to scaffold my project directory structure.
 - [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 - [tcellerier/automator](https://github.com/tcellerier/automator) - Mac OS Automator quick actions
 - [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow) - Update Automation Tasks During Alfred 5 Early Access
@@ -2891,7 +2896,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner) - Easily remove metadata from your images with our online tool, MetaCleaner. Preserve your privacy by stripping out EXIF data from your photos in seconds.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports p
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
@@ -3159,10 +3164,6 @@
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
-
-## XSLT 
-
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 ## templ 
 
