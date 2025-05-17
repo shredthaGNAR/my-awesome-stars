@@ -152,10 +152,12 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -211,6 +213,7 @@
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -222,6 +225,8 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
+- [ui-design](#ui-design)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -245,10 +250,11 @@
 
 ## ai 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -271,14 +277,14 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -352,7 +358,7 @@
 - [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera) - Android Camera that uses Enhanced image processing
 - [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker) - An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -397,7 +403,7 @@
 
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, 
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
@@ -405,7 +411,7 @@
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [apehex/awesome-poker](https://github.com/apehex/awesome-poker) - :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
 - [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
@@ -448,10 +454,11 @@
 
 ## awesome 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
@@ -504,9 +511,10 @@
 
 ## awesome-list 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
@@ -579,7 +587,7 @@
 ## bash 
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager
+- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
@@ -639,9 +647,10 @@
 
 ## bot 
 
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 
 ## bugbounty 
@@ -683,16 +692,18 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 
 ## chatgpt 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -726,7 +737,7 @@
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -741,10 +752,11 @@
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 
 ## chatgpt-api 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
@@ -1098,7 +1110,6 @@
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
-- [easonwong-de/White-Sur-Firefox-Theme-MacOS](https://github.com/easonwong-de/White-Sur-Firefox-Theme-MacOS) - ATBC-compatible macOS Safari-like CSS theme for Firefox.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
@@ -1311,7 +1322,6 @@
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
 - [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles) - My personal (.)dotfiles and configurations for various programs and environments.
 - [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles) - All my handy configuration files, including for stuff like Skyrim. ⚔️
 - [vufly/dotfiles](https://github.com/vufly/dotfiles) - This is the place where I keep my configuration.
@@ -1349,7 +1359,7 @@
 - [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader) - An extremely simple, no frills, GUI-based video downloader
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1487,7 +1497,7 @@
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox) - An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
-- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox (requires CSS theme).
+- [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) - Adds on-hover tab preview to Firefox before Mozilla does.
 - [steventheworker/screenhook](https://github.com/steventheworker/screenhook) - Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored) - Prism - Firefox Photon Recolored
@@ -1503,7 +1513,6 @@
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
 - [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window) - Firefox extension for opening links in other window.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
-- [easonwong-de/White-Sur-Firefox-Theme-MacOS](https://github.com/easonwong-de/White-Sur-Firefox-Theme-MacOS) - ATBC-compatible macOS Safari-like CSS theme for Firefox.
 - [thepante/alfs-firefox](https://github.com/thepante/alfs-firefox) - Always Loaded Floating Sidebar it's a small modification for Firefox
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
@@ -1522,6 +1531,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Credits, etc. on Netflix, Prime video, Disney+, Crunchyroll and HBO max
+- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
@@ -1583,11 +1593,10 @@
 - [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty) - Adapted "Beautiful" Themes
-- [nightnoryu/firefox-config](https://github.com/nightnoryu/firefox-config) - My Firefox configuration
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox) - Create cards with acrylic effect in Firefox
 - [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton) - :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
@@ -1798,7 +1807,7 @@
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
-- [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow) - Alfred workflow to easily open Github repositories
+- [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow) - Alfred workflow to easily open GitHub repositories
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [weakish/gister](https://github.com/weakish/gister) - command line tool to sync github gists
@@ -1872,6 +1881,7 @@
 
 ## google 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -1879,7 +1889,8 @@
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
@@ -2269,7 +2280,7 @@
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [saadeghi/theme-change](https://github.com/saadeghi/theme-change) - Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
@@ -2491,7 +2502,7 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
@@ -2525,6 +2536,7 @@
 
 ## llm 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
@@ -2541,17 +2553,18 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 
 ## login 
 
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 
 ## lua 
 
@@ -2618,12 +2631,12 @@
 
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting) - Collection of sports betting AI tools.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -2636,6 +2649,7 @@
 
 ## macos 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [ridvanbaluyos/btt-touchbar-presets](https://github.com/ridvanbaluyos/btt-touchbar-presets) - BetterTouchTool Touch Bar Preset by Ridvan Baluyos
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
@@ -2643,7 +2657,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders) - Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
-- [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp) - Batch Clipboard is a Mac app let's you copy then paste multiple clipboard items at a time, like magic! (Cleepp was its codename during pre-release, I might rename this repo, might not)
+- [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp) - Batch Clipboard is a Mac app let's you copy then paste multiple clipboard items at a time, like magic! (Cleepp was its codename during pre-release). Libre & gratis.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
@@ -2752,7 +2766,7 @@
 - [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview) - Mac OSX app that displays window previews when hovering over app icon on the Dock.
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
@@ -2779,7 +2793,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2813,7 +2827,7 @@
 - [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls) - Replicating macOS Mojave's dynamic wallpaper feature
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam) - Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [Clipy/Magnet](https://github.com/Clipy/Magnet) - Customize global hotkeys in macOS.
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons) - Custom folder icons for macOS & Windows
@@ -3035,8 +3049,12 @@
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger) - 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
+
+## no-code 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
 ## node 
 
@@ -3117,6 +3135,15 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 
+## obsidian-plugin 
+
+- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
+- [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
+- [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket) - Pocket integration for Obsidian
+- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
+- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+- [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
+
 ## open-source 
 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -3173,7 +3200,7 @@
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
-- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs!
+- [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -3183,7 +3210,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 
 ## opencv 
 
@@ -3230,7 +3257,10 @@
 
 ## others 
 
-- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
+- [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions) - My repo of ContextMenu Actions (can also be used with Automator)
+- [zeitlings/ayai-gpt-nexus](https://github.com/zeitlings/ayai-gpt-nexus) - OpenAI, Anthropic, and Gemini integrations with support for local LLMs
+- [ErnaneJ/itwg-apple-automator](https://github.com/ErnaneJ/itwg-apple-automator) - AppleScript that uses the Gemini language model API (by Google) to enhance the writing, spelling, and formality of selected text.
+- [aliyss/syncribullet](https://github.com/aliyss/syncribullet) - Allows for syncing currently watched items from Stremio
 - [CypherGoat/web](https://github.com/CypherGoat/web) - The CypherGoat instant exchange aggregator web-ui
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [xurban42/CryptoTouchBar](https://github.com/xurban42/CryptoTouchBar) - BetterTouchTool preset for CryptoCurrencies.
@@ -3270,7 +3300,7 @@
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports p
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
@@ -3297,12 +3327,10 @@
 - [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker) - 
-- [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT) - Learn how to research images and the tools, techniques & tradecraft required.
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) - An awesome paper list of fake news detection (FND) and rumor detection.
 - [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research) - Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
-- [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket) - Pocket integration for Obsidian
 - [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox) - blur overuse lmao
 - [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app) - Desktop app for PlayerFM build with electron.
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
@@ -3336,7 +3364,6 @@
 - [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend) - A fake Raycast backend that can be deployed to Vercel in just one step.
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown) - OneTab URL list to markdown
 - [Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512](https://github.com/Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512) - Implementation in Java: POWER-TAC global competition advanced Broker implementation (Monte Carlo Tree Search Algorithm), Game Theory exercises and Approximating Game-Theoretic Optimal Strategies for F
 - [szge/globalpokercalc](https://github.com/szge/globalpokercalc) - calculate total playthough for globalpoker.com blackjack
@@ -3371,7 +3398,7 @@
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, tools & scripts for machine intelligence models from DeepSeek, OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Created & maintained by Alex Bilzeri
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, tools & scripts for machine intelligence models from Apple, DeepSeek, OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Created & maintained by Alex 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
@@ -3540,7 +3567,7 @@
 - [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro) - Personal branding theme for developers
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
+- [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [inotia00/mMicroG](https://github.com/inotia00/mMicroG) - 
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin) - Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
@@ -3587,7 +3614,6 @@
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
-- [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links) - Scrape OneTab links and produce HTML that can be saved for backup
@@ -3793,7 +3819,6 @@
 - [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
 - [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text) - A collection of Mac OS Quick Actions (Services) for manipulating text.
 - [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
-- [terkelg/foldersstructure](https://github.com/terkelg/foldersstructure) - macOS Automator workflow to scaffold my project directory structure.
 - [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
 - [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles) - macOS dotfiles
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
@@ -3830,7 +3855,6 @@
 - [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation) - 
 - [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui) - 
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search) - An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be us
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
@@ -3901,7 +3925,6 @@
 - [tardisx/gropple](https://github.com/tardisx/gropple) - Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
-- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io) - 
 - [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
@@ -4020,6 +4043,7 @@
 - [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme) - I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 - [pvpscript/savetabs](https://github.com/pvpscript/savetabs) - A web browser extension that allows the user to save every tab's url to a file
 - [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch) - Search your Youtube™ playlists
+- [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial) - Access parts of your account unavailable through normal YouTube API access.
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
 - [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things using Alfred.
 - [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp) - Themes inspired by Twitter's new font, Chirp
@@ -4305,7 +4329,6 @@
 - [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird) - The Firefox "Alpenglow" Theme for Thunderbird.
 - [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search) - ⚡ Instantly search for the availability of your username on more than 100 social media sites.
 - [robomx/WebIDHunt](https://github.com/robomx/WebIDHunt) - Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username 
-- [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester) - Email addresses harvester
 - [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup) - A search tool that can find exposed email addresses and mobile numbers on Internet.
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
@@ -4549,7 +4572,7 @@
 - [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients) - Library of CSS3 Gradients
 - [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients) - An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 - [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients) - Use CSS background gradients in HTML emails, with VML fallback for Outlook.
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [bpwned/protovibrant](https://github.com/bpwned/protovibrant) - 
 - [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods) - 
 - [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom) - A modified version of Andreas Grafen's "ag-proton" design for firefox
@@ -4853,7 +4876,7 @@
 - [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy) - List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) - An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -4862,7 +4885,7 @@
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -4912,7 +4935,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover) - When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 - [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup) - Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 - [InQuest/omnibus](https://github.com/InQuest/omnibus) - The OSINT Omnibus (beta release)
@@ -4950,7 +4973,6 @@
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [SamR1/rdltr](https://github.com/SamR1/rdltr) - a simple read-it later app
-- [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial) - Access parts of your account unavailable through normal YouTube API access.
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
 - [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders) - Quick access to your Smart Folders (Saved Searches) from Alfred
@@ -5223,7 +5245,7 @@
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager
+- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -5235,7 +5257,7 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [mendel5/thunderbird](https://github.com/mendel5/thunderbird) - How to configure Mozilla Thunderbird
@@ -5244,7 +5266,7 @@
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
@@ -5296,6 +5318,7 @@
 
 ## serverless 
 
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 
 ## shell 
@@ -5393,6 +5416,7 @@
 
 ## swift 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
@@ -5441,6 +5465,7 @@
 
 ## swiftui 
 
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
@@ -5449,13 +5474,22 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
 - [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar) - Bitwarden in the macOS menu bar
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [hotchemi/Scre](https://github.com/hotchemi/Scre) - A lightweight screen recorder macOS application written in SwiftUI.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 
 ## symfony 
 
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+
+## tailwind 
+
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
+- [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
+- [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
+- [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
+- [uicrooks/shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) - Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨
+- [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 
 ## tailwindcss 
 
@@ -5491,7 +5525,7 @@
 
 ## terminal 
 
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
@@ -5611,9 +5645,34 @@
 ## ubuntu 
 
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+
+## ui 
+
+- [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
+- [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+- [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
+- [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+- [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
+- [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources) - A curated list of design resources from design templates, stock photos, icons, colors, and much more.
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+
+## ui-design 
+
+- [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 
 ## vim 
 
@@ -5703,7 +5762,7 @@
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs!
+- [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU) - macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
@@ -5780,7 +5839,7 @@
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (Formerly Gmail Desktop)
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
 - [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor) - Compress your entire photo & video library and take it with you everywhere.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -5796,7 +5855,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
@@ -5819,7 +5878,7 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins) - :green_book: Community repo for MacForge
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 
