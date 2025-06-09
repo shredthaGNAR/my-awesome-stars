@@ -168,6 +168,7 @@
 
 ## C 
 
+- [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3) - Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
 - [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker) - A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
 - [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker) - Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
 - [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
@@ -282,7 +283,6 @@
 - [DinoDevel/Joplin-theme-opensuse-green](https://github.com/DinoDevel/Joplin-theme-opensuse-green) - Dark theme for Joplin with green accents. It's build on top of the integrated "Dark" Theme included in Joplin.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link & Mega-Debrid.
 - [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons) - A collection of CSS buttons.
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
@@ -855,6 +855,7 @@
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link & Mega-Debrid.
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -1420,7 +1421,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰185+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰250+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -1831,6 +1832,7 @@
 
 ## Others 
 
+- [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy) - Customized firmware for Yi Home Camera 720p
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 - [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
 - [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect) - 
@@ -2170,6 +2172,7 @@
 
 ## Python 
 
+- [roleoroleo/yi-hack_ha_integration](https://github.com/roleoroleo/yi-hack_ha_integration) - Home Assistant custom integration for Yi cameras: yi-hack-MStar, yi-hack-Allwinner, yi-hack-Allwinner-v2, yi-hack-v5 and sonoff-hack
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager) - Script that allows to download portable installers of different versions Adobe software
