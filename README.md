@@ -1944,6 +1944,7 @@
 - [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar) - Use BetterTouchTool to make TouchBar better.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
+- [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript) - Mashup Font of FiraCode and Script12
 - [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket) - Building a 'clean room' open-source implementation of Pocket
 - [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
 - [dkarter/alfred-switch-audio](https://github.com/dkarter/alfred-switch-audio) - 🔊 Switch Audio Output/Input with Alfred
@@ -2011,6 +2012,7 @@
 - [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp) - Themes inspired by Twitter's new font, Chirp
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow) - A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
 - [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl) - A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
@@ -2525,7 +2527,6 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [danielmiessler/geoip](https://github.com/danielmiessler/geoip) - A Ruby script that takes in IPs and returns Country, State, and City
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [JT5D/AppleTree](https://github.com/JT5D/AppleTree) - Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 - [raleycs/alfred-ytsuggest](https://github.com/raleycs/alfred-ytsuggest) - Alfred Workflow to get search suggestions from YouTube.
 - [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby) - Ruby wrapper for the Pocket REST and Search APIs
