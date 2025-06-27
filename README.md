@@ -104,7 +104,7 @@
 - [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut) - this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
 - [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin) - Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
 - [shreygan/Applescripts](https://github.com/shreygan/Applescripts) - custom applescripts for btt
-- [wafflesnatcha/AppleScripts](https://github.com/wafflesnatcha/AppleScripts) - ~/Library/Scripts
+- [buchanansc/AppleScripts](https://github.com/buchanansc/AppleScripts) - ~/Library/Scripts
 - [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive) - Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
 - [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch) - A collection of presets for BetterTouchTool
 - [essandess/etv-comskip](https://github.com/essandess/etv-comskip) - Commercial Marking and Skipping for EyeTV and iTunes Exports
@@ -321,7 +321,7 @@
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 - [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur) - The simplest possible translucent userchrome theme for firefox (tested on linux only)
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87!
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
@@ -750,7 +750,6 @@
 - [w0lfschild/cDock](https://github.com/w0lfschild/cDock) - :lollipop: Basic dock customization for macOS
 - [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window) - 👻 Firefox extension to open a copy of the current page in a new Private Window
 - [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview) - This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates) - Customize free Shopify Order Printer templates.
@@ -862,7 +861,7 @@
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link & Mega-Debrid.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link, Mega-Debrid & DeepBird
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -914,10 +913,10 @@
 - [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
 - [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR) - A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
-- [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext) - Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
-- [igorlogius/link-extras](https://github.com/igorlogius/link-extras) - Add extra functions to links and links in selections  - Open Links in Tabs (loaded or unloaded), Bookmark Links, Download Links and Copy Links to the Clipboard in Custom Formats
-- [igorlogius/import-urls](https://github.com/igorlogius/import-urls) - Import URLs from the clipboard or a text file and opens them as loaded or unloaded tabs or save them as bookmarks
-- [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - Limits the number of active tabs by unloading older tabs
+- [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext) - 
+- [igorlogius/link-extras](https://github.com/igorlogius/link-extras) - 
+- [igorlogius/import-urls](https://github.com/igorlogius/import-urls) - 
+- [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs) - 
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension) - Inspect extensions with web-ext-inspector
 - [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A browser extension for generating and scanning QR codes.
@@ -928,11 +927,11 @@
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 - [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website) - My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
 - [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs) - Docusaurus page
-- [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode) - Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the cl
-- [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image) - Simple addon, to save a snapshot of a website via a click on the toolbar icon or a custom shortcut
-- [igorlogius/copy-tabs](https://github.com/igorlogius/copy-tabs) - Copy tabs as hyperlinks or as plaintext URLs, similar to  MS Edge, but better since this addons supports copying mutliple tabs at once
+- [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode) - 
+- [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image) - 
+- [igorlogius/copy-tabs](https://github.com/igorlogius/copy-tabs) - 
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict) - Double-click any word to view its definition in a pop-up bubble Fork of the "Dictionary Anywhere" addon initally made to make it usable for android but now adds a couple of more features/improvements
+- [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict) - 
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [drcika/apc-extension](https://github.com/drcika/apc-extension) - 
 - [asilvas/circler](https://github.com/asilvas/circler) - (non-official) Logitech Circle utility application (download etc)
@@ -959,7 +958,7 @@
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
-- [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - Saves selected or all tabs into a timestamped bookmark folder for later use
+- [igorlogius/bookmark-tabs](https://github.com/igorlogius/bookmark-tabs) - 
 - [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app) - Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
 - [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro) - Personal branding theme for developers
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
@@ -1157,7 +1156,7 @@
 - [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav) - A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages) - Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
-- [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select) - Prevents background tabs from loading until they have been activated
+- [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select) - 
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
 - [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons) - Desaturate the favicons of all inactive tabs.
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
@@ -2585,7 +2584,7 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–139) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–140) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
