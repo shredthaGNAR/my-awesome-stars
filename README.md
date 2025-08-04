@@ -295,6 +295,7 @@
 - [DinoDevel/Joplin-theme-opensuse-green](https://github.com/DinoDevel/Joplin-theme-opensuse-green) - Dark theme for Joplin with green accents. It's build on top of the integrated "Dark" Theme included in Joplin.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link, Mega-Debrid & DeepBird
 - [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons) - A collection of CSS buttons.
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa) - Responsive Portfolio Website Using HTML, CSS & JavaScript
@@ -874,7 +875,6 @@
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link, Mega-Debrid & DeepBird
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -2021,7 +2021,7 @@
 - [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows) - MacOS Automator Workflows for PDFs, images, and more
 - [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader) - Alfred Workflow to download YouTube videos
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
-- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · A comprehensive black hole for ads and analytics
+- [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
