@@ -284,11 +284,11 @@
 ## CSS 
 
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
-- [sp4ce404/classic-tabs-firefox](https://github.com/sp4ce404/classic-tabs-firefox) - 
+- [r4iNyLoVe/classic-tabs-firefox](https://github.com/r4iNyLoVe/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
 - [rainbowflesh/mimicfox](https://github.com/rainbowflesh/mimicfox) - Cutting "edge" firefox userChrome.css
-- [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - a tool to install userChrome Themes from anywhere
+- [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
 - [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS) - 
 - [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 - [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme) - A Breeze theme for Firefox🔥
@@ -2986,7 +2986,7 @@
 ## TypeScript 
 
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
-- [buttercannfly/AIPex](https://github.com/buttercannfly/AIPex) - The best tabs manager
+- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: open claude for chrome, automate your browser
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai) - The simpler JavaScript Gemini SDK
 - [chrismessina/extensions](https://github.com/chrismessina/extensions) - Everything you need to extend Raycast.
