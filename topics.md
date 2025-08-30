@@ -455,7 +455,7 @@
 
 ## automation 
 
-- [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - a tool to install userChrome Themes from anywhere
+- [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
@@ -881,7 +881,7 @@
 
 ## chrome-extension 
 
-- [buttercannfly/AIPex](https://github.com/buttercannfly/AIPex) - The best tabs manager
+- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: open claude for chrome, automate your browser
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 - [aesy/reddit-comment-highlights](https://github.com/aesy/reddit-comment-highlights) - A browser extension with minimal permissions that highlights Reddit.com comments since you've been away
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -3496,7 +3496,7 @@
 ## others 
 
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
-- [sp4ce404/classic-tabs-firefox](https://github.com/sp4ce404/classic-tabs-firefox) - 
+- [r4iNyLoVe/classic-tabs-firefox](https://github.com/r4iNyLoVe/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn) - Decentralized P2P exchange platform built on Monero and Tor
