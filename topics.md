@@ -3496,7 +3496,7 @@
 ## others 
 
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
-- [r4iNyLoVe/classic-tabs-firefox](https://github.com/r4iNyLoVe/classic-tabs-firefox) - 
+- [sp4ceCCXXI/classic-tabs-firefox](https://github.com/sp4ceCCXXI/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn) - Decentralized P2P exchange platform built on Monero and Tor
@@ -3648,7 +3648,6 @@
 - [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown) - Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
 - [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop) - Memos client built on electron cross-end framework
 - [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Hosts file.
-- [YarosMallorca/adobe_dns_filter](https://github.com/YarosMallorca/adobe_dns_filter) - A CLI tool to block certain Adobe-related domains in the computer's hosts file
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [CryptoTerps/Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac) - This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
