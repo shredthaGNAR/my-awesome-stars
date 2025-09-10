@@ -128,6 +128,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -257,6 +258,11 @@
 
 ## ai 
 
+- [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
+- [getgrinta/grinta](https://github.com/getgrinta/grinta) - Everything you need, in one shortcut.
+- [husnainfareed/rename-images-with-ai-raycast-extension](https://github.com/husnainfareed/rename-images-with-ai-raycast-extension) - A Raycast extension that uses AI to intelligently rename screenshot and image files based on their content.
+- [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
+- [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Kaizosha/Hush](https://github.com/Kaizosha/Hush) - while you’re in the moment, it listens. it sees. it remembers.
@@ -271,7 +277,7 @@
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -686,7 +692,7 @@
 
 ## bot 
 
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
@@ -743,6 +749,7 @@
 
 ## chatgpt 
 
+- [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant) - An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and intera
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
@@ -753,7 +760,7 @@
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
@@ -808,7 +815,7 @@
 
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
@@ -1252,6 +1259,7 @@
 
 ## cybersecurity 
 
+- [DarkWebInformer/Dark_Ledger](https://github.com/DarkWebInformer/Dark_Ledger) - A repository preserving darknet market data, including vendor lists, PGP keys, listings, and more for research & intelligence purposes.
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
@@ -1359,7 +1367,7 @@
 
 ## discord 
 
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
@@ -1729,7 +1737,7 @@
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
-- [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme) - 
+- [tkrusty/FirefoxTheme](https://github.com/tkrusty/FirefoxTheme) - 
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
@@ -1868,6 +1876,7 @@
 
 ## git 
 
+- [jag-k/git-raycast](https://github.com/jag-k/git-raycast) - Automate git using Raycast AI
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
@@ -1994,10 +2003,11 @@
 
 ## google 
 
+- [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 - [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai) - The simpler JavaScript Gemini SDK
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - A lightweight Python API wrapper and CLI for Google’s Gemini language models.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -2565,6 +2575,11 @@
 
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 
+## kali-linux 
+
+- [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+
 ## kotlin 
 
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
@@ -2688,6 +2703,7 @@
 
 ## llm 
 
+- [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
@@ -2703,7 +2719,7 @@
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [radames/LLM-automator](https://github.com/radames/LLM-automator) - Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
@@ -2820,6 +2836,7 @@
 
 ## macos 
 
+- [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
 - [Kaizosha/Hush](https://github.com/Kaizosha/Hush) - while you’re in the moment, it listens. it sees. it remembers.
 - [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder) - :apple: macOS Finder scripts
@@ -2841,7 +2858,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [ridvanbaluyos/btt-touchbar-presets](https://github.com/ridvanbaluyos/btt-touchbar-presets) - BetterTouchTool Touch Bar Preset by Ridvan Baluyos
 - [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation) - Scripts I use to automate workflows on my Mac.
@@ -3098,6 +3115,7 @@
 
 ## markdown 
 
+- [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
 - [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown
@@ -3407,6 +3425,7 @@
 
 ## openai 
 
+- [husnainfareed/rename-images-with-ai-raycast-extension](https://github.com/husnainfareed/rename-images-with-ai-raycast-extension) - A Raycast extension that uses AI to intelligently rename screenshot and image files based on their content.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -3495,6 +3514,12 @@
 
 ## others 
 
+- [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI) - Access llms from various different apis from your computer launcher
+- [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension) - 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
+- [daihy8759/raychat](https://github.com/daihy8759/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
+- [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api) - Serverless Raycast2API on Vercel
+- [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api) - Accessing the Raycast backend API delightfully
+- [grndis/raycast](https://github.com/grndis/raycast) - A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features w
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
 - [sp4ceCCXXI/classic-tabs-firefox](https://github.com/sp4ceCCXXI/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
@@ -3696,7 +3721,7 @@
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
@@ -4880,7 +4905,6 @@
 - [Asteezy24/ShopifyCheckout](https://github.com/Asteezy24/ShopifyCheckout) - Bringing automated checkout to your favorite shopify websites
 - [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev) - Shopify Theme Development
 - [jonzhak/shopify-get-products](https://github.com/jonzhak/shopify-get-products) - 
-- [JaceThings/Firefox-Customisation](https://github.com/JaceThings/Firefox-Customisation) - 
 - [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom) - Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [kierandrewett/browser-chrome-experiment](https://github.com/kierandrewett/browser-chrome-experiment) - 
@@ -4961,7 +4985,7 @@
 - [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes) - Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
 - [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List) - 
 - [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup) - userChrome.css and userContent.css files.
-- [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
+- [dupontjoy/UCScriptsCollections](https://github.com/dupontjoy/UCScriptsCollections) - UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 - [aligo/better-google](https://github.com/aligo/better-google) - Userscript to Better (or Older and Good) Google
 - [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy) - 
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
@@ -5167,6 +5191,7 @@
 
 ## productivity 
 
+- [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - A macOS app for organizing folders
@@ -5614,6 +5639,7 @@
 
 ## self-hosted 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -5754,7 +5780,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
@@ -5806,7 +5832,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+- [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini, Perplexity, OpenRouter, Docker Models, and other API providers
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [TKOxff/ASAP](https://github.com/TKOxff/ASAP) - The Global Shortcuts for macOS, to launch any apps
