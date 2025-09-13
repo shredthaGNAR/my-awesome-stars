@@ -749,6 +749,7 @@
 
 ## chatgpt 
 
+- [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant) - An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and intera
@@ -1743,7 +1744,7 @@
 - [hensm/fx_cast](https://github.com/hensm/fx_cast) - Chromecast Web Sender SDK implementation for Firefox
 - [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader) - Chrome manifest loader for webpack
 - [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon) - A collection of CSS tweaks to only change Firefox's icon throughout the UI.
-- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+- [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations) - Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 - [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs) - Export and Import Tabs with Cross-Browser support.
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
@@ -2758,6 +2759,7 @@
 
 ## mac 
 
+- [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog) - Open a finder dialog window (finder prompt) programmatically.
 - [halo/LinkLiar](https://github.com/halo/LinkLiar) - :link: Link-Layer MAC spoofing GUI for macOS
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
@@ -3115,6 +3117,7 @@
 
 ## markdown 
 
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
@@ -3352,6 +3355,7 @@
 
 ## obsidian-md 
 
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
@@ -3375,6 +3379,7 @@
 
 ## obsidian-plugin 
 
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
@@ -3425,6 +3430,7 @@
 
 ## openai 
 
+- [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [husnainfareed/rename-images-with-ai-raycast-extension](https://github.com/husnainfareed/rename-images-with-ai-raycast-extension) - A Raycast extension that uses AI to intelligently rename screenshot and image files based on their content.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -3514,6 +3520,9 @@
 
 ## others 
 
+- [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer) - Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
+- [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
+- [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI) - Access llms from various different apis from your computer launcher
 - [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension) - 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 - [daihy8759/raychat](https://github.com/daihy8759/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
@@ -5288,7 +5297,7 @@
 - [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
-- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools) - Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows.
