@@ -861,6 +861,8 @@
 
 ## JavaScript 
 
+- [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
+- [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [grndis/raycast](https://github.com/grndis/raycast) - A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features w
 - [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog) - Open a finder dialog window (finder prompt) programmatically.
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
@@ -1527,7 +1529,7 @@
 - [jonzhak/shopify-get-products](https://github.com/jonzhak/shopify-get-products) - 
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+- [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations) - Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 - [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box) - Extension that transforms lines of text into a pretty comment box.
 - [FirefoxUX/icons](https://github.com/FirefoxUX/icons) - SVG icons used in Firefox. View all icons here:
@@ -2199,6 +2201,7 @@
 
 ## Python 
 
+- [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer) - Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [zukijourney/example-api](https://github.com/zukijourney/example-api) - Simple base code for AI reverse proxies.
 - [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter) - 
@@ -2318,7 +2321,7 @@
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
 - [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
-- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone) - Toggle and display battery info of apple wireless headphones on the touch bar
@@ -2993,6 +2996,8 @@
 
 ## TypeScript 
 
+- [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI) - Access llms from various different apis from your computer launcher
 - [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension) - 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
