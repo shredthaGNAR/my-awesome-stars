@@ -216,6 +216,7 @@
 
 ## C# # 
 
+- [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order) - order OneTab (browser addon) tabs, copy to clipboard button
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
@@ -506,7 +507,7 @@
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
 - [jwilk/userscripts](https://github.com/jwilk/userscripts) - Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
 - [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
-- [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme) - A Firefox theme with Pywal and macOS in mind.
+- [Ducky6944/Poison-Firefox-Theme](https://github.com/Ducky6944/Poison-Firefox-Theme) - A Firefox theme with Pywal and macOS in mind.
 - [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome) - A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 - [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON) - Firefox blueish & dark theme
 - [Andereoo/Cortland](https://github.com/Andereoo/Cortland) - A sleek, modern, macOS-inspired theme for Firefox
@@ -558,6 +559,7 @@
 
 ## Dart 
 
+- [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder) - A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -599,6 +601,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [jag-k/git-raycast](https://github.com/jag-k/git-raycast) - Automate git using Raycast AI
 - [daihy8759/raychat](https://github.com/daihy8759/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
 - [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api) - Serverless Raycast2API on Vercel
@@ -676,6 +679,8 @@
 
 ## HTML 
 
+- [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom) - 
+- [Sumit07p/ONETAB](https://github.com/Sumit07p/ONETAB) - 
 - [anlcan/synonyms](https://github.com/anlcan/synonyms) - Mac Quick Action for finding synonyms while tracking the history on Firebase
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [alienthief/thesourc](https://github.com/alienthief/thesourc) - A curated list of awesome warez and piracy links
@@ -861,6 +866,9 @@
 
 ## JavaScript 
 
+- [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab) - 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compa
+- [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab) - Onetab extension unofuscated with a few keyboard shortcuts added.
+- [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
 - [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [grndis/raycast](https://github.com/grndis/raycast) - A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features w
@@ -1628,7 +1636,7 @@
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1668,7 +1676,6 @@
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [phosphor-icons/android](https://github.com/phosphor-icons/android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
 - [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker) - An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 
@@ -1852,6 +1859,8 @@
 
 ## Others 
 
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes) - A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [DarkWebInformer/Dark_Ledger](https://github.com/DarkWebInformer/Dark_Ledger) - A repository preserving darknet market data, including vendor lists, PGP keys, listings, and more for research & intelligence purposes.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -2201,6 +2210,8 @@
 
 ## Python 
 
+- [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab) - Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --&gt; Ubuntu 24.04 and Linux Mint 22.1).
+- [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter) - tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional dat
 - [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer) - Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [zukijourney/example-api](https://github.com/zukijourney/example-api) - Simple base code for AI reverse proxies.
@@ -2267,7 +2278,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
@@ -2598,6 +2609,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [bltavares/pickpocket](https://github.com/bltavares/pickpocket) - Pocket CLI management tools
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d) - Seed project for 2D games
 - [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
@@ -2696,13 +2708,13 @@
 - [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
@@ -2832,6 +2844,7 @@
 
 ## Swift 
 
+- [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 - [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - This library provides convenient way to use Coinpaprika.com API in Swift.
 - [Kaizosha/Hush](https://github.com/Kaizosha/Hush) - while you’re in the moment, it listens. it sees. it remembers.
@@ -2996,6 +3009,8 @@
 
 ## TypeScript 
 
+- [svarts/OneTab](https://github.com/svarts/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
+- [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action) - Deploy extension to Firefox Addons and sign xpi file
 - [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI) - Access llms from various different apis from your computer launcher
@@ -3095,7 +3110,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket) - GetPocket but better!
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
@@ -3295,6 +3310,7 @@
 
 ## Vue 
 
+- [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
 - [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop) - [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
@@ -3312,7 +3328,7 @@
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
-- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
+- [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 
 ## templ 
