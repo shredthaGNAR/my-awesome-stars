@@ -1860,6 +1860,7 @@
 
 ## Others 
 
+- [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes) - A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
