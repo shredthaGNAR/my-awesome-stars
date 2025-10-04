@@ -33,6 +33,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [clash](#clash)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -241,6 +242,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -265,7 +267,6 @@
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
 - [getgrinta/grinta](https://github.com/getgrinta/grinta) - Everything you need, in one shortcut.
@@ -506,7 +507,6 @@
 
 ## awesome 
 
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
@@ -634,6 +634,7 @@
 
 ## azure 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## babel 
@@ -708,7 +709,7 @@
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
-- [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
+- [falcontheme-com/ks-bootshop](https://github.com/falcontheme-com/ks-bootshop) - Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of co
 
 ## bot 
 
@@ -773,8 +774,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kiloc
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
@@ -1055,6 +1055,10 @@
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 - [hoyang/browse-later](https://github.com/hoyang/browse-later) - Browse later, a WebExtensions add-on.
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
+
+## clash 
+
+- [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 
 ## cli 
 
@@ -1428,6 +1432,7 @@
 
 ## docker 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
@@ -1488,6 +1493,7 @@
 
 ## dotnet 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
@@ -2142,6 +2148,7 @@
 
 ## hacktoberfest 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
@@ -2238,7 +2245,6 @@
 - [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files) - Provides ability to save selected tabs to local files for Firefox 63 and later.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [joplin/plugin-templates](https://github.com/joplin/plugin-templates) - Create templates in Joplin and use them to create new notes and todos.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -2768,7 +2774,6 @@
 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
@@ -3508,7 +3513,6 @@
 
 ## open-source 
 
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -3545,7 +3549,6 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - Curated collection of system prompts for leading AI tools and agents, including ChatGPT, Claude, Perplexity, Manus, Lovable, Devin, v0, Windsurf, Notion, MetaAI, and more. Ideal for AI agent builders 
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
@@ -3638,6 +3641,11 @@
 
 ## others 
 
+- [jamespo/pockyt](https://github.com/jamespo/pockyt) - Automate & manage your Pocket.com collection.
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your Obsidian vault. Forked from Smart Composer, but with bigger dreams.
+- [k0src/GitSync](https://github.com/k0src/GitSync) - Sync Firefox windows, tabs, and tab groups via GitHub
+- [DevShubam/Filters](https://github.com/DevShubam/Filters) - Collection of filters for adblockers
+- [minoplhy/filters](https://github.com/minoplhy/filters) - Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
 - [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) - Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. T
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
@@ -4232,7 +4240,6 @@
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [dan-and/KeepToText](https://github.com/dan-and/KeepToText) - Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 - [dawiidio/o-menu](https://github.com/dawiidio/o-menu) - Simple circular svg menu
-- [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only) - This is simple circular menu html CSS js
 - [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode) - Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
 - [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms) - System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
 - [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons) - Google Search Extra Buttons
@@ -4465,7 +4472,6 @@
 - [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls) - Save all the open tabs as a list of URLs to go back to!
 - [hiroshil/save-tabs](https://github.com/hiroshil/save-tabs) - Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon.
 - [mnba/save-tabs](https://github.com/mnba/save-tabs) - Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon. Install it from here: https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/
-- [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset) - A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without 
 - [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text) - Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
 - [serj-kzv/mozlz4-edit](https://github.com/serj-kzv/mozlz4-edit) - 
 - [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream) - an Alfred Camera like solution for motion detection and streaming based on react-native
@@ -5285,6 +5291,8 @@
 
 ## privacy 
 
+- [SystemJargon/filters](https://github.com/SystemJargon/filters) - A repo containing DNS blocklists and allowlist/s. Various categories of lists, updated and validated often.  Wiki included.
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
@@ -5568,6 +5576,7 @@
 
 ## react 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter) - A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
 - [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) - 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
@@ -5672,6 +5681,7 @@
 
 ## rest-api 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 ## reverse-engineering 
@@ -5740,6 +5750,7 @@
 
 ## security 
 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
@@ -5832,6 +5843,7 @@
 
 ## shell 
 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -6040,6 +6052,7 @@
 
 ## telegram 
 
+- [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 - [marph91/jimmy](https://github.com/marph91/jimmy) - Convert your notes to Markdown
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder) - A script to automatically build latest releases of ReVanced apps
@@ -6125,6 +6138,7 @@
 
 ## typescript 
 
+- [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter) - A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
 - [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) - 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 - [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
@@ -6252,6 +6266,11 @@
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [panoply/vscode-liquid](https://github.com/panoply/vscode-liquid) - 💧Liquid language support for VS Code
 - [aaronthomas/vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator) - A VS Code theme based on hyper-snazzy and optimised for use with the Operator Mono font
+
+## visualization 
+
+- [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset) - A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without 
+- [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler) - Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 
 ## vpn 
 
