@@ -163,6 +163,7 @@
 
 ## Batchfile 
 
+- [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
 - [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
@@ -176,6 +177,8 @@
 
 ## C 
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3) - Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
 - [Sine-Of-Time/Omaha-Poker](https://github.com/Sine-Of-Time/Omaha-Poker) - A program that evaluates the winner of a 2-player Omaha-High Hold’em poker game.
 - [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker) - Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
@@ -287,9 +290,10 @@
 
 ## CSS 
 
+- [programming086/my_site](https://github.com/programming086/my_site) - Files for site
+- [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur) - A Fork with an Installer for "Firefox Mod Blur - Modular"
 - [Loskir/EdgyArc-fr](https://github.com/Loskir/EdgyArc-fr) - Firefox Userchrome and sidebery style
 - [xslhub/gruvbox-gnomeish-firefox-theme](https://github.com/xslhub/gruvbox-gnomeish-firefox-theme) - A minimal Firefox theme inspired by the aesthetics of Gruvbox and GNOME.
-- [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur) - A Fork with an Installer for "Firefox Mod Blur - Modular"
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [minoplhy/filters](https://github.com/minoplhy/filters) - Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
@@ -464,7 +468,6 @@
 - [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme) - Just another dark theme
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
 - [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton) - Revert Firefox Proton to Photon & Photon Compact
-- [tkrusty/FirefoxTheme](https://github.com/tkrusty/FirefoxTheme) - 
 - [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks) - Chonky Firefox tabs for square developers
 - [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css) - 
 - [bpwned/protovibrant](https://github.com/bpwned/protovibrant) - 
@@ -687,6 +690,9 @@
 
 ## HTML 
 
+- [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
@@ -818,6 +824,7 @@
 
 ## Java 
 
+- [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 - [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn) - Decentralized P2P exchange platform built on Monero and Tor
 - [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto) - Decentralized P2P exchange built on Monero and Tor
@@ -877,6 +884,9 @@
 
 ## JavaScript 
 
+- [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection) - 🌍 A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filt
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker) - App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
 - [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f) - Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control) - Firefox addon (extension) that helps you define rules which will control which container a website opens in.
@@ -1669,6 +1679,10 @@
 
 ## Kotlin 
 
+- [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+- [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, remove ads everywhere in the Reddit app, always open Gboard in incognito mode, and much more!
+- [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches) - Picked up some dropped patches for ReVanced
+- [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
@@ -1816,6 +1830,8 @@
 
 ## Objective-C 
 
+- [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
+- [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [robilic/DockHand](https://github.com/robilic/DockHand) - Window preview feature similar to 'Aero Peek' for the Mac OS dock
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
@@ -1839,7 +1855,6 @@
 - [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol) - A GUI for launchd, similar to launchctl. Or... something.
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
-- [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 - [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources) - 
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
@@ -1880,6 +1895,10 @@
 
 ## Others 
 
+- [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
+- [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings) - List and comparison of services for publishing and sharing files on the Internet
+- [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) - Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. T
@@ -2174,6 +2193,7 @@
 
 ## PHP 
 
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [dejurin/crypto-converter-widget](https://github.com/dejurin/crypto-converter-widget) - Crypto and Currency Converter HTML/JS Widget for any websites. Very simple for embeds — just one tag.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
@@ -2236,6 +2256,11 @@
 
 ## Python 
 
+- [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
+- [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
+- [Antibioticss/adobe-packager](https://github.com/Antibioticss/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template) - This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt 
 - [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts) - This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added or
 - [jamespo/pockyt](https://github.com/jamespo/pockyt) - Automate & manage your Pocket.com collection.
@@ -2563,7 +2588,6 @@
 - [johntelforduk/shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook) - Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator) - It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## R 
@@ -2680,6 +2704,10 @@
 
 ## Shell 
 
+- [gchai/macos-mac-address-changer](https://github.com/gchai/macos-mac-address-changer) - 
+- [chris1111/Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS
+- [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
+- [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
 - [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -2841,7 +2869,6 @@
 - [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) - A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 - [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) - The setup I run on every computer
 - [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k) - fast install powerlevel10k theme
-- [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch) - DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, pr
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -2882,6 +2909,10 @@
 
 ## Swift 
 
+- [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
+- [inject-X/injectX](https://github.com/inject-X/injectX) - Simple injection of macOS applications
+- [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app) - Long-term trials of macOS apps
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
@@ -2965,7 +2996,6 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
@@ -3049,6 +3079,8 @@
 
 ## TypeScript 
 
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Lewinz/raycast-customusageai](https://github.com/Lewinz/raycast-customusageai) - A Raycast extension that allows you to create and use custom prompt templates with any OpenAI-compatible API endpoints.
 - [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell) - Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
