@@ -3698,6 +3698,7 @@
 
 ## others 
 
+- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 - [odebroqueville/contextSearch](https://github.com/odebroqueville/contextSearch) - Chrome and Firefox web extension to search selected text in a web page using your favorite search engines from a context menu or from a grid of icons.
 - [akkva/GWfox-TV](https://github.com/akkva/GWfox-TV) - A macOS Tahoe-style Firefox theme
 - [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
