@@ -3206,7 +3206,7 @@
 - [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
 - [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator) - Evaluate the strength of a hand of poker
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
