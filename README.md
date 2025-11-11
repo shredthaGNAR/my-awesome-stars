@@ -727,6 +727,7 @@
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
+- [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting) - How to host websites using free cloud storage
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
@@ -1052,7 +1053,7 @@
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - UserScript Collection.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
