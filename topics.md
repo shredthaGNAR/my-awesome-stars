@@ -5563,6 +5563,7 @@
 
 ## python 
 
+- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter) - tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional dat
