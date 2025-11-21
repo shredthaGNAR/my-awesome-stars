@@ -338,6 +338,7 @@
 
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
@@ -885,7 +886,7 @@
 ## chrome 
 
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
@@ -952,7 +953,7 @@
 
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
@@ -1256,7 +1257,7 @@
 
 ## css 
 
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 - [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -1664,7 +1665,7 @@
 ## firefox 
 
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur) - A Fork with an Installer for "Firefox Mod Blur - Modular"
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control) - Firefox addon (extension) that helps you define rules which will control which container a website opens in.
@@ -2539,7 +2540,7 @@
 
 ## javascript 
 
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -5905,7 +5906,7 @@
 
 ## security 
 
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
@@ -5952,7 +5953,7 @@
 
 ## security-tools 
 
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [arekusandr/last_layer](https://github.com/arekusandr/last_layer) - Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
