@@ -895,6 +895,8 @@
 
 ## JavaScript 
 
+- [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
+- [UniBreakfast/believable-random-data-generator](https://github.com/UniBreakfast/believable-random-data-generator) - Arrays of first and last names, nicknames, cities, countries, animals, sonets, fantasy features, elements, creatures etc. Versatile rnd function for numbers, arrays, objects, dates, string combination
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -2287,6 +2289,7 @@
 
 ## Python 
 
+- [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
