@@ -3072,6 +3072,7 @@
 
 ## macos 
 
+- [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
@@ -3816,6 +3817,10 @@
 
 ## others 
 
+- [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch) - Add a Notch to your old Macbook with BetterTouchTool.
+- [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past) - Alfred workflows I use
+- [genregod/SweeperKeeper](https://github.com/genregod/SweeperKeeper) - 
+- [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock) - This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 - [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 - [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Helps you assemble floating HTML radial menus for BetterTouchTool app.
@@ -5590,6 +5595,7 @@
 
 ## productivity 
 
+- [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
