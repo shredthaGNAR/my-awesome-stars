@@ -1200,7 +1200,7 @@
 
 - [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools) - All In One Tools Hacking
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [renatorib/github-blog](https://github.com/renatorib/github-blog) - :octopus: Turn your github issues into a CMS for your blog.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -1428,7 +1428,7 @@
 ## data-science 
 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 
 ## data-structures 
@@ -3072,6 +3072,7 @@
 
 ## macos 
 
+- [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -5051,7 +5052,7 @@
 - [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts) - 
 - [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird) - Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
-- [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
+- [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬
 - [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird) - A universal dark theme for Thunderbird
 - [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments) - WebExtension Experiments for Thunderbird
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
@@ -5089,7 +5090,6 @@
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen) - Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 - [babldev/camera-cli](https://github.com/babldev/camera-cli) - Configure your webcam via the command line
-- [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin) - A skin for Firefox using custom CSS
 - [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic) - A typeface for California vexillographers
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
@@ -5816,7 +5816,7 @@
 ## r 
 
 - [dreamRs/shinyWidgets](https://github.com/dreamRs/shinyWidgets) - shinyWidgets : Extend widgets available in shiny
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 
 ## raspberry-pi 
 
@@ -6204,6 +6204,7 @@
 
 ## swift 
 
+- [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
@@ -6262,6 +6263,7 @@
 
 ## swiftui 
 
+- [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [inject-X/injectX](https://github.com/inject-X/injectX) - Simple injection of macOS applications
 - [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app) - Long-term trials of macOS apps
