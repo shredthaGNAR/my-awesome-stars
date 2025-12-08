@@ -2291,6 +2291,8 @@
 
 ## Python 
 
+- [XInTheDark/gpt4free-u](https://github.com/XInTheDark/gpt4free-u) - unblocked.
+- [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [genregod/SweeperKeeper](https://github.com/genregod/SweeperKeeper) - 
 - [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
@@ -3130,6 +3132,8 @@
 
 ## TypeScript 
 
+- [XInTheDark/gemini-ai-sdk](https://github.com/XInTheDark/gemini-ai-sdk) - The better Google Gemini SDK (TypeScript)
+- [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy) - Integrate any OpenAI-compatible API with Raycast AI
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -3383,7 +3387,7 @@
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator) - Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons) - A collection of custom folder icons for (Mac, Linux and Windows)
+- [shariati/Hand-Picked](https://github.com/shariati/Hand-Picked) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown) - Helping you ditch the markdown viewer for good.
 - [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs) - thunderbird webextentions
