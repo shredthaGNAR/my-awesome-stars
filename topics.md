@@ -3825,6 +3825,8 @@
 
 ## others 
 
+- [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is an ambitious community effort to build the Monero wallet for the future.
+- [TheRealDalunacrobate/DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [XInTheDark/gpt4free-u](https://github.com/XInTheDark/gpt4free-u) - unblocked.
 - [XInTheDark/gemini-ai-sdk](https://github.com/XInTheDark/gemini-ai-sdk) - The better Google Gemini SDK (TypeScript)
 - [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy) - Integrate any OpenAI-compatible API with Raycast AI
