@@ -2291,6 +2291,7 @@
 
 ## Python 
 
+- [TheRealDalunacrobate/DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [XInTheDark/gpt4free-u](https://github.com/XInTheDark/gpt4free-u) - unblocked.
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
@@ -2692,6 +2693,7 @@
 
 ## Rust 
 
+- [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is an ambitious community effort to build the Monero wallet for the future.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
