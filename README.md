@@ -294,8 +294,8 @@
 
 ## CSS 
 
+- [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main) - 
 - [altano/alanglow](https://github.com/altano/alanglow) - A Firefox theme
-- [akkva/GWfox-TV](https://github.com/akkva/GWfox-TV) - A macOS Tahoe-style Firefox theme
 - [programming086/my_site](https://github.com/programming086/my_site) - Files for site
 - [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur) - A Fork with an Installer for "Firefox Mod Blur - Modular"
 - [Loskir/EdgyArc-fr](https://github.com/Loskir/EdgyArc-fr) - Firefox Userchrome and sidebery style
@@ -448,7 +448,7 @@
 - [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style) - Make Firefox compact!
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style) - 
-- [tomatopickle/Glox](https://github.com/tomatopickle/Glox) - A glassmorphistic Firefox skin, also has round elements
+- [abaanshanid/Glox](https://github.com/abaanshanid/Glox) - A glassmorphistic Firefox skin, also has round elements
 - [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox) - Create cards with acrylic effect in Firefox
 - [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton) - :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 - [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant) - 
@@ -1117,7 +1117,7 @@
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 - [aclap-dev/weh](https://github.com/aclap-dev/weh) - Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 - [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
-- [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
+- [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
@@ -1506,7 +1506,6 @@
 - [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) - shopify-outofthebox
 - [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search) - Search social profiles using email address
 - [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop) - NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cassidoo/shopify-next-netlify](https://github.com/cassidoo/shopify-next-netlify) - A Shopify Next.js demo
 - [akarlsten/snaz](https://github.com/akarlsten/snaz) - VS Code color theme
 - [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc) - a blue-ish gray with a purple accent color palette for Visual Studio Code.
@@ -3502,6 +3501,7 @@
 - [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue) - 
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
