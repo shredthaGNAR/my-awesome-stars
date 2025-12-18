@@ -1704,7 +1704,7 @@
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
-- [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, remove ads everywhere in the Reddit app, always open Gboard in incognito mode, and much more!
+- [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches) - Picked up some dropped patches for ReVanced
 - [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
@@ -3360,7 +3360,6 @@
 - [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging) - Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
@@ -3401,7 +3400,6 @@
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator) - Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [shariati/Hand-Picked](https://github.com/shariati/Hand-Picked) - A collection of custom folder icons for (Mac, Linux and Windows)
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown) - Helping you ditch the markdown viewer for good.
 - [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs) - thunderbird webextentions
@@ -3496,6 +3494,7 @@
 - [jcz530/shadows](https://github.com/jcz530/shadows) - A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [stefnotch/downline](https://github.com/stefnotch/downline) - Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon) - Firefox add-on for rdltr (read-it-later app)
