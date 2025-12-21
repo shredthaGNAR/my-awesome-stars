@@ -995,7 +995,7 @@
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
-- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. ChatGPT Atlas Alternative, Alternative to Manus Browser Operator.
+- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. ChatGPT Atlas Alternative, Alternative to Manus Browser Operator, Alternative to Claude Chrome
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 - [aesy/reddit-comment-highlights](https://github.com/aesy/reddit-comment-highlights) - A browser extension with minimal permissions that highlights Reddit.com comments since you've been away
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -1742,7 +1742,7 @@
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
-- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
+- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [rainbowflesh/mimicfox](https://github.com/rainbowflesh/mimicfox) - Cutting "edge" firefox userChrome.css
 - [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -3122,7 +3122,7 @@
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
-- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
+- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [Kaizosha/Hush](https://github.com/Kaizosha/Hush) - while you’re in the moment, it listens. it sees. it remembers.
 - [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder) - :apple: macOS Finder scripts
 - [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS) - A simple Finder extension for creating files + opening a terminal from the context menu.
@@ -3411,7 +3411,6 @@
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [mufeedvh/gisture](https://github.com/mufeedvh/gisture) - A minimal and flexible blog generator based on GitHub Gist.
@@ -4440,6 +4439,7 @@
 - [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript) - Mashup Font of FiraCode and Script12
 - [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons) - Firefox addons for GitZip
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - 
 - [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket) - Building a 'clean room' open-source implementation of Pocket
 - [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 - [jarmo/backpocket](https://github.com/jarmo/backpocket) - Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features withou
@@ -6731,7 +6731,7 @@
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
-- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
+- [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant) - An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and intera
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
