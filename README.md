@@ -908,6 +908,7 @@
 
 ## JavaScript 
 
+- [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty) - Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share.
 - [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
 - [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio) - My first portfolio website, using MERN stack
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
