@@ -293,6 +293,7 @@
 
 - [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of 7766 awesome AI tools
@@ -2411,7 +2412,6 @@
 - [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window) - Aggregate new tabs to a window which has most many tabs and largest size.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2969,6 +2969,7 @@
 ## llm 
 
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -3898,7 +3899,6 @@
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io) - satan's underpants motorcycle club
-- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library
 - [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives) - Pages saved with SingleFile
 - [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources) - A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀
 - [AlfredJKwack/pockyt-analysis](https://github.com/AlfredJKwack/pockyt-analysis) - Provides visual analysis of JSON data out of Pockyt
