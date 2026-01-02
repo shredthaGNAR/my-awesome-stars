@@ -1717,6 +1717,7 @@
 - [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify) - 
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
+- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches) - Picked up some dropped patches for ReVanced
@@ -2320,7 +2321,6 @@
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [genregod/SweeperKeeper](https://github.com/genregod/SweeperKeeper) - 
 - [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
@@ -3498,7 +3498,7 @@
 
 ## Vue 
 
-- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library
+- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
