@@ -753,7 +753,7 @@
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -867,7 +867,7 @@
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material 3 Expressive design and enhanced features.
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features.
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
 - [inotia00/mMicroG](https://github.com/inotia00/mMicroG) - 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -1290,7 +1290,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
 - [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc) - Browser addon for FireFox & Chrome to save active tabs as Markdown
