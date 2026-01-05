@@ -389,6 +389,12 @@
 
 ## android 
 
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
+- [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 RVX's pre-made APKs
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
@@ -2842,6 +2848,10 @@
 
 ## kotlin 
 
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
+- [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches) - Picked up some dropped patches for ReVanced
@@ -3119,6 +3129,7 @@
 
 ## macos 
 
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
@@ -3448,6 +3459,8 @@
 
 ## material-design 
 
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [kbc8090/firefox](https://github.com/kbc8090/firefox) - My heavily modified FirefoxCSS based on material-fox-updated
 - [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass) - KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
@@ -3516,6 +3529,8 @@
 
 ## music 
 
+- [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -3746,6 +3761,7 @@
 
 ## open-source 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -3879,6 +3895,10 @@
 
 ## others 
 
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+- [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
+- [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged) - ReVanced, but patched locally.
+- [j-hc/revanced-cli](https://github.com/j-hc/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts) - System prompts from Apple's new Apple Intelligence on MacOS Sequoia
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai) - A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and i
@@ -4020,7 +4040,6 @@
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate) - macOS Finder extension for creating new text documents with right-click
 - [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS) - 
-- [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme) - A Breeze theme for Firefox🔥
 - [anlcan/synonyms](https://github.com/anlcan/synonyms) - Mac Quick Action for finding synonyms while tracking the history on Firebase
 - [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver) - Linkding bookmark manager + SingleFile archiving combined
 - [chrismessina/extensions](https://github.com/chrismessina/extensions) - Everything you need to extend Raycast.
@@ -4326,7 +4345,7 @@
 - [Madis0/firefox-desaturate-favicons](https://github.com/Madis0/firefox-desaturate-favicons) - Desaturate the favicons of all inactive tabs.
 - [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar) - Hackbar Firefox Extension
 - [deciare/firefox-css](https://github.com/deciare/firefox-css) - Customisations to Firefox via userChrome.css
-- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps with Material 3 Expressive design and enhanced features
 - [tg-z/estrellas](https://github.com/tg-z/estrellas) - 
 - [xulihang/macOCR](https://github.com/xulihang/macOCR) - Command line OCR tool using macOS's VNRecognizeTextRequest
 - [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0) - 
@@ -5517,6 +5536,7 @@
 
 ## p2p 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -5607,6 +5627,7 @@
 
 ## privacy 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [knapah/uBlockOrigin-Filterlist](https://github.com/knapah/uBlockOrigin-Filterlist) - 
 - [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection) - 🌍 A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filt
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
@@ -6195,6 +6216,7 @@
 
 ## serverless 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with Next for Static-Export, and GitHub Pages.
 
@@ -6299,6 +6321,7 @@
 
 ## swift 
 
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -6358,6 +6381,7 @@
 
 ## swiftui 
 
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
 - [inject-X/injectX](https://github.com/inject-X/injectX) - Simple injection of macOS applications
@@ -6494,6 +6518,7 @@
 
 ## twitter 
 
+- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 RVX's pre-made APKs
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Auto generated & Integrated repository build custom Revanced Extended APKs for both root and non-root users.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -6604,6 +6629,7 @@
 
 ## userscript 
 
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YT and YT Music
 - [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield) - A lightweight redefined version of microShield
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
@@ -6879,6 +6905,13 @@
 
 ## youtube 
 
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YT and YT Music
+- [nonbili/NouTube](https://github.com/nonbili/NouTube) - YouTube and YouTube Music in a single app. No ads, plays in the background.
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+- [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml) - Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
+- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 RVX's pre-made APKs
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
