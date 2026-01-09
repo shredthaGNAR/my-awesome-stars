@@ -1740,7 +1740,7 @@
 
 ## firebase 
 
-- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
@@ -4036,7 +4036,7 @@
 - [zukijourney/example-api](https://github.com/zukijourney/example-api) - Simple base code for AI reverse proxies.
 - [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter) - 
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
-- [SamuelZ12/LaTeX-OCR](https://github.com/SamuelZ12/LaTeX-OCR) - macOS App for Screenshot-to-LaTeX OCR
+- [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe) - macOS App for Screen Extraction
 - [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay) - A macOS overlay tool for google Gemini
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate) - macOS Finder extension for creating new text documents with right-click
@@ -5959,7 +5959,7 @@
 
 ## react 
 
-- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -6439,7 +6439,7 @@
 
 ## tailwindcss 
 
-- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint) - is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic 
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
@@ -6553,7 +6553,7 @@
 
 ## typescript 
 
-- [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
