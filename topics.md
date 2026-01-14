@@ -1008,6 +1008,7 @@
 
 ## chrome-extension 
 
+- [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension) - Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
@@ -1225,6 +1226,7 @@
 
 ## cloud 
 
+- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
@@ -2666,6 +2668,7 @@
 
 ## javascript 
 
+- [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension) - Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
@@ -3897,6 +3900,40 @@
 
 ## others 
 
+- [Fotom/Fortune](https://github.com/Fotom/Fortune) - Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
+- [mberk/shin](https://github.com/mberk/shin) - Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
+- [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper) - Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tool
+- [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API) - An API for the Florida Lottery Scratch-off game
+- [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper) - Scraper for lottery scratchers
+- [jsoto3000/ctlottery](https://github.com/jsoto3000/ctlottery) - CT Lottery Website Scratch Table Webscrape
+- [cantplayifyoudontwin/nc-lottery-website](https://github.com/cantplayifyoudontwin/nc-lottery-website) - NC lottery scratch-off analysis website
+- [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView) - The tool used for scratch lottery.
+- [jsoto3000/fl_lottery](https://github.com/jsoto3000/fl_lottery) - Webscrapes for Florida Lotttery Scratch Game Data
+- [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer) - 
+- [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs) - Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
+- [nate-walter/Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science) - A non-gambling data analyst and his scratch off lottery ticket experiment
+- [screwtape9/scratcher](https://github.com/screwtape9/scratcher) - Command line utility to get GA lottery scratch off ticket claimed percentage.
+- [ImmaZoni/scratcha](https://github.com/ImmaZoni/scratcha) - A simple python script to scrape scratcher data from AZ Lottery website.
+- [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability) - Gives the probability of each scratch off ticket in the Ohio Lottery.
+- [Railikebread/scratchsmart](https://github.com/Railikebread/scratchsmart) - A scratch-off lottery analyzer app for New York State built with Java (Spring Boot) and React. Calculates and displays the best value tickets based on real-time public data.
+- [ivan-shires/ScratchOffBot](https://github.com/ivan-shires/ScratchOffBot) - This is a bot integrated with the Twitter API to automatically report publically available metrics about the North Carolina Education Lottery. Currently - I only plan on using the Scratch Off portion,
+- [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp) - 
+- [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis) - GPT Codex Did This
+- [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
+- [piejanssens/premiumizer](https://github.com/piejanssens/premiumizer) - Download manager for premiumize.me cloud downloads
+- [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
+- [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
+- [AdithyanNellickal/GDLeech](https://github.com/AdithyanNellickal/GDLeech) - Host your direct download links on google drive
+- [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
+- [alx-xlx/fresh-onions](https://github.com/alx-xlx/fresh-onions) - Keep track of your favourite Onions
+- [alx-xlx/gdrive-migration](https://github.com/alx-xlx/gdrive-migration) - Google Drive Migration
+- [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
+- [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
+- [alx-xlx/gdrive-dir2html](https://github.com/alx-xlx/gdrive-dir2html) - Google Drive HTML directory listing creator
+- [alx-xlx/awesome-raspberry-r4nchy](https://github.com/alx-xlx/awesome-raspberry-r4nchy) - This repo consists of useful tools, scripts and tutorials for Raspberry Pi
+- [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
+- [alx-xlx/web-skills](https://github.com/alx-xlx/web-skills) - A visual overview of useful skills to learn as a web developer
+- [alx-xlx/websites](https://github.com/alx-xlx/websites) - Websites I visit
 - [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
@@ -5534,6 +5571,7 @@
 
 ## p2p 
 
+- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -5781,6 +5819,7 @@
 
 ## python 
 
+- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
@@ -6199,6 +6238,7 @@
 
 ## self-hosted 
 
+- [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
