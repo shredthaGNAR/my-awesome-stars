@@ -857,6 +857,7 @@
 
 ## Java 
 
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -955,6 +956,7 @@
 - [ArakawaHenri/iCloudPasswords_for_Firefox](https://github.com/ArakawaHenri/iCloudPasswords_for_Firefox) - Porting iCloud Passwords Extension to Firefox
 - [k0src/GitSync](https://github.com/k0src/GitSync) - Sync Firefox windows, tabs, and tab groups via GitHub
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer) - 
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [webcull/PocketExportConverter](https://github.com/webcull/PocketExportConverter) - This is a simple tool to convert the Pocket export ZIP file to a standard HTML bookmarks file while preserving the original folder structure.
@@ -1112,7 +1114,7 @@
 - [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks) - My FireFox Tweaks
 - [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader) - 
 - [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
-- [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
+- [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse provides personalized recommendations and similar repositories
 - [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket) - This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 - [darktrojan/openwith](https://github.com/darktrojan/openwith) - Open With add-on for Firefox
 - [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme) - Jekyll theme based on Freelancer Start Bootstrap theme
@@ -1962,6 +1964,7 @@
 
 ## Others 
 
+- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
 - [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability) - Gives the probability of each scratch off ticket in the Ohio Lottery.
 - [Railikebread/scratchsmart](https://github.com/Railikebread/scratchsmart) - A scratch-off lottery analyzer app for New York State built with Java (Spring Boot) and React. Calculates and displays the best value tickets based on real-time public data.
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
@@ -2716,7 +2719,6 @@
 
 ## Roff 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
 
 ## Ruby 
