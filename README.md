@@ -43,6 +43,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [MoonBit](#moonbit)
 - [Nim](#nim)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -343,7 +344,6 @@
 - [feilvan/neatly](https://github.com/feilvan/neatly) - 
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
-- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search) - Add a bookmark tag search sidebar to Firefox
 - [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
@@ -656,7 +656,6 @@
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [Nerdmaster/poker](https://github.com/Nerdmaster/poker) - Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
-- [nikivdev/alfred-my-mind](https://github.com/nikivdev/alfred-my-mind) - Alfred workflow to search through my notes and bookmarks
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater) - An auto-updater for ShadowFox
@@ -1035,6 +1034,7 @@
 - [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
 - [czlin7/LinkQR](https://github.com/czlin7/LinkQR) - A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
+- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension) - Inspect extensions with web-ext-inspector
 - [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A browser extension for generating and scanning QR codes.
@@ -1537,6 +1537,7 @@
 - [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) - shopify-outofthebox
 - [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search) - Search social profiles using email address
 - [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop) - NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cassidoo/shopify-next-netlify](https://github.com/cassidoo/shopify-next-netlify) - A Shopify Next.js demo
 - [akarlsten/snaz](https://github.com/akarlsten/snaz) - VS Code color theme
 - [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc) - a blue-ish gray with a purple accent color palette for Visual Studio Code.
@@ -1735,6 +1736,7 @@
 
 ## Kotlin 
 
+- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
@@ -1882,6 +1884,10 @@
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net) - Source for devalias.net
+
+## MoonBit 
+
+- [nikivdev/mbt](https://github.com/nikivdev/mbt) - MoonBit tools, libraries and other code
 
 ## Nim 
 
@@ -2175,7 +2181,7 @@
 - [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu) - WebExtension
 - [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp) - Themes inspired by Twitter's new font, Chirp
-- [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+- [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 - [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow) - A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows) - Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
@@ -2831,7 +2837,7 @@
 - [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 - [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged) - ReVanced, but patched locally.
 - [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml) - Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
-- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 RVX's pre-made APKs
+- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 Pre-built APKs for Morphe, RVX & Piko
 - [TCM-Course-Resources/Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) - Compilation of Resources from TCM's OSINT Course
 - [tjluoma/servicestationscripts](https://github.com/tjluoma/servicestationscripts) - Scripts to be used with the macOS App Service Station
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
@@ -3582,7 +3588,6 @@
 - [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue) - 
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
