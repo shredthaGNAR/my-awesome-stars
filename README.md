@@ -703,9 +703,10 @@
 
 ## HTML 
 
+- [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
 - [roshanconnor123/gd-utils](https://github.com/roshanconnor123/gd-utils) - Just another GD Bypass tool!
 - [alx-xlx/gdrive-dir2html](https://github.com/alx-xlx/gdrive-dir2html) - Google Drive HTML directory listing creator
-- [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock) - This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
+- [TiltCheck-ME/CollectClock](https://github.com/TiltCheck-ME/CollectClock) - This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 - [OshekharO/Web-Indexer](https://github.com/OshekharO/Web-Indexer) - Comprehensive directory of websites and applications for manga, light novels, movies, anime, learning resources, and useful apps.
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io) - satan's underpants motorcycle club
