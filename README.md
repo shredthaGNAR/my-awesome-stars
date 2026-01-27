@@ -46,6 +46,7 @@
 - [Markdown](#markdown)
 - [MoonBit](#moonbit)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -188,6 +189,7 @@
 
 ## C 
 
+- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 - [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer) - 
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -233,6 +235,7 @@
 
 ## C# # 
 
+- [zamgi/m3u8](https://github.com/zamgi/m3u8) - m3u8 file downloader library and chrome & firefox extensions/add-on's
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order) - Order OneTab (browser add-on) exported tabs, remove duplicates, remove tracking queries from urls, can extract webpages to file by urls, finding webpages by full line match, url or content match.
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
@@ -303,6 +306,10 @@
 
 ## CSS 
 
+- [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme) - 
+- [easonwong-de/Firefox-Adaptive-Sur-Theme](https://github.com/easonwong-de/Firefox-Adaptive-Sur-Theme) - A macOS-styled Firefox CSS theme based on Firefox WhiteSur theme with Adaptive Tab Bar Colour support.
+- [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css) - My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
+- [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs) - Removes Mozilla spyware from Firefox and makes Firefox more secure
 - [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme) - A Firefox theme look Like Safari Web Browser
 - [kbc8090/firefox](https://github.com/kbc8090/firefox) - My heavily modified FirefoxCSS based on material-fox-updated
 - [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main) - 
@@ -637,7 +644,7 @@
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
@@ -926,6 +933,18 @@
 
 ## JavaScript 
 
+- [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs) - An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
+- [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations) - 
+- [KaanCanINC/firefox-OCR-extension](https://github.com/KaanCanINC/firefox-OCR-extension) - Firefox OCR extension made with fully AI for personal usage
+- [0xAwoL/firefox-tabs-clipboard-saver](https://github.com/0xAwoL/firefox-tabs-clipboard-saver) - Super simple firefox add-on
+- [nicolasspaniol/firefox-invert-dark-favicons](https://github.com/nicolasspaniol/firefox-invert-dark-favicons) - Firefox addon that inverts the colors of dark favicons so that they are visible under black backgrounds
+- [floracheng/dusty-tabs](https://github.com/floracheng/dusty-tabs) - Firefox tab management extension
+- [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension) - Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
+- [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
+- [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox) - 
+- [aazw/firefox-addon-quick-download-images](https://github.com/aazw/firefox-addon-quick-download-images) - Add a button to save the image quickly by 1-click.
 - [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion) - 
 - [sooti/sootio-stremio-addon](https://github.com/sooti/sootio-stremio-addon) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
@@ -1711,6 +1730,7 @@
 
 ## Jinja 
 
+- [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig) - Ansible Role Installs firefox and makes it configurable through environment variables
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 
 ## Jsonnet 
@@ -1902,6 +1922,10 @@
 
 - [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1) - Nim-based assembly packer and shellcode loader for opsec & profit
 - [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket) - Browser extension that adds bookmark to Pocket if rules allow it
+
+## Nix 
+
+- [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg) - A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
 
 ## Nunjucks 
 
@@ -2366,6 +2390,9 @@
 
 ## Python 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
+- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced resources, patches and projects!
 - [neox387/premiumizer](https://github.com/neox387/premiumizer) - 
 - [mberk/shin](https://github.com/mberk/shin) - Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
@@ -2819,6 +2846,7 @@
 
 ## SCSS 
 
+- [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop) - Firefox Extension Workshop
 - [zacharee/material-fox-updated](https://github.com/zacharee/material-fox-updated) - Firefox theme looks similar to Chrome
 - [ivfrost/joplin-adwaita-theme](https://github.com/ivfrost/joplin-adwaita-theme) - GNOME Adwaita theme for Joplin
 - [juyomay21/personal-site](https://github.com/juyomay21/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
@@ -2847,6 +2875,9 @@
 
 ## Shell 
 
+- [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [nathantebbs/firefox](https://github.com/nathantebbs/firefox) - Utilities for configuring the Firefox broser on MacOS & Linux
 - [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 - [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged) - ReVanced, but patched locally.
 - [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml) - Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
@@ -3233,6 +3264,11 @@
 
 ## TypeScript 
 
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+- [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension) - Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
+- [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
+- [martabal/ff-diff](https://github.com/martabal/ff-diff) - ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 - [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp) - 
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
@@ -3267,7 +3303,7 @@
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
