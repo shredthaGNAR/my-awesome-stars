@@ -251,6 +251,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [unity](#unity)
 - [userscript](#userscript)
 - [video](#video)
 - [vim](#vim)
@@ -280,7 +281,7 @@
 ## agent 
 
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -296,6 +297,10 @@
 
 ## ai 
 
+- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
+- [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
@@ -308,7 +313,7 @@
 - [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of 7766 awesome AI tools
 - [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f) - Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -395,6 +400,7 @@
 
 ## android 
 
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
@@ -521,6 +527,7 @@
 
 ## artificial-intelligence 
 
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 - [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant) - An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and intera
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -866,10 +873,11 @@
 
 ## chatgpt 
 
+- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
@@ -952,6 +960,9 @@
 
 ## chrome 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
@@ -1018,6 +1029,10 @@
 
 ## chrome-extension 
 
+- [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
+- [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
+- [zamgi/m3u8](https://github.com/zamgi/m3u8) - m3u8 file downloader library and chrome & firefox extensions/add-on's
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
 - [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension) - Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
@@ -1320,6 +1335,7 @@
 
 ## crawler 
 
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
@@ -1352,6 +1368,7 @@
 
 ## css 
 
+- [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg) - A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
 - [kbc8090/firefox](https://github.com/kbc8090/firefox) - My heavily modified FirefoxCSS based on material-fox-updated
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
@@ -1559,6 +1576,7 @@
 
 ## discord 
 
+- [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
@@ -1765,6 +1783,16 @@
 
 ## firefox 
 
+- [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css) - My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
+- [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg) - A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
+- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
+- [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
+- [aazw/firefox-addon-quick-download-images](https://github.com/aazw/firefox-addon-quick-download-images) - Add a button to save the image quickly by 1-click.
 - [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme) - A Firefox theme look Like Safari Web Browser
 - [kbc8090/firefox](https://github.com/kbc8090/firefox) - My heavily modified FirefoxCSS based on material-fox-updated
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
@@ -2088,6 +2116,7 @@
 
 ## games 
 
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 
 ## gaming 
@@ -2191,7 +2220,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
@@ -2207,7 +2236,7 @@
 ## golang 
 
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -2381,7 +2410,6 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
 - [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -2625,6 +2653,7 @@
 
 ## ios 
 
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
@@ -2666,6 +2695,7 @@
 
 ## java 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -2679,6 +2709,7 @@
 
 ## javascript 
 
+- [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg) - A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
 - [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension) - Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
@@ -2865,6 +2896,7 @@
 
 ## kotlin 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -2924,6 +2956,10 @@
 
 ## linux 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
+- [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
@@ -3000,6 +3036,7 @@
 
 ## llm 
 
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - This repository is deprecated and will be archived
@@ -3018,7 +3055,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
@@ -3148,6 +3185,8 @@
 
 ## macos 
 
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
@@ -3509,7 +3548,7 @@
 
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
@@ -3557,6 +3596,7 @@
 
 ## music 
 
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
@@ -3602,9 +3642,9 @@
 
 ## nextjs 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
@@ -3830,7 +3870,7 @@
 
 - [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -3927,6 +3967,23 @@
 
 ## others 
 
+- [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme) - 
+- [easonwong-de/Firefox-Adaptive-Sur-Theme](https://github.com/easonwong-de/Firefox-Adaptive-Sur-Theme) - A macOS-styled Firefox CSS theme based on Firefox WhiteSur theme with Adaptive Tab Bar Colour support.
+- [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig) - Ansible Role Installs firefox and makes it configurable through environment variables
+- [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs) - An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
+- [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations) - 
+- [KaanCanINC/firefox-OCR-extension](https://github.com/KaanCanINC/firefox-OCR-extension) - Firefox OCR extension made with fully AI for personal usage
+- [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop) - Firefox Extension Workshop
+- [0xAwoL/firefox-tabs-clipboard-saver](https://github.com/0xAwoL/firefox-tabs-clipboard-saver) - Super simple firefox add-on
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+- [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs) - Removes Mozilla spyware from Firefox and makes Firefox more secure
+- [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension) - Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
+- [nicolasspaniol/firefox-invert-dark-favicons](https://github.com/nicolasspaniol/firefox-invert-dark-favicons) - Firefox addon that inverts the colors of dark favicons so that they are visible under black backgrounds
+- [floracheng/dusty-tabs](https://github.com/floracheng/dusty-tabs) - Firefox tab management extension
+- [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension) - Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
+- [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox) - 
+- [nathantebbs/firefox](https://github.com/nathantebbs/firefox) - Utilities for configuring the Firefox broser on MacOS & Linux
+- [martabal/ff-diff](https://github.com/martabal/ff-diff) - ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 - [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion) - 
 - [sooti/sootio-stremio-addon](https://github.com/sooti/sootio-stremio-addon) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
@@ -5763,6 +5820,7 @@
 
 ## productivity 
 
+- [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
@@ -5854,6 +5912,7 @@
 
 ## python 
 
+- [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
@@ -6011,7 +6070,6 @@
 
 ## rag 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -6599,6 +6657,7 @@
 
 ## testing 
 
+- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker) - Manage & generate prefs.js files
 
@@ -6722,8 +6781,13 @@
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 
+## unity 
+
+- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
+
 ## userscript 
 
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YT and YT Music
 - [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield) - A lightweight redefined version of microShield
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
@@ -6760,6 +6824,7 @@
 
 ## video 
 
+- [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader) - 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt) - 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
@@ -6880,6 +6945,7 @@
 
 ## web 
 
+- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
@@ -6941,6 +7007,9 @@
 
 ## windows 
 
+- [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+- [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
@@ -7028,6 +7097,7 @@
 
 ## youtube 
 
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
