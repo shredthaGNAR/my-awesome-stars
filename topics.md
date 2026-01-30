@@ -407,7 +407,7 @@
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
-- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs for Morphe & Piko
+- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs from various patch sources
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
@@ -3973,6 +3973,7 @@
 
 ## others 
 
+- [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 - [JorritScholten/omz_vscode_custom](https://github.com/JorritScholten/omz_vscode_custom) - vscode plugin from oh-my-zsh with a few customisations
 - [MrOtherGuy/bmbgone](https://github.com/MrOtherGuy/bmbgone) - 
 - [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy) - An index of course piracy resources
@@ -6684,7 +6685,7 @@
 
 ## twitter 
 
-- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs for Morphe & Piko
+- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs from various patch sources
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
@@ -7119,7 +7120,7 @@
 - [nonbili/NouTube](https://github.com/nonbili/NouTube) - YouTube and YouTube Music in a single app. No ads, plays in the background.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [NoName-exe/revanced-extended-mnml](https://github.com/NoName-exe/revanced-extended-mnml) - Minimal ReVanced eXtended YT and YT-M and more for both root and non-root users.
-- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs for Morphe & Piko
+- [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs from various patch sources
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
