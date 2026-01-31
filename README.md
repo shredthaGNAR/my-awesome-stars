@@ -97,7 +97,6 @@
 
 ## AppleScript 
 
-- [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 - [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister) - 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
 - [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder) - :apple: macOS Finder scripts
 - [kdabir/finder-buttons](https://github.com/kdabir/finder-buttons) - MacOS Finder buttons for quick actions
@@ -2904,7 +2903,7 @@
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
 - [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
 - [Anatoly-IVANOV/macos-finder-file-path-copy](https://github.com/Anatoly-IVANOV/macos-finder-file-path-copy) - Right-click on a file / folder in MacOS Finder.app to copy its URI path to the clipboard to paste it somewhere
 - [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh) - A Gemini Gem Manager in your MacBook powered by Gemma
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
@@ -3112,7 +3111,6 @@
 - [inject-X/injectX](https://github.com/inject-X/injectX) - Simple injection of macOS applications
 - [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app) - Long-term trials of macOS apps
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
@@ -3276,6 +3274,7 @@
 
 ## TypeScript 
 
+- [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 - [yt-dlp/ejs](https://github.com/yt-dlp/ejs) - External JavaScript for yt-dlp supporting many runtimes
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -3363,7 +3362,7 @@
 - [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pantharshit007/automatedMails](https://github.com/pantharshit007/automatedMails) - An automated email response system powered by Google's Gemini AI that intelligently processes and responds to emails based on their content.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
