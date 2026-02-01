@@ -1849,7 +1849,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
 - [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha) - 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
-- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - z cool photon theme: party like it's firefox 87!
+- [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) - party like it's firefox 87!
 - [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
@@ -4120,7 +4120,6 @@
 - [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast) - A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons.
 - [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
 - [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai) - Simple UI for OpenAI completion and chat API
-- [XXXws/raycast2api-modfiy](https://github.com/XXXws/raycast2api-modfiy) - 
 - [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail) - RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
 - [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
 - [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark) - spotlight like search for chrome, firefox
@@ -5283,7 +5282,7 @@
 - [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts) - 
 - [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird) - Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
-- [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬
+- [eikendev/tbunread](https://github.com/eikendev/tbunread) - Helps you to keep an eye on unread emails in Thunderbird 📬👀
 - [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird) - A universal dark theme for Thunderbird
 - [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments) - WebExtension Experiments for Thunderbird
 - [seven-io/thunderbird](https://github.com/seven-io/thunderbird) - Send SMS from within Thunderbird
