@@ -358,7 +358,6 @@
 - [feilvan/neatly](https://github.com/feilvan/neatly) - 
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
-- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search) - Add a bookmark tag search sidebar to Firefox
 - [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
@@ -947,6 +946,31 @@
 
 ## JavaScript 
 
+- [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
+- [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
+- [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
+- [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
+- [mingyaulee/Blazor.BrowserExtension](https://github.com/mingyaulee/Blazor.BrowserExtension) - Build browser extensions easily with Blazor.
+- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
+- [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
+- [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™
+- [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
+- [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
+- [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
+- [sangaline/email-spy](https://github.com/sangaline/email-spy) - A browser extension that lets you find email addresses for any domain with a single click.
+- [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader) - Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
+- [smoqadam/url-to-qrcode-firefox-addon](https://github.com/smoqadam/url-to-qrcode-firefox-addon) - an add-on to convert current url to qr code !!
+- [emvaized/emvaized.github.io](https://github.com/emvaized/emvaized.github.io) - Personal page for my projets
+- [emvaized/extend-text-selection-extension](https://github.com/emvaized/extend-text-selection-extension) - This Firefox addon adds a context menu entry to extend current text selection one level up
+- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
+- [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
+- [passwall/passwall-extension](https://github.com/passwall/passwall-extension) - Official browser extension for Passwall
+- [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
+- [wxt-dev/web-ext-run](https://github.com/wxt-dev/web-ext-run) - A fork of mozilla/web-ext containing only the `run` JS API
+- [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
+- [VuHoaBinh/chatGPTBox](https://github.com/VuHoaBinh/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api) - A simple, lightweight OpenAI to Ollama API adapter
@@ -1085,6 +1109,7 @@
 - [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox) - 🦊 Awesome Firefox
 - [czlin7/LinkQR](https://github.com/czlin7/LinkQR) - A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
+- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension) - Inspect extensions with web-ext-inspector
 - [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A browser extension for generating and scanning QR codes.
@@ -2030,6 +2055,8 @@
 
 ## Others 
 
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
 - [Rivens7/Livelist](https://github.com/Rivens7/Livelist) - IPTV-ipv6直播源同步及常看直播
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [Zaxxon709/wizinstaller](https://github.com/Zaxxon709/wizinstaller) - 
@@ -2064,7 +2091,7 @@
 - [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 - [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings) - List and comparison of services for publishing and sharing files on the Internet
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
-- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) - Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. T
@@ -2422,6 +2449,8 @@
 
 ## Python 
 
+- [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+- [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [doms9/iptv](https://github.com/doms9/iptv) - tv channels & sporting events
 - [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -3120,6 +3149,7 @@
 
 ## Svelte 
 
+- [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox) - 
 - [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen) - config generator for revanced-magisk-module
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -3300,6 +3330,21 @@
 
 ## TypeScript 
 
+- [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
+- [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
+- [ishandutta2007/chatgpt-arxiv-extension_hunkimForks](https://github.com/ishandutta2007/chatgpt-arxiv-extension_hunkimForks) - A browser extension that enhance search engines with ChatGPT
+- [hunkimForks/chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) - A browser extension that enhance search engines with ChatGPT
+- [git-ek/neo-chatgpt-browser-extension](https://github.com/git-ek/neo-chatgpt-browser-extension) - 
+- [albinstman/icloud-hide-my-email-api](https://github.com/albinstman/icloud-hide-my-email-api) - 
+- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
+- [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
+- [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
+- [PlasmoHQ/bpp](https://github.com/PlasmoHQ/bpp) - 🚀 Browser Platform Publisher
+- [OneClickLab/ugly-email-extension](https://github.com/OneClickLab/ugly-email-extension) - Gmail extension for blocking read receipts and other email tracking pixels.
+- [fanesz/session-switcher](https://github.com/fanesz/session-switcher) - A Browser extension for switching login sessions with ease
+- [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
+- [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
+- [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy) - Use any LiteLLM model in Raycast AI without a subscription.
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
