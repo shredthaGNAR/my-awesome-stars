@@ -753,6 +753,7 @@
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [alienthief/thesourc](https://github.com/alienthief/thesourc) - A curated list of awesome warez and piracy links
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -830,7 +831,7 @@
 - [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons) - Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
-- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard Mini for macOS
+- [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac) - AdGuard Mini for macOS
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
@@ -1950,7 +1951,6 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -3159,6 +3159,7 @@
 
 ## Swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
@@ -3699,6 +3700,7 @@
 
 ## Vue 
 
+- [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later) - A light web browser extension to manage your read-it-later list easily.
 - [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
