@@ -1053,6 +1053,7 @@
 
 ## chrome-extension 
 
+- [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later) - A light web browser extension to manage your read-it-later list easily.
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
@@ -3272,6 +3273,7 @@
 
 ## macos 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
@@ -3948,7 +3950,7 @@
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
-- [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard Mini for macOS
+- [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac) - AdGuard Mini for macOS
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
 - [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker) - Content blocking extension for Samsung Internet and Yandex Browser
@@ -6611,6 +6613,7 @@
 
 ## swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
@@ -6670,6 +6673,7 @@
 
 ## swiftui 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
