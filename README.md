@@ -831,7 +831,7 @@
 - [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons) - Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
-- [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac) - AdGuard Mini for macOS
+- [AdguardTeam/AdGuardMiniForMac](https://github.com/AdguardTeam/AdGuardMiniForMac) - AdGuard Mini for macOS
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
@@ -947,6 +947,7 @@
 
 ## JavaScript 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
@@ -2877,6 +2878,7 @@
 
 ## Rust 
 
+- [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
