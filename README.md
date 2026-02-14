@@ -551,7 +551,7 @@
 - [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss) - transparancy
 - [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css) - Firefox customizations to make Proton bearable (imho, of course)
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
-- [k-amryn/quietfox](https://github.com/k-amryn/quietfox) - Very Clean Firefox userChrome Mod
+- [kamryn404/quietfox](https://github.com/kamryn404/quietfox) - Very Clean Firefox userChrome Mod
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
 - [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style) - A macOS compliant theme for Firefox
 - [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS) - MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
