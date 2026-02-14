@@ -5810,7 +5810,7 @@
 - [iShopifyExpert/shopify-google-location-map-with-api](https://github.com/iShopifyExpert/shopify-google-location-map-with-api) - 
 - [clarityglobal/shopify-gtm-ga](https://github.com/clarityglobal/shopify-gtm-ga) - Enhances Google Analytics and integrates Google Tag Manager for Shopify.
 - [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts) - Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
-- [k-amryn/quietfox](https://github.com/k-amryn/quietfox) - Very Clean Firefox userChrome Mod
+- [kamryn404/quietfox](https://github.com/kamryn404/quietfox) - Very Clean Firefox userChrome Mod
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
 - [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style) - A macOS compliant theme for Firefox
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
