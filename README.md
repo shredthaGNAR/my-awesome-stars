@@ -19,6 +19,7 @@
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [D](#d)
+- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
@@ -30,7 +31,6 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Hosts File](#hosts-file)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -594,6 +594,10 @@
 
 - [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub) - Strip advertisements from downloaded YouTube videos
 
+## DIGITAL Command Language 
+
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
+
 ## Dart 
 
 - [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet) - 
@@ -882,16 +886,12 @@
 
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 
-## JSON 
-
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-
 ## Java 
 
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 - [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn) - Decentralized P2P exchange platform built on Monero and Tor
 - [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
@@ -1686,6 +1686,7 @@
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups) - An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater) - A webextension tool to update multiple bookmarks at once
@@ -1826,7 +1827,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
-- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced and Morphe on that has extra features the official manager doesn't have
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
@@ -3347,6 +3348,9 @@
 
 ## TypeScript 
 
+- [SystemVirtue/DJAMMS-ytm_pear_Feb_2026](https://github.com/SystemVirtue/DJAMMS-ytm_pear_Feb_2026) - YouTube Music Desktop App bundled with custom plugins
+- [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop) - Pear 🍐 is extension for music player
+- [KikoTs/youtube-desktop](https://github.com/KikoTs/youtube-desktop) - YouTube Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
@@ -3628,7 +3632,7 @@
 - [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export) - Easily export your Thunderbird emails to Joplin.
 - [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 - [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search) - 
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
