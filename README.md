@@ -975,7 +975,6 @@
 - [emvaized/extend-text-selection-extension](https://github.com/emvaized/extend-text-selection-extension) - This Firefox addon adds a context menu entry to extend current text selection one level up
 - [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
-- [passwall/passwall-extension](https://github.com/passwall/passwall-extension) - Official browser extension for Passwall
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [wxt-dev/web-ext-run](https://github.com/wxt-dev/web-ext-run) - A fork of mozilla/web-ext containing only the `run` JS API
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
@@ -3447,7 +3446,7 @@
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
 - [codinginbarn/GistoSnips](https://github.com/codinginbarn/GistoSnips) - Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your e
-- [elhariss/Obsidian-NetClip](https://github.com/elhariss/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+- [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar) - Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
