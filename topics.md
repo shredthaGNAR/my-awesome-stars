@@ -294,7 +294,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -304,6 +304,7 @@
 - [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy) - Use any LiteLLM model in Raycast AI without a subscription.
 - [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
@@ -361,7 +362,7 @@
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
@@ -1266,7 +1267,7 @@
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -1645,7 +1646,7 @@
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -1679,6 +1680,7 @@
 
 ## docker 
 
+- [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
@@ -1966,7 +1968,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–145) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–147) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -3192,7 +3194,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
@@ -3310,6 +3312,8 @@
 
 ## macos 
 
+- [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
+- [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
@@ -3724,6 +3728,7 @@
 
 ## music 
 
+- [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
@@ -3886,6 +3891,7 @@
 
 ## obsidian 
 
+- [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
@@ -3916,6 +3922,7 @@
 
 ## obsidian-md 
 
+- [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 - [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
@@ -3979,7 +3986,7 @@
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -4103,6 +4110,7 @@
 
 ## others 
 
+- [pvrs12/comment-hover](https://github.com/pvrs12/comment-hover) - 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [SystemVirtue/DJAMMS-ytm_pear_Feb_2026](https://github.com/SystemVirtue/DJAMMS-ytm_pear_Feb_2026) - YouTube Music Desktop App bundled with custom plugins
 - [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop) - Pear 🍐 is extension for music player
@@ -5999,6 +6007,7 @@
 
 ## productivity 
 
+- [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
