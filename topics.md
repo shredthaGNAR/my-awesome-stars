@@ -1071,6 +1071,8 @@
 
 ## chrome-extension 
 
+- [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
+- [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension) - A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 - [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later) - A light web browser extension to manage your read-it-later list easily.
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
@@ -1641,6 +1643,7 @@
 
 ## developer-tools 
 
+- [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension) - A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
@@ -1876,6 +1879,7 @@
 
 ## firefox 
 
+- [pranavmangal/github-repo-size](https://github.com/pranavmangal/github-repo-size) - Displays the size of a GitHub repository on its homepage
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
 - [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox) - Make your production flow
@@ -4110,6 +4114,19 @@
 
 ## others 
 
+- [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update) - An easy way to skip Discord updates on the macOS app launch.
+- [kd8tbs/my-Betterfox](https://github.com/kd8tbs/my-Betterfox) - Betterfox fork with my prefered overrides
+- [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox) - A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
+- [ElliottSimmonds/Firefox-Photonify](https://github.com/ElliottSimmonds/Firefox-Photonify) - Custom Firefox userChrome to replicate the style of Firefox Photon with some personal touches
+- [akkva/GWfox-T](https://github.com/akkva/GWfox-T) - A macOS Tahoe-style Firefox theme
+- [akkva/gwfox](https://github.com/akkva/gwfox) - Bringing a refreshing macOS-inspired skin to Firefox
+- [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config) - 
+- [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox) - Material Chrome Style Firefox
+- [shredthaGNAR/mysite](https://github.com/shredthaGNAR/mysite) - 
+- [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme) - 
+- [shredthaGNAR/scaling-system](https://github.com/shredthaGNAR/scaling-system) - 
+- [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship) - 
+- [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 - [pvrs12/comment-hover](https://github.com/pvrs12/comment-hover) - 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [SystemVirtue/DJAMMS-ytm_pear_Feb_2026](https://github.com/SystemVirtue/DJAMMS-ytm_pear_Feb_2026) - YouTube Music Desktop App bundled with custom plugins
@@ -5939,6 +5956,7 @@
 
 ## privacy 
 
+- [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [knapah/uBlockOrigin-Filterlist](https://github.com/knapah/uBlockOrigin-Filterlist) - 
