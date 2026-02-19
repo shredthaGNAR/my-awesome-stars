@@ -1619,7 +1619,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -2081,7 +2081,7 @@
 - [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3) - A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 - [jwells89/Remove-Quarantine-Bit-Quick-Action](https://github.com/jwells89/Remove-Quarantine-Bit-Quick-Action) - An automator quick action for removing the quarantine bit on un-notarized Mac apps.
