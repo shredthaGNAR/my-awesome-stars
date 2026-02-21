@@ -1096,7 +1096,7 @@
 - [sangaline/email-spy](https://github.com/sangaline/email-spy) - A browser extension that lets you find email addresses for any domain with a single click.
 - [fanesz/session-switcher](https://github.com/fanesz/session-switcher) - A Browser extension for switching login sessions with ease
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 20k times by 300+ developers.
 - [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
@@ -1648,7 +1648,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 20k times by 300+ developers.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
@@ -1898,7 +1898,7 @@
 - [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
-- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [aazw/firefox-addon-quick-download-images](https://github.com/aazw/firefox-addon-quick-download-images) - Add a button to save the image quickly by 1-click.
 - [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme) - A Firefox theme look Like Safari Web Browser
@@ -2273,7 +2273,7 @@
 ## github 
 
 - [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 20k times by 300+ developers.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [Jarred-Sumner/peek](https://github.com/Jarred-Sumner/peek) - 1-click from git repo to local editor
 - [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty) - Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share.
@@ -4437,7 +4437,6 @@
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [xurban42/CryptoTouchBar](https://github.com/xurban42/CryptoTouchBar) - BetterTouchTool preset for CryptoCurrencies.
 - [ciceronianus/Roam---custom-context-menu-in-BTT-macOS](https://github.com/ciceronianus/Roam---custom-context-menu-in-BTT-macOS) - Custom context menu for Roamresearch.com made in BetterTouchTool for MacOS
-- [rknightuk/TouchBarWidgets](https://github.com/rknightuk/TouchBarWidgets) - Scripts for my BetterTouchTool Touch Bar widgets
 - [eduadiez/EthereumTouchBar](https://github.com/eduadiez/EthereumTouchBar) - Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar
 - [bradykent/huekey](https://github.com/bradykent/huekey) - Control Philips Hue lights with BetterTouchTool
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
@@ -7029,7 +7028,7 @@
 - [AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
-- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YouTube Music and YouTube
 - [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield) - A lightweight redefined version of microShield
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
@@ -7355,7 +7354,7 @@
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment) - List of awesome apps and website for entertainment.
-- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I make. Take a look, see if something is useful.
+- [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
