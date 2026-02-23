@@ -669,6 +669,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
+- [muhammedsamal/rename](https://github.com/muhammedsamal/rename) - A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -2563,7 +2564,6 @@
 - [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Build Revanced apps
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
 - [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer) - 
-- [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis) - A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 - [davidpoblador/pocket-to-bookmarks-html](https://github.com/davidpoblador/pocket-to-bookmarks-html) - A pocket export to bookmarks.html converter
