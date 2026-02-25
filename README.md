@@ -774,7 +774,7 @@
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [alienthief/thesourc](https://github.com/alienthief/thesourc) - A curated list of awesome warez and piracy links
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -984,6 +984,7 @@
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
 - [mingyaulee/Blazor.BrowserExtension](https://github.com/mingyaulee/Blazor.BrowserExtension) - Build browser extensions easily with Blazor.
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™
@@ -3395,7 +3396,6 @@
 - [git-ek/neo-chatgpt-browser-extension](https://github.com/git-ek/neo-chatgpt-browser-extension) - 
 - [albinstman/icloud-hide-my-email-api](https://github.com/albinstman/icloud-hide-my-email-api) - 
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
-- [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [PlasmoHQ/bpp](https://github.com/PlasmoHQ/bpp) - 🚀 Browser Platform Publisher
 - [OneClickLab/ugly-email-extension](https://github.com/OneClickLab/ugly-email-extension) - Gmail extension for blocking read receipts and other email tracking pixels.
