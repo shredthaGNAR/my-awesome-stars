@@ -966,6 +966,7 @@
 
 ## JavaScript 
 
+- [pyoneerC/awesome-ai-repos](https://github.com/pyoneerC/awesome-ai-repos) - A curated list of the most high-leverage tools, papers, and systems for building in the age of AI.
 - [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md) - 
 - [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages) - Automatically deploys reveal-md presentations to github-pages
 - [smoqadam/url-to-qrcode-firefox-addon](https://github.com/smoqadam/url-to-qrcode-firefox-addon) - an add-on to convert current url to qr code !!
@@ -2082,6 +2083,7 @@
 
 ## Others 
 
+- [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [knurling/ServiceStation](https://github.com/knurling/ServiceStation) - Service Station
 - [raycast/extensions-template](https://github.com/raycast/extensions-template) - Template repository for automatic extensions publishing
 - [pieces-app/support](https://github.com/pieces-app/support) - 
@@ -2489,6 +2491,8 @@
 
 ## Python 
 
+- [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
+- [tstanmay13/trend](https://github.com/tstanmay13/trend) - 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
@@ -3377,6 +3381,7 @@
 
 ## TypeScript 
 
+- [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep) - ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 - [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [Mattlk13/poogle](https://github.com/Mattlk13/poogle) - Porn finder. Search simultaneously on different porn websites to display it once.
 - [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer) - Easily browse, share, and add prompts to Raycast
@@ -3439,7 +3444,7 @@
 - [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai) - Simple UI for OpenAI completion and chat API
 - [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt) - 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
 - [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail) - RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
-- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your Obsidian vault. Forked from Smart Composer, but with bigger dreams.
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, search, orchestrate, all in one.
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
