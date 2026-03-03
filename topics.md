@@ -369,7 +369,7 @@
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -402,7 +402,7 @@
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
 ## analytics 
@@ -415,9 +415,11 @@
 
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
+- [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli) - Morphe console / terminal patching tool
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -462,6 +464,7 @@
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
@@ -572,6 +575,7 @@
 
 ## automation 
 
+- [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister) - 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
@@ -953,7 +957,7 @@
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast) - Chat with LLaMa in Raycast
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -1258,6 +1262,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
+- [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli) - Morphe console / terminal patching tool
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
@@ -2189,7 +2194,7 @@
 ## framework 
 
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker
@@ -2239,7 +2244,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 
@@ -3208,7 +3213,7 @@
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
@@ -3322,6 +3327,7 @@
 
 ## macos 
 
+- [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [knurling/ServiceStation](https://github.com/knurling/ServiceStation) - Service Station
 - [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
@@ -4002,7 +4008,7 @@
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
@@ -4055,7 +4061,7 @@
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -4185,7 +4191,6 @@
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
-- [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli) - Morphe console / terminal patching tool
 - [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation) - General documentation about Morphe
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 - [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
@@ -4217,7 +4222,6 @@
 - [mozilla/notes](https://github.com/mozilla/notes) - DEPRECATED - A notepad for Firefox
 - [neox387/premiumizer](https://github.com/neox387/premiumizer) - 
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
-- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [Fotom/Fortune](https://github.com/Fotom/Fortune) - Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
 - [mberk/shin](https://github.com/mberk/shin) - Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
 - [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper) - Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tool
@@ -4344,7 +4348,7 @@
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
 - [ArakawaHenri/iCloudPasswords_for_Firefox](https://github.com/ArakawaHenri/iCloudPasswords_for_Firefox) - Porting iCloud Passwords Extension to Firefox
 - [jamespo/pockyt](https://github.com/jamespo/pockyt) - Automate & manage your Pocket.com collection.
-- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, search, orchestrate, all in one.
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
 - [k0src/GitSync](https://github.com/k0src/GitSync) - Sync Firefox windows, tabs, and tab groups via GitHub
 - [DevShubam/Filters](https://github.com/DevShubam/Filters) - Collection of filters for adblockers
 - [minoplhy/filters](https://github.com/minoplhy/filters) - Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
@@ -4698,7 +4702,6 @@
 - [Madis0/firefox-desaturate-favicons](https://github.com/Madis0/firefox-desaturate-favicons) - Desaturate the favicons of all inactive tabs.
 - [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar) - Hackbar Firefox Extension
 - [deciare/firefox-css](https://github.com/deciare/firefox-css) - Customisations to Firefox via userChrome.css
-- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
 - [tg-z/estrellas](https://github.com/tg-z/estrellas) - 
 - [xulihang/macOCR](https://github.com/xulihang/macOCR) - Command line OCR tool using macOS's VNRecognizeTextRequest
 - [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0) - 
@@ -6172,7 +6175,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover) - When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 - [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup) - Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
@@ -6316,7 +6319,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 
 ## raspberry-pi 
@@ -7395,7 +7398,7 @@
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
-- [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Pre-built, auto-updated ReVanced Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
+- [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Pre-built, All-In-One, auto-updated ReVanced / Morphed Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
