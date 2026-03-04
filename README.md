@@ -654,6 +654,7 @@
 
 ## Go 
 
+- [brianluby/karakeep-extractor](https://github.com/brianluby/karakeep-extractor) - 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
@@ -966,6 +967,7 @@
 
 ## JavaScript 
 
+- [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer) - A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
 - [pyoneerC/awesome-ai-repos](https://github.com/pyoneerC/awesome-ai-repos) - A curated list of the most high-leverage tools, papers, and systems for building in the age of AI.
 - [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md) - 
 - [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages) - Automatically deploys reveal-md presentations to github-pages
@@ -3009,7 +3011,7 @@
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [Anatoly-IVANOV/macos-finder-file-path-copy](https://github.com/Anatoly-IVANOV/macos-finder-file-path-copy) - Right-click on a file / folder in MacOS Finder.app to copy its URI path to the clipboard to paste it somewhere
 - [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh) - A Gemini Gem Manager in your MacBook powered by Gemma
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
@@ -3702,7 +3704,6 @@
 - [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features) - 
 - [austintraver/merge](https://github.com/austintraver/merge) - Addon to replicate the Safari 'Merge All Windows' menu command
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
