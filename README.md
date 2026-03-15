@@ -632,7 +632,6 @@
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 
 ## Dockerfile 
@@ -744,6 +743,7 @@
 
 ## HTML 
 
+- [metriclogic26/domain-preflight](https://github.com/metriclogic26/domain-preflight) - Free DNS pre-flight checker — audit SPF, DKIM, DMARC before your email breaks
 - [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23) - Forked from Igglybuff/awesome-piracy
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -1890,6 +1890,7 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [phosphor-icons/android](https://github.com/phosphor-icons/android) - An elegant and sophisticated line icon pack to declutter your home screen.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante) - 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM arc
@@ -2496,6 +2497,8 @@
 
 ## Python 
 
+- [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
+- [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
 - [bbviking/plugin.video.seren](https://github.com/bbviking/plugin.video.seren) - Repository for Seren Development
 - [nixgates/plugin.video.seren](https://github.com/nixgates/plugin.video.seren) - Repository for Seren Development
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
@@ -3242,6 +3245,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
 - [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - A macOS app for organizing folders
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
@@ -3391,6 +3395,7 @@
 
 ## TypeScript 
 
+- [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep) - ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
@@ -3508,7 +3513,6 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pantharshit007/automatedMails](https://github.com/pantharshit007/automatedMails) - An automated email response system powered by Google's Gemini AI that intelligently processes and responds to emails based on their content.
-- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [aliyss/syncribullet](https://github.com/aliyss/syncribullet) - Allows for syncing currently watched items from Stremio
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
@@ -3762,7 +3766,7 @@
 - [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts) - :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 - [niklashigi/refined-prime-video](https://github.com/niklashigi/refined-prime-video) - 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
-- [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+- [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Search, group, move, and clean up tabs across browser windows with a keyboard-first workflow
 - [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces) - This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 
