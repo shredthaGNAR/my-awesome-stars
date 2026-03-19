@@ -295,7 +295,7 @@
 - [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow) - 🎉 Generate/Scan QR Code on the fly
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe VPN desktop client for Windows, Mac and Linux
+- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux
 - [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce) - Paragon Firewall for Mac
 - [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
