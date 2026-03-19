@@ -5261,7 +5261,7 @@
 - [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer) - Browser userscript to clean up hyperlink redirections and link shims
 - [fqx/podsync-with-yt-dlp](https://github.com/fqx/podsync-with-yt-dlp) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
-- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe VPN desktop client for Windows, Mac and Linux
+- [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux
 - [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server) - This is the sync server for better-onetab. Please don't submit PR to master directly.
 - [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 - [Snilda/Font-Library](https://github.com/Snilda/Font-Library) - Check Readme
