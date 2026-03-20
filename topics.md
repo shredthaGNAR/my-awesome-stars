@@ -1025,7 +1025,7 @@
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
-- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
+- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -1117,7 +1117,7 @@
 - [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
 - [fanesz/session-switcher](https://github.com/fanesz/session-switcher) - A Browser extension for switching login sessions with ease
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
-- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
+- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
@@ -1915,7 +1915,7 @@
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
 - [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
 - [emvaized/extend-text-selection-extension](https://github.com/emvaized/extend-text-selection-extension) - This Firefox addon adds a context menu entry to extend current text selection one level up
-- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Firefox & Chrome extension for mouse gestures with visual representation of actions
+- [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 - [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions) - Awesome Firefox Extensions
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css) - My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
@@ -4166,6 +4166,7 @@
 
 ## others 
 
+- [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) - Development of BetterTouchTool Plugins
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
@@ -4384,7 +4385,7 @@
 - [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
 - [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai) - Simple UI for OpenAI completion and chat API
 - [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail) - RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
-- [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
+- [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
 - [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark) - spotlight like search for chrome, firefox
 - [madprops/grasshopper](https://github.com/madprops/grasshopper) - Advanced Tab Manager For Firefox
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
