@@ -685,7 +685,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
@@ -764,7 +764,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
@@ -1020,6 +1020,8 @@
 
 ## chrome 
 
+- [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
+- [SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool](https://github.com/SergioSuarezGil/DeveloperToolsTouchBar_BetterTouchTool) - A BetterTouchTool preset which provides TouchBar support for Chrome/Edge/Safari Debugger with Dev Tools.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
@@ -1436,6 +1438,7 @@
 
 ## crawler 
 
+- [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -1898,7 +1901,7 @@
 
 ## firebase 
 
-- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted)
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
@@ -1906,6 +1909,7 @@
 
 ## firefox 
 
+- [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm) - Firefox extension that integrates LLMs into your browser
 - [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js) - fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements.
 - [pranavmangal/github-repo-size](https://github.com/pranavmangal/github-repo-size) - Displays the size of a GitHub repository on its homepage
@@ -3101,6 +3105,7 @@
 
 ## library 
 
+- [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
@@ -3190,6 +3195,7 @@
 
 ## llm 
 
+- [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm) - Firefox extension that integrates LLMs into your browser
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant on your phone
@@ -3314,7 +3320,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [EragonJ/Kaku](https://github.com/EragonJ/Kaku) - 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
@@ -3605,7 +3611,7 @@
 - [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus) - 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 - [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins) - :green_book: Community repo for MacForge
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
@@ -3614,7 +3620,7 @@
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [xwmx/airport](https://github.com/xwmx/airport) - A command line / terminal tool for Wi-Fi on macOS / OS X up to macOS Sonoma 14.4.
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
-- [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils) - A suite of command line tools for working with Mac icons (.icns files) and custom Finder icons.
+- [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils) - A suite of very old-school command line tools for working with Mac icons (.icns files) and custom Finder icons.
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
@@ -4166,6 +4172,10 @@
 
 ## others 
 
+- [innova-foundation/bettertouchtool-innova](https://github.com/innova-foundation/bettertouchtool-innova) - 
+- [NightMachinery/aistudio_userscript](https://github.com/NightMachinery/aistudio_userscript) - 
+- [NightMachinery/chatgpt_userscript](https://github.com/NightMachinery/chatgpt_userscript) - 
+- [mschmidtkorth/bettertouchtool-clickup](https://github.com/mschmidtkorth/bettertouchtool-clickup) - Show upcoming ClickUp tasks on your Touch Bar.
 - [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins) - Development of BetterTouchTool Plugins
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
@@ -6026,6 +6036,7 @@
 
 ## privacy 
 
+- [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
 - [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js) - fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements.
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
@@ -6191,6 +6202,7 @@
 
 ## python 
 
+- [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -6377,7 +6389,7 @@
 ## react 
 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
-- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted)
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -6724,7 +6736,7 @@
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## sql 
 
@@ -6883,7 +6895,7 @@
 
 - [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
 - [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro) - A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!
-- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted)
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint) - is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic 
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
@@ -7005,7 +7017,7 @@
 
 - [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
-- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted)
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -7447,7 +7459,7 @@
 - [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs from various patch sources
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
-- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
+- [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
