@@ -673,7 +673,7 @@
 - [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api) - Serverless Raycast2API on Vercel
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [muhammedsamal/rename](https://github.com/muhammedsamal/rename) - A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
@@ -926,7 +926,7 @@
 - [Twenty20Twenty/Poker-Omaha-JavaFX](https://github.com/Twenty20Twenty/Poker-Omaha-JavaFX) - 
 - [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc) - Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
@@ -2710,7 +2710,7 @@
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter) - A command line utility to export Google Keep notes to markdown.
-- [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Export and convert Google Keep notes dynamically to markdown for Obsidian, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
+- [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Kee
 - [dan-and/KeepToText](https://github.com/dan-and/KeepToText) - Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 - [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms) - System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
 - [dickreuter/Poker](https://github.com/dickreuter/Poker) - Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and mon
@@ -2837,7 +2837,7 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [0xRamInf0sec/SocialRecon](https://github.com/0xRamInf0sec/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [ccat3z/stars](https://github.com/ccat3z/stars) - A simple tool for creating your own awesome list
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python) - 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
@@ -2903,7 +2903,7 @@
 
 - [Fotom/Fortune](https://github.com/Fotom/Fortune) - Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
 - [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
-- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Curated & automatically updated AI resources: repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew) - A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 - [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
@@ -2945,6 +2945,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
