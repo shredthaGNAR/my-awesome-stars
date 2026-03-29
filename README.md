@@ -144,6 +144,8 @@
 
 ## Astro 
 
+- [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
+- [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
 - [shredthaGNAR/mysite](https://github.com/shredthaGNAR/mysite) - 
 - [shredthaGNAR/scaling-system](https://github.com/shredthaGNAR/scaling-system) - 
