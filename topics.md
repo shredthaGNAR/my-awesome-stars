@@ -4203,6 +4203,8 @@
 
 ## others 
 
+- [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
+- [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [innova-foundation/bettertouchtool-innova](https://github.com/innova-foundation/bettertouchtool-innova) - 
