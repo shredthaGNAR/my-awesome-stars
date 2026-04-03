@@ -1249,7 +1249,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
@@ -6201,7 +6201,7 @@
 - [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -7246,7 +7246,7 @@
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -7559,7 +7559,7 @@
 - [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT) - Makes YouTube Less trashy by removing distracting features, and trash videos
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python) - 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks; smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|qu
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
