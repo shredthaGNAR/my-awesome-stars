@@ -167,6 +167,7 @@
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
+- [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 - [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux) - Primer blog con astro
 - [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio) - This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the dev
@@ -750,6 +751,7 @@
 
 ## HTML 
 
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [EerieGoesD/scratch-ev](https://github.com/EerieGoesD/scratch-ev) - Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 - [metriclogic26/domain-preflight](https://github.com/metriclogic26/domain-preflight) - Free DNS pre-flight checker — audit SPF, DKIM, DMARC before your email breaks
 - [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23) - Forked from Igglybuff/awesome-piracy
@@ -910,6 +912,7 @@
 
 ## Java 
 
+- [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
@@ -975,6 +978,7 @@
 
 ## JavaScript 
 
+- [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks) - A collection of userscripts and a uBlock Origin blocklist for YouTube.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -2100,6 +2104,8 @@
 
 ## Others 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [innova-foundation/bettertouchtool-innova](https://github.com/innova-foundation/bettertouchtool-innova) - 
@@ -2512,6 +2518,7 @@
 
 ## Python 
 
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) - A Curated Collection of resources for applied AI engineering (work in progress).
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -2842,7 +2849,6 @@
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation) - creating textnow account with temp email
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [0xRamInf0sec/SocialRecon](https://github.com/0xRamInf0sec/SocialRecon) - This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location
@@ -3232,7 +3238,6 @@
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox) - 
 - [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen) - config generator for revanced-magisk-module
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
@@ -3417,6 +3422,7 @@
 
 ## TypeScript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
