@@ -308,6 +308,7 @@
 
 ## ai 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
@@ -559,6 +560,7 @@
 
 ## artificial-intelligence 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) - Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
@@ -627,6 +629,8 @@
 
 ## awesome 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
@@ -704,6 +708,9 @@
 
 ## awesome-list 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
@@ -905,6 +912,8 @@
 
 ## chatbot 
 
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - This repository is deprecated and will be archived
@@ -933,6 +942,13 @@
 
 ## chatgpt 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+- [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -1017,6 +1033,8 @@
 
 ## chatgpt-api 
 
+- [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
@@ -1380,6 +1398,7 @@
 
 ## code 
 
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
@@ -1651,7 +1670,6 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit) - An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 - [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha) - Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - 🎭 Lightweight WebGL & JavaScript library for real-time multi-face detection, tracking and augmented-reality face filters. Supports rotation, mouth-opening and integrates with Three.js, Babylon.js, Can
 
@@ -1679,6 +1697,7 @@
 
 ## developer-tools 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension) - A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
@@ -2281,6 +2300,8 @@
 
 ## generative-ai 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -2890,6 +2911,7 @@
 
 ## javascript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [EerieGoesD/scratch-ev](https://github.com/EerieGoesD/scratch-ev) - Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 - [geraldoramos/crypto-bar](https://github.com/geraldoramos/crypto-bar) - 📈 A menu bar app that updates cryptocurrencies prices in real-time
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -3124,6 +3146,7 @@
 
 ## language 
 
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
@@ -3235,6 +3258,9 @@
 
 ## llm 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) - A Curated Collection of resources for applied AI engineering (work in progress).
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
@@ -3399,7 +3425,6 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
@@ -3772,6 +3797,7 @@
 
 ## mcp 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
@@ -3919,6 +3945,7 @@
 
 ## nodejs 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -4116,6 +4143,9 @@
 
 ## openai 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
@@ -6220,6 +6250,9 @@
 
 ## prompt-engineering 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+- [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
@@ -6345,7 +6378,6 @@
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -6805,6 +6837,7 @@
 
 ## stable-diffusion 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo) - A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -7071,6 +7104,7 @@
 
 ## typescript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
