@@ -1141,7 +1141,7 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
 - [mingyaulee/Blazor.BrowserExtension](https://github.com/mingyaulee/Blazor.BrowserExtension) - Build browser extensions easily with Blazor.
-- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
@@ -4282,6 +4282,8 @@
 
 ## others 
 
+- [Nicolazzzz/nicolazzzz.github.io](https://github.com/Nicolazzzz/nicolazzzz.github.io) - 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [sabazadam/raycast-dictionary-extension](https://github.com/sabazadam/raycast-dictionary-extension) - Raycast extension for looking up English words using Google Gemini API with Cambridge-style definitions
 - [IntelHeartPrime/ChatWithAPI---Raycast-Extentsion](https://github.com/IntelHeartPrime/ChatWithAPI---Raycast-Extentsion) - 
 - [pa1ar/raycast-bridges](https://github.com/pa1ar/raycast-bridges) - Connect any REST API to Raycast AI — scaffolded by an agent, callable from any conversation
