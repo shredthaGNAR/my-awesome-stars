@@ -144,6 +144,7 @@
 
 ## Astro 
 
+- [Nicolazzzz/nicolazzzz.github.io](https://github.com/Nicolazzzz/nicolazzzz.github.io) - 
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
@@ -1005,7 +1006,7 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
 - [mingyaulee/Blazor.BrowserExtension](https://github.com/mingyaulee/Blazor.BrowserExtension) - Build browser extensions easily with Blazor.
-- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
@@ -1372,7 +1373,6 @@
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm) - Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io) - 
 - [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
@@ -2522,6 +2522,7 @@
 
 ## Python 
 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) - A Curated Collection of resources for applied AI engineering (work in progress).
@@ -3707,6 +3708,7 @@
 - [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
+- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging) - Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
