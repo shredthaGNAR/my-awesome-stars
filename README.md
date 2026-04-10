@@ -1032,7 +1032,7 @@
 - [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs) - An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
 - [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations) - 
 - [KaanCanINC/firefox-OCR-extension](https://github.com/KaanCanINC/firefox-OCR-extension) - Firefox OCR extension made with fully AI for personal usage
-- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+- [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [0xAwoL/firefox-tabs-clipboard-saver](https://github.com/0xAwoL/firefox-tabs-clipboard-saver) - Super simple firefox add-on
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [nicolasspaniol/firefox-invert-dark-favicons](https://github.com/nicolasspaniol/firefox-invert-dark-favicons) - Firefox addon that inverts the colors of dark favicons so that they are visible under black backgrounds
@@ -2896,7 +2896,6 @@
 - [Asteezy24/ShopifyCheckout](https://github.com/Asteezy24/ShopifyCheckout) - Bringing automated checkout to your favorite shopify websites
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 - [mzama/ShopifyInventoryChecker](https://github.com/mzama/ShopifyInventoryChecker) - A simple python script to check a Shopify store's inventory for a particular product, and send an email notification if the product is available.
-- [jimmyxu/circle](https://github.com/jimmyxu/circle) - Logi Circle video downloader
 - [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle) - Python 3.7+ API for Logi Circle cameras
 - [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans) - Image Search Web Application
 - [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine) - Web app to search similar images
