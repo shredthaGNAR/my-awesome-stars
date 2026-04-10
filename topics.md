@@ -326,7 +326,7 @@
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy) - Use any LiteLLM model in Raycast AI without a subscription.
-- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+- [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Apps suggestion, Websites recommendation, Websites guide.
@@ -799,6 +799,7 @@
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
+- [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 
 ## azure 
@@ -962,7 +963,7 @@
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
-- [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+- [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -5283,7 +5284,6 @@
 - [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager) - Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [EliasVincent/joplin-email-note](https://github.com/EliasVincent/joplin-email-note) - A plugin for Joplin which sends your note to your email client
-- [ajrosen/Alfred](https://github.com/ajrosen/Alfred) - Alfred workflows
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [taminob/shortcuts](https://github.com/taminob/shortcuts) - WebExtension which allows selecting tabs with [CTRL] + [1-9]
@@ -5960,7 +5960,6 @@
 - [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome) - My Firefox Userchrome Config
 - [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme) - This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
 - [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff) - As advertised on TV !
-- [jimmyxu/circle](https://github.com/jimmyxu/circle) - Logi Circle video downloader
 - [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack) - This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 - [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image) - This is a Image Search Web Application in PHP.
