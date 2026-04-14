@@ -1488,6 +1488,7 @@
 
 ## crawler 
 
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
@@ -1614,6 +1615,7 @@
 
 ## cybersecurity 
 
+- [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, XSS, Dread, & more
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -4245,6 +4247,7 @@
 
 ## osint 
 
+- [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, XSS, Dread, & more
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -4761,7 +4764,7 @@
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
