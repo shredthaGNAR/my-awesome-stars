@@ -322,6 +322,7 @@
 
 ## CSS 
 
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js) - fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements.
 - [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox) - A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
@@ -979,6 +980,8 @@
 
 ## JavaScript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 - [ayoubchwt/TL-WR](https://github.com/ayoubchwt/TL-WR) - TL;WR automatically summarizes long Reddit posts and threads into concise, easy-to-read bullet points.
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
@@ -2108,7 +2111,7 @@
 
 ## Others 
 
-- [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, XSS, Dread, & more
+- [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
 - [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy) - 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 - [adriangrantdotorg/Raycast-Skill](https://github.com/adriangrantdotorg/Raycast-Skill) - Agentic Skill for Raycast — best practices for building extensions, wrangling external APIs, and more! Compatible with Claude, Cursor, OpenAI, Gemini CLI, Google Antigravity.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
@@ -3093,7 +3096,7 @@
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 - [tangphillip/Imgur-Uploader](https://github.com/tangphillip/Imgur-Uploader) - A script that uploads an image to imgur and copies the image URL to the clipboard.
 - [miguelmartin75/imgur-automator](https://github.com/miguelmartin75/imgur-automator) - automator files to upload images and screenshots to imgur.
-- [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) - The ReVanced APKs
+- [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps) - The ReVanced APKs
 - [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync) - Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AirPods battery btt widget for macOS Ventura
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -3253,6 +3256,7 @@
 
 ## Swift 
 
+- [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen) - Reopen closed & minimized windows with Command+Tab
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 - [p-linnane/Brewy](https://github.com/p-linnane/Brewy) - Brewy: A Homebrew GUI
