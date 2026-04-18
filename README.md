@@ -469,7 +469,6 @@
 - [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [benman604/userChrome.css](https://github.com/benman604/userChrome.css) - 
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme) - 
 - [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates) - A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
 - [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird) - A userChrome.css theme to make thunderbird resemble Firefox 89+
@@ -2112,6 +2111,7 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
 - [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy) - 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 - [adriangrantdotorg/Raycast-Skill](https://github.com/adriangrantdotorg/Raycast-Skill) - Agentic Skill for Raycast — best practices for building extensions, wrangling external APIs, and more! Compatible with Claude, Cursor, OpenAI, Gemini CLI, Google Antigravity.
@@ -2408,6 +2408,7 @@
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - Next-generation font management system.
 - [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!
 - [theamallalgi/kenkaitheme](https://github.com/theamallalgi/kenkaitheme) - KenKai Theme for Visual Studio Code
 - [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus) - VS Code color theme
@@ -3259,7 +3260,7 @@
 - [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen) - Reopen closed & minimized windows with Command+Tab
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
-- [p-linnane/Brewy](https://github.com/p-linnane/Brewy) - Brewy: A Homebrew GUI
+- [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
 - [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
