@@ -573,7 +573,6 @@
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [kamryn404/quietfox](https://github.com/kamryn404/quietfox) - Very Clean Firefox userChrome Mod
 - [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox) - Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegado
-- [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style) - A macOS compliant theme for Firefox
 - [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS) - MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
@@ -1112,6 +1111,7 @@
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset) - A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
+- [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe) - Patch YouTube Morphe
 - [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark) - Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and orga
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
@@ -2252,6 +2252,7 @@
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
 - [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [uhub/awesome-css](https://github.com/uhub/awesome-css) - A curated list of awesome CSS frameworks, libraries and software.
 - [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
@@ -2642,7 +2643,6 @@
 - [bradykent/huekey](https://github.com/bradykent/huekey) - Control Philips Hue lights with BetterTouchTool
 - [Ryan-Gordon/Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar) - A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
-- [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Build Revanced apps
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
 - [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer) - 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
@@ -2679,7 +2679,6 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
