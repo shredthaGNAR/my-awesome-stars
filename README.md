@@ -283,7 +283,7 @@
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
-- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A modern "Enigma" built on GnuPG brings easy and trustworthy to your privacy life.
+- [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - A modern "Enigma" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
 - [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot) - OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)   Please click the link below or Forum news.
@@ -2184,7 +2184,7 @@
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) - Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. T
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git) - 
@@ -2538,6 +2538,7 @@
 
 ## Python 
 
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
 - [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI) - 
 - [ctrlaltdylan/bovadaAPI](https://github.com/ctrlaltdylan/bovadaAPI) - interact with bovada.lv pro grammatically.
@@ -2854,7 +2855,6 @@
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes th
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 - [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive) - App to manage google drive accounts
-- [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3) - The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the
 - [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader) - Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 - [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision) - Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person ap
 - [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give t
@@ -3036,7 +3036,7 @@
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–149) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–150) find bar.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
