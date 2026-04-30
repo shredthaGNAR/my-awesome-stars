@@ -1213,7 +1213,7 @@
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -2339,7 +2339,6 @@
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations) - 
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
-- [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl) - abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
 - [synappser/FinderFix](https://github.com/synappser/FinderFix) - FinderFix lets you resize and reposition Finder windows to your liking
