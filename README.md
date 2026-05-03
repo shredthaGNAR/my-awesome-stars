@@ -661,6 +661,7 @@
 
 ## Go 
 
+- [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [dpshde/pocket-prompt-suite](https://github.com/dpshde/pocket-prompt-suite) - AI context management system with CLI, TUI, and Raycast integration
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -2133,6 +2134,8 @@
 
 ## Others 
 
+- [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist) - Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
+- [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 - [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
 - [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection) - A list of Apple Intelligence prompt injections.
 - [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension) - A GitHub action which ensures that a Raycast extension can be built successfully
@@ -2693,7 +2696,7 @@
 - [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -3079,6 +3082,7 @@
 
 ## Shell 
 
+- [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [rlgrpe/ocr-raycast](https://github.com/rlgrpe/ocr-raycast) - macOS OCR screenshot tool with Raycast integration. Uses Vision API for fast multilingual text recognition (uk, ru, en).
 - [2lach/update-all-repos](https://github.com/2lach/update-all-repos) - One command to update all your repos
@@ -3485,6 +3489,7 @@
 
 ## TypeScript 
 
+- [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence) - 
 - [jinghaihan/rayext](https://github.com/jinghaihan/rayext) - A decentralized extension manager for Raycast.
