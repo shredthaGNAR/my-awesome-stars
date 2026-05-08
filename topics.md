@@ -2091,7 +2091,6 @@
 - [czlin7/LinkQR](https://github.com/czlin7/LinkQR) - A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 - [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds) - Makes a sound when a notification is shown
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) - Firefox extension which lets you use your passwords stored on iCloud Keychain®.
-- [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io) - UserChromeFiles, Webextensions Experiments
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
