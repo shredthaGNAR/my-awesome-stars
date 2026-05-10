@@ -7375,7 +7375,7 @@
 
 ## twitter 
 
-- [criimera/twitter-apk](https://github.com/criimera/twitter-apk) - Apk builds of piko patches
+- [criimera/twitter-apk](https://github.com/criimera/twitter-apk) - twitter apk builds of piko patches
 - [krvstek/uni-apks](https://github.com/krvstek/uni-apks) - 📦 Pre-built APKs from various patch sources
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) - Create Revanced apps easily ☠️
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
