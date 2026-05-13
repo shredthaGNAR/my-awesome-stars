@@ -4400,6 +4400,7 @@
 
 ## others 
 
+- [net-snix/RayWrite](https://github.com/net-snix/RayWrite) - Raycast extension for rewriting selected text with AI
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead) - Space Ahead! An Astro v6 powered personal blog template.
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
@@ -4587,7 +4588,7 @@
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation) - General documentation about Morphe
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
-- [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
+- [vetcoders/automator-mcp](https://github.com/vetcoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 - [JorritScholten/omz_vscode_custom](https://github.com/JorritScholten/omz_vscode_custom) - vscode plugin from oh-my-zsh with a few customisations
 - [MrOtherGuy/bmbgone](https://github.com/MrOtherGuy/bmbgone) - 
 - [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy) - An index of course piracy resources
