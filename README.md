@@ -1048,7 +1048,7 @@
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api) - A simple, lightweight OpenAI to Ollama API adapter
 - [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
-- [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
+- [vetcoders/automator-mcp](https://github.com/vetcoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 - [MrOtherGuy/bmbgone](https://github.com/MrOtherGuy/bmbgone) - 
 - [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs) - An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
 - [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations) - 
@@ -1458,7 +1458,6 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
-- [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc) - Browser addon for FireFox & Chrome to save active tabs as Markdown
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [hiroshil/save-tabs](https://github.com/hiroshil/save-tabs) - Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon.
 - [mnba/save-tabs](https://github.com/mnba/save-tabs) - Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon. Install it from here: https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/
@@ -3413,6 +3412,7 @@
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [ian4hu/Clipy](https://github.com/ian4hu/Clipy) - Clipboard extension app for macOS.
+- [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc) - Browser addon for FireFox & Chrome to save active tabs as Markdown
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr) - Simple command line tool to set the desktop picture on macOS
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
@@ -3502,6 +3502,7 @@
 
 ## TypeScript 
 
+- [net-snix/RayWrite](https://github.com/net-snix/RayWrite) - Raycast extension for rewriting selected text with AI
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
 - [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
