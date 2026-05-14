@@ -329,6 +329,7 @@
 
 ## ai 
 
+- [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection) - A list of Apple Intelligence prompt injections.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -3551,6 +3552,7 @@
 
 ## macos 
 
+- [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, community-driven launcher for macOS. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
@@ -3922,6 +3924,7 @@
 
 ## mcp 
 
+- [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -4400,6 +4403,10 @@
 
 ## others 
 
+- [kevintraver/raycast-mcp-edit](https://github.com/kevintraver/raycast-mcp-edit) - A Raycast extension for quick access to MCP configuration files across AI coding assistants
+- [VariableThe/Omelette-The-Openrouter-Extention-for-Raycast](https://github.com/VariableThe/Omelette-The-Openrouter-Extention-for-Raycast) - A new extension for raycast using openrouter API keys to provide a clean and native UI for quick access to AI
+- [chrismessina/raycast-parallel-web-tools](https://github.com/chrismessina/raycast-parallel-web-tools) - This is a Raycast extension that provides AI-powered web search, content extraction, deep research, and entity discovery using the Parallel API.
+- [AA1labs/Raycast--Stealth-AI](https://github.com/AA1labs/Raycast--Stealth-AI) - A Raycast Extension that allows to run AI commands in the background.
 - [net-snix/RayWrite](https://github.com/net-snix/RayWrite) - Raycast extension for rewriting selected text with AI
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead) - Space Ahead! An Astro v6 powered personal blog template.
@@ -4490,7 +4497,7 @@
 - [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper) - MLB Odds Scraper
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
 - [codewithsadee/julia-portfolio](https://github.com/codewithsadee/julia-portfolio) - A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
-- [hansmartens68/Astro-Rocket](https://github.com/hansmartens68/Astro-Rocket) - A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
 - [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen) - Reopen closed & minimized windows with Command+Tab
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API) - AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
@@ -6118,7 +6125,7 @@
 - [metux/thunderbird](https://github.com/metux/thunderbird) - 
 - [ago1024/userchrome](https://github.com/ago1024/userchrome) - BEcuase F'
 - [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box) - Extension that transforms lines of text into a pretty comment box.
-- [FirefoxUX/icons](https://github.com/FirefoxUX/icons) - SVG icons used in Firefox. View all icons here:
+- [FirefoxUX/icons](https://github.com/FirefoxUX/icons) - DEPRECATED - SVG icons used in Firefox. View all icons here:
 - [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox) - A quick dictionary and thesaurus.
 - [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets) - Useful .liquid snippets for Shopify themes
 - [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets) - Shopify Liquid Template Snippets
@@ -6437,6 +6444,7 @@
 
 ## productivity 
 
+- [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [pierremouchan/raycast-ai-writing-assistant](https://github.com/pierremouchan/raycast-ai-writing-assistant) - AI Writing Assistant is here to assist you with any of your writing tasks, from fixing grammar to generating a list of action items.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
