@@ -991,6 +991,9 @@
 
 ## JavaScript 
 
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
+- [chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension](https://github.com/chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index) - Find the best models for any task. For free.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -1603,7 +1606,6 @@
 - [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup.
 - [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations) - My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
-- [t0xk/username-generator](https://github.com/t0xk/username-generator) - A username generator written in JavaScript
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central) - EXPERIMENTAL - copy of comm-central for forking on github
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
@@ -3020,6 +3022,7 @@
 
 ## Rust 
 
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
@@ -3316,6 +3319,7 @@
 
 ## Swift 
 
+- [jhasubhash/btt-plugins](https://github.com/jhasubhash/btt-plugins) - collection of btt plugins I use everyday
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, community-driven launcher for macOS. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
@@ -3959,6 +3963,7 @@
 
 ## Vue 
 
+- [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later) - A light web browser extension to manage your read-it-later list easily.
 - [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
