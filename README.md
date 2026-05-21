@@ -990,6 +990,7 @@
 
 ## JavaScript 
 
+- [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension) - Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful im
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
@@ -1903,7 +1904,7 @@
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [j-hc/revanced-cli](https://github.com/j-hc/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm) - Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
 - [jekyllex/jekyllex-android](https://github.com/jekyllex/jekyllex-android) - JekyllEx is an Android app that can manage your Jekyll blog directly from your Android device!
@@ -2555,6 +2556,8 @@
 
 ## Python 
 
+- [SuffolkLITLab/docassemble-ALToolbox](https://github.com/SuffolkLITLab/docassemble-ALToolbox) - Collection of small utility functions, classes, and web components for Docassemble interviews
+- [SuffolkLITLab/asklit](https://github.com/SuffolkLITLab/asklit) - A no-code factory for publishing high-quality AI chatbots grounded in your own documents.
 - [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [criimera/twitter-apk](https://github.com/criimera/twitter-apk) - twitter apk builds of piko patches
 - [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
@@ -3026,7 +3029,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, community-driven launcher for macOS (Linux and Windows). A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 - [lastIndexOf/macproxy](https://github.com/lastIndexOf/macproxy) - Forward raycast ai chat interface to gpt4-turbo
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3505,6 +3508,7 @@
 
 ## TypeScript 
 
+- [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize) - A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [kevintraver/raycast-mcp-edit](https://github.com/kevintraver/raycast-mcp-edit) - A Raycast extension for quick access to MCP configuration files across AI coding assistants
 - [VariableThe/Omelette-The-Openrouter-Extention-for-Raycast](https://github.com/VariableThe/Omelette-The-Openrouter-Extention-for-Raycast) - A new extension for raycast using openrouter API keys to provide a clean and native UI for quick access to AI
