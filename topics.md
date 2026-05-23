@@ -4421,6 +4421,9 @@
 
 ## others 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [jason5122/switcher](https://github.com/jason5122/switcher) - 
+- [marcoagpinto/aoo-mozilla-en-dict](https://github.com/marcoagpinto/aoo-mozilla-en-dict) - English Dictionaries Project
 - [Loocist23/FakeInfo-Filler](https://github.com/Loocist23/FakeInfo-Filler) - 
 - [ivostoykov/AIWebFormFill](https://github.com/ivostoykov/AIWebFormFill) - 
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
