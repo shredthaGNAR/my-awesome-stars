@@ -1099,7 +1099,7 @@
 - [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
-- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from malicious websites.
+- [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from phishing and malicious websites.
 - [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection) - 🌍 A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filt
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker) - App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
