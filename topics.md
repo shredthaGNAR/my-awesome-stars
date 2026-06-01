@@ -2141,7 +2141,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–150) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–151) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -4436,6 +4436,8 @@
 
 ## others 
 
+- [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches) - https://gitlab.com/revanced/revanced-patches
+- [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
 - [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers) - json players for TheMovieDb-Helper in Kodi 21
 - [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates) - My collection of Obsidian Web Clipper templates
 - [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
@@ -6253,7 +6255,6 @@
 - [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click) - Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 - [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze) - Custome safari theme for Firefox
 - [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g) - This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
-- [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus) - discovery+ add-on for Kodi
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
