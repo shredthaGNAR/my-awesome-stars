@@ -628,6 +628,7 @@
 
 ## Dart 
 
+- [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
 - [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet) - 
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder) - A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
@@ -764,7 +765,6 @@
 
 ## HTML 
 
-- [Queazified/Piracy-Extras](https://github.com/Queazified/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds) - 
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [yfdyh000/save-text-to-file-firefox](https://github.com/yfdyh000/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [TwisterMc/ff-quick-commands](https://github.com/TwisterMc/ff-quick-commands) - Quick Commands for Firefox
 - [Loocist23/FakeInfo-Filler](https://github.com/Loocist23/FakeInfo-Filler) - 
