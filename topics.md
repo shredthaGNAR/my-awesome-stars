@@ -2689,6 +2689,7 @@
 
 ## hacktoberfest 
 
+- [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
@@ -4452,6 +4453,7 @@
 
 ## others 
 
+- [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
 - [yfdyh000/save-text-to-file-firefox](https://github.com/yfdyh000/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [TwisterMc/ff-quick-commands](https://github.com/TwisterMc/ff-quick-commands) - Quick Commands for Firefox
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
@@ -4510,7 +4512,6 @@
 - [toanbku/bing-chat-raycast-extension](https://github.com/toanbku/bing-chat-raycast-extension) - 
 - [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension) - A GitHub action which ensures that a Raycast extension can be built successfully
 - [raycast/utils](https://github.com/raycast/utils) - Set of utilities to streamline building Raycast extensions
-- [Queazified/Piracy-Extras](https://github.com/Queazified/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server) - Extension that thats local openai server which passes requests to Raycast AI.
 - [infinilabs/coco-app](https://github.com/infinilabs/coco-app) - 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
 - [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot) - Raycast extension for Clawdbot AI assistant
