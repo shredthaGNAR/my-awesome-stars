@@ -812,6 +812,7 @@
 - [WeinbM/static-marks](https://github.com/WeinbM/static-marks) - Shareable bookmarks
 - [luxuxl/bookmark](https://github.com/luxuxl/bookmark) - This is my personal Shareable bookmarks
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
 - [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web) - Hugo Template for Freelancer Portfolio and Blog
@@ -1122,7 +1123,7 @@
 - [ArakawaHenri/iCloudPasswords_for_Firefox](https://github.com/ArakawaHenri/iCloudPasswords_for_Firefox) - Porting iCloud Passwords Extension to Firefox
 - [k0src/GitSync](https://github.com/k0src/GitSync) - Sync Firefox windows, tabs, and tab groups via GitHub
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer) - 
 - [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter) - A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1155,7 +1156,6 @@
 - [arkenfox/gui](https://github.com/arkenfox/gui) - A companion gui for arkenfox user.js
 - [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - Stremio Addon to search downloads and torrents in your Debrid cloud
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -1245,7 +1245,7 @@
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
 - [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Firefox add-on to sort bookmarks by multiple criteria
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -1572,7 +1572,7 @@
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
 - [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess) - WebExtension to make your tabs clean
 - [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes) - A WebExtension which can display/remove duplicate bookmarks or empty folders
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app) - Frontend part of the Static Marks project
 - [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader) - Script gets you access to download private videos on Vimeo
 - [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js) - A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
@@ -3698,7 +3698,7 @@
 - [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api) - Accessing the Raycast backend API delightfully
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai) - The simpler JavaScript Gemini SDK
 - [chrismessina/extensions](https://github.com/chrismessina/extensions) - Everything you need to extend Raycast.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
