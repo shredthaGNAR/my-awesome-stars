@@ -1381,7 +1381,7 @@
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
-- [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn) - OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
+- [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn) - OneTab Reborn is a restyled fork of the original OneTab (pre‑2.0) with an interface inspired by WinUI.
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
@@ -2033,7 +2033,6 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
-- [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
 - [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit) - A ShiftIt like Hammerspoon window management configuration
 - [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon) - My Versatile Hammerspoon Config
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -2153,6 +2152,7 @@
 
 ## Others 
 
+- [DabbinDallas/A4K_Recommendations](https://github.com/DabbinDallas/A4K_Recommendations) - Kodi Third-Party Add-ons and Tools Guide
 - [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches) - https://gitlab.com/revanced/revanced-patches
 - [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers) - json players for TheMovieDb-Helper in Kodi 21
 - [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates) - My collection of Obsidian Web Clipper templates
@@ -2808,6 +2808,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
+- [servitola/dotfiles](https://github.com/servitola/dotfiles) - servitola dotfiles repository
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
