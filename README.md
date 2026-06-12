@@ -144,6 +144,10 @@
 
 ## Astro 
 
+- [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template) - Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
+- [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme) - Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy.
+- [031devstudios/weighmybru-site](https://github.com/031devstudios/weighmybru-site) - WeighMyBru Website Files
+- [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) - Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
 - [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
@@ -3228,7 +3232,6 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macOS(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
-- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
@@ -3853,6 +3856,7 @@
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
