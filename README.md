@@ -512,7 +512,7 @@
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square) - Makes Firefox Proton UI square again
 - [arp242/MartinFox](https://github.com/arp242/MartinFox) - Really simple userChrome.css for Firefox 89 to make the active tab stand out more
-- [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
+- [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css) - Classic Firefox UI style based on https://github.com/Aris-t2/CustomCSSforFx
 - [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css) - Firefox Proton userChrome.css customizations
 - [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock) - reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 - [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme) - VSCode Community Material Theme for Joplin
@@ -647,7 +647,7 @@
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [nightmare-space/any_share](https://github.com/nightmare-space/any_share) - Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
-- [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
+- [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop) - CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Quick Share for macOS.
 - [axross/aqua](https://github.com/axross/aqua) - ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -3232,6 +3232,7 @@
 - [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macOS(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
+- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [na-ji/dotfiles](https://github.com/na-ji/dotfiles) - 
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
@@ -3856,7 +3857,6 @@
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
-- [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
