@@ -368,7 +368,7 @@
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
 - [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS) - 
-- [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
+- [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox userChrome theme designed to optimize screen space without sacrificing accessibility.
 - [Futur3Sn0w/futur3f0x](https://github.com/Futur3Sn0w/futur3f0x) - My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [caro401/royal-velvet](https://github.com/caro401/royal-velvet) - A dark theme for obsidian.md
@@ -2703,7 +2703,7 @@
 - [bradykent/huekey](https://github.com/bradykent/huekey) - Control Philips Hue lights with BetterTouchTool
 - [Ryan-Gordon/Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar) - A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
-- [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - A powerful and automated way of organizing your browser bookmarks.
+- [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - AI-powered bookmark organizer that reads your exported bookmarks (Netscape format), categorizes them into folders using any OpenAI-compatible LLM, and exports them back — ready to import into any brow
 - [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer) - 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
