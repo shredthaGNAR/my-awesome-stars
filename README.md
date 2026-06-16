@@ -1869,7 +1869,7 @@
 ## Jinja 
 
 - [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig) - Ansible Role Installs firefox and makes it configurable through environment variables
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Author: Alex Bilzerian (2
 
 ## Jsonnet 
 
@@ -2225,7 +2225,6 @@
 - [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 - [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings) - List and comparison of services for publishing and sharing files on the Internet
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
-- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) - Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. T
@@ -3145,6 +3144,7 @@
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [gchai/macos-mac-address-changer](https://github.com/gchai/macos-mac-address-changer) - 
 - [chris1111/Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
 - [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
@@ -3596,7 +3596,6 @@
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [alexrosepizant/clipper-for-appflowy](https://github.com/alexrosepizant/clipper-for-appflowy) - Clip the web into your AppFlowy workspace. Unofficial community fork of obsidian-clipper.
-- [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy) - Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 - [sabazadam/raycast-dictionary-extension](https://github.com/sabazadam/raycast-dictionary-extension) - Raycast extension for looking up English words using Google Gemini API with Cambridge-style definitions
 - [IntelHeartPrime/ChatWithAPI---Raycast-Extentsion](https://github.com/IntelHeartPrime/ChatWithAPI---Raycast-Extentsion) - 
 - [pa1ar/raycast-bridges](https://github.com/pa1ar/raycast-bridges) - Connect any REST API to Raycast AI — scaffolded by an agent, callable from any conversation
@@ -3768,7 +3767,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
