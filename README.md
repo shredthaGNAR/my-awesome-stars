@@ -1001,6 +1001,7 @@
 
 ## JavaScript 
 
+- [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon) - Stremio Streaming Catalogs Addon
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [yfdyh000/save-text-to-file-firefox](https://github.com/yfdyh000/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
 - [TwisterMc/ff-quick-commands](https://github.com/TwisterMc/ff-quick-commands) - Quick Commands for Firefox
@@ -1010,7 +1011,7 @@
 - [TwisterMc/ff-tab-expose](https://github.com/TwisterMc/ff-tab-expose) - Safari like Tab Expose for Firefox
 - [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension) - Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful im
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
 - [chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension](https://github.com/chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
@@ -2630,7 +2631,7 @@
 - [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced resources, patches and projects!
+- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced and Morphe resources, patches and projects!
 - [neox387/premiumizer](https://github.com/neox387/premiumizer) - 
 - [mberk/shin](https://github.com/mberk/shin) - Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
 - [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper) - Scraper for lottery scratchers
