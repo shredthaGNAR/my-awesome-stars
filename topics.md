@@ -425,7 +425,7 @@
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -608,7 +608,7 @@
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
@@ -867,7 +867,6 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
-- [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
@@ -927,7 +926,7 @@
 - [criimera/steam-mass-comment-bot](https://github.com/criimera/steam-mass-comment-bot) - 💬 Easily comment under a ton of steam profiles, groups, sharedfiles & discussions with one account!
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 - [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 
@@ -982,7 +981,7 @@
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -1066,7 +1065,7 @@
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
@@ -2145,7 +2144,7 @@
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme) - Mono Firefox Theme for Linux
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–151) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (130–152) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
@@ -2369,7 +2368,7 @@
 
 - [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio) - Astro cartoon portfolio
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -3078,7 +3077,7 @@
 - [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext) - Web extension to sync bookmarks between browsers to the cloud file host of your choice
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [gnonio/korporize](https://github.com/gnonio/korporize) - OCR - Object Character Recognition for any image you browse upon
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -3304,7 +3303,7 @@
 ## library 
 
 - [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
@@ -3560,7 +3559,7 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
@@ -4083,7 +4082,7 @@
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
@@ -4376,7 +4375,7 @@
 - [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
@@ -8021,7 +8020,7 @@
 - [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
-- [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
+- [nathanchapman/zfunctions](https://github.com/nathanchapman/zfunctions) - 🔮 A collection of useful zsh functions
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
