@@ -199,7 +199,6 @@
 - [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) - Launcher scripts for SillyTavern and ST-Extras.
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot) - :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data
-- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 
@@ -210,7 +209,6 @@
 ## C 
 
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
-- [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets) - 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 - [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer) - 
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -333,7 +331,6 @@
 
 ## CSS 
 
-- [Biinladen/NewFox](https://github.com/Biinladen/NewFox) - 🦊 Customize your Firefox experience with NewFox, a minimal theme featuring userContent and userChrome for a sleek, personalized look.
 - [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
 - [tromoSM/Better-Firefox](https://github.com/tromoSM/Better-Firefox) - Enhance the firefox user interface with betterFirefox
@@ -3286,6 +3283,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [krestaino/macos-folder-icons](https://github.com/krestaino/macos-folder-icons) - 📁 Generate custom folder icons using images or SF Symbols.
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action) - A GitHub action for rapid deployment of Shopify themes.
 - [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action) - A GitHub action that pulls changes from Shopify Theme Kit themes.
 - [tombowditch/scripts](https://github.com/tombowditch/scripts) - General Scripts
@@ -3349,6 +3347,7 @@
 
 ## Swift 
 
+- [A-Archives-and-Forks/Adobe-Downloader](https://github.com/A-Archives-and-Forks/Adobe-Downloader) - macOS Adobe apps download & installer
 - [jhasubhash/btt-plugins](https://github.com/jhasubhash/btt-plugins) - collection of btt plugins I use everyday
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
