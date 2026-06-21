@@ -4874,7 +4874,7 @@
 - [Futur3Sn0w/futur3f0x](https://github.com/Futur3Sn0w/futur3f0x) - My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 - [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder) - A NodeJS ReVanced Extended builder
 - [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
-- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
+- [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.
 - [psbarrales/LLM-automator](https://github.com/psbarrales/LLM-automator) - Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 - [LudWittg/Pocket-exporter](https://github.com/LudWittg/Pocket-exporter) - A simple export utility for Pocket articles
 - [torerobo/maigret](https://github.com/torerobo/maigret) - Collect a dossier on a person by username from a huge number of sites
