@@ -2620,7 +2620,6 @@
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [tstanmay13/trend](https://github.com/tstanmay13/trend) - 
-- [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
@@ -3063,6 +3062,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -3617,6 +3617,7 @@
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep) - ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
+- [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [Mattlk13/poogle](https://github.com/Mattlk13/poogle) - Porn finder. Search simultaneously on different porn websites to display it once.
 - [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer) - Easily browse, share, and add prompts to Raycast
 - [techwithanirudh/portfolio](https://github.com/techwithanirudh/portfolio) - Portfolio of Anirudh (techwithanirudh).
@@ -3661,7 +3662,6 @@
 - [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy) - Integrate any OpenAI-compatible API with Raycast AI
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
-- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Generate a BetterTouchTool Floating WebView/HTML Menu radial menu UI, where each menu item triggers an existing BetterTouchTool trigger via its UUID.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
