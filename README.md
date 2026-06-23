@@ -151,7 +151,7 @@
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
 - [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
-- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
@@ -931,6 +931,7 @@
 
 ## Java 
 
+- [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool) - A tool for reverse engineering Android apk files
 - [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
@@ -1144,6 +1145,7 @@
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [ikipatang/shaarli-web-extension](https://github.com/ikipatang/shaarli-web-extension) - A Web Extension for Shaarli
+- [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset) - A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
@@ -3727,7 +3729,6 @@
 - [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pantharshit007/automatedMails](https://github.com/pantharshit007/automatedMails) - An automated email response system powered by Google's Gemini AI that intelligently processes and responds to emails based on their content.
 - [aliyss/syncribullet](https://github.com/aliyss/syncribullet) - Allows for syncing currently watched items from Stremio
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
