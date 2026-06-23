@@ -4441,6 +4441,7 @@
 
 ## others 
 
+- [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool) - A tool for reverse engineering Android apk files
 - [A-Archives-and-Forks/Adobe-Downloader](https://github.com/A-Archives-and-Forks/Adobe-Downloader) - macOS Adobe apps download & installer
 - [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon) - Stremio Streaming Catalogs Addon
 - [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme) - Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy.
@@ -4564,7 +4565,7 @@
 - [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper) - MLB Odds Scraper
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
 - [codewithsadee/julia-portfolio](https://github.com/codewithsadee/julia-portfolio) - A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
-- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
 - [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen) - Reopen closed & minimized windows with Command+Tab
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API) - AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
