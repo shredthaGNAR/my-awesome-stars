@@ -1010,9 +1010,8 @@
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
-- [chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension](https://github.com/chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [oriz-org/bookmark-mind-bs-ext](https://github.com/oriz-org/bookmark-mind-bs-ext) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
-- [criimera/steam-mass-comment-bot](https://github.com/criimera/steam-mass-comment-bot) - 💬 Easily comment under a ton of steam profiles, groups, sharedfiles & discussions with one account!
 - [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index) - Find the best models for any task. For free.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
 - [pezzos/raycast-ai-assistant](https://github.com/pezzos/raycast-ai-assistant) - A collection of AI-powered tools to enhance your productivity.
@@ -1693,7 +1692,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
@@ -2162,6 +2161,7 @@
 - [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates) - My collection of Obsidian Web Clipper templates
 - [marcoagpinto/aoo-mozilla-en-dict](https://github.com/marcoagpinto/aoo-mozilla-en-dict) - English Dictionaries Project
 - [Svznify/MorpheX](https://github.com/Svznify/MorpheX) - Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
+- [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited) - Cross-platform unlimited credits solution for Cursor Desktop.
 - [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist) - Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 - [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
