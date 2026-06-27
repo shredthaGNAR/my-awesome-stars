@@ -2219,7 +2219,7 @@
 - [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme) - Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme wi
 - [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview) - This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
-- [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
+- [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks) - 🦊 My current userChrome.css config for Firefox. Photon like design for Firefox.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js) - 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -6160,7 +6160,6 @@
 - [realoatesman/Dawn](https://github.com/realoatesman/Dawn) - Shopify Dawn Dev Theme
 - [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections) - Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 - [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template) - 
-- [blanklob/helium](https://github.com/blanklob/helium) - Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind..
 - [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 - [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins) - Official Shopify Theme Lab Plugins
 - [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis) - Shopify os 2.0 first theme of mine
