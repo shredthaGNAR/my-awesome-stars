@@ -4441,6 +4441,7 @@
 
 ## others 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
 - [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool) - A tool for reverse engineering Android apk files
 - [A-Archives-and-Forks/Adobe-Downloader](https://github.com/A-Archives-and-Forks/Adobe-Downloader) - macOS Adobe apps download & installer
@@ -7345,6 +7346,7 @@
 
 ## tailwind 
 
+- [cosmoart/CodeDev](https://github.com/cosmoart/CodeDev) - 🌐 Fictional landing page about a consulting firm. Made with Astro, Tailwind, GSAP and Three.js.
 - [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) - Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
@@ -7356,6 +7358,7 @@
 
 ## tailwindcss 
 
+- [cosmoart/CodeDev](https://github.com/cosmoart/CodeDev) - 🌐 Fictional landing page about a consulting firm. Made with Astro, Tailwind, GSAP and Three.js.
 - [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) - Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
