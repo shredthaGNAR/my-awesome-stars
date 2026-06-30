@@ -2441,7 +2441,7 @@
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [maustinstar/MacOS-Skin](https://github.com/maustinstar/MacOS-Skin) - Custom icon sets for MacOS Apps
 - [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird) - The Firefox "Alpenglow" Theme for Thunderbird.
-- [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - A list of tools to search accounts by username
+- [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - 🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts) - this is a custom script repository,
 - [mendel5/thunderbird](https://github.com/mendel5/thunderbird) - How to configure Mozilla Thunderbird
@@ -3532,6 +3532,7 @@
 
 ## TypeScript 
 
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -4018,7 +4019,7 @@
 
 ## XSLT 
 
-- [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead) - Space Ahead! An Astro v6 powered personal blog template.
+- [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead) - Space Ahead! An Astro v7 powered personal blog template.
 
 ## templ 
 
