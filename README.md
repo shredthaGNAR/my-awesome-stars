@@ -1009,7 +1009,7 @@
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
-- [oriz-org/bookmark-mind-bs-ext](https://github.com/oriz-org/bookmark-mind-bs-ext) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [chirag127/bookmark-mind-bs-ext](https://github.com/chirag127/bookmark-mind-bs-ext) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index) - Find the best models for any task. For free.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -4014,7 +4014,7 @@
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
+- [reeywhaar/tabsaver](https://github.com/reeywhaar/tabsaver) - WebExtension to manage tabs
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 - [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron
 
