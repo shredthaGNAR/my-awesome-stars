@@ -2617,7 +2617,7 @@
 - [nixgates/plugin.video.seren](https://github.com/nixgates/plugin.video.seren) - Repository for Seren Development
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
-- [tstanmay13/trend](https://github.com/tstanmay13/trend) - 
+- [tstanmay13/trend](https://github.com/tstanmay13/trend) - Auto-curated daily digest of dev trends — GitHub Trending, Hacker News, npm, PyPI — fetched and committed on a cron.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
