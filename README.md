@@ -3117,6 +3117,7 @@
 
 ## Shell 
 
+- [glenrobertson/macos-ai-screenshot-renamer](https://github.com/glenrobertson/macos-ai-screenshot-renamer) - A MacOS launchd/Shortcut that renames screenshot files using Apple Intelligence
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
 - [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder) - A Magisk/KernelSU module and Apk builder for Morphe patches
