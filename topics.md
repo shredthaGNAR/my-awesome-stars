@@ -4487,6 +4487,7 @@
 
 ## others 
 
+- [glenrobertson/macos-ai-screenshot-renamer](https://github.com/glenrobertson/macos-ai-screenshot-renamer) - A MacOS launchd/Shortcut that renames screenshot files using Apple Intelligence
 - [asleepace/ai-rename-screenshot](https://github.com/asleepace/ai-rename-screenshot) - Swift helper for renaming Screenshots with Ai
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
