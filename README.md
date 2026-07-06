@@ -279,6 +279,7 @@
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [MrHiTech123/GameAISplineAndRaycast](https://github.com/MrHiTech123/GameAISplineAndRaycast) - 
+- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant on your phone
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
 - [screwtape9/scratcher](https://github.com/screwtape9/scratcher) - Command line utility to get GA lottery scratch off ticket claimed percentage.
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
@@ -332,6 +333,7 @@
 
 ## CSS 
 
+- [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 - [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
 - [tromoSM/Better-Firefox](https://github.com/tromoSM/Better-Firefox) - Enhance the firefox user interface with betterFirefox
@@ -1906,7 +1908,6 @@
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Patches for Morphe
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
-- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant on your phone
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
@@ -3536,7 +3537,7 @@
 
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with chatbots
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater) - Extends Templater with AI Chat commands using the OpenAI Client Library
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -3797,7 +3798,7 @@
 - [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage) - A simple way to clean up your Pocket links in close to no time.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
