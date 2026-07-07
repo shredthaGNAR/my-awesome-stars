@@ -1694,7 +1694,6 @@
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
-- [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement) - 
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - 🎭 Lightweight WebGL & JavaScript library for real-time multi-face detection, tracking and augmented-reality face filters. Supports rotation, mouth-opening and integrates with Three.js, Babylon.js, Can
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
@@ -3537,7 +3536,7 @@
 
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Chatbot-first AI coding for VS Code
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater) - Extends Templater with AI Chat commands using the OpenAI Client Library
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
