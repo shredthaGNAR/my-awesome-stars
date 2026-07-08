@@ -2046,6 +2046,7 @@
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
 
 ## Makefile 
 
@@ -2599,7 +2600,7 @@
 - [ZethYoutube/BovadaEVBot](https://github.com/ZethYoutube/BovadaEVBot) - 
 - [zaltaie/SportsBettingArbitrage](https://github.com/zaltaie/SportsBettingArbitrage) - Arbitrage betting algo, that searches and bets on safe wins on multiple betting platforms
 - [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper) - MLB Odds Scraper
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 - [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 - [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API) - AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -2742,7 +2743,7 @@
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
@@ -3726,7 +3727,6 @@
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
-- [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD) - A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links f
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [pantharshit007/automatedMails](https://github.com/pantharshit007/automatedMails) - An automated email response system powered by Google's Gemini AI that intelligently processes and responds to emails based on their content.
