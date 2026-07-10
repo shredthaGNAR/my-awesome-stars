@@ -287,6 +287,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -5331,7 +5332,6 @@
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets) - A WebExtension for adding custom context menu items that execute JavaScript.
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
-- [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
 - [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget) - Simple AirPods battery btt widget for macOS Ventura
 - [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar) -  Spotify touchbar widget for Macbook touchbar
 - [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script) - A simple browser script that helps exporting saved OneTab meta data
@@ -5843,8 +5843,6 @@
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [wyugen/shopify-theme-action](https://github.com/wyugen/shopify-theme-action) - Deploy Previews for Shopify themes
-- [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action) - A GitHub action for rapid deployment of Shopify themes.
-- [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action) - A GitHub action that pulls changes from Shopify Theme Kit themes.
 - [JamieMagee/wayback](https://github.com/JamieMagee/wayback) - Save pages to the Wayback Machine as part of your CI/CD pipeline
 - [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 - [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
@@ -5920,7 +5918,6 @@
 - [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d) - Seed project for 2D games
 - [dougpark/dayone](https://github.com/dougpark/dayone) - Better Touch Tool create a DayOne journal entry
 - [mirka/keyboard-maestro-plugin-actions](https://github.com/mirka/keyboard-maestro-plugin-actions) - Plugin actions for Keyboard Maestro
-- [ChrisPenner/btt-quicknav](https://github.com/ChrisPenner/btt-quicknav) - HTML overlay for quickly navigating your computer
 - [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar) - Touch Bar BTT config for QLab.
 - [mBilG/macOS-Dynamic-Wallpaper](https://github.com/mBilG/macOS-Dynamic-Wallpaper) - Vector Graphic for dynamic wallpaper
 - [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader) - Downloads Snapchat Memories Quickly and Efficiently
@@ -6265,7 +6262,6 @@
 - [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources) - A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 - [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control) - Automatic Git version control for Shopify settings_data.json via CI/CD
 - [krjo/shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow) - 
-- [freyum/shopify-workflow-poc](https://github.com/freyum/shopify-workflow-poc) - PoC of Shopify development workflow using GitHub Actions with multiple environments.
 - [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
 - [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS) - Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 - [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact) - Compact userChrome for Firefox Proton
@@ -7947,6 +7943,24 @@
 
 - [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator) - Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## workflow 
+
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+- [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
+- [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
+- [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
+- [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
+- [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
+- [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders) - Quick access to your Smart Folders (Saved Searches) from Alfred
+- [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow) - Alfred workflow to easily open GitHub repositories
+- [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
+- [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
+- [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action) - A GitHub action for rapid deployment of Shopify themes.
+- [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action) - A GitHub action that pulls changes from Shopify Theme Kit themes.
+- [ChrisPenner/btt-quicknav](https://github.com/ChrisPenner/btt-quicknav) - HTML overlay for quickly navigating your computer
+- [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list with Alfred
+- [freyum/shopify-workflow-poc](https://github.com/freyum/shopify-workflow-poc) - PoC of Shopify development workflow using GitHub Actions with multiple environments.
 
 ## xcode 
 
