@@ -151,7 +151,7 @@
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
 - [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
-- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Freelance Astro Develop
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
@@ -1011,7 +1011,7 @@
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
-- [chirag127/ext-bookmark-mind](https://github.com/chirag127/ext-bookmark-mind) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index) - Find the best models for any task. For free.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -1691,7 +1691,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
@@ -2751,7 +2751,7 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources (click 🔴 The Sources 🔴 to view),
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources (click 🔴 The Sources 🔴 in README
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -3051,7 +3051,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [lastIndexOf/macproxy](https://github.com/lastIndexOf/macproxy) - Forward raycast ai chat interface to gpt4-turbo
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3143,7 +3143,6 @@
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts) - Automatic compiled Userscript make it run faster
-- [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts) - Raycast automation scripts for AI services, API testing, and YouTube summarization
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [kdabir/finder-buttons](https://github.com/kdabir/finder-buttons) - MacOS Finder buttons for quick actions
 - [Anatoly-IVANOV/macos-finder-file-path-copy](https://github.com/Anatoly-IVANOV/macos-finder-file-path-copy) - Right-click on a file / folder in MacOS Finder.app to copy its URI path to the clipboard to paste it somewhere
