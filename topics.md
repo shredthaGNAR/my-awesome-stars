@@ -300,7 +300,7 @@
 
 ## agent 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -325,7 +325,7 @@
 
 ## agents 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
@@ -345,7 +345,7 @@
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
 - [frolvanya/ai-humanizer](https://github.com/frolvanya/ai-humanizer) - AI Humanizer
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [ayoubchwt/TL-WR](https://github.com/ayoubchwt/TL-WR) - TL;WR automatically summarizes long Reddit posts and threads into concise, easy-to-read bullet points.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -473,7 +473,7 @@
 
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
-- [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli) - Morphe desktop patching tool
+- [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection) - Welcome to the Curated List of Best Awesome Apps & Sites Collection! Apps suggestion, Websites recommendation, Websites guide.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -1181,7 +1181,7 @@
 - [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts) - A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions w
 - [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
@@ -1425,7 +1425,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
-- [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli) - Morphe desktop patching tool
+- [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
@@ -2073,7 +2073,7 @@
 
 ## fastapi 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 
@@ -4104,7 +4104,7 @@
 ## nextjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
@@ -4922,7 +4922,7 @@
 - [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver) - Linkding bookmark manager + SingleFile archiving combined
 - [chrismessina/extensions](https://github.com/chrismessina/extensions) - Everything you need to extend Raycast.
 - [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts) - Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [Futur3Sn0w/futur3f0x](https://github.com/Futur3Sn0w/futur3f0x) - My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 - [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder) - A NodeJS ReVanced Extended builder
 - [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
@@ -5426,7 +5426,7 @@
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads) - Tweak to remove "Promoted" post on Reddit app for iOS!
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
-- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
+- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code.
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
 - [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter) - A command line utility to export Google Keep notes to markdown.
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut
@@ -6658,7 +6658,7 @@
 
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [klane/databall](https://github.com/klane/databall) - Betting on the NBA with data
 - [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 - [SportsDataDirect/python_tutorials](https://github.com/SportsDataDirect/python_tutorials) - Tutorials written in python for Sports Data Direct
@@ -6828,7 +6828,7 @@
 ## rag 
 
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant on your phone
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
@@ -7533,7 +7533,7 @@
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
 - [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast) - The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 - [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts) - A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions w
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync) - An All-in-One Sports Extension for Raycast
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
