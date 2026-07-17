@@ -1328,7 +1328,7 @@
 - [litejs/json-lite](https://github.com/litejs/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
 - [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome) - My UserChrome Css and Script
 - [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window) - Firefox extension for opening links in other window.
-- [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque) - A Firefox extension for better tab handling.
+- [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque) - A webextension for better tab handling. Inspired by Opera 12
 - [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code.
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
@@ -2106,7 +2106,6 @@
 - [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
-- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 - [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - macOS app to capture your screen as a layered PSD file
@@ -3417,6 +3416,7 @@
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
 - [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+- [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - 📂 macOS Finder toolbar app to open current folder in Visual Studio Code
 - [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut
 - [ZzzM/HostsX](https://github.com/ZzzM/HostsX) - A lightweight macOS app for updating local hosts
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
