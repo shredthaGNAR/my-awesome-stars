@@ -143,6 +143,8 @@
 
 ## Astro 
 
+- [milzamsz/astro-cloudflare-starter](https://github.com/milzamsz/astro-cloudflare-starter) - Static Astro marketing + blog + docs starter for Cloudflare Pages. Markdown content, Starlight docs with full-text search, i18n-ready, SEO, light/dark — no CMS, no database.
+- [peltmonger/stardrive](https://github.com/peltmonger/stardrive) - The Astro boilerplate to create super stable and fast websites in the AI age
 - [cosmoart/CodeDev](https://github.com/cosmoart/CodeDev) - 🌐 Fictional landing page about a consulting firm. Made with Astro, Tailwind, GSAP and Three.js.
 - [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template) - Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
 - [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme) - Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy.
@@ -363,7 +365,7 @@
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [minoplhy/filters](https://github.com/minoplhy/filters) - Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
-- [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox) - 
+- [sp4ce99/classic-tabs-firefox](https://github.com/sp4ce99/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
@@ -998,6 +1000,9 @@
 
 ## JavaScript 
 
+- [noahvogt/copy-url-on-hover](https://github.com/noahvogt/copy-url-on-hover) - brower extension to copy URL's on hover when pressing Y
+- [p-wis/ReplaceSelectionAI](https://github.com/p-wis/ReplaceSelectionAI) - Firefox extension that processes selected text (or clipboard content) with AI and replaces it in place. Supports OpenAI, Anthropic Claude, and any OpenAI-compatible provider. Define your own prompts —
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode) - 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 - [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon) - Stremio Streaming Catalogs Addon
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
@@ -2149,6 +2154,8 @@
 
 ## Others 
 
+- [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [DabbinDallas/A4K_Recommendations](https://github.com/DabbinDallas/A4K_Recommendations) - Kodi Third-Party Add-ons and Tools Guide
 - [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches) - https://gitlab.com/revanced/revanced-patches
 - [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers) - json players for TheMovieDb-Helper in Kodi 21
@@ -2442,7 +2449,6 @@
 - [apilayer/numverify-API](https://github.com/apilayer/numverify-API) - Free global phone number validation & lookup JSON API
 - [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts) - this is a custom script repository,
 - [mendel5/thunderbird](https://github.com/mendel5/thunderbird) - How to configure Mozilla Thunderbird
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
@@ -2569,6 +2575,12 @@
 
 ## Python 
 
+- [syedamaann/smart_renamer](https://github.com/syedamaann/smart_renamer) - Automates screenshot labeling using OpenAI's GPT-4 Vision
+- [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
+- [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
 - [jason5122/switcher](https://github.com/jason5122/switcher) - 
@@ -3114,6 +3126,7 @@
 
 ## Shell 
 
+- [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova) - A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge
 - [glenrobertson/macos-ai-screenshot-renamer](https://github.com/glenrobertson/macos-ai-screenshot-renamer) - A MacOS launchd/Shortcut that renames screenshot files using Apple Intelligence
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
@@ -3342,6 +3355,7 @@
 
 ## Swift 
 
+- [Vatsal057/chrome-to-safari](https://github.com/Vatsal057/chrome-to-safari) - Turn any Chrome extension — even straight from a Chrome Web Store link — into a signed Safari extension with one command. Free Apple ID signing, no $99 dev account, no re-enabling unsigned extensions 
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 - [TroopJostle/alt-tab-community](https://github.com/TroopJostle/alt-tab-community) - Windows alt-tab on macOS
 - [asleepace/ai-rename-screenshot](https://github.com/asleepace/ai-rename-screenshot) - Swift helper for renaming Screenshots with Ai
@@ -3534,6 +3548,9 @@
 
 ## TypeScript 
 
+- [QuoVadis2020/raycast2api-mirror-001](https://github.com/QuoVadis2020/raycast2api-mirror-001) - 
+- [addfox/addfox](https://github.com/addfox/addfox) - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free
+- [pfrankov/obsidian-ai-providers](https://github.com/pfrankov/obsidian-ai-providers) - This plugin is a hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Chatbot-first AI coding for VS Code
