@@ -301,8 +301,9 @@
 
 ## agent 
 
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -328,7 +329,7 @@
 
 ## agents 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [inai-sandy/inAI-wiki](https://github.com/inai-sandy/inAI-wiki) - 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
@@ -340,6 +341,7 @@
 
 ## ai 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -352,7 +354,7 @@
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
 - [frolvanya/ai-humanizer](https://github.com/frolvanya/ai-humanizer) - AI Humanizer
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [ayoubchwt/TL-WR](https://github.com/ayoubchwt/TL-WR) - TL;WR automatically summarizes long Reddit posts and threads into concise, easy-to-read bullet points.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -1614,6 +1616,7 @@
 
 ## crawler 
 
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
@@ -1871,7 +1874,6 @@
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
-- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 - [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode) - With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -2101,7 +2103,7 @@
 
 ## fastapi 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 
@@ -2473,6 +2475,7 @@
 
 ## generative-ai 
 
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -2626,6 +2629,7 @@
 
 ## google 
 
+- [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [EliFuzz/awesome-system-prompts](https://github.com/EliFuzz/awesome-system-prompts) - A collection of system prompts and tool definitions from various AI coding agents: Augment Code, Claude Code, Cluely, Cursor, Devin AI, Kiro, Perplexity, VSCode Agent, Gemini, Codex, OpenAI
@@ -2806,7 +2810,6 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -3465,6 +3468,7 @@
 
 ## llm 
 
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
@@ -3959,6 +3963,7 @@
 
 ## malware 
 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
@@ -4028,6 +4033,7 @@
 
 ## mcp 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
 - [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode) - 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
@@ -4141,7 +4147,7 @@
 ## nextjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
@@ -4403,6 +4409,7 @@
 
 ## openai 
 
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
@@ -4529,6 +4536,10 @@
 
 ## others 
 
+- [raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools) - Utility to use Swift in a Raycast extension
+- [FezVrasta/raycast-toolkit](https://github.com/FezVrasta/raycast-toolkit) - Utilities and Components to extend the Raycast Extensions API functionalities
+- [Pyenb/Pi-hole-blocklist](https://github.com/Pyenb/Pi-hole-blocklist) - A comprehensive blocklist for Pi-hole (or any other service). Updated daily. Around 2.4 million domains.
+- [sh2/extension-summarize-translate-gemini](https://github.com/sh2/extension-summarize-translate-gemini) - Chrome extension to summarize and translate web pages. Uses Gemini or an OpenAI-compatible API as the backend.
 - [swalker326/obsidian-smart-capture](https://github.com/swalker326/obsidian-smart-capture) - A Raycast extension that uses AI to organize captured notes in an Obsidian vault
 - [p-wis/ReplaceSelectionAI](https://github.com/p-wis/ReplaceSelectionAI) - Firefox extension that processes selected text (or clipboard content) with AI and replaces it in place. Supports OpenAI, Anthropic Claude, and any OpenAI-compatible provider. Define your own prompts —
 - [syedamaann/smart_renamer](https://github.com/syedamaann/smart_renamer) - Automates screenshot labeling using OpenAI's GPT-4 Vision
@@ -4887,7 +4898,7 @@
 - [shredthaGNAR/my_portfolio_site](https://github.com/shredthaGNAR/my_portfolio_site) - Lucas McKay's Personal Website & Collections of Projects
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb) - Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
-- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings) - List and comparison of services for publishing and sharing files on the Internet
 - [programming086/my_site](https://github.com/programming086/my_site) - Files for site
 - [gchai/macos-mac-address-changer](https://github.com/gchai/macos-mac-address-changer) - 
@@ -6473,6 +6484,8 @@
 
 ## phishing 
 
+- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 7,641 domains,   86% of active content confirmed malicious.
+- [romainmarcoux/malicious-domains](https://github.com/romainmarcoux/malicious-domains) - Aggregation of lists of malicious domains (phishing) that can be integrated into FortiGate firewalls and other products.
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from phishing and malicious websites.
 - [SystemJargon/filters](https://github.com/SystemJargon/filters) - A repo containing DNS blocklists and allowlist/s. Various categories of lists, updated and validated often.  Wiki included.
 - [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. Curated from multiple sources (click 🔴 The Sources 🔴 in README.md to view), these b
@@ -6536,6 +6549,10 @@
 
 ## privacy 
 
+- [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter) - Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
+- [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
+- [zangadoprojets/pi-hole-blocklist](https://github.com/zangadoprojets/pi-hole-blocklist) - Neste repositório você encontrará listas de bloqueio personalizadas para o serviço PiHole. Elas podem ser usadas em serviços semelhantes (AdGuard, Ublock). | English:  In this repository you will find
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
 - [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js) - fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements.
@@ -6635,7 +6652,6 @@
 - [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
-- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
@@ -6716,7 +6732,7 @@
 
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [klane/databall](https://github.com/klane/databall) - Betting on the NBA with data
 - [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 - [SportsDataDirect/python_tutorials](https://github.com/SportsDataDirect/python_tutorials) - Tutorials written in python for Sports Data Direct
@@ -6839,6 +6855,7 @@
 
 ## python3 
 
+- [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
 - [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools) - All In One Tools Hacking
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 - [annedorko/highlight](https://github.com/annedorko/highlight) - Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
@@ -6887,7 +6904,7 @@
 
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant on your phone
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -7118,6 +7135,7 @@
 
 ## security 
 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [metriclogic26/domain-preflight](https://github.com/metriclogic26/domain-preflight) - Free DNS pre-flight checker — audit SPF, DKIM, DMARC before your email breaks
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
@@ -7594,7 +7612,7 @@
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
 - [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast) - The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 - [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts) - A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions w
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync) - An All-in-One Sports Extension for Raycast
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -8045,6 +8063,7 @@
 
 ## youtube 
 
+- [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
 - [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder) - A Magisk/KernelSU module and Apk builder for Morphe patches
 - [Svznify/MorpheX](https://github.com/Svznify/MorpheX) - Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
 - [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks) - A collection of userscripts and a uBlock Origin blocklist for YouTube.
