@@ -60,6 +60,7 @@
 - [Pug](#pug)
 - [Python](#python)
 - [R](#r)
+- [RouterOS Script](#routeros-script)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -256,6 +257,7 @@
 
 ## C# # 
 
+- [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter) - Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [aportner/BovadaHUD](https://github.com/aportner/BovadaHUD) - Attempt to create a HUD for Bovada poker
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -631,6 +633,7 @@
 
 ## DIGITAL Command Language 
 
+- [romainmarcoux/malicious-domains](https://github.com/romainmarcoux/malicious-domains) - Aggregation of lists of malicious domains (phishing) that can be integrated into FortiGate firewalls and other products.
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 
 ## Dart 
@@ -937,7 +940,7 @@
 - [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 - [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn) - Decentralized P2P exchange platform built on Monero and Tor
 - [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
@@ -998,6 +1001,7 @@
 
 ## JavaScript 
 
+- [sh2/extension-summarize-translate-gemini](https://github.com/sh2/extension-summarize-translate-gemini) - Chrome extension to summarize and translate web pages. Uses Gemini or an OpenAI-compatible API as the backend.
 - [noahvogt/copy-url-on-hover](https://github.com/noahvogt/copy-url-on-hover) - brower extension to copy URL's on hover when pressing Y
 - [p-wis/ReplaceSelectionAI](https://github.com/p-wis/ReplaceSelectionAI) - Firefox extension that processes selected text (or clipboard content) with AI and replaces it in place. Supports OpenAI, Anthropic Claude, and any OpenAI-compatible provider. Define your own prompts —
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -1322,7 +1326,6 @@
 - [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
-- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
 - [zimocode/smartup](https://github.com/zimocode/smartup) - A customizable web browser mouse gestures extension with a variety of actions.
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [litejs/json-lite](https://github.com/litejs/json-lite) - Fast non-blocking JSON viewer for Chrome and Firefox
@@ -2152,6 +2155,9 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [zangadoprojets/pi-hole-blocklist](https://github.com/zangadoprojets/pi-hole-blocklist) - Neste repositório você encontrará listas de bloqueio personalizadas para o serviço PiHole. Elas podem ser usadas em serviços semelhantes (AdGuard, Ublock). | English:  In this repository you will find
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [DabbinDallas/A4K_Recommendations](https://github.com/DabbinDallas/A4K_Recommendations) - Kodi Third-Party Add-ons and Tools Guide
@@ -2572,6 +2578,9 @@
 
 ## Python 
 
+- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 7,641 domains,   86% of active content confirmed malicious.
+- [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
+- [Pyenb/Pi-hole-blocklist](https://github.com/Pyenb/Pi-hole-blocklist) - A comprehensive blocklist for Pi-hole (or any other service). Updated daily. Around 2.4 million domains.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
 - [syedamaann/smart_renamer](https://github.com/syedamaann/smart_renamer) - Automates screenshot labeling using OpenAI's GPT-4 Vision
@@ -2607,7 +2616,7 @@
 - [ZethYoutube/BovadaEVBot](https://github.com/ZethYoutube/BovadaEVBot) - 
 - [zaltaie/SportsBettingArbitrage](https://github.com/zaltaie/SportsBettingArbitrage) - Arbitrage betting algo, that searches and bets on safe wins on multiple betting platforms
 - [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper) - MLB Odds Scraper
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer) - Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 - [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API) - AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
@@ -3007,6 +3016,10 @@
 - [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR) - R package to scrape live sports betting odds
 - [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator) - simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 
+## RouterOS Script 
+
+- [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
+
 ## Ruby 
 
 - [Fotom/Fortune](https://github.com/Fotom/Fortune) - Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
@@ -3353,6 +3366,7 @@
 
 ## Swift 
 
+- [raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools) - Utility to use Swift in a Raycast extension
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [Vatsal057/chrome-to-safari](https://github.com/Vatsal057/chrome-to-safari) - Turn any Chrome extension — even straight from a Chrome Web Store link — into a signed Safari extension with one command. Free Apple ID signing, no $99 dev account, no re-enabling unsigned extensions 
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
@@ -3547,6 +3561,7 @@
 
 ## TypeScript 
 
+- [FezVrasta/raycast-toolkit](https://github.com/FezVrasta/raycast-toolkit) - Utilities and Components to extend the Raycast Extensions API functionalities
 - [swalker326/obsidian-smart-capture](https://github.com/swalker326/obsidian-smart-capture) - A Raycast extension that uses AI to organize captured notes in an Obsidian vault
 - [QuoVadis2020/raycast2api-mirror-001](https://github.com/QuoVadis2020/raycast2api-mirror-001) - 
 - [addfox/addfox](https://github.com/addfox/addfox) - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free
