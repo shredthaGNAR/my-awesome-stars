@@ -1442,6 +1442,7 @@
 - [sakuyaa/readLater](https://github.com/sakuyaa/readLater) - A Read-it-later extension for Firefox using WebExtension APIs
 - [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome) - Chrome extension for The Old Reader
 - [weierz/chrome-read-later](https://github.com/weierz/chrome-read-later) - A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
+- [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager) - Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url) - ShortcutKey2URL - Firefox Extension
@@ -1678,7 +1679,7 @@
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move) - 右クリックからタブを別のウインドウに送る Firefox アドオン
-- [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+- [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls) - A Firefox extension to list and filter open tabs, export the result to a file.
 - [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replaces thumbnails and modifies titles of videos on youtube.com
 - [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move) - Firefox addon that lets you move a tab to the start or the end of the tab bar
 - [l10nelw/winger](https://github.com/l10nelw/winger) - Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
