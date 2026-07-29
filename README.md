@@ -1141,7 +1141,6 @@
 - [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog) - Open a finder dialog window (finder prompt) programmatically.
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 - [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker) - Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder) - A NodeJS ReVanced Extended builder
 - [micz/ThunderAI](https://github.com/micz/ThunderAI) - ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
@@ -1479,7 +1478,7 @@
 - [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper) - 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 - [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt) - 
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
@@ -2173,7 +2172,6 @@
 - [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection) - A list of Apple Intelligence prompt injections.
 - [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension) - A GitHub action which ensures that a Raycast extension can be built successfully
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
-- [ruzcash/BetterTouchTool_Zcash](https://github.com/ruzcash/BetterTouchTool_Zcash) - BetterTouchTool JSON presets for crypto and Zcash monitoring, including price widgets, shielded pool stats, and large transaction alerts.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
 - [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy) - 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
@@ -3145,6 +3143,7 @@
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
 - [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder) - A Magisk/KernelSU module and Apk builder for Morphe patches
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
+- [ruzcash/BetterTouchTool_Zcash](https://github.com/ruzcash/BetterTouchTool_Zcash) - BetterTouchTool JSON presets for crypto and Zcash monitoring, including price widgets, shielded pool stats, and large transaction alerts.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [rlgrpe/ocr-raycast](https://github.com/rlgrpe/ocr-raycast) - macOS OCR screenshot tool with Raycast integration. Uses Vision API for fast multilingual text recognition (uk, ru, en).
 - [2lach/update-all-repos](https://github.com/2lach/update-all-repos) - One command to update all your repos
@@ -3384,7 +3383,7 @@
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
 - [blaise-io/acelink](https://github.com/blaise-io/acelink) - Play Ace Streams on macOS using Docker.
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📼 The missing YouTube and YouTube Music macOS app
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
@@ -3690,7 +3689,7 @@
 - [martabal/ff-diff](https://github.com/martabal/ff-diff) - ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YouTube Music and YouTube
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Tons of Enhancements for YouTube Music and YouTube
 - [nonbili/NouTube](https://github.com/nonbili/NouTube) - YouTube and YouTube Music in a single app. No ads, plays in the background.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai) - A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and i
@@ -3748,6 +3747,7 @@
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line) - Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) - 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 - [aesy/reddit-comment-highlights](https://github.com/aesy/reddit-comment-highlights) - A browser extension with minimal permissions that highlights Reddit.com comments since you've been away
@@ -4031,6 +4031,7 @@
 
 ## Vue 
 
+- [siteplay-ai/minimal](https://github.com/siteplay-ai/minimal) - Free template Minimal from siteplay.ai. It contains Next, Nuxt, Astro-vue, Astro-react, react and vue codebase for same template
 - [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later) - A light web browser extension to manage your read-it-later list easily.
 - [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - An all in one AI solution compatible with any known AI service on the planet
