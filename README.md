@@ -682,6 +682,7 @@
 
 - [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [dpshde/pocket-prompt-suite](https://github.com/dpshde/pocket-prompt-suite) - AI context management system with CLI, TUI, and Raycast integration
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -691,7 +692,7 @@
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past) - Alfred workflows I use
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -1073,7 +1074,6 @@
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV) - Grab EPG & M3U from Pluto.tv
 - [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api) - A simple, lightweight OpenAI to Ollama API adapter
-- [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [vetcoders/automator-mcp](https://github.com/vetcoders/automator-mcp) - MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 - [MrOtherGuy/bmbgone](https://github.com/MrOtherGuy/bmbgone) - 
 - [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs) - An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
@@ -1693,7 +1693,7 @@
 - [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js) - userChrome.js for Firefox
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer) - Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows) - Extension for Firefox
 - [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic) - Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
@@ -2295,7 +2295,6 @@
 - [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting) - A list of free web hosting websites for developers.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
-- [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [uhub/awesome-css](https://github.com/uhub/awesome-css) - A curated list of awesome CSS frameworks, libraries and software.
@@ -3584,7 +3583,6 @@
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
 - [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence) - 
 - [jinghaihan/rayext](https://github.com/jinghaihan/rayext) - A decentralized extension manager for Raycast.
 - [stevepeak/dexa-raycast](https://github.com/stevepeak/dexa-raycast) - Dexa raycast extension
@@ -3680,6 +3678,7 @@
 - [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy) - Use any LiteLLM model in Raycast AI without a subscription.
+- [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 - [yt-dlp/ejs](https://github.com/yt-dlp/ejs) - External JavaScript for yt-dlp supporting many runtimes
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
