@@ -155,7 +155,7 @@
 - [farrosfr/zenix](https://github.com/farrosfr/zenix) - A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
 - [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
-- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer. 
+- [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) - Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [toniRamos/portfolio](https://github.com/toniRamos/portfolio) - Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted proje
@@ -822,6 +822,7 @@
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
 - [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web) - Hugo Template for Freelancer Portfolio and Blog
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -1907,6 +1908,7 @@
 
 ## Kotlin 
 
+- [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Patches for Morphe
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
@@ -2218,7 +2220,7 @@
 - [tankxu/finder-dev-launcher](https://github.com/tankxu/finder-dev-launcher) - A set of Finder toolbar launchers for macOS developers. With these Automator apps you can add one-click buttons to Finder’s toolbar, so the current folder opens instantly in tools like VS Code, Claude
 - [objective-see/Malware](https://github.com/objective-see/Malware) - macOS Malware Collection
 - [makarandjadhav1/awesome-piracy-master](https://github.com/makarandjadhav1/awesome-piracy-master) - 
-- [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
+- [community-archive/web-clipper-templates](https://github.com/community-archive/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -2739,7 +2741,6 @@
 - [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset) - A dataset of poker hand strengths
 - [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer) - Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple stre
 - [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free) - 
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) - FMHY Filterlist
 - [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
@@ -3790,7 +3791,7 @@
 - [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend) - A fake Raycast backend that can be deployed to Vercel in just one step.
-- [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+- [community-archive/obsidian-style-settings](https://github.com/community-archive/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown) - OneTab URL list to markdown
 - [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer) - Extract helpful statistics about a poker player's tendencies from a hand history
 - [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser) - Parse hand histories from online poker sites
