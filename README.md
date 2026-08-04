@@ -284,6 +284,7 @@
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [MrHiTech123/GameAISplineAndRaycast](https://github.com/MrHiTech123/GameAISplineAndRaycast) - 
+- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
 - [screwtape9/scratcher](https://github.com/screwtape9/scratcher) - Command line utility to get GA lottery scratch off ticket claimed percentage.
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
@@ -2296,7 +2297,7 @@
 - [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting) - A list of free web hosting websites for developers.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [uhub/awesome-css](https://github.com/uhub/awesome-css) - A curated list of awesome CSS frameworks, libraries and software.
 - [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
@@ -2586,7 +2587,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
@@ -3394,7 +3395,7 @@
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI) - A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
-- [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - This library provides convenient way to use Coinpaprika.com API in Swift.
+- [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Official CoinPaprika API Swift client for iOS/macOS — coin prices, tickers, exchanges, and OHLCV.
 - [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe) - macOS app for screen-to-text OCR (Markdown, LaTeX, etc.)
 - [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 - [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate) - macOS Finder extension for creating new text documents with right-click
@@ -3650,7 +3651,6 @@
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers) - Bring Your Own Model in Raycast AI via extension
 - [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
-- [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant
 - [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep) - ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 - [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 - [Mattlk13/poogle](https://github.com/Mattlk13/poogle) - Porn finder. Search simultaneously on different porn websites to display it once.
