@@ -2712,7 +2712,6 @@
 - [tssandor/gasbar](https://github.com/tssandor/gasbar) - Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - AI-powered bookmark organizer that reads your exported bookmarks (Netscape format), categorizes them into folders using any OpenAI-compatible LLM, and exports them back — ready to import into any brow
 - [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer) - 
-- [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 - [davidpoblador/pocket-to-bookmarks-html](https://github.com/davidpoblador/pocket-to-bookmarks-html) - A pocket export to bookmarks.html converter
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
@@ -3352,6 +3351,7 @@
 
 ## Svelte 
 
+- [Free-The-Ai/free-ai](https://github.com/Free-The-Ai/free-ai) - FreeTheAi (Free The AI): free OpenAI-compatible AI API with 50+ models, Discord key signup, streaming, tools, images, Messages, and Responses. No credit card.
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox) - 
 - [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen) - config generator for revanced-magisk-module
