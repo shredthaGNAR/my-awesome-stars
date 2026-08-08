@@ -25,7 +25,6 @@
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -674,10 +673,6 @@
 
 - [andreyvit/env](https://github.com/andreyvit/env) - 
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Go 
 
 - [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
@@ -770,6 +765,7 @@
 
 ## HTML 
 
+- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds) - 
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
@@ -843,6 +839,7 @@
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks) - 
 - [g13nn/Email-Framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
@@ -2582,7 +2579,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
