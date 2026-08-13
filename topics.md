@@ -342,13 +342,14 @@
 
 ## ai 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, Lite
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited) - Cross-platform unlimited credits solution for Cursor Desktop.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -454,6 +455,7 @@
 
 ## ai-agents 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode) - 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
@@ -589,6 +591,8 @@
 
 ## api 
 
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+- [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync) - An All-in-One Sports Extension for Raycast
 - [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f) - Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
@@ -1385,6 +1389,7 @@
 
 ## claude 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -1422,6 +1427,7 @@
 
 ## claude-code 
 
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
@@ -1853,7 +1859,6 @@
 
 ## developer-tools 
 
-- [Free-The-Ai/free-ai](https://github.com/Free-The-Ai/free-ai) - FreeTheAi (Free The AI): free OpenAI-compatible AI API with 50+ models, Discord key signup, streaming, tools, images, Messages, and Responses. No credit card.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 - [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode) - 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
@@ -2627,6 +2632,7 @@
 
 ## google 
 
+- [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -2694,7 +2700,7 @@
 - [halo/LinkLiar](https://github.com/halo/LinkLiar) - :link: Link-Layer MAC spoofing GUI for macOS
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
@@ -3397,7 +3403,7 @@
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
@@ -3468,6 +3474,7 @@
 
 ## llm 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.
 - [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -3476,6 +3483,7 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 - [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode) - 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
+- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, Lite
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection) - A list of Apple Intelligence prompt injections.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -3704,7 +3712,7 @@
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
@@ -4528,6 +4536,7 @@
 
 ## others 
 
+- [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) - 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)
 - [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Darkcast/tids](https://github.com/Darkcast/tids) - Automate Touch ID for sudo commands directly in your macOS terminal! Gain secure fingerprint authentication for elevated privileges, effectively replacing passwords and boosting your command-line secu
@@ -5062,7 +5071,6 @@
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
@@ -5337,7 +5345,7 @@
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [DebianArch64/DebProvision](https://github.com/DebianArch64/DebProvision) - An alternative to Cydia Impactor and AltServer for ALL computers.
 - [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc) - Poker Hand Range Calculator
-- [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
+- [fromhgbwithluv/ReX-patches](https://github.com/fromhgbwithluv/ReX-patches) - 🧩 Patches for ReVanced
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -5615,7 +5623,7 @@
 - [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js) - 
 - [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js) - 
 - [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead) - Thunderbird Addon to automatically mark folders (like junk) as read.
-- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
+- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort Thunderbird mails with regex
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars) - my list of github stars fork
@@ -6618,7 +6626,7 @@
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
-- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, Lite
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
@@ -7084,7 +7092,7 @@
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -7141,7 +7149,7 @@
 - [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control) - Firefox addon (extension) that helps you define rules which will control which container a website opens in. Read more: https://kau.sh/blog/container-traffic-control/
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
@@ -7210,6 +7218,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 - [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -7965,7 +7974,7 @@
 - [kdalanon/LLM-AutoHotkey-Assistant](https://github.com/kdalanon/LLM-AutoHotkey-Assistant) - An AutoHotkey v2 application that utilizes OpenRouter.ai to seamlessly integrate Large Language Models into your daily workflow. Process texts with customizable prompts by pressing a hotkey and intera
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
