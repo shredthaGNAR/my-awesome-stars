@@ -1003,6 +1003,8 @@
 
 ## JavaScript 
 
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
+- [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [sh2/extension-summarize-translate-gemini](https://github.com/sh2/extension-summarize-translate-gemini) - Chrome extension to summarize and translate web pages. Uses Gemini or an OpenAI-compatible API as the backend.
 - [noahvogt/copy-url-on-hover](https://github.com/noahvogt/copy-url-on-hover) - brower extension to copy URL's on hover when pressing Y
 - [p-wis/ReplaceSelectionAI](https://github.com/p-wis/ReplaceSelectionAI) - Firefox extension that processes selected text (or clipboard content) with AI and replaces it in place. Supports OpenAI, Anthropic Claude, and any OpenAI-compatible provider. Define your own prompts —
@@ -1020,7 +1022,7 @@
 - [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts) - A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
-- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+- [chirag127/bookmark-mind](https://github.com/chirag127/bookmark-mind) - Browser extension that auto-organizes bookmarks with any OpenAI-compatible LLM — bring your own key. 13 built-in providers (Groq, OpenRouter, Gemini, Mistral, DeepSeek, OpenAI, LM Studio, Ollama, Lite
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index) - Find the best models for any task. For free.
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -1120,7 +1122,6 @@
 - [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f) - Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control) - Firefox addon (extension) that helps you define rules which will control which container a website opens in. Read more: https://kau.sh/blog/container-traffic-control/
-- [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark) - spotlight like search for chrome, firefox
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 - [madprops/grasshopper](https://github.com/madprops/grasshopper) - Advanced Tab Manager For Firefox
 - [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension) - firefox extension to get instant dictionary definitions and translations for any text on any website
@@ -1947,7 +1948,7 @@
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - Session Android - Onion routing based messenger [DEPRECATED SEE README]
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
-- [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
+- [fromhgbwithluv/ReX-patches](https://github.com/fromhgbwithluv/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -2154,6 +2155,9 @@
 
 ## Others 
 
+- [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
+- [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) - 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -3079,7 +3083,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -3355,7 +3359,6 @@
 
 ## Svelte 
 
-- [Free-The-Ai/free-ai](https://github.com/Free-The-Ai/free-ai) - FreeTheAi (Free The AI): free OpenAI-compatible AI API with 50+ models, Discord key signup, streaming, tools, images, Messages, and Responses. No credit card.
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 - [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox) - 
 - [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen) - config generator for revanced-magisk-module
@@ -3713,6 +3716,7 @@
 - [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai) - Simple UI for OpenAI completion and chat API
 - [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt) - 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
 - [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail) - RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
+- [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark) - spotlight like search for chrome, firefox
 - [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, learning, all in one.
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
@@ -3900,7 +3904,7 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite) - SingleFile Companion Lite
 - [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size) - A Firefox addon showing the size of a Github repository.
-- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort incoming mails based on recipient slug
+- [networkException/thundersort](https://github.com/networkException/thundersort) - Sort Thunderbird mails with regex
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
 - [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
