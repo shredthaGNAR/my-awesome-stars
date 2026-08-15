@@ -1197,6 +1197,7 @@
 
 ## chrome-extension 
 
+- [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Compa
 - [noahvogt/copy-url-on-hover](https://github.com/noahvogt/copy-url-on-hover) - brower extension to copy URL's on hover when pressing Y
 - [addfox/addfox](https://github.com/addfox/addfox) - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free
 - [Vatsal057/chrome-to-safari](https://github.com/Vatsal057/chrome-to-safari) - Turn any Chrome extension — even straight from a Chrome Web Store link — into a signed Safari extension with one command. Free Apple ID signing, no $99 dev account, no re-enabling unsigned extensions 
@@ -2524,6 +2525,7 @@
 
 ## github 
 
+- [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Compa
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
@@ -3304,6 +3306,7 @@
 
 ## json 
 
+- [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Compa
 - [OshekharO/Web-Indexer](https://github.com/OshekharO/Web-Indexer) - Comprehensive directory of websites and applications for manga, light novels, movies, anime, learning resources, and useful apps.
 - [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter) - A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
