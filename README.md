@@ -641,6 +641,7 @@
 
 ## Dart 
 
+- [d0dg3r/GitSyncMarks-App](https://github.com/d0dg3r/GitSyncMarks-App) - Cross-platform app (Android, iOS, Windows, macOS, Linux) that syncs bookmarks from your GitHub repo. Companion to the GitSyncMarks browser extension.
 - [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
 - [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet) - 
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) - Stack Wallet, a multicoin, cryptocurrency wallet
@@ -699,7 +700,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past) - Alfred workflows I use
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [jag-k/git-raycast](https://github.com/jag-k/git-raycast) - Automate git using Raycast AI
 - [daihy8759/raychat](https://github.com/daihy8759/raychat) - turn your Raycast pro AI to OpenAI API Compatible API server
 - [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api) - Serverless Raycast2API on Vercel
@@ -1008,6 +1009,7 @@
 
 ## JavaScript 
 
+- [urtrulyanish/ChatGPTAPIFree](https://github.com/urtrulyanish/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Compa
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
@@ -2160,6 +2162,7 @@
 
 ## Others 
 
+- [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) - 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -2583,6 +2586,8 @@
 
 ## Python 
 
+- [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo) - heyFordy's Kodi Repository
+- [AdamXweb/fxcss](https://github.com/AdamXweb/fxcss) - 🦊 Live-reload, inspect and screenshot-test Firefox userChrome.css themes
 - [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.
 - [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 15,040 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, op
 - [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
@@ -3072,6 +3077,8 @@
 
 ## Rust 
 
+- [anubhavitis/peeksy-app](https://github.com/anubhavitis/peeksy-app) - 
+- [anubhavitis/peeksy](https://github.com/anubhavitis/peeksy) - screenshot name automation tool for macos
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
