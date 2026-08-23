@@ -286,6 +286,7 @@
 
 ## C++ 
 
+- [dublyo/sessionat](https://github.com/dublyo/sessionat) - The open-source Mac browser AI can actually use. Workspaces, auto-saved sessions (replaces Session Buddy/OneTab/Toby), local-only visit analytics, and a built-in MCP server so Claude, Cursor, and any 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [MrHiTech123/GameAISplineAndRaycast](https://github.com/MrHiTech123/GameAISplineAndRaycast) - 
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local AI Assistant
@@ -342,6 +343,7 @@
 
 ## CSS 
 
+- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 - [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
@@ -351,7 +353,7 @@
 - [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js) - fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements.
 - [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox) - A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
 - [ElliottSimmonds/Firefox-Photonify](https://github.com/ElliottSimmonds/Firefox-Photonify) - Custom Firefox userChrome to replicate the style of Firefox Photon with some personal touches
-- [akkva/GWfox-T](https://github.com/akkva/GWfox-T) - A macOS Tahoe-style Firefox theme
+- [akkva/GWfox-T](https://github.com/akkva/GWfox-T) - A macOS 27 Golden Gate style Firefox theme.
 - [akkva/gwfox](https://github.com/akkva/gwfox) - Bringing a crisp new look to Firefox
 - [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config) - 
 - [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox) - Material Chrome Style Firefox
@@ -478,7 +480,6 @@
 - [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui) - Dark theme for Joplin's desktop application.
 - [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io) - 
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - An "elegent" theme for Firefox
-- [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-) - Light theme on Firefox
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme) - A dark theme for Google based on YouTube's dark theme
 - [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird) - A universal dark theme for Thunderbird
@@ -775,7 +776,7 @@
 
 ## HTML 
 
-- [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
+- [jclyke/OneTabScrape](https://github.com/jclyke/OneTabScrape) - 
 - [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds) - 
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
@@ -1009,6 +1010,8 @@
 
 ## JavaScript 
 
+- [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter) - Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
+- [sudoeren/stash](https://github.com/sudoeren/stash) - Your Tabs, Organized. Effortlessly.
 - [urtrulyanish/ChatGPTAPIFree](https://github.com/urtrulyanish/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks) - Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Compa
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
@@ -1396,7 +1399,6 @@
 - [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search) - An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be us
-- [xatier/tab-manager](https://github.com/xatier/tab-manager) - Simple OneTab replacement
 - [yinthewind/GPHud](https://github.com/yinthewind/GPHud) - 
 - [benbasson/contextsearch](https://github.com/benbasson/contextsearch) - Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which se
 - [thlorenz/phe](https://github.com/thlorenz/phe) - Poker hand evaluator
@@ -1488,6 +1490,7 @@
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader) - Automatically download all your videos from your Logi Circle camera
+- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list) - A minimal Firefox extension for saving pages to read later.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [hiroshil/save-tabs](https://github.com/hiroshil/save-tabs) - Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon.
@@ -2064,7 +2067,6 @@
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 15 (Sequoia).
-- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 
@@ -2162,6 +2164,7 @@
 
 ## Others 
 
+- [elonmust26/calmtab](https://github.com/elonmust26/calmtab) - Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) - 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)
@@ -2497,7 +2500,7 @@
 - [kailasachse/Shopify-notifications](https://github.com/kailasachse/Shopify-notifications) - Shopify's Default Notifications
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
@@ -3244,7 +3247,7 @@
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
-- [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
+- [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Curated zsh completion corpus
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -3576,6 +3579,8 @@
 
 ## TypeScript 
 
+- [virendrasingh02/onetab-ai](https://github.com/virendrasingh02/onetab-ai) - 
+- [MartianLee/sontab](https://github.com/MartianLee/sontab) - A lightweight, OneTab-style tab manager for Chrome. Local-only, no tracking.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [FezVrasta/raycast-toolkit](https://github.com/FezVrasta/raycast-toolkit) - Utilities and Components to extend the Raycast Extensions API functionalities
 - [swalker326/obsidian-smart-capture](https://github.com/swalker326/obsidian-smart-capture) - A Raycast extension that uses AI to organize captured notes in an Obsidian vault
