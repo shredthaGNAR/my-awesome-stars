@@ -503,7 +503,7 @@
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 - [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme) - A light theme for Joplin
 - [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop) - Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
-- [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme) - Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
+- [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme) - Custom CSS file for Firefox bookmark toolbar dark theme, v154+ (mac)
 - [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter) - 
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [vipintom/stealthFox](https://github.com/vipintom/stealthFox) - Clean and minimal set of changes to get Vertical Tabs in Firefox
@@ -3207,7 +3207,7 @@
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
+- [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
