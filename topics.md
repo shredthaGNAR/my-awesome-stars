@@ -208,6 +208,7 @@
 - [perl](#perl)
 - [phishing](#phishing)
 - [php](#php)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -893,7 +894,7 @@
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
+- [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush) - The all in one AirMessage (iMessage) script you can forget about
@@ -1645,6 +1646,7 @@
 ## cryptography 
 
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
+- [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [swiftyapp/swifty](https://github.com/swiftyapp/swifty) - 🔑   Free Offline-first Password Manager
@@ -4617,7 +4619,6 @@
 - [Loocist23/FakeInfo-Filler](https://github.com/Loocist23/FakeInfo-Filler) - 
 - [ivostoykov/AIWebFormFill](https://github.com/ivostoykov/AIWebFormFill) - 
 - [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase) - 
-- [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
 - [TwisterMc/ask_ai](https://github.com/TwisterMc/ask_ai) - Ai Image Generator, Text Enhancement, and Password Generator
 - [TwisterMc/ff-tab-expose](https://github.com/TwisterMc/ff-tab-expose) - Safari like Tab Expose for Firefox
 - [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension) - Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful im
@@ -4738,7 +4739,6 @@
 - [Joshlucpoll/raycast-tempmail](https://github.com/Joshlucpoll/raycast-tempmail) - A Raycast extension that provides a temporary mailbox -- powered by Mail.tm API
 - [leolionart/raycast-personal-tools](https://github.com/leolionart/raycast-personal-tools) - Raycast extension to use AI with proxy API
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template) - 
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -4980,7 +4980,6 @@
 - [webcull/PocketExportConverter](https://github.com/webcull/PocketExportConverter) - This is a simple tool to convert the Pocket export ZIP file to a standard HTML bookmarks file while preserving the original folder structure.
 - [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates) - 
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
 - [keshavsapra/Google-Keep-to-Joplin](https://github.com/keshavsapra/Google-Keep-to-Joplin) - Python script to convert Google Keep HTML note exports into Markdown (.md) files suitable for importing into Joplin.
 - [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api) - Media downloader
@@ -5098,7 +5097,6 @@
 - [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile) - Personal website built with Astro 4.0 and styled using Tailwind CSS
 - [davidpoblador/pocket-to-bookmarks-html](https://github.com/davidpoblador/pocket-to-bookmarks-html) - A pocket export to bookmarks.html converter
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
-- [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
@@ -5123,7 +5121,6 @@
 - [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons) - A collection of CSS buttons.
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
-- [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 - [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker) - 
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) - An awesome paper list of fake news detection (FND) and rumor detection.
@@ -5148,7 +5145,6 @@
 - [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod) - Auramod Skin for Kodi 18
 - [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless) - A very shy little theme that hides the entire browser interface. Now without borders!
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
-- [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
 - [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2) - This Firefox extension allows you to toggle css styles on the fly
 - [Naezr/userchrome-toggle-extended](https://github.com/Naezr/userchrome-toggle-extended) - A Firefox extension to allow a user to toggle custom userchrome styles
 - [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter) - Export your Pocket archive to file
@@ -5156,7 +5152,6 @@
 - [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3) - Disable Gatekeeper macOS Sequoia beta 3
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend) - A fake Raycast backend that can be deployed to Vercel in just one step.
-- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown) - OneTab URL list to markdown
 - [Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512](https://github.com/Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512) - Implementation in Java: POWER-TAC global competition advanced Broker implementation (Monte Carlo Tree Search Algorithm), Game Theory exercises and Approximating Game-Theoretic Optimal Strategies for F
@@ -5167,7 +5162,6 @@
 - [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker) - Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
 - [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi) - Juego de poker Omaha Hi
 - [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset) - A dataset of poker hand strengths
-- [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 - [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator) - Evaluate the strength of a hand of poker
 - [Twenty20Twenty/Poker-Omaha-JavaFX](https://github.com/Twenty20Twenty/Poker-Omaha-JavaFX) - 
 - [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer) - Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple stre
@@ -5233,7 +5227,6 @@
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp) - ✨ My BTT(Better Touch Tool) preset.
 - [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
-- [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme) - Modern portfolio theme for your Hugo site
 - [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website) - 
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
@@ -6211,7 +6204,7 @@
 - [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme) - A light theme for Joplin
 - [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep) - 
 - [tumpio/gmscripts](https://github.com/tumpio/gmscripts) - tumpio's usercripts
-- [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme) - Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
+- [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme) - Custom CSS file for Firefox bookmark toolbar dark theme, v154+ (mac)
 - [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter) - 
 - [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify) - Google Play Music to Spotify Library Exporter
 - [vipintom/stealthFox](https://github.com/vipintom/stealthFox) - Clean and minimal set of changes to get Vertical Tabs in Firefox
@@ -6539,6 +6532,46 @@
 - [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## portfolio 
+
+- [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) - Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
+- [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
+- [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
+- [lukeliasi/developer-portfolio](https://github.com/lukeliasi/developer-portfolio) - Open source personal portfolio site of Luke Liasi built using Astro framework
+- [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme) - Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
+- [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
+- [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
+- [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
+- [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
+- [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
+- [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io) - 🎨 My personal website
+- [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
+- [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
+- [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
+- [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
+- [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with Next for Static-Export, and GitHub Pages.
+- [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+- [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme) - Modern portfolio theme for your Hugo site
+- [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
+- [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
+- [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio) - This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the dev
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+- [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
+- [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 
 ## portfolio-website 
 
@@ -7189,7 +7222,7 @@
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [drduh/Purse](https://github.com/drduh/Purse) - GnuPG asymmetric secrets manager - works with YubiKey!
+- [drduh/Purse](https://github.com/drduh/Purse) - Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -7647,7 +7680,6 @@
 
 - [peltmonger/stardrive](https://github.com/peltmonger/stardrive) - The Astro boilerplate to create super stable and fast websites in the AI age
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
 - [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast) - The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 - [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts) - A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions w
