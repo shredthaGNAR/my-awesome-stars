@@ -169,7 +169,7 @@
 - [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
 - [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro) - A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!
 - [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio) - Astro cartoon portfolio
-- [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
 - [lukeliasi/developer-portfolio](https://github.com/lukeliasi/developer-portfolio) - Open source personal portfolio site of Luke Liasi built using Astro framework
 - [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme) - Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 - [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) - Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
@@ -374,7 +374,7 @@
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [minoplhy/filters](https://github.com/minoplhy/filters) - Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
 - [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config) - 
-- [sp4ce99/classic-tabs-firefox](https://github.com/sp4ce99/classic-tabs-firefox) - 
+- [sp4ce84/classic-tabs-firefox](https://github.com/sp4ce84/classic-tabs-firefox) - 
 - [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox) - Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 - [Venqul/VenSur](https://github.com/Venqul/VenSur) - 🎨 A Safari-style Firefox theme with a sleek UI experience.
 - [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - An automation tool for installing userChrome Themes
@@ -2604,7 +2604,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
@@ -3388,7 +3388,7 @@
 
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - Turn Fn + Click into a true Middle Click on macOS. Native trackpad support designed for Blender, Maya, and CAD software.
 - [raycast/extensions-swift-tools](https://github.com/raycast/extensions-swift-tools) - Utility to use Swift in a Raycast extension
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [Vatsal057/chrome-to-safari](https://github.com/Vatsal057/chrome-to-safari) - Turn any Chrome extension — even straight from a Chrome Web Store link — into a signed Safari extension with one command. Free Apple ID signing, no $99 dev account, no re-enabling unsigned extensions 
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 - [TroopJostle/alt-tab-community](https://github.com/TroopJostle/alt-tab-community) - Windows alt-tab on macOS
@@ -3746,7 +3746,7 @@
 - [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, learning, all in one.
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
