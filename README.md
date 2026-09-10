@@ -2185,7 +2185,6 @@
 - [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates) - My collection of Obsidian Web Clipper templates
 - [marcoagpinto/aoo-mozilla-en-dict](https://github.com/marcoagpinto/aoo-mozilla-en-dict) - English Dictionaries Project
 - [Svznify/MorpheX](https://github.com/Svznify/MorpheX) - Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
-- [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited) - Cross-platform unlimited credits solution for Cursor Desktop.
 - [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist) - Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 - [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
