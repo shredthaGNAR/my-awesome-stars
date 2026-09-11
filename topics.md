@@ -430,7 +430,7 @@
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -513,6 +513,7 @@
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
 - [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader) - An Android app to extract text from camera preview directly.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
@@ -637,7 +638,7 @@
 - [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer) - AI-powered bookmark organizer that reads your exported bookmarks (Netscape format), categorizes them into folders using any OpenAI-compatible LLM, and exports them back — ready to import into any brow
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
@@ -1013,7 +1014,7 @@
 - [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts) - A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
@@ -1429,7 +1430,7 @@
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -2928,7 +2929,7 @@
 
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
 - [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew) - A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
@@ -3564,7 +3565,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3739,7 +3740,7 @@
 - [andrewmkhoury/qr-scanner](https://github.com/andrewmkhoury/qr-scanner) - QR scanner app for mac OS
 - [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh) - A Gemini Gem Manager in your MacBook powered by Gemma
 - [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab) - A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
@@ -4094,7 +4095,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -4489,7 +4490,7 @@
 - [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api) - API container for Local AI Pilot extension
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -6555,7 +6556,7 @@
 - [kireerik/refo](https://github.com/kireerik/refo) - A website template for the modern web. ⭐️ Star to support our work!
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
-- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [lukeliasi/developer-portfolio](https://github.com/lukeliasi/developer-portfolio) - Open source personal portfolio site of Luke Liasi built using Astro framework
 - [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme) - Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
@@ -6594,7 +6595,7 @@
 - [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template) - Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
 - [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio) - Astro cartoon portfolio
 - [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty) - Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share.
-- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.
 - [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme) - Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 - [QuanBlue/mern-portfolio](https://github.com/QuanBlue/mern-portfolio) - My first portfolio website, using MERN stack
 - [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
@@ -7015,7 +7016,7 @@
 - [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw) - Raycast-style macOS client for OpenClaw
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync) - An All-in-One Sports Extension for Raycast
-- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -7175,6 +7176,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -7469,7 +7471,7 @@
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 - [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Official CoinPaprika API Swift client for iOS/macOS — coin prices, tickers, exchanges, and OHLCV.
 - [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS) - A simple Finder extension for creating files + opening a terminal from the context menu.
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
@@ -7530,7 +7532,7 @@
 - [inject-X/injectX](https://github.com/inject-X/injectX) - Simple injection of macOS applications
 - [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app) - Long-term trials of macOS apps
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
@@ -7570,7 +7572,7 @@
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
 - [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro) - A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!
-- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.
 - [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint) - is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic 
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
@@ -7708,7 +7710,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify) - Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
-- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
+- [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) - Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.
 - [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio) - ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -8183,7 +8185,7 @@
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 - [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) - Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoot (Obtainium) and Root (Magisk/KernelSU module).
-- [thunderkex/revanced-extended](https://github.com/thunderkex/revanced-extended) - Pre-built, All-In-One, auto-updated ReVanced / Morphed Extended APKs for YouTube, YouTube Music, and more – with root (Magisk) and non-root support.
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
