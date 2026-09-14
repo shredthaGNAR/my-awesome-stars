@@ -319,7 +319,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source agentic app for running AI agents across local and hosted models.
-- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -440,7 +440,7 @@
 - [uhub/awesome-llm](https://github.com/uhub/awesome-llm) - A curated list of awesome LLM frameworks, libraries and software.
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
@@ -513,7 +513,7 @@
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
-- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
 - [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader) - An Android app to extract text from camera preview directly.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
@@ -1556,7 +1556,7 @@
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
@@ -4576,6 +4576,7 @@
 
 ## others 
 
+- [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts) - 
 - [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api) - Community-driven Python client & CLI for the Karakeep API.
 - [RandomNinjaAtk/Ninja-Streams](https://github.com/RandomNinjaAtk/Ninja-Streams) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
@@ -6426,7 +6427,6 @@
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify code examples and tips
-- [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover) - A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) 
 - [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
 - [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
 - [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy) - Enable Acrylic/Glass effect for your VS Code.
@@ -7177,7 +7177,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
-- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -8188,7 +8188,7 @@
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy) - ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 - [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) - Automated builds of YouTube & YT Music (ReVanced Extended (anddea) & Morphe + Yandex VoT) for NonRoot (Obtainium) and Root (Magisk/KernelSU module).
-- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
+- [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
