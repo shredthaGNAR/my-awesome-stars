@@ -322,7 +322,6 @@
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source agentic app for running AI agents across local and hosted models.
 - [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## agent-skills 
@@ -458,7 +457,6 @@
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 
 ## ai-agent 
@@ -1949,7 +1947,7 @@
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
@@ -2125,6 +2123,7 @@
 ## facebook 
 
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™
+- [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) - A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
@@ -2198,6 +2197,7 @@
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy) - simple session manager for firefox using the internal sessionstore api
+- [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) - A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
@@ -2623,7 +2623,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [cardrank/cardrank](https://github.com/cardrank/cardrank) - Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [srvaroa/repocket](https://github.com/srvaroa/repocket) - Manage a local copy of articles saved in Pocket
@@ -3167,6 +3167,7 @@
 - [micz/ThunderAI](https://github.com/micz/ThunderAI) - ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
+- [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) - A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 - [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio) - Free and open-source portfolio template for Astro built using Webcore
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
@@ -4032,7 +4033,7 @@
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -4437,6 +4438,7 @@
 - [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of w
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/cre
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
@@ -4539,6 +4541,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [Bebrowskiy/Sniffle](https://github.com/Bebrowskiy/Sniffle) - Feel like a real spy with Sniffle! A powerful set of tools for OSINT that makes data mining fast and fun. Everything you need to analyze is now at your fingertips - easy and hassle-free!
 - [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif) - want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
+- [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) - A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly) - 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 - [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon) - A Firefox add-on for OSINT investigations
@@ -4678,7 +4681,7 @@
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
 - [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
-- [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Patches for Morphe
+- [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
 - [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -7045,7 +7048,7 @@
 - [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio) - Free and open-source portfolio template for Astro built using Webcore
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with Next for Static-Export, and GitHub Pages.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
@@ -7320,7 +7323,7 @@
 - [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad) - 📓 Plainpad - Self Hosted Note Taking App
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -7419,7 +7422,7 @@
 
 ## sqlite 
 
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
 - [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker) - open-source Poker hand tracker
 
