@@ -1247,7 +1247,6 @@
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder) - Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
-- [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
 - [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock) - An open-source Ad Blocker for Facebook™
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 - [PlasmoHQ/bpp](https://github.com/PlasmoHQ/bpp) - 🚀 Browser Platform Publisher
@@ -3757,7 +3756,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
+- [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [ridvanbaluyos/btt-touchbar-presets](https://github.com/ridvanbaluyos/btt-touchbar-presets) - BetterTouchTool Touch Bar Preset by Ridvan Baluyos
@@ -5471,7 +5470,6 @@
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
 - [steventheworker/applescripts](https://github.com/steventheworker/applescripts) - This is where I keep my applescript's and BetterTouchTool configuration, and some apps/automation's I use.
-- [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home) - website for DockAltTab
 - [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater) - An auto-updater for ShadowFox
 - [numist/Switch](https://github.com/numist/Switch) - A window-based context switcher for the Mac
 - [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
@@ -7877,8 +7875,6 @@
 ## video 
 
 - [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
-- [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
-- [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader) - Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt) - 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
@@ -8186,8 +8182,6 @@
 - [Svznify/MorpheX](https://github.com/Svznify/MorpheX) - Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
 - [NikoboiNFTB/YouTube-Tweaks](https://github.com/NikoboiNFTB/YouTube-Tweaks) - A collection of userscripts and a uBlock Origin blocklist for YouTube.
 - [exwm/yt_clipper](https://github.com/exwm/yt_clipper) - Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
-- [tublydownloader/Youtube-Downloader-Extension](https://github.com/tublydownloader/Youtube-Downloader-Extension) - A Chrome extension to download YouTube videos in 4K, convert to MP3, and save YouTube Shorts. https://tubly.download
-- [tublydownloader/Firefox-YouTube-Downloader](https://github.com/tublydownloader/Firefox-YouTube-Downloader) - Firefox add-on to download YouTube videos and Shorts, and convert to MP3 in one click.
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment) - List of awesome apps and website for entertainment.
