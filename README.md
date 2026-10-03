@@ -146,6 +146,7 @@
 
 ## Astro 
 
+- [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio) - 
 - [denv17/astrolify](https://github.com/denv17/astrolify) - 
 - [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite) - Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
 - [anastasiiaxfr/zeepay](https://github.com/anastasiiaxfr/zeepay) - Zeepay Fintech Template
@@ -296,7 +297,7 @@
 - [screwtape9/scratcher](https://github.com/screwtape9/scratcher) - Command line utility to get GA lottery scratch off ticket claimed percentage.
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [KDE/kleopatra](https://github.com/KDE/kleopatra) - Certificate manager and GUI for OpenPGP and CMS cryptography
 - [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi) - Juego de poker Omaha Hi
@@ -701,7 +702,7 @@
 - [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [kipsilabs/altmount](https://github.com/kipsilabs/altmount) - usenet virtual fs
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past) - Alfred workflows I use
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
@@ -863,7 +864,6 @@
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) - [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-- [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home) - website for DockAltTab
 - [beichensky/Font](https://github.com/beichensky/Font) - FiraCode 和 Operator Mono 字体
 - [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 - [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks) - Replicate DuckDuckGo !bang's in Firefox using Keymarks!
@@ -898,6 +898,7 @@
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
+- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
 - [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io) - Facebook search engine that works after the Graph API has been shut down
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
@@ -1598,7 +1599,6 @@
 - [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download) - Facebook video downloader for Firefox
 - [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext) - A Thunderbird add-on for editing text in your favourite external editor!
 - [4ch1m/mozext](https://github.com/4ch1m/mozext) - Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
-- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird) - Outlook style headers and few goodies for Thunderbird
@@ -1831,7 +1831,7 @@
 - [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search) - This Firefox extension allows you to use multiple of your installed search engines at once.
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script  🖱️
 - [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click) - Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
-- [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
+- [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -2263,7 +2263,7 @@
 - [vincenzocaputo/API-s-for-OSINT](https://github.com/vincenzocaputo/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy) - Customized firmware for Yi Home Camera 720p
 - [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
-- [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
+- [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
 - [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect) - 
 - [Kakathic/AT-YT](https://github.com/Kakathic/AT-YT) - Tool build YouTube revanced mods auto.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -3753,7 +3753,7 @@
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 - [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
