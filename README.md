@@ -2116,7 +2116,6 @@
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 - [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [sukolsak/jitouch](https://github.com/sukolsak/jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
-- [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch) - A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
@@ -3137,7 +3136,6 @@
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc) - 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-156) find bar.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
@@ -3460,6 +3458,7 @@
 - [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos) - AltTab - scriptable branch
 - [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
+- [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab) - Window preview app for MacOS (on the dock) using AltTab.
 - [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab) - Switch apps with trackpad on macOS.
 - [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -3902,6 +3901,7 @@
 - [notable/dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 - [notable/html2markdown](https://github.com/notable/html2markdown) - A small function for converting HTML to Markdown.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-157) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
