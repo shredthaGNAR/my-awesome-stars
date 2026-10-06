@@ -80,7 +80,6 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
-- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -2013,10 +2012,6 @@
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
-
-## dsh-plugin 
-
-- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可
 
 ## education 
 
@@ -4243,7 +4238,7 @@
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup) - A macOS setup guide specific to front-end development.
 - [codfish/dotfiles](https://github.com/codfish/dotfiles) - My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -4528,6 +4523,7 @@
 ## opencv 
 
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
+- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investiga
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 
 ## osint 
@@ -6015,7 +6011,6 @@
 - [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos) - This project is to build a image search system.
 - [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople) - Search images in your phone based in three photo of a person
 - [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision) - Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person ap
-- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give t
 - [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance) - Tools and other things for people who work on search relevance & information retrieval
 - [jenzz/social-web-search](https://github.com/jenzz/social-web-search) - Search the social web... Find people & posts on Twitter, Facebook and Google+.
 - [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper) - Social media profile endpoint mapper for node.js
@@ -6916,6 +6911,7 @@
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
+- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investiga
 - [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch) - Gets info from truepeoplesearch.com and adds it to Maltego
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
@@ -7346,7 +7342,7 @@
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 - [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 
