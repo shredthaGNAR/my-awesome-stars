@@ -2938,7 +2938,7 @@
 - [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive) - App to manage google drive accounts
 - [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader) - Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 - [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision) - Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person ap
-- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give t
+- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investiga
 - [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch) - Gets info from truepeoplesearch.com and adds it to Maltego
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis) - Visualizations of Facebook messenger history
@@ -3926,7 +3926,7 @@
 - [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools) - Command line tools for working with Fig autocomplete specs
 - [JackGruber/joplin-plugin-backup](https://github.com/JackGruber/joplin-plugin-backup) - A plugin to extend Joplin with a manual and automatic backup function.
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
