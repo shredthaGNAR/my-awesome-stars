@@ -496,6 +496,7 @@
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop) - Morphe desktop patching tool
@@ -667,6 +668,7 @@
 
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
+- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -4523,7 +4525,7 @@
 ## opencv 
 
 - [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera) - A Raspberry Pi based security camera to detect unknown person and raise alarm!
-- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investiga
+- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool. Flags images likely to contain nudity (NudeNet) and finds a person of interest from reference photos (OpenCV YuNet/SFace), with adjustable thresholds and session 
 - [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX) - ReFleX - Deep Image Recognition Bot
 
 ## osint 
@@ -4675,7 +4677,6 @@
 - [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
-- [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds) - A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
 - [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
@@ -4698,7 +4699,7 @@
 - [raycast/utils](https://github.com/raycast/utils) - Set of utilities to streamline building Raycast extensions
 - [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server) - Extension that thats local openai server which passes requests to Raycast AI.
 - [infinilabs/coco-app](https://github.com/infinilabs/coco-app) - 🥥 Coco AI App - Search, Connect, Collaborate, Personal AI Search and Assistant, all in one space.
-- [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot) - Raycast extension for Clawdbot AI assistant
+- [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot) - Original source of the OpenClaw extension for Raycast. Archived; maintained in raycast/extensions under extensions/openclaw.
 - [adrianavarrete/raycast-ai-actions](https://github.com/adrianavarrete/raycast-ai-actions) - 
 - [Thomas-Basadonne/promptify-raycast](https://github.com/Thomas-Basadonne/promptify-raycast) - One-key prompt enhancer for any AI. Select → copy → Promptify shows a clean, structured version. Works locally with Ollama. History + JSON export.
 - [dpshde/raycast-opencode](https://github.com/dpshde/raycast-opencode) - Raycast extension for OpenCode - AI coding assistant with session search and multi-terminal support
@@ -6911,7 +6912,7 @@
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
-- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investiga
+- [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer) - Offline desktop forensic triage tool. Flags images likely to contain nudity (NudeNet) and finds a person of interest from reference photos (OpenCV YuNet/SFace), with adjustable thresholds and session 
 - [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch) - Gets info from truepeoplesearch.com and adds it to Maltego
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
