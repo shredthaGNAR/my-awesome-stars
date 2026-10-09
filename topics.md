@@ -577,7 +577,7 @@
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820) - Unified kernel tree for S10 and Note10 devices
 - [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker) - Content blocking extension for Samsung Internet and Yandex Browser
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
@@ -1062,7 +1062,6 @@
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -2058,7 +2057,7 @@
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -2697,7 +2696,7 @@
 - [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone) - A clone of Google Keep with its original Material Design aesthetics
 - [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync) - This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone) - To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
@@ -3479,7 +3478,7 @@
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820) - Unified kernel tree for S10 and Note10 devices
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -3647,7 +3646,7 @@
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The open source Tab Manager Extension for Safari.
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam) - Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -3922,7 +3921,7 @@
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
@@ -4678,7 +4677,7 @@
 - [net-snix/RayWrite](https://github.com/net-snix/RayWrite) - Raycast extension for rewriting selected text with AI
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 - [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead) - Space Ahead! An Astro v7 powered personal blog template.
-- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, 
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo) - 
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
@@ -5300,7 +5299,7 @@
 - [ttscoff/searchlink](https://github.com/ttscoff/searchlink) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter) - Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 - [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket) - Pickpocket imports Pocket links to Safari reading list.
@@ -8111,7 +8110,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
-- [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
+- [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons) - Custom folder icons for macOS & Windows
 - [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover) - Custom macOS Popover 💬
