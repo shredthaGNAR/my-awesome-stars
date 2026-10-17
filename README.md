@@ -348,7 +348,6 @@
 
 - [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
-- [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
 - [tromoSM/Better-Firefox](https://github.com/tromoSM/Better-Firefox) - Enhance the firefox user interface with betterFirefox
 - [go2tom42/Firefox-Mod-Blur-override](https://github.com/go2tom42/Firefox-Mod-Blur-override) - Personal touches, more square more compact
@@ -982,7 +981,6 @@
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker calculator web application built with JSF. Supports Omaha, Omaha Hi/Lo, and Texas Hold'em simulations.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [fm-sys/pairdrop-android](https://github.com/fm-sys/pairdrop-android) - Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop
@@ -1127,7 +1125,6 @@
 - [QuanBlue/mern-portfolio](https://github.com/QuanBlue/mern-portfolio) - My first portfolio website, using MERN stack
 - [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator) - The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
 - [UniBreakfast/believable-random-data-generator](https://github.com/UniBreakfast/believable-random-data-generator) - Arrays of first and last names, nicknames, cities, countries, animals, sonets, fantasy features, elements, creatures etc. Versatile rnd function for numbers, arrays, objects, dates, string combination
-- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs retrievable through a REST and GraphQL API plus a u
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey) - Browser extension that protects you from phishing and malicious websites.
@@ -2406,7 +2403,6 @@
 - [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars) - my list of github stars fork
 - [tsmdt/janus-for-alfred](https://github.com/tsmdt/janus-for-alfred) - Create random usernames in Alfred
 - [alfredapp/launch-url-in-3-browsers-workflow](https://github.com/alfredapp/launch-url-in-3-browsers-workflow) - Launch a URL in 3 different browsers at once to speed up website testing
-- [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset) - SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 - [erosman/support](https://github.com/erosman/support) - Support Location for all my extensions
@@ -2572,6 +2568,7 @@
 ## PowerShell 
 
 - [debridmediamanager/zurg-public](https://github.com/debridmediamanager/zurg-public) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
+- [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks) - 
 - [farag2/YouTube-Patcher](https://github.com/farag2/YouTube-Patcher) - Build your YouTube ReVanced client in a cloud
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
@@ -2596,7 +2593,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
@@ -2678,6 +2675,7 @@
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [genregod/SweeperKeeper](https://github.com/genregod/SweeperKeeper) - 
 - [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn) - Cybersecurity-themed Nickname Generator.
+- [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs retrievable through a REST and GraphQL API plus a u
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
@@ -3484,7 +3482,7 @@
 - [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator) - A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [ian4hu/Clipy](https://github.com/ian4hu/Clipy) - Clipboard extension app for macOS.
 - [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc) - Browser addon for FireFox & Chrome to save active tabs as Markdown
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
@@ -3796,7 +3794,7 @@
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [kartikm7/llocal](https://github.com/kartikm7/llocal) - Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Availab
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
-- [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner) - Remove metadata from your images online.
+- [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner) - Remove EXIF, GPS, XMP and IPTC metadata from photos in the browser. Nothing is uploaded, pixels are never re-encoded.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
@@ -3932,6 +3930,7 @@
 - [networkException/thundersort](https://github.com/networkException/thundersort) - Sort Thunderbird mails with regex
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete) - 
+- [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [atbc-org/Adaptive-Tab-Bar-Colour](https://github.com/atbc-org/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
