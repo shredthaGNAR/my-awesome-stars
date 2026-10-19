@@ -715,7 +715,7 @@
 - [muhammedsamal/rename](https://github.com/muhammedsamal/rename) - A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter) - Export your Pocket archive to file
 - [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd) - Stores HTML pages as Markdown files in an Obsidian vault
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -2567,7 +2567,7 @@
 ## PowerShell 
 
 - [debridmediamanager/zurg-public](https://github.com/debridmediamanager/zurg-public) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
-- [Yeove/Yeoves_Custom_Firefox_CSS](https://github.com/Yeove/Yeoves_Custom_Firefox_CSS) - 
+- [Yeove/yeove_CustomFirefoxCSS](https://github.com/Yeove/yeove_CustomFirefoxCSS) - 
 - [farag2/YouTube-Patcher](https://github.com/farag2/YouTube-Patcher) - Build your YouTube ReVanced client in a cloud
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp) - PowerShell scripts and snips for the learning curve.
@@ -2756,7 +2756,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech s
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis 
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -2944,8 +2944,8 @@
 - [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) - Script to download all your Snapchat memories
 - [visini/timebox](https://github.com/visini/timebox) - A Custom Pomodoro macOS Menubar App with Things 3 integration
 - [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog) - Keyword Search & Information Gathering Tool
-- [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
-- [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
+- [ritchiemwewa/thorndyke](https://github.com/ritchiemwewa/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+- [ritchiemwewa/osinteye](https://github.com/ritchiemwewa/osinteye) - Username enumeration & reconnaisance suite
 - [soxoj/marple](https://github.com/soxoj/marple) - 📖 Collect links to profiles by username through search engines and analyze with various plugins
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester) - Email addresses harvester
