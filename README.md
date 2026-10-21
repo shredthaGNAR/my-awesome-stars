@@ -806,7 +806,6 @@
 - [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives) - Pages saved with SingleFile
 - [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources) - A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀
 - [AlfredJKwack/pockyt-analysis](https://github.com/AlfredJKwack/pockyt-analysis) - Provides visual analysis of JSON data out of Pockyt
-- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox) - A curated list of free OSINT tools ⚡️
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2231,6 +2230,7 @@
 - [community-archive/web-clipper-templates](https://github.com/community-archive/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [nick-friedrich/launchie-launchpad-replacement-mac-os](https://github.com/nick-friedrich/launchie-launchpad-replacement-mac-os) - The Launchpad Replacement macOS 26 Deserves
 - [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources) - 
@@ -3693,6 +3693,7 @@
 - [fanesz/session-switcher](https://github.com/fanesz/session-switcher) - A Browser extension for switching login sessions with ease
 - [timbru31/amazon-tag-remover](https://github.com/timbru31/amazon-tag-remover) - 🚫 💹 🛒WebExtension for Chrome, Firefox, Edge, Opera and Safari to remove the Amazon affiliate tracking ID (tag) from amazon links
 - [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
+- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy) - Use any LiteLLM model in Raycast AI without a subscription.
 - [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts) - Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
