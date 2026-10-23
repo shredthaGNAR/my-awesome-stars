@@ -442,7 +442,7 @@
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS) - Add icons to Firefox menus using userChrome/userContent.css
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox) - Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 - [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 - [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles) - Personal dotfiles for macOS and Linux.
@@ -835,7 +835,6 @@
 - [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives) - My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool s
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme) - Modern portfolio theme for your Hugo site
 - [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website) - 
@@ -897,7 +896,6 @@
 - [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 - [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker) - Containerized static-marks to convert plain yaml bookmark files into a static web app.
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
-- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine) - A simple wayback machine
 - [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io) - Facebook search engine that works after the Graph API has been shut down
 - [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive) - Easy way of hosting webpages using a Google Drive Account
@@ -943,7 +941,6 @@
 
 ## Java 
 
-- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool) - A tool for reverse engineering Android apk files
 - [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
@@ -1595,6 +1592,7 @@
 - [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download) - Facebook video downloader for Firefox
 - [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext) - A Thunderbird add-on for editing text in your favourite external editor!
 - [4ch1m/mozext](https://github.com/4ch1m/mozext) - Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
+- [drsjb80/thematic](https://github.com/drsjb80/thematic) - Now the official repo for the FF/TB Thematic extension.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird) - Outlook style headers and few goodies for Thunderbird
@@ -1913,6 +1911,7 @@
 
 ## Kotlin 
 
+- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
@@ -2436,7 +2435,7 @@
 - [ftassy/GCalTab](https://github.com/ftassy/GCalTab) - GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algori
 - [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API) - Grabs direct mp4 link from amazon drive with filename and picture.
 - [kelvicthrust/Google-Messages-For-Desktop](https://github.com/kelvicthrust/Google-Messages-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Messages
-- [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification) - Better Touch Tool AquaTouch Preset Modification
+- [wonjoonSeol-legacy/BTT-Aqua-modification](https://github.com/wonjoonSeol-legacy/BTT-Aqua-modification) - Better Touch Tool AquaTouch Preset Modification
 - [BLXXDING/applescript-snippets](https://github.com/BLXXDING/applescript-snippets) - Some Apple Script snippets I made over the years. Maybe it will help you.
 - [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred) - An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
 - [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance) - Tools and other things for people who work on search relevance & information retrieval
@@ -2763,6 +2762,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
+- [koo5/hackery2](https://github.com/koo5/hackery2) - notes, scripts, utilities, dotfiles, experiments, toys..
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
