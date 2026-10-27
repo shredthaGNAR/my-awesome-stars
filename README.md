@@ -146,6 +146,7 @@
 
 ## Astro 
 
+- [DomeT99/astro-wellness](https://github.com/DomeT99/astro-wellness) - A modern, dark, energetic gym template built with Astro and Bulma
 - [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio) - 
 - [denv17/astrolify](https://github.com/denv17/astrolify) - 
 - [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite) - Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
@@ -346,6 +347,7 @@
 
 ## CSS 
 
+- [DomeT99/studio-pulse](https://github.com/DomeT99/studio-pulse) - Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 - [SamidyFR/Virgil](https://github.com/SamidyFR/Virgil) - Up-To-Date Search Engine For Games & Software
 - [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore) - 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 - [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox) - 
@@ -779,8 +781,9 @@
 
 ## HTML 
 
+- [shredthaGNAR/scratch-ev](https://github.com/shredthaGNAR/scratch-ev) - Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 - [jclyke/OneTabScrape](https://github.com/jclyke/OneTabScrape) - 
-- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 15,040 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, op
+- [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence) - Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 20,038 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, op
 - [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras) - A curated list of awesome warez and piracy links
 - [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds) - 
 - [klane/klane.github.io](https://github.com/klane/klane.github.io) - My portfolio
@@ -941,6 +944,7 @@
 
 ## Java 
 
+- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
 - [MorpheApp/Apktool](https://github.com/MorpheApp/Apktool) - A tool for reverse engineering Android apk files
 - [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 - [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper) - A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania
@@ -1008,6 +1012,10 @@
 
 ## JavaScript 
 
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
+- [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
+- [AndBoyS/raycast-gemini-proxyapi](https://github.com/AndBoyS/raycast-gemini-proxyapi) - 
+- [YodaLightsabr/sidecast](https://github.com/YodaLightsabr/sidecast) - Sideload Raycast extensions
 - [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) - Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily.
 - [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter) - Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 - [sudoeren/stash](https://github.com/sudoeren/stash) - Your Tabs, Organized. Effortlessly.
@@ -1144,7 +1152,6 @@
 - [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api) - Media downloader
 - [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab) - 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compa
 - [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab) - Onetab extension unofuscated with a few keyboard shortcuts added.
-- [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
 - [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark) - Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 - [grndis/raycast](https://github.com/grndis/raycast) - A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features w
@@ -1452,7 +1459,6 @@
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url) - ShortcutKey2URL - Firefox Extension
 - [taminob/shortcuts](https://github.com/taminob/shortcuts) - WebExtension which allows selecting tabs with [CTRL] + [1-9]
-- [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS) - uc.js, uc.xul collections
 - [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!)
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [Ulf3000/Firefox-Highlight-Tabs](https://github.com/Ulf3000/Firefox-Highlight-Tabs) - firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
@@ -1912,11 +1918,12 @@
 
 ## Kotlin 
 
-- [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater) - Morphe Updater for my personal builds
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
@@ -1927,7 +1934,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders) - 🔌 ReVanced Manager downloaders
-- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 Android manager for ReVanced and Morphe with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.
+- [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 Android manager for ReVanced, Morphe, and Reseam with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
@@ -2061,6 +2068,7 @@
 
 ## Makefile 
 
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS) - GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 15 (Sequoia).
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
@@ -2159,6 +2167,7 @@
 
 ## Others 
 
+- [zebbern/skills](https://github.com/zebbern/skills) - High-quality Agent Skills made to perform reliably in real workflows
 - [RandomNinjaAtk/Ninja-Streams](https://github.com/RandomNinjaAtk/Ninja-Streams) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
 - [elonmust26/calmtab](https://github.com/elonmust26/calmtab) - Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
@@ -2578,6 +2587,13 @@
 
 ## Python 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
+- [zebbern/antigravity-awesome-skills](https://github.com/zebbern/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts) - 
 - [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api) - Community-driven Python client & CLI for the Karakeep API.
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Bitte-ein-Git/kodi-repo](https://github.com/Bitte-ein-Git/kodi-repo) - heyFordy's Kodi Repository
@@ -2591,7 +2607,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
@@ -2646,7 +2662,7 @@
 - [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer) - 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
+- [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching) - Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 - [neox387/premiumizer](https://github.com/neox387/premiumizer) - 
 - [mberk/shin](https://github.com/mberk/shin) - Python implementation of Shin's method for calculating implied probabilities from bookmaker odds
 - [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper) - Scraper for lottery scratchers
@@ -2832,6 +2848,7 @@
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
+- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
@@ -3088,6 +3105,7 @@
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
+- [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [thunderkex/revancex](https://github.com/thunderkex/revancex) - Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
@@ -3146,6 +3164,7 @@
 
 ## Shell 
 
+- [regenrek/raycast-gpt-launcher](https://github.com/regenrek/raycast-gpt-launcher) - Launch ChatGPT 5 with a prompt directly from Raycast.
 - [shredthaGNAR/kleopatra-macos-arm64](https://github.com/shredthaGNAR/kleopatra-macos-arm64) - Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts
 - [kewld00d/Revanced-And-Revanced-Extended-Non-Root](https://github.com/kewld00d/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 - [Darkcast/tids](https://github.com/Darkcast/tids) - Automate Touch ID for sudo commands directly in your macOS terminal! Gain secure fingerprint authentication for elevated privileges, effectively replacing passwords and boosting your command-line secu
@@ -3238,7 +3257,6 @@
 - [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa) - zsh plugin adding aliases for the exa command-line tool
-- [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Curated zsh completion corpus
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
@@ -3575,6 +3593,11 @@
 
 ## TypeScript 
 
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
+- [SKaplanOfficial/Placeholders-Toolkit](https://github.com/SKaplanOfficial/Placeholders-Toolkit) - A placeholders system for supplying dynamic content to Raycast extensions.
+- [shbmx/claude-history](https://github.com/shbmx/claude-history) - Raycast extension to browse, search, and resume Claude Code sessions
+- [webpro/browser-tab-bridge](https://github.com/webpro/browser-tab-bridge) - Focus or open a URL in the default browser tab (macOS-only)
+- [alexsilver8/waypoint](https://github.com/alexsilver8/waypoint) - An open-source, keyboard-first command palette and launcher for macOS, Windows and Linux.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
@@ -3590,7 +3613,7 @@
 - [pfrankov/obsidian-ai-providers](https://github.com/pfrankov/obsidian-ai-providers) - This plugin is a hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding with static context
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater) - Extends Templater with AI Chat commands using the OpenAI Client Library
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -3603,7 +3626,6 @@
 - [AA1labs/Raycast--Stealth-AI](https://github.com/AA1labs/Raycast--Stealth-AI) - A Raycast Extension that allows to run AI commands in the background.
 - [net-snix/RayWrite](https://github.com/net-snix/RayWrite) - Raycast extension for rewriting selected text with AI
 - [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
-- [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) - The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, j
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [dopeytree/TVx](https://github.com/dopeytree/TVx) - 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
@@ -3705,7 +3727,7 @@
 - [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast) - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 - [yt-dlp/ejs](https://github.com/yt-dlp/ejs) - External JavaScript for yt-dlp supporting many runtimes
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
-- [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension) - Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
+- [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension) - Duckey: unofficial browser extension that autofills 2FA codes from your Ente Auth vault. Chrome, Edge and Firefox.
 - [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [martabal/ff-diff](https://github.com/martabal/ff-diff) - ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
@@ -3756,7 +3778,7 @@
 - [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [svarts/OneTab](https://github.com/svarts/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
+- [makio-san/OneTab](https://github.com/makio-san/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
 - [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action) - Deploy extension to Firefox Addons and sign xpi file
 - [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot) - Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 - [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
@@ -4044,7 +4066,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [iampueroo/rComments](https://github.com/iampueroo/rComments) - Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 - [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts) - :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 - [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) - A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
