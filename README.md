@@ -821,7 +821,6 @@
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [alienthief/thesourc](https://github.com/alienthief/thesourc) - A curated list of awesome warez and piracy links
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [epoch/gistlord](https://github.com/epoch/gistlord) - fast github gist searcher viewer editor manager note taker built with React & Redux
@@ -2064,6 +2063,7 @@
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -2637,7 +2637,7 @@
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) - A Curated Collection of resources for applied AI engineering (work in progress).
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
 - [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping) - 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 - [mschmidtkorth/bettertouchtool-clickup](https://github.com/mschmidtkorth/bettertouchtool-clickup) - Show upcoming ClickUp tasks on your Touch Bar.
@@ -3038,6 +3038,7 @@
 
 ## Ruby 
 
+- [giorgiobrullo/homebrew-kleopatra4mac](https://github.com/giorgiobrullo/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [theapplegates/modern-mac-kleopatra](https://github.com/theapplegates/modern-mac-kleopatra) - A Mac version for Kleopatra.
 - [Fotom/Fortune](https://github.com/Fotom/Fortune) - Ruby gem for calculate probability, odds and combinations. May be most useful in combinatorics, probability theory and calculating odds ratios (gambling, e.g. Poker, bingo, etc.)
 - [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai) - A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
