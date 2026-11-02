@@ -2943,7 +2943,6 @@
 - [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
 - [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
@@ -3649,7 +3648,7 @@
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) - A Curated Collection of resources for applied AI engineering (work in progress).
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [top-on/llmask](https://github.com/top-on/llmask) - A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm) - Firefox extension that integrates LLMs into your browser
@@ -4732,6 +4731,7 @@
 
 ## others 
 
+- [giorgiobrullo/homebrew-kleopatra4mac](https://github.com/giorgiobrullo/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
 - [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
 - [shredthaGNAR/scratch-ev](https://github.com/shredthaGNAR/scratch-ev) - Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 - [zebbern/antigravity-awesome-skills](https://github.com/zebbern/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
