@@ -218,6 +218,7 @@
 
 ## C 
 
+- [pupartemis/yi-hack-v2](https://github.com/pupartemis/yi-hack-v2) - Xiaomi Yi Ants Camera 2 hack
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub) - Local LLM, image&video&music generator
@@ -2584,12 +2585,15 @@
 
 ## Python 
 
+- [direk/yi-hack](https://github.com/direk/yi-hack) - Xiaomi Yi Ants 22CN: Fritz's hack with camera-native ONVIF and RTSP for UniFi Protect
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
+- [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) - Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.
 - [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [zebbern/antigravity-awesome-skills](https://github.com/zebbern/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts) - 
 - [thiswillbeyourgithub/karakeep_python_api](https://github.com/thiswillbeyourgithub/karakeep_python_api) - Community-driven Python client & CLI for the Karakeep API.
@@ -2605,7 +2609,7 @@
 - [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer) - This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101) - A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard) - The official home of OpenWizard
 - [noah-nuebling/mac-mouse-fix-scripts](https://github.com/noah-nuebling/mac-mouse-fix-scripts) - Collection of scripts which we want to share between the mac-mouse-fix and mac-mouse-fix-website repos.
 - [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password) - Python script to convert Proton Pass to Apple Passwords
@@ -3161,6 +3165,7 @@
 
 ## Shell 
 
+- [fritz-smh/yi-hack](https://github.com/fritz-smh/yi-hack) - Xiaomi Yi Ants camera hack
 - [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
 - [regenrek/raycast-gpt-launcher](https://github.com/regenrek/raycast-gpt-launcher) - Launch ChatGPT 5 with a prompt directly from Raycast.
 - [shredthaGNAR/kleopatra-macos-arm64](https://github.com/shredthaGNAR/kleopatra-macos-arm64) - Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts
@@ -3592,7 +3597,7 @@
 ## TypeScript 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
+- [wesammustafa/Claude-Code-Quest](https://github.com/wesammustafa/Claude-Code-Quest) - Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [SKaplanOfficial/Placeholders-Toolkit](https://github.com/SKaplanOfficial/Placeholders-Toolkit) - A placeholders system for supplying dynamic content to Raycast extensions.
 - [shbmx/claude-history](https://github.com/shbmx/claude-history) - Raycast extension to browse, search, and resume Claude Code sessions
@@ -3748,7 +3753,6 @@
 - [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Generate a BetterTouchTool Floating WebView/HTML Menu radial menu UI, where each menu item triggers an existing BetterTouchTool trigger via its UUID.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
-- [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
@@ -3769,7 +3773,7 @@
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 - [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
