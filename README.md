@@ -1167,7 +1167,6 @@
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset) - A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
-- [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe) - Patch YouTube Morphe
 - [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark) - Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and orga
 - [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
@@ -1747,7 +1746,7 @@
 - [tumpio/gmscripts](https://github.com/tumpio/gmscripts) - tumpio's usercripts
 - [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg) - Transparent PNG with JPEG Compression
 - [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer) - 
-- [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app) - A sample Shopify application that creates and stores product reviews for a store, written in Node.js
+- [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app) - [Deprecated] A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app) - Dropbox Paper app for macOS
@@ -1919,6 +1918,7 @@
 
 ## Kotlin 
 
+- [norsehorse-dev/PGPonyAndroid](https://github.com/norsehorse-dev/PGPonyAndroid) - Private OpenPGP for Android. Hardware security keys, password-store, no tracking. Open source.
 - [homelessbrian/NuvioPlusIPTV](https://github.com/homelessbrian/NuvioPlusIPTV) - Nuvio + IPTV
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
@@ -3218,6 +3218,7 @@
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions) - My repo of ContextMenu Actions (can also be used with Automator)
 - [stevehartwell/Configs](https://github.com/stevehartwell/Configs) - Configuration and content filters for various utilities including uBlock Origin, BetterTouchTool, and more.
+- [luxysiv/youtube-morphe](https://github.com/luxysiv/youtube-morphe) - Patch YouTube Morphe
 - [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List) - Adobe Block Hosts List to block Adobe activation.
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -3758,7 +3759,6 @@
 - [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool) - Generate a BetterTouchTool Floating WebView/HTML Menu radial menu UI, where each menu item triggers an existing BetterTouchTool trigger via its UUID.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
-- [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
@@ -3799,7 +3799,7 @@
 - [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api) - Accessing the Raycast backend API delightfully
 - [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox) - Browser extension for popular LLMs
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai) - The simpler JavaScript Gemini SDK
 - [chrismessina/extensions](https://github.com/chrismessina/extensions) - Everything you need to extend Raycast.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
@@ -3933,7 +3933,7 @@
 - [notable/dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 - [notable/html2markdown](https://github.com/notable/html2markdown) - A small function for converting HTML to Markdown.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-159) find bar.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - A customisable userChrome.css style to improve the Firefox (150-160) find bar.
 - [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
