@@ -97,6 +97,7 @@
 
 ## AppleScript 
 
+- [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 - [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister) - 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
 - [petrochenkov-ak/mac-finder](https://github.com/petrochenkov-ak/mac-finder) - :apple: macOS Finder scripts
 - [ErnaneJ/itwg-apple-automator](https://github.com/ErnaneJ/itwg-apple-automator) - AppleScript that uses the Gemini language model API (by Google) to enhance the writing, spelling, and formality of selected text.
@@ -815,7 +816,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
-- [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [fmhy/bookmarks](https://github.com/fmhy/bookmarks) - 
 - [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom) - 
@@ -1014,6 +1014,7 @@
 
 ## JavaScript 
 
+- [bubblegump30/GitHub-Plus-Maintained](https://github.com/bubblegump30/GitHub-Plus-Maintained) - GitHub Plus Enhance GitHub with additional features.
 - [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 - [onemen/firefox-scripts](https://github.com/onemen/firefox-scripts) - 
 - [VitaliyVstyle/Firefox](https://github.com/VitaliyVstyle/Firefox) - Firefox - UCF, Addons
@@ -1797,9 +1798,7 @@
 - [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater) - A webextension tool to update multiple bookmarks at once
 - [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader) - Chrome manifest loader for webpack
 - [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket) - Simple chrome extension to import all your chrome bookmarks to Pocket.com account
-- [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 - [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins) - Official Shopify Theme Lab Plugins
-- [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 - [jonzhak/shopify-get-products](https://github.com/jonzhak/shopify-get-products) - 
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
@@ -3192,7 +3191,6 @@
 - [VVispy/morphe-builder](https://github.com/VVispy/morphe-builder) - Builds various morphe patched apps
 - [fritz-smh/yi-hack](https://github.com/fritz-smh/yi-hack) - Xiaomi Yi Ants camera hack
 - [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder) - A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily.
-- [regenrek/raycast-gpt-launcher](https://github.com/regenrek/raycast-gpt-launcher) - Launch ChatGPT 5 with a prompt directly from Raycast.
 - [shredthaGNAR/kleopatra-macos-arm64](https://github.com/shredthaGNAR/kleopatra-macos-arm64) - Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts
 - [kewld00d/Revanced-And-Revanced-Extended-Non-Root](https://github.com/kewld00d/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 - [Darkcast/tids](https://github.com/Darkcast/tids) - Automate Touch ID for sudo commands directly in your macOS terminal! Gain secure fingerprint authentication for elevated privileges, effectively replacing passwords and boosting your command-line secu
@@ -3423,6 +3421,7 @@
 
 ## Swift 
 
+- [ggkevinnnn/LaunchNow](https://github.com/ggkevinnnn/LaunchNow) - Alternative Launchpad for MacOS Tahoe & Golden Gate.
 - [finedaybreak/ShortcutsAI](https://github.com/finedaybreak/ShortcutsAI) - ShortcutsAI is a macOS app that streamlines the execution of AI-powered shortcuts directly from the menu bar
 - [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac) - AirSync macOS - Bring the forbidden macOS continuity to Android
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
