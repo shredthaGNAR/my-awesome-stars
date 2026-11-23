@@ -1473,7 +1473,7 @@
 - [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs) - Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [code-charity/ToDo](https://github.com/code-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor) - Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
@@ -2542,7 +2542,7 @@
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script  🖱️
 - [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue) - Theme to blue lovers
 - [code-charity/ToDo](https://github.com/code-charity/ToDo) - ToDo - Chrome Extension. Make checklists and more.
 - [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style) - A replacement for Firefox's builtin browser style CSS
@@ -3888,7 +3888,7 @@
 - [SKaplanOfficial/Placeholders-Toolkit](https://github.com/SKaplanOfficial/Placeholders-Toolkit) - A placeholders system for supplying dynamic content to Raycast extensions.
 - [alexsilver8/waypoint](https://github.com/alexsilver8/waypoint) - An open-source, keyboard-first command palette and launcher for macOS, Windows and Linux.
 - [Homefronts/Porchlight](https://github.com/Homefronts/Porchlight) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [dublyo/sessionat](https://github.com/dublyo/sessionat) - The open-source Mac browser AI can actually use. Workspaces, auto-saved sessions (replaces Session Buddy/OneTab/Toby), local-only visit analytics, and a built-in MCP server so Claude, Cursor, and any 
@@ -5081,7 +5081,7 @@
 - [kd8tbs/my-Betterfox](https://github.com/kd8tbs/my-Betterfox) - Betterfox fork with my prefered overrides
 - [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox) - A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
 - [ElliottSimmonds/Firefox-Photonify](https://github.com/ElliottSimmonds/Firefox-Photonify) - Custom Firefox userChrome to replicate the style of Firefox Photon with some personal touches
-- [akkva/GWfox-T](https://github.com/akkva/GWfox-T) - A macOS 27 Golden Gate style Firefox theme.
+- [akkva/GWfox-T](https://github.com/akkva/GWfox-T) - A macOS 27-style Firefox Theme
 - [akkva/gwfox](https://github.com/akkva/gwfox) - Bringing a crisp new look to Firefox
 - [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config) - 
 - [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox) - Material Chrome Style Firefox
@@ -6975,7 +6975,7 @@
 
 - [eziq1/golauncher](https://github.com/eziq1/golauncher) - A Raycast-style launcher for Windows and macOS, written in Go with the MyGo native UI toolkit
 - [alexsilver8/waypoint](https://github.com/alexsilver8/waypoint) - An open-source, keyboard-first command palette and launcher for macOS, Windows and Linux.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [elonmust26/calmtab](https://github.com/elonmust26/calmtab) - Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
 - [sudoeren/stash](https://github.com/sudoeren/stash) - Your Tabs, Organized. Effortlessly.
@@ -7038,7 +7038,7 @@
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 
 ## programming 
 
@@ -7790,7 +7790,7 @@
 ## swift 
 
 - [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac) - AirSync macOS - Bring the forbidden macOS continuity to Android
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
@@ -7862,6 +7862,7 @@
 ## swiftui 
 
 - [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac) - AirSync macOS - Bring the forbidden macOS continuity to Android
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [loocor/codmate](https://github.com/loocor/codmate) - CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-col
 - [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy) - Brewy: A Homebrew GUI
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
@@ -8638,7 +8639,7 @@
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 
 ## zsh 
 
